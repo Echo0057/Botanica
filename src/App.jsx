@@ -95,7 +95,7 @@ export default function App() {
 
         {view === 'overview' ? (
           <div className="mt-4">
-            <OverviewTable plants={filtered} onOpen={setSelectedId} />
+            <OverviewTable plants={filtered} activeCategory={category} onOpen={setSelectedId} />
           </div>
         ) : filtered.length === 0 ? (
           <div className="mt-10 rounded-lg border border-dashed border-stone-300 p-10 text-center text-stone-400">

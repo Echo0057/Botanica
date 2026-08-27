@@ -62,10 +62,11 @@ function value(p, key) {
   }
 }
 
-export default function OverviewTable({ plants, onOpen }) {
+export default function OverviewTable({ plants, activeCategory = 'all', onOpen }) {
+  const cats = activeCategory && activeCategory !== 'all' ? [activeCategory] : PLANT_CATEGORIES;
   return (
     <div className="space-y-8">
-      {PLANT_CATEGORIES.map((cat) => {
+      {cats.map((cat) => {
         const rows = plants.filter((p) => categoryOf(p) === cat);
         return (
           <section key={cat}>
