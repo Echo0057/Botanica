@@ -1,0 +1,57 @@
+[
+  {
+    "match": "Acorus gramineus",
+    "fields": { "height": "0.1-0.3", "spread": "0.2-0.45", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "带状叶", "reliability": "强健", "habitat": "水生·水畔 · 半荫 · 喜湿", "hardinessZone": "5-9" },
+    "sources": ["https://www.monrovia.com/dwarf-golden-sweet-flag.html", "https://www.onlineplantguide.com/plant-details/68/"]
+  },
+  {
+    "match": "Juncus",
+    "fields": { "height": "0.3-1.5", "spread": "0.3-0.6", "sun": "full sun", "water": "wet", "bloomSeason": "夏", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健", "habitat": "水生·水畔 · 全日照 · 喜湿", "hardinessZone": "4-9" },
+    "sources": ["https://www.terranovanurseries.com/product/juncus-blonde-ambition/", "https://www.thompson-morgan.com/p/juncus-effusus-f-spiralis-marginal-aquatic/t78237TM"]
+  },
+  {
+    "match": "Iris louisiana",
+    "fields": { "height": "0.6-0.9", "spread": "0.5-0.8", "sun": "full sun", "water": "wet", "bloomSeason": "春-夏", "flowerColor": "蓝紫", "evergreen": "evergreen", "leafForm": "剑形叶", "reliability": "强健", "habitat": "水生·水畔 · 全日照 · 喜湿", "hardinessZone": "5-10" },
+    "sources": ["https://txmg.org/hendersonmg/plant-library/louisiana-iris/", "https://kiefernursery.com/product/iris-louisiana-heather-stream/"]
+  },
+  {
+    "match": "Saururus chinensis",
+    "fields": { "height": "0.3-0.9", "spread": "0.4-0.9", "sun": "part shade", "water": "wet", "bloomSeason": "夏", "flowerColor": "白", "leafForm": "心形叶", "reliability": "强健", "habitat": "水生·水畔 · 全日照 · 喜湿", "hardinessZone": "4-9" },
+    "sources": ["https://stage.gardenia.net/plant/saururus-chinensis", "https://easyscape.com/species/Saururus-chinensis(Asian-Lizard%E2%80%99s-Tail)"]
+  },
+  {
+    "match": "Lythrum salicaria",
+    "fields": { "height": "0.6-1.2", "spread": "0.6-1.2", "sun": "full sun", "water": "wet", "bloomSeason": "夏-秋", "flowerColor": "蓝紫", "leafForm": "细长叶", "reliability": "强健", "habitat": "水生·水畔 · 全日照 · 喜湿", "hardinessZone": "4-9" },
+    "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282500", "https://plantdatabase.kpu.ca/Plant/lysa"]
+  },
+  {
+    "match": "Iris sanguinea",
+    "fields": { "height": "0.3-0.9", "spread": "0.3-0.9", "sun": "full sun", "water": "wet", "bloomSeason": "夏", "flowerColor": "蓝紫", "leafForm": "剑形叶", "reliability": "强健", "habitat": "水生·水畔 · 全日照 · 喜湿", "hardinessZone": "5-8" },
+    "sources": ["https://plantlust.com/plants/25999/iris-sanguinea/", "https://pfaf.org/USER/Plant.aspx?LatinName=Iris+sanguinea"]
+  },
+  {
+    "match": "Lysimachia candida",
+    "fields": { "height": "0.1-0.5", "spread": "0.2-0.4", "sun": "part shade", "water": "wet", "bloomSeason": "春-夏", "flowerColor": "白", "leafForm": "匙形叶", "reliability": "强健", "habitat": "水生·水畔 · 半荫 · 喜湿", "hardinessZone": "6-9" },
+    "sources": ["http://www.iplant.cn/bk/Lysimachia%20candida", "https://wapbaike.baidu.com/item/泽珍珠菜/2567621"]
+  },
+  {
+    "match": "Vallisneria nana",
+    "fields": { "height": "0.15-0.3", "spread": "0.1-0.2", "sun": "full sun", "water": "wet", "leafForm": "带状叶", "reliability": "强健", "habitat": "水生·沉水 · 全日照", "hardinessZone": "5-11" },
+    "sources": ["https://gensou.sg/vallisneria-nana-care-guide/", "https://pts.lifeasible.com/vallisneria-nana-gracilisnarrow-leaf-eelgrass-item-1020.html"]
+  },
+  {
+    "match": "Ceratophyllum demersum",
+    "fields": { "height": "0.3-0.6", "spread": "0.5-2", "sun": "full sun", "water": "wet", "leafForm": "羽状细裂叶", "reliability": "强健", "habitat": "水生·沉水 · 全日照", "hardinessZone": "5-11" },
+    "sources": ["https://www.nvknurseries.com/plant/Ceratophyllum-demersum", "https://www.lilyblooms.com/hornwort-ceratophyllum-demersum-submerged-oxygenating-pond-plant/"]
+  },
+  {
+    "match": "Sagittaria sagittifolia",
+    "fields": { "height": "0.3-0.8", "spread": "0.4-1", "sun": "full sun", "water": "wet", "bloomSeason": "夏-秋", "flowerColor": "白", "leafForm": "箭形叶", "reliability": "强健", "habitat": "水生·水畔 · 全日照 · 喜湿", "hardinessZone": "5-10" },
+    "sources": ["https://www.rhs.org.uk/plants/16194/sagittaria-sagittifolia/details", "https://www.thompson-morgan.com/p/sagittaria-sagittifolia-marginal-aquatic/wkh4754TM"]
+  },
+  {
+    "match": "Alisma plantago-aquatica",
+    "fields": { "height": "0.5-1", "spread": "0.1-0.5", "sun": "full sun", "water": "wet", "bloomSeason": "夏-秋", "flowerColor": "白", "leafForm": "卵形叶", "reliability": "强健", "habitat": "水生·水畔 · 全日照 · 喜湿", "hardinessZone": "4-9" },
+    "sources": ["https://www.rhs.org.uk/plants/97910/alisma-plantago-aquatica/details", "https://www.thompson-morgan.com/p/alisma-plantagoaquatica-marginal-aquatic/T78076TM"]
+  }
+]
