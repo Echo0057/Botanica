@@ -1,4 +1,4 @@
-import { DESIGN_LAYERS } from '../data/layers.js';
+import { PLANT_CATEGORIES } from '../data/layers.js';
 
 function chip(active) {
   return `rounded-full px-3 py-1 text-xs font-medium transition ${
@@ -6,7 +6,7 @@ function chip(active) {
   }`;
 }
 
-export default function FilterBar({ query, onQuery, layer, onLayer, evergreen, onEvergreen }) {
+export default function FilterBar({ query, onQuery, category, onCategory }) {
   return (
     <div className="space-y-3 rounded-xl border border-stone-200 bg-white p-4">
       <input
@@ -17,25 +17,12 @@ export default function FilterBar({ query, onQuery, layer, onLayer, evergreen, o
       />
 
       <div className="flex flex-wrap items-center gap-2">
-        <button onClick={() => onLayer('all')} className={chip(layer === 'all')}>
+        <button onClick={() => onCategory('all')} className={chip(category === 'all')}>
           全部
         </button>
-        {DESIGN_LAYERS.map((l) => (
-          <button key={l} onClick={() => onLayer(l)} className={chip(layer === l)}>
-            {l}
-          </button>
-        ))}
-      </div>
-
-      <div className="flex items-center gap-2 text-sm">
-        <span className="text-stone-500">常绿/落叶</span>
-        {[
-          ['all', '全部'],
-          ['evergreen', '常绿'],
-          ['deciduous', '落叶'],
-        ].map(([val, label]) => (
-          <button key={val} onClick={() => onEvergreen(val)} className={chip(evergreen === val)}>
-            {label}
+        {PLANT_CATEGORIES.map((c) => (
+          <button key={c} onClick={() => onCategory(c)} className={chip(category === c)}>
+            {c}
           </button>
         ))}
       </div>

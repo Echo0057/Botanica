@@ -4,6 +4,7 @@ import FilterBar from './components/FilterBar.jsx';
 import PlantCard from './components/PlantCard.jsx';
 import PlantDetail from './components/PlantDetail.jsx';
 import OverviewTable from './components/OverviewTable.jsx';
+import { categoryOf } from './data/layers.js';
 
 const FAV_KEY = 'botanica:favorites';
 
@@ -19,8 +20,7 @@ function loadFavorites() {
 export default function App() {
   const [plants] = useState(plantsData);
   const [query, setQuery] = useState('');
-  const [layer, setLayer] = useState('all');
-  const [evergreen, setEvergreen] = useState('all');
+  const [category, setCategory] = useState('all');
   const [selectedId, setSelectedId] = useState(null);
   const [favorites, setFavorites] = useState(loadFavorites);
   const [view, setView] = useState('overview');
@@ -32,8 +32,7 @@ export default function App() {
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return plants.filter((p) => {
-      if (layer !== 'all' && p.designLayer !== layer) return false;
-      if (evergreen !== 'all' && p.evergreen !== evergreen) return false;
+      if (category !== 'all' && categoryOf(p) !== category) return false;
       if (q) {
         const haystack = [p.chineseName, p.latinName, p.genus, p.family, p.order, p.aliases]
           .filter(Boolean)
@@ -43,7 +42,7 @@ export default function App() {
       }
       return true;
     });
-  }, [plants, query, layer, evergreen]);
+  }, [plants, query, category]);
 
   const toggleFavorite = (id) => {
     setFavorites((prev) => {
@@ -86,10 +85,8 @@ export default function App() {
         <FilterBar
           query={query}
           onQuery={setQuery}
-          layer={layer}
-          onLayer={setLayer}
-          evergreen={evergreen}
-          onEvergreen={setEvergreen}
+          category={category}
+          onCategory={setCategory}
         />
 
         <div className="mt-4 text-sm text-stone-500">

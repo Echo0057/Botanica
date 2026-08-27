@@ -27,16 +27,36 @@ export const WATER_LABELS = {
   wet: '喜湿',
 };
 
-// 把 9 个设计层归到三个大类别(乔木 / 灌木 / 宿根·草花·地被)
-export const MAJOR_GROUPS = {
-  乔木: ['常绿乔木', '落叶乔木'],
-  灌木: ['常绿灌木', '落叶灌木'],
-  '宿根·草花·地被': ['喜阳灌木宿根', '耐阴宿根', '观赏草', '球根根茎类', '匍匐攀援类'],
+// 新的植物分类(常绿乔木 / 落叶乔木 / 灌木 / 宿根 / 一年生 / 匍匐攀缘 / 水生植物)
+export const PLANT_CATEGORIES = [
+  '常绿乔木',
+  '落叶乔木',
+  '灌木',
+  '宿根',
+  '一年生',
+  '匍匐攀缘',
+  '水生植物',
+];
+
+// 设计层 → 基础分类(一年生 / 水生植物 通过数据特征额外判定)
+const CATEGORY_BY_LAYER = {
+  常绿乔木: '常绿乔木',
+  落叶乔木: '落叶乔木',
+  常绿灌木: '灌木',
+  落叶灌木: '灌木',
+  喜阳灌木宿根: '宿根',
+  耐阴宿根: '宿根',
+  观赏草: '宿根',
+  球根根茎类: '宿根',
+  匍匐攀援类: '匍匐攀缘',
 };
 
-export function majorGroupOf(designLayer) {
-  for (const [group, layers] of Object.entries(MAJOR_GROUPS)) {
-    if (layers.includes(designLayer)) return group;
-  }
-  return '其他';
+const AQUATIC_RE = /水生|可水生|浅水|水边|近水/;
+const ANNUAL_RE = /一年生|一年|短命|当年生/;
+
+export function categoryOf(plant) {
+  const notes = plant.rawNotes || '';
+  if (AQUATIC_RE.test(notes)) return '水生植物';
+  if (ANNUAL_RE.test(notes) || plant.lifespan === '一年') return '一年生';
+  return CATEGORY_BY_LAYER[plant.designLayer] || '宿根';
 }

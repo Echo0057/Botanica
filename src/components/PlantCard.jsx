@@ -1,7 +1,8 @@
-import { EVERGREEN_LABELS } from '../data/layers.js';
+import { categoryOf } from '../data/layers.js';
 
 export default function PlantCard({ plant, favorite, onToggleFavorite, onOpen }) {
-  const { chineseName, latinName, designLayer, evergreen, missingName, genusOnly } = plant;
+  const { chineseName, latinName, designLayer, missingName, genusOnly } = plant;
+  const category = categoryOf(plant);
 
   return (
     <button
@@ -26,18 +27,8 @@ export default function PlantCard({ plant, favorite, onToggleFavorite, onOpen })
       </div>
 
       <div className="mt-3 flex flex-wrap gap-1.5">
+        <span className="rounded bg-green-50 px-2 py-0.5 text-xs font-medium text-green-800">{category}</span>
         <span className="rounded bg-stone-100 px-2 py-0.5 text-xs text-stone-600">{designLayer}</span>
-        {evergreen && (
-          <span
-            className={
-              evergreen === 'evergreen'
-                ? 'rounded bg-green-100 px-2 py-0.5 text-xs text-green-800'
-                : 'rounded bg-amber-100 px-2 py-0.5 text-xs text-amber-800'
-            }
-          >
-            {EVERGREEN_LABELS[evergreen]}
-          </span>
-        )}
         {missingName && (
           <span className="rounded bg-yellow-100 px-2 py-0.5 text-xs text-yellow-800">学名待核对</span>
         )}

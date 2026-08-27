@@ -1,9 +1,8 @@
-import { MAJOR_GROUPS, EVERGREEN_LABELS, SUN_LABELS } from '../data/layers.js';
+import { PLANT_CATEGORIES, categoryOf, SUN_LABELS } from '../data/layers.js';
 
 const COLUMNS = [
   { key: 'name', label: '植物' },
   { key: 'layer', label: '设计层' },
-  { key: 'ever', label: '常绿/落叶' },
   { key: 'height', label: '高度(m)' },
   { key: 'spread', label: '冠幅(m)' },
   { key: 'density', label: '密度(株/㎡)' },
@@ -36,8 +35,6 @@ function value(p, key) {
       return p.chineseName;
     case 'layer':
       return p.designLayer;
-    case 'ever':
-      return p.evergreen ? EVERGREEN_LABELS[p.evergreen] : dash;
     case 'height':
       return cell(p.height);
     case 'spread':
@@ -68,17 +65,17 @@ function value(p, key) {
 export default function OverviewTable({ plants, onOpen }) {
   return (
     <div className="space-y-8">
-      {Object.entries(MAJOR_GROUPS).map(([group, layers]) => {
-        const rows = plants.filter((p) => layers.includes(p.designLayer));
+      {PLANT_CATEGORIES.map((cat) => {
+        const rows = plants.filter((p) => categoryOf(p) === cat);
         return (
-          <section key={group}>
+          <section key={cat}>
             <div className="mb-3 flex items-center gap-3">
-              <h2 className="text-lg font-semibold text-stone-800">{group}</h2>
+              <h2 className="text-lg font-semibold text-stone-800">{cat}</h2>
               <span className="text-sm text-stone-400">{rows.length} 种</span>
             </div>
             {rows.length === 0 ? (
               <div className="rounded-lg border border-dashed border-stone-300 p-6 text-center text-sm text-stone-400">
-                该分类暂无符合筛选条件的植物
+                该分类暂无植物记录
               </div>
             ) : (
               <div className="overflow-x-auto rounded-xl border border-stone-200 bg-white">

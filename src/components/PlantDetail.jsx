@@ -1,17 +1,17 @@
-import { EVERGREEN_LABELS } from '../data/layers.js';
+import { categoryOf } from '../data/layers.js';
 
 export default function PlantDetail({ plant, favorites, onToggleFavorite, onClose }) {
   if (!plant) return null;
 
   const favorite = favorites.has(plant.id);
   const rows = [
+    ['类别', categoryOf(plant)],
     ['设计层', plant.designLayer],
     ['拉丁学名', plant.latinName],
     ['属', plant.genus],
     ['科', plant.family],
     ['目', plant.order],
     ['别名/备注', plant.aliases],
-    ['常绿/落叶', plant.evergreen ? EVERGREEN_LABELS[plant.evergreen] : null],
     ['特性', plant.rawNotes],
     ['高度', plant.height],
     ['冠幅', plant.spread],
