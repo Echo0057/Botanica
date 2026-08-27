@@ -6,6 +6,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { enrichNotes } from './enrich-fields.mjs';
+import { AQUATIC_PLANTS } from './aquatic-plants.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -157,11 +158,50 @@ for (const sheetName of DESIGN_LAYERS) {
   }
 }
 
+// 补充的水生植物(不在 Excel 表里)
+for (const ap of AQUATIC_PLANTS) {
+  const latin = ap.latinName || '';
+  const missingName = !latin;
+  if (missingName) missingNameCount++;
+  records.push({
+    id: nextId(latin || ap.chineseName || 'aquatic'),
+    designLayer: ap.designLayer || '水生植物',
+    chineseName: ap.chineseName,
+    latinName: latin || null,
+    genus: ap.genus || null,
+    family: ap.family || null,
+    order: ap.order || null,
+    aliases: ap.aliases || null,
+    evergreen: ap.evergreen ?? null,
+    height: ap.height ?? null,
+    spread: ap.spread ?? null,
+    density: ap.density ?? null,
+    sun: ap.sun ?? null,
+    water: ap.water ?? null,
+    bloomSeason: ap.bloomSeason ?? null,
+    flowerColor: ap.flowerColor ?? null,
+    seasonOfInterest: ap.seasonOfInterest ?? null,
+    fragrance: ap.fragrance ?? null,
+    reliability: ap.reliability ?? null,
+    leafForm: ap.leafForm ?? null,
+    lifespan: ap.lifespan ?? null,
+    spreadRate: ap.spreadRate ?? null,
+    selfSeeding: ap.selfSeeding ?? null,
+    persistence: ap.persistence ?? null,
+    hardinessZone: ap.hardinessZone ?? null,
+    rawNotes: ap.rawNotes || null,
+    missingName,
+    genusOnly: false,
+    images: [],
+    tags: [],
+  });
+}
+
 mkdirSync(dirname(OUT), { recursive: true });
 writeFileSync(OUT, JSON.stringify(records, null, 2) + '\n', 'utf8');
 
 const byLayer = Object.fromEntries(
-  DESIGN_LAYERS.map((l) => [l, records.filter((x) => x.designLayer === l).length]),
+  [...DESIGN_LAYERS, '水生植物'].map((l) => [l, records.filter((x) => x.designLayer === l).length]),
 );
 
 console.log('已写入:', OUT);
