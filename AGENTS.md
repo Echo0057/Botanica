@@ -15,8 +15,7 @@ Project and app name: **Botanica**.
 - **React + Vite** (pure frontend, no backend).
 - Data: a static data module, `src/data/plants.json`, loaded at startup.
 - Images: local files under `public/images/`, referenced by filename.
-- User data (favorites / saved designs): browser `localStorage`.
-- Styling: Tailwind CSS is the preferred option (not yet set up).
+- Styling: Tailwind CSS v4 (via `@tailwindcss/vite`).
 
 Run locally with:
 
@@ -24,6 +23,12 @@ Run locally with:
 npm install
 npm run dev
 ```
+
+## Project docs
+
+- `docs/design.md` — product / feature design proposal.
+- `docs/progress.md` — living progress log (update before each commit).
+- `docs/plant-data-sop.md` — SOP: add a new plant + enrich characteristics online.
 
 ## Data source
 
