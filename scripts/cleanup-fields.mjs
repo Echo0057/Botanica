@@ -22,7 +22,7 @@ if (rosemary.length >= 2) {
   const extra = rosemary.filter((p) => p !== main);
   for (const x of extra) {
     // 合并缺失字段(以 main 已有值优先)
-    for (const k of ['leafForm', 'sun', 'water', 'align', 'habitat', 'height', 'spread', 'reliability', 'bloomSeason', 'flowerColor', 'fragrance', 'lifespan']) {
+    for (const k of ['leafForm', 'sun', 'water', 'align', 'habitat', 'height', 'spread', 'reliability', 'bloomSeason', 'flowerColor', 'lifespan']) {
       if (!main[k] && x[k]) main[k] = x[k];
     }
     const rn = [main.rawNotes, x.rawNotes].filter(Boolean);

@@ -11,10 +11,7 @@ const COLUMNS = [
   { key: 'leaf', label: '叶/形态' },
   { key: 'bloom', label: '花色·花期' },
   { key: 'sun', label: '日照' },
-  { key: 'frag', label: '香气' },
   { key: 'life', label: '寿命' },
-  { key: 'spreadRate', label: '扩散' },
-  { key: 'seed', label: '自播' },
   { key: 'reliability', label: '可靠度' },
 ];
 
@@ -53,14 +50,8 @@ function value(p, key) {
       return bloom(p);
     case 'sun':
       return p.sun ? SUN_LABELS[p.sun] || p.sun : dash;
-    case 'frag':
-      return cell(p.fragrance);
     case 'life':
       return cell(p.lifespan);
-    case 'spreadRate':
-      return cell(p.spreadRate);
-    case 'seed':
-      return cell(p.selfSeeding);
     case 'reliability':
       return cell(p.reliability);
     default:

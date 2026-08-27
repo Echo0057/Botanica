@@ -71,7 +71,7 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 
 ## Data model (per plant record)
 
-`id` · `chineseName` · `latinName` · `genus` · `family` · `habitat` · `aliases` · `category` · `evergreen` (evergreen/deciduous) · `height` · `spread` · `sun` (full sun / part shade / shade) · `water` (dry / medium / wet) · `bloomSeason` · `flowerColor` · `seasonOfInterest` · `fragrance` · `reliability` · `leafForm` · `lifespan` · `spreadRate` · `selfSeeding` · `persistence` · `hardinessZone` · `missingName` · `genusOnly` · `images[]` · `tags[]` · `sources[]`.
+`id` · `chineseName` · `latinName` · `genus` · `family` · `habitat` · `aliases` · `category` · `evergreen` (evergreen/deciduous) · `height` · `spread` · `sun` (full sun / part shade / shade) · `water` (dry / medium / wet) · `bloomSeason` · `flowerColor` · `seasonOfInterest` · `reliability` · `leafForm` · `lifespan` · `persistence` · `hardinessZone` · `missingName` · `genusOnly` · `images[]` · `tags[]` · `sources[]`.
 
 > **Classification**: unified to **APG IV** (standard for angiosperms; ferns use PPG I). Only 科(family)-属(genus)-种(species) are kept — the `order` (目) field was removed. The database is **species-level**: different horticultural cultivars under the same species are collapsed into one record (see `scripts/consolidate-species.mjs`).
 

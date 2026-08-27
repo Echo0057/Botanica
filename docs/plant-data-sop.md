@@ -41,7 +41,7 @@
 
 优先从海外权威库提取**结构字段**:
 
-- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`habitat`(生境)、`flowerColor`、`bloomSeason`、`hardinessZone`、`reliability`、`leafForm`、`fragrance`。
+- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`habitat`(生境)、`flowerColor`、`bloomSeason`、`hardinessZone`、`reliability`、`leafForm`。
 - 把来源都记进该条的 `sources` 数组(站点 + URL)。
 
 ### 第 5 步:写入清单
@@ -157,8 +157,8 @@ npm run import:plants
 | `water` | 否 | `dry` / `wet` |
 | `flowerColor` / `bloomSeason` | 否 | 花色 / 花期(如 `夏`) |
 | `leafForm` | 否 | 叶形/形态,如 `剑形叶` |
-| `fragrance` / `reliability` | 否 | 香气 / 可靠度(如 `强健`) |
-| `lifespan` / `spreadRate` / `selfSeeding` | 否 | 寿命 / 扩散 / 自播 |
+| `reliability` | 否 | 可靠度(如 `强健`) |
+| `lifespan` | 否 | 寿命 |
 | `notes` | 否 | 一句话特性(映射到 `rawNotes`) |
 | `sources` | 否 | 来源 URL 数组 |
 | `images` | 否 | 本地 `public/images/` 文件名数组 |
