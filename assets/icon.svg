@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="6%" y2="100%">
+      <stop offset="0" stop-color="#71e8a5"/>
+      <stop offset="0.5" stop-color="#34cf6a"/>
+      <stop offset="1" stop-color="#0e7a3c"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eafff0"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="26" flood-color="#03240f" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1024" height="1024" rx="228" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1024" height="1024" rx="228" fill="url(#hl)"/>
+
+  <g filter="url(#shadow)">
+    <path d="M516 800 C 330 672 306 428 520 250 C 720 442 676 676 516 800 Z" fill="url(#leaf)"/>
+    <path d="M516 800 C 502 620 502 456 518 330" fill="none" stroke="#137a3e" stroke-width="22" stroke-linecap="round"/>
+    <path d="M514 470 C 470 430 438 420 404 414 M514 574 C 558 534 590 524 622 520 M516 386 C 528 352 548 336 572 328" fill="none" stroke="#137a3e" stroke-width="18" stroke-linecap="round"/>
+  </g>
+</svg>
