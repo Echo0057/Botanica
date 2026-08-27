@@ -41,7 +41,7 @@
 
 优先从海外权威库提取**结构字段**:
 
-- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`flowerColor`、`bloomSeason`、`hardinessZone`、`reliability`、`leafForm`、`fragrance`。
+- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`habitat`(生境)、`flowerColor`、`bloomSeason`、`hardinessZone`、`reliability`、`leafForm`、`fragrance`。
 - 把来源都记进该条的 `sources` 数组(站点 + URL)。
 
 ### 第 5 步:写入清单
@@ -54,6 +54,7 @@
   "latinName": "Genus species",
   "genus": "某属",
   "family": "某科",
+  "habitat": "林下·耐荫 · 喜湿",
   "category": "宿根",
   "sun": "part shade",
   "water": "wet",
@@ -148,6 +149,7 @@ npm run import:plants
 | `category` | 是 | 6 类之一:常绿乔木/落叶乔木/灌木/宿根/匍匐攀缘/水生植物 |
 | `latinName` | 建议 | 拉丁学名,如 `Saururus chinensis`;缺失会标记 `missingName` |
 | `genus` / `family` | 建议 | 属/科(APG IV);分类只用 科-属-种,无「目(order)」 |
+| `habitat` | 否 | 生境,如 `水生·水畔`、`林下·耐荫`;表格「生境」列直接读它 |
 | `aliases` | 否 | 别名、异名 |
 | `evergreen` | 否 | `evergreen` / `deciduous` |
 | `height` / `spread` / `density` | 否 | 高度/冠幅(米)、种植密度(株/㎡) |

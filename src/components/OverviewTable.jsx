@@ -1,4 +1,4 @@
-import { PLANT_CATEGORIES, categoryOf, SUN_LABELS } from '../data/layers.js';
+import { PLANT_CATEGORIES, categoryOf } from '../data/layers.js';
 
 const COLUMNS = [
   { key: 'name', label: '学名' },
@@ -40,7 +40,7 @@ function value(p, key) {
     case 'genus':
       return cell(p.genus);
     case 'habitat':
-      return habitat(p);
+      return cell(p.habitat);
     case 'height':
       return cell(p.height);
     case 'spread':
@@ -66,18 +66,6 @@ function value(p, key) {
     default:
       return dash;
   }
-}
-
-function habitat(p) {
-  const n = p.rawNotes || '';
-  const parts = [];
-  if (p.category === '水生植物' || /水生植物|浅水|水边|近水/.test(n)) parts.push('水生·水畔');
-  if (/林下|耐阴|耐荫|树荫|阴/.test(n)) parts.push('林下·耐荫');
-  if (/耐旱|耐贫瘠|贫瘠|干旱/.test(n)) parts.push('耐旱·耐瘠');
-  if (p.sun) parts.push(SUN_LABELS[p.sun]);
-  if (p.water === 'wet') parts.push('喜湿');
-  const uniq = [...new Set(parts)];
-  return uniq.length ? uniq.join(' · ') : dash;
 }
 
 export default function OverviewTable({ plants, activeCategory = 'all', onOpen }) {

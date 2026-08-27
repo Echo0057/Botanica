@@ -29,7 +29,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": "全日照"
   },
   {
     "id": "plant_2",
@@ -61,7 +62,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "plant_3",
@@ -93,7 +95,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_4",
@@ -125,7 +128,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_5",
@@ -157,7 +161,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_6",
@@ -189,7 +194,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_7",
@@ -221,7 +227,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_8",
@@ -253,7 +260,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_9",
@@ -285,7 +293,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_10",
@@ -317,7 +326,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_11",
@@ -349,7 +359,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_12",
@@ -381,7 +392,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_13",
@@ -413,7 +425,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_14",
@@ -445,7 +458,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_15",
@@ -477,7 +491,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_16",
@@ -509,7 +524,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_17",
@@ -541,7 +557,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_18",
@@ -573,7 +590,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_19",
@@ -605,7 +623,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_20",
@@ -637,7 +656,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_21",
@@ -669,7 +689,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_22",
@@ -701,7 +722,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_23",
@@ -733,7 +755,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_24",
@@ -765,7 +788,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_25",
@@ -797,7 +821,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_26",
@@ -829,7 +854,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_27",
@@ -861,7 +887,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_28",
@@ -893,7 +920,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_29",
@@ -925,7 +953,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_30",
@@ -957,7 +986,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_31",
@@ -989,7 +1019,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_32",
@@ -1021,7 +1052,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_33",
@@ -1053,7 +1085,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_34",
@@ -1085,7 +1118,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_35",
@@ -1117,7 +1151,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_36",
@@ -1149,7 +1184,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_37",
@@ -1181,7 +1217,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_38",
@@ -1213,7 +1250,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_39",
@@ -1245,7 +1283,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_40",
@@ -1277,7 +1316,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_41",
@@ -1309,7 +1349,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_42",
@@ -1341,7 +1382,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_43",
@@ -1373,7 +1415,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_44",
@@ -1405,7 +1448,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "plant_45",
@@ -1437,7 +1481,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "laurus",
@@ -1469,7 +1514,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "olea",
@@ -1501,7 +1547,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "citrus",
@@ -1533,7 +1580,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "eriobotrya_japonica",
@@ -1565,7 +1613,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "magnolia_grandiflora",
@@ -1597,7 +1646,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "pinus_thunbergii",
@@ -1629,7 +1679,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "pinus_parviflora",
@@ -1661,7 +1712,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "taxus_wallichiana_var_mairei",
@@ -1693,7 +1745,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "osmanthus",
@@ -1725,7 +1778,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": null
   },
   {
     "id": "trachycarpus_fortunei",
@@ -1757,7 +1811,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "常绿乔木"
+    "category": "常绿乔木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "rosmarinus_officinalis",
@@ -1789,7 +1844,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "耐旱·耐瘠 · 全日照"
   },
   {
     "id": "cornus_kousa_subsp_chinensis",
@@ -1821,7 +1877,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "camellia_japonica_3",
@@ -1853,7 +1910,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "camellia_uraku",
@@ -1885,7 +1943,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "camellia_sasanqua",
@@ -1917,7 +1976,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "rhododendron",
@@ -1949,7 +2009,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "全日照"
   },
   {
     "id": "rhododendron_indicum",
@@ -1981,7 +2042,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "全日照"
   },
   {
     "id": "pieris_japonica_debutante",
@@ -2013,7 +2075,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "myrtus_communis",
@@ -2045,7 +2108,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "nandina_domestica",
@@ -2077,7 +2141,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "mahonia_fortunei",
@@ -2109,7 +2174,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "mahonia_japonica",
@@ -2141,7 +2207,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "daphne_odora_aureomarginata",
@@ -2173,7 +2240,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "gardenia_jasminoides",
@@ -2205,7 +2273,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "pittosporum",
@@ -2237,7 +2306,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "fatsia",
@@ -2269,7 +2339,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "ilex",
@@ -2301,7 +2372,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "ligustrum_quihoui",
@@ -2333,7 +2405,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "euonymus_japonicus",
@@ -2365,7 +2438,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "ardisia_crenata",
@@ -2397,7 +2471,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "sarcandra",
@@ -2429,7 +2504,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "rhapis",
@@ -2461,7 +2537,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "acer_palmatum_var_dissectum",
@@ -2493,7 +2570,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "acer_japonicum_aconitifolium",
@@ -2525,7 +2603,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "acer_serrulatum",
@@ -2557,7 +2636,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "acer_pictum_subsp_mono",
@@ -2589,7 +2669,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "amelanchier_canadensis",
@@ -2621,7 +2702,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "prunus_yedoensis_somei_yoshino",
@@ -2653,7 +2735,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "prunus_mume",
@@ -2685,7 +2768,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "malus_pumila",
@@ -2717,7 +2801,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "metasequoia",
@@ -2749,7 +2834,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "taxodium",
@@ -2781,7 +2867,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "水生植物"
+    "category": "水生植物",
+    "habitat": "水生·水畔 · 喜湿"
   },
   {
     "id": "ginkgo",
@@ -2813,7 +2900,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "robinia_pseudoacacia_frisia",
@@ -2845,7 +2933,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "zelkova_schneideriana",
@@ -2877,7 +2966,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "crataegus",
@@ -2909,7 +2999,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "malus_american",
@@ -2941,7 +3032,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "quercus_texana",
@@ -2973,7 +3065,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "sapindus",
@@ -3005,7 +3098,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "koelreuteria_bipinnata_integrifoliola",
@@ -3037,7 +3131,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "pistacia",
@@ -3069,7 +3164,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "triadica",
@@ -3101,7 +3197,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "liquidambar_styraciflua",
@@ -3133,7 +3230,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "liriodendron_chinense_tulipifera",
@@ -3165,7 +3263,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "yulania_soulangeana",
@@ -3197,7 +3296,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "落叶乔木"
+    "category": "落叶乔木",
+    "habitat": null
   },
   {
     "id": "chimonanthus",
@@ -3229,7 +3329,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "ficus_carica",
@@ -3261,7 +3362,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "spiraea_cantoniensis",
@@ -3293,7 +3395,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 全日照"
   },
   {
     "id": "spiraea_alpina",
@@ -3325,7 +3428,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "spiraea_vanhouttei_pink_ice",
@@ -3357,7 +3461,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "chaenomeles_speciosa",
@@ -3389,7 +3494,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "viburnum_keteleeri_sterile",
@@ -3421,7 +3527,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "全日照"
   },
   {
     "id": "viburnum_opulus_roseum",
@@ -3453,7 +3560,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "deutzia_scabra_pride_of_rochester",
@@ -3485,7 +3593,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "deutzia_crenata_nikko",
@@ -3517,7 +3626,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "philadelphus",
@@ -3549,7 +3659,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "hydrangea_macrophylla_var_normalis",
@@ -3581,7 +3692,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 全日照"
   },
   {
     "id": "hydrangea_paniculata",
@@ -3613,7 +3725,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "全日照"
   },
   {
     "id": "punica",
@@ -3645,7 +3758,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "半荫"
   },
   {
     "id": "callicarpa_japonica",
@@ -3677,7 +3791,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "全日照"
   },
   {
     "id": "enkianthus_perulatus",
@@ -3709,7 +3824,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "hibiscus_mutabilis",
@@ -3741,7 +3857,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "水生植物"
+    "category": "水生植物",
+    "habitat": "水生·水畔 · 喜湿"
   },
   {
     "id": "corylopsis",
@@ -3773,7 +3890,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "styrax_japonicus",
@@ -3805,7 +3923,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "yulania_stellata",
@@ -3837,7 +3956,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "itea_virginica",
@@ -3869,7 +3989,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "euonymus",
@@ -3901,7 +4022,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "vaccinium_oldhamii",
@@ -3933,7 +4055,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "sambucus_nigra_black_lace",
@@ -3965,7 +4088,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "灌木"
+    "category": "灌木",
+    "habitat": null
   },
   {
     "id": "salvia",
@@ -3997,7 +4121,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "bistorta_amplexicaulis",
@@ -4029,7 +4154,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "eupatorium_cannabinum",
@@ -4061,7 +4187,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "rudbeckia",
@@ -4093,7 +4220,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "coreopsis",
@@ -4125,7 +4253,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "erigeron",
@@ -4157,7 +4286,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "耐旱·耐瘠"
   },
   {
     "id": "crossostephium_chinense",
@@ -4189,7 +4319,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "baccharis_halimifolia_moench",
@@ -4221,7 +4352,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "gazania_rigens_l_gaertn",
@@ -4253,7 +4385,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "artemisia_schmidtiana",
@@ -4285,7 +4418,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "tagetes_lemmonii",
@@ -4317,7 +4451,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "anisodontea_capensis",
@@ -4349,7 +4484,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "全日照"
   },
   {
     "id": "callirhoe_involucrata",
@@ -4381,7 +4517,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "全日照"
   },
   {
     "id": "malva_subovata_subsp_bicolor",
@@ -4413,7 +4550,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "monarda",
@@ -4445,7 +4583,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "monarda_citriodora",
@@ -4477,7 +4616,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "aster",
@@ -4509,7 +4649,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "aster_piccolii",
@@ -4541,7 +4682,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "hemerocallis",
@@ -4573,7 +4715,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "agapanthus",
@@ -4605,7 +4748,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "crocosmia",
@@ -4637,7 +4781,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "全日照"
   },
   {
     "id": "oenothera_lindheimeri",
@@ -4669,7 +4814,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "sanguisorba",
@@ -4701,7 +4847,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "verbena",
@@ -4733,7 +4880,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "betonica",
@@ -4765,7 +4913,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "veronicastrum_virginicum",
@@ -4797,7 +4946,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "salvia_yangii_blue_steel",
@@ -4829,7 +4979,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "耐旱·耐瘠"
   },
   {
     "id": "euphorbia",
@@ -4861,7 +5012,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "耐旱·耐瘠"
   },
   {
     "id": "achillea",
@@ -4893,7 +5045,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "耐旱·耐瘠 · 全日照"
   },
   {
     "id": "helianthus",
@@ -4925,7 +5078,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "allium_giganteum",
@@ -4957,7 +5111,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "asclepias_tuberosa",
@@ -4989,7 +5144,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "耐旱·耐瘠"
   },
   {
     "id": "foeniculum",
@@ -5021,7 +5177,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "thalictrum_ichangense",
@@ -5053,7 +5210,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "rhapis_gracilis_burret",
@@ -5085,7 +5243,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "liriope_spicata_thunb_lour",
@@ -5117,7 +5276,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "yuccasmallianafern",
@@ -5149,7 +5309,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "phormium_tenax",
@@ -5181,7 +5342,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "agave_americana_l",
@@ -5213,7 +5375,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "verbena_officinalis_l",
@@ -5245,7 +5408,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "lysimachia",
@@ -5277,7 +5441,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "muehlenbeckia_complexa_meisn",
@@ -5309,7 +5474,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "aloe_arborescens",
@@ -5341,7 +5507,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "silene_fulgens_fisch_e_h_l_krause",
@@ -5373,7 +5540,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "anemone_hupehensis_var_japonica",
@@ -5405,7 +5573,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "helleborus",
@@ -5437,7 +5606,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "bletilla",
@@ -5469,7 +5639,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "disporum",
@@ -5501,7 +5672,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "ledebouria",
@@ -5533,7 +5705,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "symphytum",
@@ -5565,7 +5738,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "polygonatum_odoratum",
@@ -5597,7 +5771,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "hosta",
@@ -5629,7 +5804,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "全日照"
   },
   {
     "id": "astilbe",
@@ -5661,7 +5837,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "epimedium",
@@ -5693,7 +5870,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "lamprocapnos_spectabilis",
@@ -5725,7 +5903,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "dryopteris",
@@ -5757,7 +5936,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "cibotium",
@@ -5789,7 +5969,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "cyrtomium",
@@ -5821,7 +6002,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "osmunda",
@@ -5853,7 +6035,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "arachniodes_simplicior_variegata",
@@ -5885,7 +6068,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "pteris",
@@ -5917,7 +6101,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "pteris_multifida",
@@ -5949,7 +6134,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "lepisorus_fortunei",
@@ -5981,7 +6167,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "davallia",
@@ -6013,7 +6200,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "pleioblastus_fortunei",
@@ -6045,7 +6233,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "aspidistra",
@@ -6077,7 +6266,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "farfugium_japonicum",
@@ -6109,7 +6299,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "hakonechloa",
@@ -6141,7 +6332,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "carex",
@@ -6173,7 +6365,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "全日照"
   },
   {
     "id": "reineckea_carnea",
@@ -6205,7 +6398,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "林下·耐荫 · 荫"
   },
   {
     "id": "acorus_gramineus_ogon",
@@ -6237,7 +6431,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "水生植物"
+    "category": "水生植物",
+    "habitat": "水生·水畔 · 全日照 · 喜湿"
   },
   {
     "id": "liriope_pure_blonde",
@@ -6269,7 +6464,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "全日照"
   },
   {
     "id": "stipa_tenuissima_pony_tails",
@@ -6301,7 +6497,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "全日照"
   },
   {
     "id": "ensete",
@@ -6333,7 +6530,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "cortaderia_selloana_pumila",
@@ -6365,7 +6563,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "deschampsia",
@@ -6397,7 +6596,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "miscanthus",
@@ -6429,7 +6629,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "calamagrostis_acutiflora_karl_foerster",
@@ -6461,7 +6662,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "juncus",
@@ -6493,7 +6695,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "水生植物"
+    "category": "水生植物",
+    "habitat": "水生·水畔 · 喜湿"
   },
   {
     "id": "eragrostis",
@@ -6525,7 +6728,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "leucojum",
@@ -6557,7 +6761,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": "喜湿"
   },
   {
     "id": "lilium",
@@ -6589,7 +6794,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "iris_louisiana_black_gamecock",
@@ -6621,7 +6827,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "水生植物"
+    "category": "水生植物",
+    "habitat": "水生·水畔 · 耐旱·耐瘠"
   },
   {
     "id": "camassia_leichtlinii",
@@ -6653,7 +6860,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根"
+    "category": "宿根",
+    "habitat": null
   },
   {
     "id": "persicaria_capitata",
@@ -6685,7 +6893,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "glechoma_hederacea",
@@ -6717,7 +6926,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "saxifraga",
@@ -6749,7 +6959,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "pratia_pedunculata",
@@ -6781,7 +6992,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "pachysandra_terminalis",
@@ -6813,7 +7025,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "lonicera_japonica",
@@ -6845,7 +7058,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "clematis",
@@ -6877,7 +7091,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "ficus_pumila",
@@ -6909,7 +7124,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "trachelospermum_jasminoides",
@@ -6941,7 +7157,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "hedera_helix",
@@ -6973,7 +7190,8 @@
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "wisteria",
@@ -7005,7 +7223,8 @@
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "匍匐攀缘"
+    "category": "匍匐攀缘",
+    "habitat": null
   },
   {
     "id": "saururus_chinensis",
@@ -7038,7 +7257,8 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 半荫 · 喜湿"
   },
   {
     "id": "lythrum_salicaria_f_alba",
@@ -7071,7 +7291,8 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 全日照 · 喜湿"
   },
   {
     "id": "iris_sanguinea",
@@ -7104,7 +7325,8 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 全日照 · 喜湿"
   },
   {
     "id": "lysimachia_candida",
@@ -7137,7 +7359,8 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 半荫 · 喜湿"
   },
   {
     "id": "vallisneria_nana",
@@ -7170,7 +7393,8 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 全日照 · 喜湿"
   },
   {
     "id": "ceratophyllum_demersum",
@@ -7203,7 +7427,8 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 半荫 · 喜湿"
   },
   {
     "id": "sagittaria_sagittifolia",
@@ -7236,7 +7461,8 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 全日照 · 喜湿"
   },
   {
     "id": "alisma_plantago_aquatica",
@@ -7269,6 +7495,7 @@
     "category": "水生植物",
     "sources": [],
     "images": [],
-    "tags": []
+    "tags": [],
+    "habitat": "水生·水畔 · 全日照 · 喜湿"
   }
 ]

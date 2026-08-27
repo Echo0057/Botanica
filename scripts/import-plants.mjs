@@ -117,6 +117,7 @@ for (const entry of additional) {
     persistence: entry.persistence ?? null,
     hardinessZone: entry.hardinessZone ?? null,
     rawNotes: entry.notes || entry.rawNotes || null,
+    habitat: entry.habitat ?? null,
     missingName: !latin,
     genusOnly: false,
     category: cat,
