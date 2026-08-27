@@ -27,7 +27,7 @@ npm run dev
 
 ## Data source
 
-- > Retired: the Excel import was turned off (2026-08-27). The base data lives frozen in `src/data/plants.json`; new plants are added via `scripts/additional-plants.json` + `npm run import:plants` (see `PLANT-DATA-SOP.md`). The Excel structure below is kept only as a reference for what each field means.
+- > Retired: the Excel import was turned off (2026-08-27). The base data lives frozen in `src/data/plants.json`; new plants are added via `scripts/additional-plants.json` + `npm run import:plants` (see `plant-data-sop.md`). The Excel structure below is kept only as a reference for what each field means.
 - Original Excel (reference only): `适合江浙沪的自然主义花园植物目录.xlsx`
   - on this machine at `/Users/echo/Documents/适合江浙沪的自然主义花园植物目录.xlsx`
 - The workbook has **9 sheets**, each of which is a "design layer" (设计层):
@@ -71,6 +71,7 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 ## File naming / content conventions
 
 - **All Markdown filenames use English** (e.g. `plant-database-design.md`), even if the body content is in Chinese. Do not introduce non-ASCII filenames.
+- **File naming**: scripts / data / config / Markdown files use lowercase kebab-case (e.g. `additional-plants.json`, `import-plants.mjs`, `plant-data-sop.md`). React components use PascalCase (e.g. `FilterBar.jsx`). `AGENTS.md` is a reserved agent file and keeps its exact casing.
 - Design proposal: see `design.md`.
 - Keep project documentation in Markdown; use English filenames.
 
@@ -80,7 +81,7 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 - "Design palette / pairing" is phase 2: group selected plants by design layer and add a bloom-season continuity check.
 - Prefer a pure-frontend approach. Do not add a backend or SQLite unless the user explicitly asks.
 - `src/data/plants.json` is the single live database. Hand-added plants go into `scripts/additional-plants.json` (required: `chineseName` + `category`); run `npm run import:plants` to validate, de-duplicate, and append them to `plants.json`. Don't hand-edit `plants.json` for bulk changes.
-  - Follow `PLANT-DATA-SOP.md` for the "add a new plant" and "search overseas databases to enrich characteristics" workflow. Record source URLs in each entry's `sources` array.
+  - Follow `plant-data-sop.md` for the "add a new plant" and "search overseas databases to enrich characteristics" workflow. Record source URLs in each entry's `sources` array.
 
 ## Git workflow
 
