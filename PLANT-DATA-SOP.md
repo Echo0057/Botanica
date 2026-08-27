@@ -7,12 +7,12 @@
 
 ## 0. 数据从哪来
 
-植物库 `src/data/plants.json` 由 `scripts/import-excel.mjs` **一键生成**,来源两路:
+`src/data/plants.json` 是唯一数据库。**Excel 导入已停用**(2026-08-27):基础数据已固化在 `plants.json` 里,之后新增一律走手工清单。
 
-1. **Excel 基准库**:`适合江浙沪的自然主义花园植物目录.xlsx`(9 张表 = 9 个设计层)。
-2. **手工清单**:`scripts/additional-plants.json` —— Excel 之外新加的植物都写这里。
+1. **基础数据**:原 Excel(9 张表 = 9 个设计层)已固化进 `src/data/plants.json`,字段含义见 `design.md` / `AGENTS.md`。
+2. **手工清单**:`scripts/additional-plants.json` —— 所有新增植物都写这里。
 
-> 不要直接手改 `plants.json`。要加就加进清单,再跑导入。
+> 不要手改 `plants.json`。新增就写进清单,再跑 `npm run import:plants` 合并(自动去重)。
 
 ---
 
@@ -74,7 +74,7 @@
 npm run import:plants
 ```
 
-脚本会:读 Excel + 读清单 → 校验(缺中文名/类别非法会**中止**并报错)→ 查重(重复则跳过硬告)→ 合并 → 重算 `id`/`category`/`missingName` → 写入 `plants.json` → 打印分类统计与警告。
+脚本会:读取 `scripts/additional-plants.json` 清单 + 现有 `plants.json` → 校验(缺中文名/类别非法会**中止**并报错)→ 去重(已存在则跳过硬告)→ 追加新增 → 重算 `id`/`category`/`missingName` → 写回 `plants.json` → 打印分类统计与警告。
 
 ### 第 7 步:验证与提交
 

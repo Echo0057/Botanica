@@ -27,7 +27,8 @@ npm run dev
 
 ## Data source
 
-- Original Excel: `适合江浙沪的自然主义花园植物目录.xlsx`
+- > Retired: the Excel import was turned off (2026-08-27). The base data lives frozen in `src/data/plants.json`; new plants are added via `scripts/additional-plants.json` + `npm run import:plants` (see `PLANT-DATA-SOP.md`). The Excel structure below is kept only as a reference for what each field means.
+- Original Excel (reference only): `适合江浙沪的自然主义花园植物目录.xlsx`
   - on this machine at `/Users/echo/Documents/适合江浙沪的自然主义花园植物目录.xlsx`
 - The workbook has **9 sheets**, each of which is a "design layer" (设计层):
   1. `常绿乔木` Evergreen trees
@@ -78,8 +79,7 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 - Keep the first version intentionally minimal: browse the 9 layers, search by name, filter by design layer / sun / evergreen, plant detail + images, and favorites.
 - "Design palette / pairing" is phase 2: group selected plants by design layer and add a bloom-season continuity check.
 - Prefer a pure-frontend approach. Do not add a backend or SQLite unless the user explicitly asks.
-- The `plants.json` data file is generated from the Excel; write/keep an import script (e.g. `scripts/import-excel.mjs`) alongside it rather than hand-editing the JSON for bulk changes.
-  - Plants not in the Excel go into `scripts/additional-plants.json` (required: `chineseName` + `category`); run `npm run import:plants` to validate, merge, and regenerate `plants.json`.
+- `src/data/plants.json` is the single live database. Hand-added plants go into `scripts/additional-plants.json` (required: `chineseName` + `category`); run `npm run import:plants` to validate, de-duplicate, and append them to `plants.json`. Don't hand-edit `plants.json` for bulk changes.
   - Follow `PLANT-DATA-SOP.md` for the "add a new plant" and "search overseas databases to enrich characteristics" workflow. Record source URLs in each entry's `sources` array.
 
 ## Git workflow
