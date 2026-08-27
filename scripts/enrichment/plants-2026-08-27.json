@@ -1,0 +1,287 @@
+[
+  {
+    "match": "Fraxinus bungeana",
+    "fields": { "height": "2-5", "spread": "2-4", "sun": "full sun", "flowerColor": "黄绿", "bloomSeason": "春-夏", "evergreen": "deciduous", "leafForm": "羽状复叶" },
+    "sources": ["https://en.paperblog.com/plant-of-the-week-fraxinus-bungeana-566629/"]
+  },
+  {
+    "match": "Camellia trichoclada",
+    "fields": { "height": "1-2", "spread": "1-1.5", "sun": "part shade", "flowerColor": "白", "bloomSeason": "春", "evergreen": "evergreen", "leafForm": "细小椭圆形叶" },
+    "sources": ["http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242310271"]
+  },
+  {
+    "match": "Viburnum taitoense",
+    "fields": { "height": "1-2", "spread": "1-1.5", "sun": "part shade", "flowerColor": "白", "bloomSeason": "春-夏", "evergreen": "evergreen", "leafForm": "卵形叶" },
+    "sources": ["https://www.worldfloraonline.org/taxon/wfo-0001291121"]
+  },
+  {
+    "match": "Kerria japonica",
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "full sun to part shade", "flowerColor": "黄", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://dawesarb.arboretumexplorer.org/taxon-18996.aspx"]
+  },
+  {
+    "match": "Rhododendron simsii",
+    "fields": { "height": "1-2", "spread": "1-2", "sun": "part shade", "flowerColor": "红", "bloomSeason": "春", "evergreen": "evergreen", "leafForm": "卵形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/15682/rhododendron-simsii-ea/details"]
+  },
+  {
+    "match": "Callicarpa dichotoma",
+    "fields": { "height": "0.6-1.2", "spread": "0.9-1.5", "sun": "full sun to part shade", "flowerColor": "淡粉", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287487&isprofile=0&bt=7"]
+  },
+  {
+    "match": "Corylopsis sinensis",
+    "fields": { "height": "2.5-4", "spread": "2.5-4", "sun": "full sun to part shade", "flowerColor": "黄", "bloomSeason": "冬-春", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/92278/corylopsis-sinensis-var-sinensis/details"]
+  },
+  {
+    "match": "Spiraea japonica",
+    "fields": { "height": "1.2-1.8", "spread": "1.5-2", "sun": "full sun to part shade", "flowerColor": "粉", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286473"]
+  },
+  {
+    "match": "Hydrangea quercifolia",
+    "fields": { "height": "1.8-3", "spread": "2.4-3", "sun": "part shade", "flowerColor": "白", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "栎叶(深裂卵形)" },
+    "sources": ["https://plantfinder.nativeplanttrust.org/plant/Hydrangea-quercifolia"]
+  },
+  {
+    "match": "Philadelphus coronarius",
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "full sun to part shade", "flowerColor": "白", "bloomSeason": "春-夏", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/92563/philadelphus-coronarius/details"]
+  },
+  {
+    "match": "Enkianthus campanulatus",
+    "fields": { "height": "2-4", "spread": "2-3", "sun": "part shade to full sun", "flowerColor": "粉/红脉", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=390"]
+  },
+  {
+    "match": "Vaccinium corymbosum",
+    "fields": { "height": "1.5-3", "spread": "1.5-3", "sun": "full sun to part shade", "flowerColor": "白/粉", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279992"]
+  },
+  {
+    "match": "Euonymus phellomanus",
+    "fields": { "height": "2.5-4", "spread": "1.5-2.5", "sun": "full sun to part shade", "flowerColor": "黄绿", "bloomSeason": "春-夏", "evergreen": "deciduous", "leafForm": "椭圆形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/7014/euonymus-phellomanus/details"]
+  },
+  {
+    "match": "Itea ilicifolia",
+    "fields": { "height": "3-5", "spread": "1.5-2", "sun": "full sun to part shade", "flowerColor": "绿白", "bloomSeason": "夏", "evergreen": "evergreen", "leafForm": "刺状叶" },
+    "sources": ["https://www.rhs.org.uk/plants/9420/itea-ilicifolia/details"]
+  },
+  {
+    "match": "Lonicera fragrantissima",
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "full sun to part shade", "flowerColor": "白/奶油", "bloomSeason": "冬-春", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/68665/lonicera-fragrantissima/details"]
+  },
+  {
+    "match": "Ligustrum lucidum",
+    "fields": { "height": "9-12", "spread": "7-9", "sun": "full sun to part shade", "flowerColor": "白", "bloomSeason": "夏", "evergreen": "evergreen", "leafForm": "卵/椭圆形叶" },
+    "sources": ["http://plants.pikenursery.com/12291001/Results/Index/133?Cattree=True&senderAll=Trees"]
+  },
+  {
+    "match": "Amelanchier laevis",
+    "fields": { "height": "5-8", "spread": "4-6", "sun": "full sun to part shade", "flowerColor": "白", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "卵/椭圆形叶" },
+    "sources": ["http://plants.oaklandnursery.com/12130001/Results/Index/13?Cattrde=True&senderAll=Deciduous%2bTrees"]
+  },
+  {
+    "match": "Hamamelis mollis",
+    "fields": { "height": "2.5-4", "spread": "2.5-4", "sun": "full sun to part shade", "flowerColor": "黄", "bloomSeason": "冬-春", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/8246/hamamelis-mollis/details"]
+  },
+  {
+    "match": "Anemone hybrida",
+    "fields": { "height": "0.8-1.2", "spread": "0.6-0.9", "sun": "full sun to part shade", "flowerColor": "白/粉", "bloomSeason": "夏-秋", "evergreen": "deciduous", "leafForm": "卵形浅裂叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=e135"]
+  },
+  {
+    "match": "Thalictrum delavayi",
+    "fields": { "height": "0.9-1.5", "spread": "0.5-0.6", "sun": "part shade", "flowerColor": "紫红", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "细裂叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286295"]
+  },
+  {
+    "match": "Cyrtomium falcatum",
+    "fields": { "height": "0.3-0.6", "spread": "0.6-0.9", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "羽状复叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815"]
+  },
+  {
+    "match": "Dryopteris erythrosora",
+    "fields": { "height": "0.5-1", "spread": "0.5-1", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "羽状复叶" },
+    "sources": ["https://www.rhs.org.uk/plants/25899/dryopteris-erythrosora/details"]
+  },
+  {
+    "match": "Macrothelypteris oligophlebia",
+    "fields": { "height": "0.6-1.5", "spread": "0.5-1", "sun": "part shade", "leafForm": "羽状复叶" },
+    "sources": ["http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200004030"]
+  },
+  {
+    "match": "Dryopteris tokyoensis",
+    "fields": { "height": "0.6-1", "spread": "0.5-0.8", "sun": "part shade to shade", "evergreen": "deciduous", "leafForm": "羽状复叶" },
+    "sources": ["https://www.rhs.org.uk/plants/69247/dryopteris-tokyoensis/details"]
+  },
+  {
+    "match": "Pteris nipponica",
+    "fields": { "height": "0.3-0.5", "spread": "0.3-0.5", "sun": "part shade to shade", "leafForm": "羽状复叶" },
+    "sources": ["https://www.rhs.org.uk/plants/240129/pteris-nipponica/details"]
+  },
+  {
+    "match": "Scutellaria indica",
+    "fields": { "height": "0.1-0.3", "spread": "0.2-0.3", "sun": "part shade to shade", "flowerColor": "蓝紫", "bloomSeason": "春-夏", "evergreen": "evergreen", "leafForm": "卵形叶" },
+    "sources": ["http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200020320"]
+  },
+  {
+    "match": "Fritillaria thunbergii",
+    "fields": { "height": "0.5-0.6", "spread": "0.1-0.3", "sun": "part shade", "flowerColor": "淡黄带紫斑", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "披针叶" },
+    "sources": ["https://www.rhs.org.uk/plants/24174/fritillaria-thunbergii/details"]
+  },
+  {
+    "match": "Tricyrtis formosana",
+    "fields": { "height": "0.5-1", "spread": "0.3-0.5", "sun": "part shade to shade", "flowerColor": "淡紫带紫斑", "bloomSeason": "夏-秋", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/18350/tricyrtis-formosana/details"]
+  },
+  {
+    "match": "Disporopsis aspersa",
+    "fields": { "height": "0.3-0.5", "spread": "0.3-0.5", "sun": "part shade to shade", "flowerColor": "白", "bloomSeason": "春-夏", "evergreen": "evergreen", "leafForm": "卵至披针形" },
+    "sources": ["https://www.rhs.org.uk/plants/219228/disporopsis-aspersa/details"]
+  },
+  {
+    "match": "Iris ensata",
+    "fields": { "height": "0.6-1.2", "spread": "0.5-0.8", "sun": "full sun to part shade", "water": "wet", "flowerColor": "紫/白/粉", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "剑形叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281083"]
+  },
+  {
+    "match": "Patrinia villosa",
+    "fields": { "height": "0.6-1", "spread": "0.6-0.9", "sun": "full sun to part shade", "flowerColor": "白", "bloomSeason": "夏-秋", "evergreen": "deciduous", "leafForm": "羽裂叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287439"]
+  },
+  {
+    "match": "Campanula punctata",
+    "fields": { "height": "0.3-0.6", "spread": "0.3-0.45", "sun": "full sun to part shade", "flowerColor": "白/粉带紫斑", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=278821"]
+  },
+  {
+    "match": "Asarum splendens",
+    "fields": { "height": "0.1-0.3", "spread": "0.3-0.5", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "心/肾形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/107239/asarum-splendens/details"]
+  },
+  {
+    "match": "Dianthus superbus",
+    "fields": { "height": "0.3-0.8", "spread": "0.2-0.3", "sun": "full sun", "flowerColor": "粉紫", "bloomSeason": "夏", "evergreen": "evergreen", "leafForm": "线形叶" },
+    "sources": ["https://en.wikipedia.org/wiki/Dianthus_superbus"]
+  },
+  {
+    "match": "Lilium lancifolium",
+    "fields": { "height": "0.6-1.5", "spread": "0.3-0.5", "sun": "full sun to part shade", "flowerColor": "橙红带黑斑", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "披针叶" },
+    "sources": ["https://cornellbotanicgardens.org/plant/tiger-lily"]
+  },
+  {
+    "match": "Viburnum macrocephalum",
+    "fields": { "height": "1.8-3", "spread": "2-3", "sun": "full sun to part shade", "flowerColor": "白", "bloomSeason": "春-夏", "evergreen": "deciduous", "leafForm": "卵形叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=d583"]
+  },
+  {
+    "match": "Cercis canadensis",
+    "fields": { "height": "6-9", "spread": "6-8", "sun": "full sun to part shade", "flowerColor": "粉紫", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "心形叶" },
+    "sources": ["https://si.gardenexplorer.org/taxon-1242.aspx"]
+  },
+  {
+    "match": "Pavonia hastata",
+    "fields": { "height": "0.6-1.2", "spread": "0.6-0.9", "sun": "full sun to part shade", "flowerColor": "粉", "bloomSeason": "夏-秋", "evergreen": "deciduous", "leafForm": "戟形叶" },
+    "sources": ["https://friendsofmercer.com/Pavonia-hastata--Spearleaf-Swamp-Mallow-P_p_5679.html"]
+  },
+  {
+    "match": "Narcissus",
+    "fields": { "height": "0.3-0.5", "spread": "0.1-0.3", "sun": "full sun to part shade", "flowerColor": "黄/白/橙", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "带状叶" },
+    "sources": ["https://fresnogardening.org/eplant.php?plantnum=1630"]
+  },
+  {
+    "match": "Melianthus major",
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "full sun", "flowerColor": "红褐", "bloomSeason": "春-夏", "evergreen": "evergreen", "leafForm": "羽状裂叶" },
+    "sources": ["https://www.rhs.org.uk/plants/84304/melianthus-major/details"]
+  },
+  {
+    "match": "Acer buergerianum",
+    "fields": { "height": "5-8", "spread": "5-7", "sun": "full sun to part shade", "flowerColor": "黄绿", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "三角状卵形" },
+    "sources": ["https://kiefernursery.com/product/acer-buergerianum/"]
+  },
+  {
+    "match": "Cornus controversa",
+    "fields": { "height": "8-12", "spread": "6-8", "sun": "full sun to part shade", "flowerColor": "白", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "卵/椭圆形叶" },
+    "sources": ["https://plants.squakmtnursery.com/12230001/Plant/6195/Giant_Dogwood"]
+  },
+  {
+    "match": "Ternstroemia gymnanthera",
+    "fields": { "height": "2.5-4", "spread": "1.5-2.5", "sun": "part shade to full sun", "evergreen": "evergreen", "leafForm": "椭圆形叶" },
+    "sources": ["https://landscapeplants.oregonstate.edu/plants/ternstroemia-gymnanthera"]
+  },
+  {
+    "match": "Aucuba japonica",
+    "fields": { "height": "2.5-3", "spread": "2.5-3", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "椭圆形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/148757/aucuba-japonica/details"]
+  },
+  {
+    "match": "Fatsia japonica",
+    "fields": { "height": "2.5-4", "spread": "2.5-4", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "掌状裂叶" },
+    "sources": ["https://www.rhs.org.uk/plants/7147/fatsia-japonica/details"]
+  },
+  {
+    "match": "Aspidistra elatior",
+    "fields": { "height": "0.5-1", "spread": "0.3-0.5", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "长披针形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details"]
+  },
+  {
+    "match": "Hakonechloa macra",
+    "fields": { "height": "0.2-0.5", "spread": "0.3-0.5", "sun": "part shade to shade", "evergreen": "deciduous", "leafForm": "弧形线形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details"]
+  },
+  {
+    "match": "Bletilla striata",
+    "fields": { "height": "0.3-0.5", "spread": "0.3-0.5", "sun": "part shade", "flowerColor": "粉紫", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "披针形叶" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860"]
+  },
+  {
+    "match": "Saxifraga stolonifera",
+    "fields": { "height": "0.1-0.4", "spread": "0.3-0.5", "sun": "part shade to shade", "flowerColor": "白", "bloomSeason": "春-夏", "evergreen": "evergreen", "leafForm": "心形圆叶" },
+    "sources": ["https://www.rhs.org.uk/plants/98506/saxifraga-stolonifera-5/details"]
+  },
+  {
+    "match": "Helleborus thibetanus",
+    "fields": { "height": "0.3-0.5", "spread": "0.3-0.5", "sun": "part shade to shade", "flowerColor": "淡粉", "bloomSeason": "春", "evergreen": "deciduous", "leafForm": "掌状分裂叶" },
+    "sources": ["https://www.rhs.org.uk/plants/24575/helleborus-thibetanus/details"]
+  },
+  {
+    "match": "Epimedium sagittatum",
+    "fields": { "height": "0.3-0.5", "spread": "0.3-0.6", "sun": "part shade to shade", "flowerColor": "白", "bloomSeason": "春", "evergreen": "evergreen", "leafForm": "卵形叶" },
+    "sources": ["https://www.onlineplantguide.com/plant-details/3780"]
+  },
+  {
+    "match": "Disporum cantoniense",
+    "fields": { "height": "0.6-1.2", "spread": "0.5-0.8", "sun": "part shade", "flowerColor": "紫红/绿白", "bloomSeason": "春-夏", "evergreen": "deciduous", "leafForm": "披针形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/5982/disporum-cantoniense/details"]
+  },
+  {
+    "match": "Ajuga decumbens",
+    "fields": { "height": "0.1-0.3", "spread": "0.2-0.4", "sun": "full sun to part shade", "flowerColor": "紫/白", "bloomSeason": "春", "evergreen": "evergreen", "leafForm": "卵形叶" },
+    "sources": ["https://en.wikipedia.org/wiki/Ajuga_decumbens"]
+  },
+  {
+    "match": "Carex oshimensis",
+    "fields": { "height": "0.3-0.4", "spread": "0.3-0.4", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "线形叶" },
+    "sources": ["https://www.rhs.org.uk/plants/54557/carex-oshimensis/details"]
+  },
+  {
+    "match": "Typha minima",
+    "fields": { "height": "0.3-0.6", "spread": "0.3-0.5", "sun": "full sun", "water": "wet", "flowerColor": "黄褐", "bloomSeason": "夏", "evergreen": "deciduous", "leafForm": "线形叶" },
+    "sources": ["https://stage.gardenia.net/plant/typha-minima"]
+  },
+  {
+    "match": "Mahonia eurybracteata subsp. ganpinensis",
+    "fields": { "height": "1-1.5", "spread": "1", "sun": "part shade", "flowerColor": "黄", "bloomSeason": "秋-冬", "evergreen": "evergreen", "leafForm": "羽状复叶" },
+    "sources": ["https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250096504"]
+  },
+  {
+    "match": "Carex lingii",
+    "fields": { "height": "0.15-0.4", "spread": "0.2", "sun": "part shade to shade", "evergreen": "evergreen", "leafForm": "线形叶" },
+    "sources": ["http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250095526"]
+  }
+]
