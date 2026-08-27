@@ -10,7 +10,6 @@
     "flowerColor": "白",
     "bloomSeason": "夏",
     "leafForm": "心形叶",
-    
     "notes": "湿生水生植物，喜浅水，可用作水边及池畔点缀。"
   },
   {
@@ -24,7 +23,6 @@
     "flowerColor": "白",
     "bloomSeason": "夏-秋",
     "leafForm": "细长叶",
-    
     "notes": "湿生水生植物，挺拔穗状白花，宜水边丛植。"
   },
   {
@@ -38,7 +36,6 @@
     "flowerColor": "蓝紫",
     "bloomSeason": "春-夏",
     "leafForm": "剑形叶",
-    
     "notes": "湿生水生植物，喜水边及浅水，剑形叶，花挺拔。"
   },
   {
@@ -87,7 +84,6 @@
     "flowerColor": "白",
     "bloomSeason": "夏",
     "leafForm": "箭形叶",
-    
     "notes": "挺水水生植物，箭形叶，宜水边或浅水种植。"
   },
   {
@@ -101,7 +97,482 @@
     "flowerColor": "白",
     "bloomSeason": "夏",
     "leafForm": "卵形叶",
-    
     "notes": "挺水水生植物，叶似车前，花淡白，宜浅水。"
+  },
+  {
+    "chineseName": "小叶梣",
+    "latinName": "Fraxinus bungeana",
+    "genus": "梣属",
+    "family": "木犀科",
+    "category": "落叶乔木",
+    "aliases": "小叶白蜡"
+  },
+  {
+    "chineseName": "毛枝连蕊茶",
+    "latinName": "Camellia trichoclada",
+    "genus": "山茶属",
+    "family": "山茶科",
+    "category": "灌木",
+    "aliases": null
+  },
+  {
+    "chineseName": "台东荚蒾",
+    "latinName": "Viburnum taitoense",
+    "genus": "荚蒾属",
+    "family": "五福花科",
+    "category": "灌木",
+    "aliases": null
+  },
+  {
+    "chineseName": "棣棠",
+    "latinName": "Kerria japonica",
+    "genus": "棣棠花属",
+    "family": "蔷薇科",
+    "category": "灌木",
+    "aliases": null
+  },
+  {
+    "chineseName": "溲疏",
+    "latinName": "Deutzia scabra",
+    "genus": "溲疏属",
+    "family": "绣球花科",
+    "category": "灌木",
+    "aliases": "雪樱花·日光·斑丽"
+  },
+  {
+    "chineseName": "映山红",
+    "latinName": "Rhododendron simsii",
+    "genus": "杜鹃花属",
+    "family": "杜鹃花科",
+    "category": "灌木",
+    "aliases": "杜鹃"
+  },
+  {
+    "chineseName": "白棠子树",
+    "latinName": "Callicarpa dichotoma",
+    "genus": "紫珠属",
+    "family": "唇形科",
+    "category": "灌木",
+    "aliases": null
+  },
+  {
+    "chineseName": "湖北蜡瓣花",
+    "latinName": "Corylopsis sinensis",
+    "genus": "蜡瓣花属",
+    "family": "金缕梅科",
+    "category": "灌木",
+    "aliases": "蜡瓣花"
+  },
+  {
+    "chineseName": "绣线菊",
+    "latinName": "Spiraea japonica",
+    "genus": "绣线菊属",
+    "family": "蔷薇科",
+    "category": "灌木",
+    "aliases": "金色喷泉·金焰绣线菊"
+  },
+  {
+    "chineseName": "栎叶绣球",
+    "latinName": "Hydrangea quercifolia",
+    "genus": "绣球属",
+    "family": "绣球花科",
+    "category": "灌木",
+    "aliases": "雪花·小蜜蜂"
+  },
+  {
+    "chineseName": "山梅花",
+    "latinName": "Philadelphus coronarius",
+    "genus": "山梅花属",
+    "family": "绣球花科",
+    "category": "灌木",
+    "aliases": "金叶山梅花"
+  },
+  {
+    "chineseName": "粉花吊钟",
+    "latinName": "Enkianthus campanulatus",
+    "genus": "吊钟花属",
+    "family": "杜鹃花科",
+    "category": "灌木",
+    "aliases": "布纹吊钟花"
+  },
+  {
+    "chineseName": "蓝莓",
+    "latinName": "Vaccinium corymbosum",
+    "genus": "越橘属",
+    "family": "杜鹃花科",
+    "category": "灌木",
+    "aliases": "高丛蓝莓"
+  },
+  {
+    "chineseName": "栓翅卫矛",
+    "latinName": "Euonymus phellomanus",
+    "genus": "卫矛属",
+    "family": "卫矛科",
+    "category": "灌木",
+    "aliases": "鬼箭羽"
+  },
+  {
+    "chineseName": "冬青叶鼠刺",
+    "latinName": "Itea ilicifolia",
+    "genus": "鼠刺属",
+    "family": "鼠刺科",
+    "category": "灌木",
+    "aliases": null
+  },
+  {
+    "chineseName": "郁香忍冬",
+    "latinName": "Lonicera fragrantissima",
+    "genus": "忍冬属",
+    "family": "忍冬科",
+    "category": "灌木",
+    "aliases": "香忍冬"
+  },
+  {
+    "chineseName": "女贞",
+    "latinName": "Ligustrum lucidum",
+    "genus": "女贞属",
+    "family": "木犀科",
+    "category": "常绿乔木",
+    "aliases": null
+  },
+  {
+    "chineseName": "平滑唐棣",
+    "latinName": "Amelanchier laevis",
+    "genus": "唐棣属",
+    "family": "蔷薇科",
+    "category": "落叶乔木",
+    "aliases": "光滑唐棣"
+  },
+  {
+    "chineseName": "金缕梅",
+    "latinName": "Hamamelis mollis",
+    "genus": "金缕梅属",
+    "family": "金缕梅科",
+    "category": "灌木",
+    "aliases": null
+  },
+  {
+    "chineseName": "杂交银莲花",
+    "latinName": "Anemone hybrida",
+    "genus": "银莲花属",
+    "family": "毛茛科",
+    "category": "宿根草本",
+    "aliases": "秋牡丹"
+  },
+  {
+    "chineseName": "偏翅唐松草",
+    "latinName": "Thalictrum delavayi",
+    "genus": "唐松草属",
+    "family": "毛茛科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "全缘贯众",
+    "latinName": "Cyrtomium falcatum",
+    "genus": "贯众属",
+    "family": "鳞毛蕨科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "红盖鳞毛蕨",
+    "latinName": "Dryopteris erythrosora",
+    "genus": "鳞毛蕨属",
+    "family": "鳞毛蕨科",
+    "category": "宿根草本",
+    "aliases": "红蕨"
+  },
+  {
+    "chineseName": "针毛蕨",
+    "latinName": "Macrothelypteris oligophlebia",
+    "genus": "针毛蕨属",
+    "family": "金星蕨科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "东京木蕨",
+    "latinName": "Dryopteris tokyoensis",
+    "genus": "鳞毛蕨属",
+    "family": "鳞毛蕨科",
+    "category": "宿根草本",
+    "aliases": "东京鳞毛蕨"
+  },
+  {
+    "chineseName": "阿波银线蕨",
+    "latinName": "Pteris nipponica",
+    "genus": "凤尾蕨属",
+    "family": "凤尾蕨科",
+    "category": "宿根草本",
+    "aliases": "日本凤尾蕨"
+  },
+  {
+    "chineseName": "韩信草",
+    "latinName": "Scutellaria indica",
+    "genus": "黄芩属",
+    "family": "唇形科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "浙贝母",
+    "latinName": "Fritillaria thunbergii",
+    "genus": "贝母属",
+    "family": "百合科",
+    "category": "宿根草本",
+    "aliases": "象贝"
+  },
+  {
+    "chineseName": "金边油点草",
+    "latinName": "Tricyrtis formosana",
+    "genus": "油点草属",
+    "family": "百合科",
+    "category": "宿根草本",
+    "aliases": "油点草"
+  },
+  {
+    "chineseName": "散斑竹根七",
+    "latinName": "Disporopsis aspersa",
+    "genus": "竹根七属",
+    "family": "天门冬科",
+    "category": "宿根草本",
+    "aliases": "散斑假万寿竹"
+  },
+  {
+    "chineseName": "石菖蒲",
+    "latinName": "Acorus gramineus",
+    "genus": "菖蒲属",
+    "family": "天南星科",
+    "category": "水生植物",
+    "aliases": null,
+    "notes": "与金钱蒲同种(石菖蒲为其别名)"
+  },
+  {
+    "chineseName": "花菖蒲",
+    "latinName": "Iris ensata",
+    "genus": "鸢尾属",
+    "family": "鸢尾科",
+    "category": "水生植物",
+    "aliases": "玉蝉花·紫花鸢尾"
+  },
+  {
+    "chineseName": "白花败酱",
+    "latinName": "Patrinia villosa",
+    "genus": "败酱属",
+    "family": "忍冬科",
+    "category": "宿根草本",
+    "aliases": "攀倒甑"
+  },
+  {
+    "chineseName": "紫斑风铃草",
+    "latinName": "Campanula punctata",
+    "genus": "风铃草属",
+    "family": "桔梗科",
+    "category": "宿根草本",
+    "aliases": "吊钟花"
+  },
+  {
+    "chineseName": "青城细辛",
+    "latinName": "Asarum splendens",
+    "genus": "细辛属",
+    "family": "马兜铃科",
+    "category": "宿根草本",
+    "aliases": "花脸细辛"
+  },
+  {
+    "chineseName": "瞿麦",
+    "latinName": "Dianthus superbus",
+    "genus": "石竹属",
+    "family": "石竹科",
+    "category": "宿根草本",
+    "aliases": "丁香石竹"
+  },
+  {
+    "chineseName": "卷丹",
+    "latinName": "Lilium lancifolium",
+    "genus": "百合属",
+    "family": "百合科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "粉团荚蒾",
+    "latinName": "Viburnum macrocephalum",
+    "genus": "荚蒾属",
+    "family": "五福花科",
+    "category": "灌木",
+    "aliases": "绣球荚蒾"
+  },
+  {
+    "chineseName": "加拿大紫荆",
+    "latinName": "Cercis canadensis",
+    "genus": "紫荆属",
+    "family": "豆科",
+    "category": "落叶乔木",
+    "aliases": "永恒之火"
+  },
+  {
+    "chineseName": "高砂芙蓉",
+    "latinName": "Pavonia hastata",
+    "genus": "孔雀葵属",
+    "family": "锦葵科",
+    "category": "灌木",
+    "aliases": "戟叶孔雀葵·粉葵"
+  },
+  {
+    "chineseName": "洋水仙",
+    "latinName": "Narcissus",
+    "genus": "水仙属",
+    "family": "石蒜科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "南非蜜花",
+    "latinName": "Melianthus major",
+    "genus": "蜜花属",
+    "family": "新妇花科",
+    "category": "灌木",
+    "aliases": "大蜜花"
+  },
+  {
+    "chineseName": "三角槭",
+    "latinName": "Acer buergerianum",
+    "genus": "槭属",
+    "family": "无患子科",
+    "category": "落叶乔木",
+    "aliases": "三角枫"
+  },
+  {
+    "chineseName": "花叶灯台树",
+    "latinName": "Cornus controversa",
+    "genus": "山茱萸属",
+    "family": "山茱萸科",
+    "category": "落叶乔木",
+    "aliases": "灯台树"
+  },
+  {
+    "chineseName": "厚皮香",
+    "latinName": "Ternstroemia gymnanthera",
+    "genus": "厚皮香属",
+    "family": "五列木科",
+    "category": "灌木",
+    "aliases": null
+  },
+  {
+    "chineseName": "桃叶洒金珊瑚",
+    "latinName": "Aucuba japonica",
+    "genus": "桃叶珊瑚属",
+    "family": "丝缨木科",
+    "category": "灌木",
+    "aliases": "洒金珊瑚"
+  },
+  {
+    "chineseName": "花叶八角金盘",
+    "latinName": "Fatsia japonica",
+    "genus": "八角金盘属",
+    "family": "五加科",
+    "category": "灌木",
+    "aliases": "八角金盘"
+  },
+  {
+    "chineseName": "一叶兰",
+    "latinName": "Aspidistra elatior",
+    "genus": "蜘蛛抱蛋属",
+    "family": "天门冬科",
+    "category": "宿根草本",
+    "aliases": "蜘蛛抱蛋"
+  },
+  {
+    "chineseName": "箱根草",
+    "latinName": "Hakonechloa macra",
+    "genus": "箱根草属",
+    "family": "禾本科",
+    "category": "宿根草本",
+    "aliases": "细叶箱根草"
+  },
+  {
+    "chineseName": "白芨",
+    "latinName": "Bletilla striata",
+    "genus": "白及属",
+    "family": "兰科",
+    "category": "宿根草本",
+    "aliases": "白及"
+  },
+  {
+    "chineseName": "虎耳草",
+    "latinName": "Saxifraga stolonifera",
+    "genus": "虎耳草属",
+    "family": "虎耳草科",
+    "category": "宿根草本",
+    "aliases": "金丝荷叶"
+  },
+  {
+    "chineseName": "铁筷子",
+    "latinName": "Helleborus thibetanus",
+    "genus": "铁筷子属",
+    "family": "毛茛科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "淫羊藿",
+    "latinName": "Epimedium sagittatum",
+    "genus": "淫羊藿属",
+    "family": "小檗科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "万寿竹",
+    "latinName": "Disporum cantoniense",
+    "genus": "万寿竹属",
+    "family": "天门冬科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "筋骨草",
+    "latinName": "Ajuga decumbens",
+    "genus": "筋骨草属",
+    "family": "唇形科",
+    "category": "宿根草本",
+    "aliases": null
+  },
+  {
+    "chineseName": "薹草",
+    "latinName": "Carex oshimensis",
+    "genus": "薹草属",
+    "family": "莎草科",
+    "category": "宿根草本",
+    "aliases": "凤凰绿·埃弗利斯特"
+  },
+  {
+    "chineseName": "小水蜡烛",
+    "latinName": "Typha minima",
+    "genus": "香蒲属",
+    "family": "香蒲科",
+    "category": "水生植物",
+    "notes": null,
+    "aliases": "小香蒲·细叶香蒲"
+  },
+  {
+    "chineseName": "安坪十大功劳",
+    "latinName": "Mahonia eurybracteata subsp. ganpinensis",
+    "genus": "十大功劳属",
+    "family": "小檗科",
+    "category": "灌木",
+    "notes": null,
+    "aliases": "宽苞十大功劳"
+  },
+  {
+    "chineseName": "林氏薹草",
+    "latinName": "Carex lingii",
+    "genus": "薹草属",
+    "family": "莎草科",
+    "category": "宿根草本",
+    "notes": null,
+    "aliases": null
   }
 ]
