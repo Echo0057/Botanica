@@ -4,7 +4,7 @@ export const SUN_LABELS = {
   shade: '荫',
 };
 
-// 新的植物分类(常绿乔木 / 落叶乔木 / 灌木 / 宿根草本 / 藤本 / 地被 / 水岸植物)
+// 新的植物分类(常绿乔木 / 落叶乔木 / 灌木 / 宿根草本 / 藤本 / 地被 / 水生植物)
 export const PLANT_CATEGORIES = [
   '常绿乔木',
   '落叶乔木',
@@ -12,7 +12,7 @@ export const PLANT_CATEGORIES = [
   '宿根草本',
   '藤本',
   '地被',
-  '水岸植物',
+  '水生植物',
 ];
 
 export function categoryOf(plant) {

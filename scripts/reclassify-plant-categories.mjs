@@ -2,7 +2,7 @@
 //   1) 宿根 → 灌木(亚灌木/木本)/常绿乔木/藤本 的错位修正
 //   2) 水生植物 → 落叶乔木/灌木 的错位修正
 //   3) 匍匐攀缘 拆分为 藤本 + 地被
-//   4) 剩余 宿根 → 宿根草本, 水生植物 → 水岸植物
+//   4) 剩余 宿根 → 宿根草本(水生植物名称不变)
 // 用法: node scripts/reclassify-plant-categories.mjs
 
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
@@ -73,7 +73,6 @@ const MOVES = {
 // 旧分类 → 新分类(批量改名)
 const RENAME = {
   宿根: '宿根草本',
-  水生植物: '水岸植物',
 };
 
 if (!existsSync(PLANTS_PATH)) {

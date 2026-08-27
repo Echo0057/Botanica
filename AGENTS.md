@@ -84,7 +84,7 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 
 ## Working conventions
 
-- The app is organized into **7 categories** (常绿乔木 / 落叶乔木 / 灌木 / 宿根草本 / 藤本 / 地被 / 水岸植物), derived from the `category` field. The original Excel "design layers" (设计层) are collapsed into these categories; the `designLayer` field was removed as redundant. The former 匍匐攀缘 category was split into 藤本 (climbers) and 地被 (groundcovers); 宿根 → 宿根草本, 水生植物 → 水岸植物 (see `scripts/reclassify-plant-categories.mjs`).
+- The app is organized into **7 categories** (常绿乔木 / 落叶乔木 / 灌木 / 宿根草本 / 藤本 / 地被 / 水生植物), derived from the `category` field. The original Excel "design layers" (设计层) are collapsed into these categories; the `designLayer` field was removed as redundant. The former 匍匐攀缘 category was split into 藤本 (climbers) and 地被 (groundcovers); 宿根 → 宿根草本 (see `scripts/reclassify-plant-categories.mjs`).
 - Keep the first version intentionally minimal: browse the 7 categories, search by name, filter by category, plant detail + images.
 - "Design palette / pairing" is phase 2: group selected plants by category and add a bloom-season continuity check.
 - Prefer a pure-frontend approach. Do not add a backend or SQLite unless the user explicitly asks.
