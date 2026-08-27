@@ -10,7 +10,7 @@
     "flowerColor": "白",
     "bloomSeason": "夏",
     "leafForm": "心形叶",
-    "reliability": "强健",
+    
     "notes": "湿生水生植物，喜浅水，可用作水边及池畔点缀。"
   },
   {
@@ -24,7 +24,7 @@
     "flowerColor": "白",
     "bloomSeason": "夏-秋",
     "leafForm": "细长叶",
-    "reliability": "强健",
+    
     "notes": "湿生水生植物，挺拔穗状白花，宜水边丛植。"
   },
   {
@@ -38,7 +38,7 @@
     "flowerColor": "蓝紫",
     "bloomSeason": "春-夏",
     "leafForm": "剑形叶",
-    "reliability": "强健",
+    
     "notes": "湿生水生植物，喜水边及浅水，剑形叶，花挺拔。"
   },
   {
@@ -87,7 +87,7 @@
     "flowerColor": "白",
     "bloomSeason": "夏",
     "leafForm": "箭形叶",
-    "reliability": "强健",
+    
     "notes": "挺水水生植物，箭形叶，宜水边或浅水种植。"
   },
   {
@@ -101,7 +101,7 @@
     "flowerColor": "白",
     "bloomSeason": "夏",
     "leafForm": "卵形叶",
-    "reliability": "强健",
+    
     "notes": "挺水水生植物，叶似车前，花淡白，宜浅水。"
   }
 ]

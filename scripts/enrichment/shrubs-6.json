@@ -1,32 +1,32 @@
 [
   {
     "match": "Ardisia crenata",
-    "fields": { "height": "0.8-1.5", "spread": "0.8-1.5", "sun": "shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "8-10", "bloomSeason": "夏", "flowerColor": "白" },
+    "fields": { "height": "0.8-1.5", "spread": "0.8-1.5", "sun": "shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶",   "hardinessZone": "8-10", "bloomSeason": "夏", "flowerColor": "白" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282841", "http://plants.pikenursery.com/12291001/Plant/17030/"]
   },
   {
     "match": "Sarcandra",
-    "fields": { "height": "0.3-0.9", "spread": "0.5-1", "sun": "shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "0.3-0.9", "spread": "0.5-1", "sun": "shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶",   "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["http://plants.pikenursery.com/12291001/Plant/10058/Sarcandra", "https://woodlanders.net/collections/woody-plants/products/sarcandra-glabra"]
   },
   {
     "match": "Rhapis",
-    "fields": { "height": "1.3-2.5", "spread": "1.3-2", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "扇形叶", "reliability": "强健",  "hardinessZone": "9-11" },
+    "fields": { "height": "1.3-2.5", "spread": "1.3-2", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "扇形叶",   "hardinessZone": "9-11" },
     "sources": ["https://plantdatabase.kpu.ca/Plant/rhex", "http://plants.pikenursery.com/12291001/Plant/25630/"]
   },
   {
     "match": "Chimonanthus",
-    "fields": { "height": "2-4", "spread": "1.5-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "冬", "flowerColor": "黄" },
+    "fields": { "height": "2-4", "spread": "1.5-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "6-9", "bloomSeason": "冬", "flowerColor": "黄" },
     "sources": ["http://plants.pikenursery.com/12291001/Plant/3412/", "https://landscapeplants.oregonstate.edu/plants/chimonanthus-praecox"]
   },
   {
     "match": "Ficus carica",
-    "fields": { "height": "2-5", "spread": "2-5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健",  "hardinessZone": "6-9" },
+    "fields": { "height": "2-5", "spread": "2-5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "掌状裂叶",   "hardinessZone": "6-9" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c944", "https://mortonarb.org/plant-and-protect/trees-and-plants/common-fig/"]
   },
   {
     "match": "Spiraea cantoniensis",
-    "fields": { "height": "1.2-2.5", "spread": "1.2-2.5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "1.2-2.5", "spread": "1.2-2.5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "6-9", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://hort.ifas.ufl.edu/database/documents/pdf/shrub_fact_sheets/spicana.pdf", "http://www.onlineplantguide.com/Plant-Details/2570/"]
   }
 ]

@@ -57,7 +57,7 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 - **Continuation rows**: many cultivar rows leave genus/order/family blank and inherit them from the row above. The import script must carry these forward.
 - **Genus-level records**: some Latin names are genus-only (e.g. `Salvia`, `Laurus`), meaning the whole genus is usable — flag this clearly.
 - **Missing Latin names**: ~49 rows have genus/species info but no Latin name — mark them as "学名待核对" (name needs verification).
-- **Free-text characteristics**: `特性` is unstructured; extracting structured fields (sun, water, height, bloom season, flower color, reliability/可靠度) enables filtering.
+- **Free-text characteristics**: `特性` is unstructured; extracting structured fields (sun, water, height, bloom season, flower color) enables filtering.
 - **No images or size/bloom data yet** — these are the main enrichment targets.
 
 ### Reference databases for enrichment / verification
@@ -71,7 +71,7 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 
 ## Data model (per plant record)
 
-`id` · `chineseName` · `latinName` · `genus` · `family` · `aliases` · `category` · `evergreen` (evergreen/deciduous) · `height` · `spread` · `sun` (full sun / part shade / shade) · `water` (dry / medium / wet) · `bloomSeason` · `flowerColor` · `seasonOfInterest` · `reliability` · `leafForm` · `persistence` · `hardinessZone` · `missingName` · `genusOnly` · `images[]` · `tags[]` · `sources[]`.
+`id` · `chineseName` · `latinName` · `genus` · `family` · `aliases` · `category` · `evergreen` (evergreen/deciduous) · `height` · `spread` · `sun` (full sun / part shade / shade) · `water` (dry / medium / wet) · `bloomSeason` · `flowerColor` · `seasonOfInterest` · `leafForm` · `persistence` · `hardinessZone` · `missingName` · `genusOnly` · `images[]` · `tags[]` · `sources[]`.
 
 > **Classification**: unified to **APG IV** (standard for angiosperms; ferns use PPG I). Only 科(family)-属(genus)-种(species) are kept — the `order` (目) field was removed. The database is **species-level**: different horticultural cultivars under the same species are collapsed into one record (see `scripts/consolidate-species.mjs`).
 

@@ -1,32 +1,32 @@
 [
   {
     "match": "Ozothamnus diosmifolius",
-    "fields": { "height": "1-1.8", "spread": "0.6-1.2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健",  "hardinessZone": "9-11", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "1-1.8", "spread": "0.6-1.2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶",   "hardinessZone": "9-11", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://www.monrovia.com/dark-pink-rice-flower.html", "http://plants.pikenursery.com/12291001/Plant/19986/"]
   },
   {
     "match": "Caryopteris x clandonensis",
-    "fields": { "height": "0.6-1.2", "spread": "0.6-1.2", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "细长叶", "reliability": "强健",  "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫" },
+    "fields": { "height": "0.6-1.2", "spread": "0.6-1.2", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "细长叶",   "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫" },
     "sources": ["https://www.monrovia.com/blue-mist-bluebeard.html", "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=330"]
   },
   {
     "match": "Buddleja lindleyana",
-    "fields": { "height": "1.5-2.5", "spread": "1.5-2", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫" },
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫" },
     "sources": ["https://davesgarden.com/guides/pf/print/57955", "https://www.plantsnap.com/plant-care/buddleja-lindleyana"]
   },
   {
     "match": "Baccharis halimifolia",
-    "fields": { "height": "1.5-3.5", "spread": "1.5-3.5", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "5-9", "bloomSeason": "秋", "flowerColor": "白" },
+    "fields": { "height": "1.5-3.5", "spread": "1.5-3.5", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "5-9", "bloomSeason": "秋", "flowerColor": "白" },
     "sources": ["https://www.jerseyyards.org/plant/baccharis-halimifolia/", "https://newmoonnursery.com/nursery-plants/baccharis-halimifolia/"]
   },
   {
     "match": "Anisodontea capensis",
-    "fields": { "height": "0.6-1", "spread": "0.5-0.9", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "需照料",  "hardinessZone": "8-9", "bloomSeason": "夏-秋", "flowerColor": "粉" },
+    "fields": { "height": "0.6-1", "spread": "0.5-0.9", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶",   "hardinessZone": "8-9", "bloomSeason": "夏-秋", "flowerColor": "粉" },
     "sources": ["https://www.gardenia.net/plant/anisodontea-capensis", "https://www.rhs.org.uk/plants/1298/i-anisodontea-capensis-i/details"]
   },
   {
     "match": "Crossostephium chinense",
-    "fields": { "height": "0.3-0.9", "spread": "0.4-0.8", "sun": "full sun", "water": "wet", "evergreen": "evergreen", "leafForm": "匙形叶", "reliability": "需照料",  "hardinessZone": "8-10", "bloomSeason": "秋-冬", "flowerColor": "黄" },
+    "fields": { "height": "0.3-0.9", "spread": "0.4-0.8", "sun": "full sun", "water": "wet", "evergreen": "evergreen", "leafForm": "匙形叶",   "hardinessZone": "8-10", "bloomSeason": "秋-冬", "flowerColor": "黄" },
     "sources": ["https://baike.baidu.com/item/芙蓉菊/8388872", "https://tlpg.hsiliu.org.tw/search/view/300"]
   }
 ]

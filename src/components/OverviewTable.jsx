@@ -9,7 +9,6 @@ const COLUMNS = [
   { key: 'leaf', label: '叶/形态' },
   { key: 'bloom', label: '花色·花期' },
   { key: 'sun', label: '日照' },
-  { key: 'reliability', label: '可靠度' },
 ];
 
 const dash = '—';
@@ -43,8 +42,6 @@ function value(p, key) {
       return bloom(p);
     case 'sun':
       return p.sun ? SUN_LABELS[p.sun] || p.sun : dash;
-    case 'reliability':
-      return cell(p.reliability);
     default:
       return dash;
   }

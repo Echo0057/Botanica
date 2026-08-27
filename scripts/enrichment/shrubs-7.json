@@ -1,32 +1,32 @@
 [
   {
     "match": "Spiraea alpina",
-    "fields": { "height": "0.3-1", "spread": "0.5-1", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "4-8", "bloomSeason": "夏", "flowerColor": "白" },
+    "fields": { "height": "0.3-1", "spread": "0.5-1", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "4-8", "bloomSeason": "夏", "flowerColor": "白" },
     "sources": ["https://www.rhs.org.uk/plants/10907/spiraea-alpina/details"]
   },
   {
     "match": "Spiraea x vanhouttei",
-    "fields": { "height": "1.5-2.5", "spread": "2-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "4-8", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "1.5-2.5", "spread": "2-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "4-8", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://www.rhs.org.uk/plants/97141/spiraea-vanhouttei/details", "https://plantdatabase.kpu.ca/Plant/spva"]
   },
   {
     "match": "Chaenomeles speciosa",
-    "fields": { "height": "1-2.5", "spread": "1-2.5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "4-8", "bloomSeason": "春", "flowerColor": "红" },
+    "fields": { "height": "1-2.5", "spread": "1-2.5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "4-8", "bloomSeason": "春", "flowerColor": "红" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=244222", "https://plantdatabase.kpu.ca/Plant/chsp"]
   },
   {
     "match": "Viburnum keteleeri",
-    "fields": { "height": "2-3", "spread": "2-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "2-3", "spread": "2-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "6-9", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://baike.baidu.com/item/绣球荚蒾/6987884"]
   },
   {
     "match": "Viburnum opulus",
-    "fields": { "height": "2-4", "spread": "2-4", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健",  "hardinessZone": "3-8", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "2-4", "spread": "2-4", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "掌状裂叶",   "hardinessZone": "3-8", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://www.rhs.org.uk/plants/18919/viburnum-opulus/details", "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/8e3d8fdd-4910-4e19-a960-0e9a4931f0cd/content"]
   },
   {
     "match": "Deutzia scabra",
-    "fields": { "height": "1.8-3", "spread": "1.2-2.5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "5-8", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "1.8-3", "spread": "1.2-2.5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶",   "hardinessZone": "5-8", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&pt=4&taxonid=286870", "https://plantdatabase.kpu.ca/Plant/desc"]
   }
 ]

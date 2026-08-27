@@ -1,32 +1,32 @@
 [
   {
     "match": "Santolina chamaecyparissus",
-    "fields": { "height": "0.3-0.6", "spread": "0.6-0.9", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细裂叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "夏", "flowerColor": "黄" },
+    "fields": { "height": "0.3-0.6", "spread": "0.6-0.9", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细裂叶",   "hardinessZone": "6-9", "bloomSeason": "夏", "flowerColor": "黄" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277227", "https://dplantdatabase.kpu.ca/Plant/sach"]
   },
   {
     "match": "Thymus vulgaris",
-    "fields": { "height": "0.15-0.3", "spread": "0.3-0.6", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健",  "hardinessZone": "5-9", "bloomSeason": "夏", "flowerColor": "粉" },
+    "fields": { "height": "0.15-0.3", "spread": "0.3-0.6", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶",   "hardinessZone": "5-9", "bloomSeason": "夏", "flowerColor": "粉" },
     "sources": ["https://plantdatabase.kpu.ca/Plant/thvu", "https://www.depts.ttu.edu/plantresources/Pages/directories/landscape-info-sheets/edible-info/Thymus-vulgaris.php"]
   },
   {
     "match": "Callistemon rigidus",
-    "fields": { "height": "1-2.5", "spread": "1.5-3", "sun": "full sun", "water": "wet", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健",  "hardinessZone": "9-10", "bloomSeason": "春-夏", "flowerColor": "红" },
+    "fields": { "height": "1-2.5", "spread": "1.5-3", "sun": "full sun", "water": "wet", "evergreen": "evergreen", "leafForm": "细长叶",   "hardinessZone": "9-10", "bloomSeason": "春-夏", "flowerColor": "红" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282891", "http://www.onlineplantguide.com/Plant-Details/384"]
   },
   {
     "match": "Cistus creticus",
-    "fields": { "height": "0.6-1.2", "spread": "0.9-1.2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "粉" },
+    "fields": { "height": "0.6-1.2", "spread": "0.9-1.2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶",   "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "粉" },
     "sources": ["https://plantlust.com/plants/14495/cistus-creticus/", "https://plantthis.com.au/plant-information.asp?gardener=11371&tabview=bio&plantSpot="]
   },
   {
     "match": "Convolvulus cneorum",
-    "fields": { "height": "0.3-0.6", "spread": "0.6-0.9", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健",  "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "0.3-0.6", "spread": "0.6-0.9", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶",   "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279298", "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/convolvuluscneorum.html"]
   },
   {
     "match": "Gomphostigma virgatum",
-    "fields": { "height": "1.2-2", "spread": "0.6-1.2", "sun": "full sun", "water": "wet", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健",  "hardinessZone": "9-11", "bloomSeason": "夏-秋", "flowerColor": "白" },
+    "fields": { "height": "1.2-2", "spread": "0.6-1.2", "sun": "full sun", "water": "wet", "evergreen": "evergreen", "leafForm": "细长叶",   "hardinessZone": "9-11", "bloomSeason": "夏-秋", "flowerColor": "白" },
     "sources": ["https://www.rhs.org.uk/plants/8082/gomphostigma-virgatum/details", "https://pza.sanbi.org/gomphostigma-virgatum"]
   }
 ]

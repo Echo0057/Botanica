@@ -41,7 +41,7 @@
 
 优先从海外权威库提取**结构字段**:
 
-- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`flowerColor`、`bloomSeason`、`hardinessZone`、`reliability`、`leafForm`。
+- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`flowerColor`、`bloomSeason`、`hardinessZone`、`leafForm`。
 - 把来源都记进该条的 `sources` 数组(站点 + URL)。
 
 ### 第 5 步:写入清单
@@ -61,7 +61,6 @@
   "spread": "0.5",
   "flowerColor": "白",
   "bloomSeason": "夏",
-  "reliability": "强健",
   "leafForm": "卵形叶",
   "notes": "一句话特性描述。",
   "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?..."],
@@ -126,8 +125,6 @@ npm run import:plants
 - **water**:MoBot 的 Water 区间 → `dry` / `wet`(中等的暂留空)。
 - **flowerColor / bloomSeason**:MoBot/RHS 的花色与花期转中文,`bloomSeason` 记季节(如 `夏季`、`春-夏`)。
 - **hardinessZone**:MoBot/RHS 的耐寒区(如 USDA 4-9)→ 记 `"4-9"`。
-- **reliability**:有 Good Plant Picks / Mount Cuba「表现佳/可靠」佐证记 `强健`;明确需要养护记 `需照料`;查不到留空。
-
 ### 交叉核对(重要)
 
 - **学名以 POWO / RHS 为正名;中文名以《中国植物志》/ iPlant 为准**;别名(不标准叫法)记到 `aliases`。
@@ -155,7 +152,6 @@ npm run import:plants
 | `water` | 否 | `dry` / `wet` |
 | `flowerColor` / `bloomSeason` | 否 | 花色 / 花期(如 `夏`) |
 | `leafForm` | 否 | 叶形/形态,如 `剑形叶` |
-| `reliability` | 否 | 可靠度(如 `强健`) |
 | `notes` | 否 | 一句话特性(映射到 `rawNotes`) |
 | `sources` | 否 | 来源 URL 数组 |
 | `images` | 否 | 本地 `public/images/` 文件名数组 |
