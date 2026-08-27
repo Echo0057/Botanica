@@ -1,0 +1,107 @@
+import { useEffect, useMemo, useState } from 'react';
+import plantsData from './data/plants.json';
+import FilterBar from './components/FilterBar.jsx';
+import PlantCard from './components/PlantCard.jsx';
+import PlantDetail from './components/PlantDetail.jsx';
+
+const FAV_KEY = 'botanica:favorites';
+
+function loadFavorites() {
+  try {
+    const raw = localStorage.getItem(FAV_KEY);
+    return new Set(raw ? JSON.parse(raw) : []);
+  } catch {
+    return new Set();
+  }
+}
+
+export default function App() {
+  const [plants] = useState(plantsData);
+  const [query, setQuery] = useState('');
+  const [layer, setLayer] = useState('all');
+  const [evergreen, setEvergreen] = useState('all');
+  const [selectedId, setSelectedId] = useState(null);
+  const [favorites, setFavorites] = useState(loadFavorites);
+
+  useEffect(() => {
+    localStorage.setItem(FAV_KEY, JSON.stringify([...favorites]));
+  }, [favorites]);
+
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return plants.filter((p) => {
+      if (layer !== 'all' && p.designLayer !== layer) return false;
+      if (evergreen !== 'all' && p.evergreen !== evergreen) return false;
+      if (q) {
+        const haystack = [p.chineseName, p.latinName, p.genus, p.family, p.order, p.aliases]
+          .filter(Boolean)
+          .join(' ')
+          .toLowerCase();
+        if (!haystack.includes(q)) return false;
+      }
+      return true;
+    });
+  }, [plants, query, layer, evergreen]);
+
+  const toggleFavorite = (id) => {
+    setFavorites((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      return next;
+    });
+  };
+
+  const selected = plants.find((p) => p.id === selectedId) || null;
+
+  return (
+    <div className="min-h-screen bg-stone-50 text-stone-800">
+      <header className="border-b border-stone-200 bg-white">
+        <div className="mx-auto max-w-6xl px-4 py-6">
+          <h1 className="text-3xl font-bold tracking-tight text-green-800">Botanica</h1>
+          <p className="mt-1 text-sm text-stone-500">江浙沪 · 自然主义花园植物数据库</p>
+        </div>
+      </header>
+
+      <main className="mx-auto max-w-6xl px-4 py-6">
+        <FilterBar
+          query={query}
+          onQuery={setQuery}
+          layer={layer}
+          onLayer={setLayer}
+          evergreen={evergreen}
+          onEvergreen={setEvergreen}
+        />
+
+        <div className="mt-4 text-sm text-stone-500">
+          共 {filtered.length} / {plants.length} 种
+        </div>
+
+        {filtered.length === 0 ? (
+          <div className="mt-10 rounded-lg border border-dashed border-stone-300 p-10 text-center text-stone-400">
+            没有符合条件的植物
+          </div>
+        ) : (
+          <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {filtered.map((p) => (
+              <PlantCard
+                key={p.id}
+                plant={p}
+                favorite={favorites.has(p.id)}
+                onToggleFavorite={toggleFavorite}
+                onOpen={() => setSelectedId(p.id)}
+              />
+            ))}
+          </div>
+        )}
+      </main>
+
+      <PlantDetail
+        plant={selected}
+        favorites={favorites}
+        onToggleFavorite={toggleFavorite}
+        onClose={() => setSelectedId(null)}
+      />
+    </div>
+  );
+}
