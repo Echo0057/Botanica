@@ -1,0 +1,117 @@
+[
+  {
+    "match": "Acer palmatum",
+    "fields": { "height": "2-6", "spread": "2-5", "sun": "part shade", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健", "habitat": "半荫·喜湿 · 乔木", "hardinessZone": "5-9", "bloomSeason": "春" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280632&letter=A"]
+  },
+  {
+    "match": "Acer japonicum",
+    "fields": { "height": "3-7", "spread": "3-6", "sun": "full sun", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健", "habitat": "半荫·喜湿 · 乔木", "hardinessZone": "5-7", "bloomSeason": "春" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275393", "https://plantdatabase.uconn.edu/detail.php?pid=16"]
+  },
+  {
+    "match": "Acer serrulatum",
+    "fields": { "height": "5-10", "spread": "3-6", "sun": "full sun", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "7-9" },
+    "sources": ["https://nativetree.forest.gov.tw/tree/Info/d9b3af3a4cf040b2bdac1146a07f5ade", "https://inature.app/species/acer-serrulatum-hayata/"]
+  },
+  {
+    "match": "Acer pictum",
+    "fields": { "height": "8-12", "spread": "4-8", "sun": "full sun", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "5-8" },
+    "sources": ["https://www.rhs.org.uk/plants/87420/acer-pictum/details", "https://landscapeplants.oregonstate.edu/plants/acer-pictum"]
+  },
+  {
+    "match": "Amelanchier canadensis",
+    "fields": { "height": "5-8", "spread": "4-6", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "3-7", "bloomSeason": "春", "flowerColor": "白" },
+    "sources": ["https://plantdatabase.kpu.ca/Plant/amca", "https://www.csu.org/water-wise-plants/shadblow-serviceberry"]
+  },
+  {
+    "match": "Prunus x yedoensis",
+    "fields": { "height": "6-10", "spread": "6-8", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "5-8", "bloomSeason": "春", "flowerColor": "白" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286608", "https://plantdatabase.uconn.edu/detail.php?pid=364"]
+  },
+  {
+    "match": "Prunus mume",
+    "fields": { "height": "3-6", "spread": "3-5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "6-9", "bloomSeason": "冬-春" },
+    "sources": ["https://landscapeplants.oregonstate.edu/plants/prunus-mume", "https://www.thespruce.com/prunus-mume-plum-blossom-care-guide-8426994"]
+  },
+  {
+    "match": "Malus pumila",
+    "fields": { "height": "4-8", "spread": "4-8", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "需照料", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "3-8", "bloomSeason": "春", "flowerColor": "粉" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264689", "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila"]
+  },
+  {
+    "match": "Metasequoia",
+    "fields": { "height": "20-30", "spread": "8-15", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "羽状叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "4-8" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=270524", "https://www.epicgardening.com/dawn-redwood-trees/"]
+  },
+  {
+    "match": "Taxodium",
+    "fields": { "height": "15-25", "spread": "6-8", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "羽状叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "5-9" },
+    "sources": ["https://u.osu.edu/plants/taxodium-distichum/", "https://plantdatabase.kpu.ca/Plant/tadi"]
+  },
+  {
+    "match": "Ginkgo",
+    "fields": { "height": "15-25", "spread": "8-12", "sun": "full sun", "evergreen": "deciduous", "leafForm": "扇形叶", "reliability": "极强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "3-8" },
+    "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280988", "https://greatplainsnursery.com/product/ginkgo-ginkgo-biloba/"]
+  },
+  {
+    "match": "Robinia pseudoacacia",
+    "fields": { "height": "10-18", "spread": "6-10", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "羽状叶", "reliability": "极强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "4-8", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "sources": ["https://plantdatabase.kpu.ca/Plant/rops", "https://u.osu.edu/plants/robinia-pseudoacacia/"]
+  },
+  {
+    "match": "Zelkova schneideriana",
+    "fields": { "height": "8-15", "spread": "5-8", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "6-9" },
+    "sources": ["https://www.vdberk.co.uk/index.php/trees/zelkova-schneideriana/", "https://pfaf.org/User/Plant.aspx?LatinName=Zelkova+schneideriana"]
+  },
+  {
+    "match": "Crataegus",
+    "fields": { "height": "4-6", "spread": "4-6", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "4-7", "bloomSeason": "春", "flowerColor": "白" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286345", "https://plantdatabase.kpu.ca/Plant/crla"]
+  },
+  {
+    "match": "Malus",
+    "fields": { "height": "4-8", "spread": "4-8", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "需照料", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "4-8", "bloomSeason": "春", "flowerColor": "粉" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264636", "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila"]
+  },
+  {
+    "match": "Quercus texana",
+    "fields": { "height": "15-25", "spread": "10-18", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "5-9" },
+    "sources": ["http://plants.pikenursery.com/12291001/Plant/17259/Nuttalls_Oak", "http://web.unthsc.edu/download/downloads/id/792/texas_red_oak"]
+  },
+  {
+    "match": "Sapindus",
+    "fields": { "height": "8-15", "spread": "6-8", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "羽状叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "8-11" },
+    "sources": ["https://davesgarden.com/guides/pf/print/81906", "https://shop.app/products/8023654662401/sapindus-mukorossi-seeds-indian-soapberry-tree"]
+  },
+  {
+    "match": "Koelreuteria bipinnata",
+    "fields": { "height": "6-12", "spread": "5-8", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "二回羽状叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "黄" },
+    "sources": ["https://www.mastergardenerssandiego.org/newclass/wp-content/uploads/2020/04/Andersen-Karen-Koelreuteria-bipinnata-reduced.pdf", "https://www.backyardgardener.com/plantname/koelreuteria-bipinnata-bougainvillea-golden-rain-tree/"]
+  },
+  {
+    "match": "Pistacia",
+    "fields": { "height": "8-11", "spread": "6-9", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "羽状叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "6-9", "bloomSeason": "春" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275957", "https://midvalleytrees.com/product/chinese-pistache/"]
+  },
+  {
+    "match": "Triadica",
+    "fields": { "height": "6-9", "spread": "4-6", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "极强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "8-10" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?pt=14&taxonid=368407", "https://www.csustan.edu/campus-tree-story-map/chinese-tallow-triadica-sebifera"]
+  },
+  {
+    "match": "Liquidambar styraciflua",
+    "fields": { "height": "15-22", "spread": "10-15", "sun": "full sun", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "5-9" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281024", "https://plantdatabase.kpu.ca/Plant/list"]
+  },
+  {
+    "match": "Liriodendron chinense x tulipifera",
+    "fields": { "height": "10-15", "spread": "7-10", "sun": "full sun", "evergreen": "deciduous", "leafForm": "马褂叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "5-9" },
+    "sources": ["https://www.havlis.cz/catalogue/liriodendron-x-tulipifera-x-chinense-hybrid-tul", "https://plantdatabase.kpu.ca/Plant/lich"]
+  },
+  {
+    "match": "Yulania x soulangeana",
+    "fields": { "height": "5-7", "spread": "4-6", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "4-9", "bloomSeason": "春", "flowerColor": "粉" },
+    "sources": ["https://www.princetonnj.gov/1533/April-2024---Saucer-Magnolia", "https://dplantdatabase.kpu.ca/Plant/maso"]
+  }
+]
