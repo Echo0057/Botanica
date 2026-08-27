@@ -1,4 +1,4 @@
-import { PLANT_CATEGORIES, categoryOf } from '../data/layers.js';
+import { PLANT_CATEGORIES, categoryOf, SUN_LABELS } from '../data/layers.js';
 
 const COLUMNS = [
   { key: 'name', label: '学名' },
