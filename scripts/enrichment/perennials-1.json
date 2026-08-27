@@ -1,0 +1,32 @@
+[
+  {
+    "match": "Ageratina adenophora",
+    "fields": { "height": "1-2", "spread": "0.8-1.2", "sun": "part shade", "leafForm": "卵形叶", "reliability": "极强健", "habitat": "半荫·喜湿 · 宿根", "hardinessZone": "8-10", "bloomSeason": "秋", "flowerColor": "白" },
+    "sources": ["https://weeds.brisbane.qld.gov.au/weeds/crofton-weed", "https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Ageratina_adenophora_%28Crofton_Weed%29.htm"]
+  },
+  {
+    "match": "Dietes bicolor",
+    "fields": { "height": "0.6-0.9", "spread": "0.6-0.9", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "剑形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 宿根", "hardinessZone": "8-11", "bloomSeason": "春-夏", "flowerColor": "黄" },
+    "sources": ["https://midvalleytrees.com/product/dietes-bicolor-milky-way/", "https://nativegardeners.com/collections/swiss-avenue-garden-tour-collection/products/bicolor-iris"]
+  },
+  {
+    "match": "Dianella ensifolia",
+    "fields": { "height": "0.5-0.9", "spread": "0.4-0.6", "sun": "part shade", "water": "dry", "evergreen": "evergreen", "leafForm": "剑形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 宿根", "hardinessZone": "8-11", "bloomSeason": "春-夏", "flowerColor": "蓝紫" },
+    "sources": ["http://www.fnai.org/Invasives/Dianella_ensifolia_FNAI.pdf", "https://www.bhg.com/gardening/plant-dictionary/perennial/flax-lily/"]
+  },
+  {
+    "match": "Agapanthus praecox",
+    "fields": { "height": "0.5-0.9", "spread": "0.6-0.9", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "带状叶", "reliability": "强健", "habitat": "全日照·耐旱 · 宿根", "hardinessZone": "7-10", "bloomSeason": "夏", "flowerColor": "蓝紫" },
+    "sources": ["http://plants.pikenursery.com/12291001/Plant/26960/", "https://pix.davesgarden.com/guides/pf/print/166816"]
+  },
+  {
+    "match": "Euphorbia",
+    "fields": { "height": "0.5-0.9", "spread": "0.5-0.8", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 宿根", "hardinessZone": "5-9", "bloomSeason": "春-夏", "flowerColor": "黄" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=256635", "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=245685"]
+  },
+  {
+    "match": "Nepeta cataria",
+    "fields": { "height": "0.6-0.9", "spread": "0.6-0.9", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 宿根", "hardinessZone": "3-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫" },
+    "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281406", "https://plantmaster.com/plants/eplant.php?plantnum=4535&project=9121"]
+  }
+]
