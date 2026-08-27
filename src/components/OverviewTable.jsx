@@ -4,14 +4,11 @@ const COLUMNS = [
   { key: 'name', label: '学名' },
   { key: 'family', label: '科' },
   { key: 'genus', label: '属' },
-  { key: 'habitat', label: '生境' },
   { key: 'height', label: '高度(m)' },
   { key: 'spread', label: '冠幅(m)' },
-  { key: 'density', label: '密度(株/㎡)' },
   { key: 'leaf', label: '叶/形态' },
   { key: 'bloom', label: '花色·花期' },
   { key: 'sun', label: '日照' },
-  { key: 'life', label: '寿命' },
   { key: 'reliability', label: '可靠度' },
 ];
 
@@ -36,22 +33,16 @@ function value(p, key) {
       return cell(p.family);
     case 'genus':
       return cell(p.genus);
-    case 'habitat':
-      return cell(p.habitat);
     case 'height':
       return cell(p.height);
     case 'spread':
       return cell(p.spread);
-    case 'density':
-      return cell(p.density);
     case 'leaf':
       return cell(p.leafForm);
     case 'bloom':
       return bloom(p);
     case 'sun':
       return p.sun ? SUN_LABELS[p.sun] || p.sun : dash;
-    case 'life':
-      return cell(p.lifespan);
     case 'reliability':
       return cell(p.reliability);
     default:

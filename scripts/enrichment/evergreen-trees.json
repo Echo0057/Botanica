@@ -1,57 +1,57 @@
 [
   {
     "match": "Juniperus chinensis",
-    "fields": { "height": "12-15", "spread": "4.5-6", "sun": "full sun", "evergreen": "evergreen", "leafForm": "鳞叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "4-9" },
+    "fields": { "height": "12-15", "spread": "4.5-6", "sun": "full sun", "evergreen": "evergreen", "leafForm": "鳞叶", "reliability": "强健",  "hardinessZone": "4-9" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279597"]
   },
   {
     "match": "Laurus",
-    "fields": { "height": "3-6", "spread": "1.5-2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "8-10" },
+    "fields": { "height": "3-6", "spread": "1.5-2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "8-10" },
     "sources": ["https://plantdatabase.kpu.ca/Plant/lano", "https://selectree.calpoly.edu/tree-detail/laurus-nobilis"]
   },
   {
     "match": "Olea",
-    "fields": { "height": "5-10", "spread": "5-8", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "8-10" },
+    "fields": { "height": "5-10", "spread": "5-8", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "细长叶", "reliability": "强健",  "hardinessZone": "8-10" },
     "sources": ["https://plants.ces.ncsu.edu/plants/olea-europaea/", "https://plantdatabase.kpu.ca/Plant/oleu"]
   },
   {
     "match": "Citrus",
-    "fields": { "height": "3-6", "spread": "2-4", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "需照料", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "9-11" },
+    "fields": { "height": "3-6", "spread": "2-4", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "需照料",  "hardinessZone": "9-11" },
     "sources": ["https://www.waysidegardens.com/collections/trees/products/citrus-eureka-lemon-tree-36491", "https://selectree.calpoly.edu/tree-detail/364"]
   },
   {
     "match": "Eriobotrya japonica",
-    "fields": { "height": "4.5-9", "spread": "4.5-9", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "8-11" },
+    "fields": { "height": "4.5-9", "spread": "4.5-9", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "8-11" },
     "sources": ["https://landscapeplants.oregonstate.edu/plants/eriobotrya-japonica", "https://hort.ifas.ufl.edu/trees/ERIJAPC.pdf"]
   },
   {
     "match": "Magnolia grandiflora",
-    "fields": { "height": "6-12", "spread": "5-8", "sun": "full sun", "bloomSeason": "夏", "flowerColor": "白", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "7-9" },
+    "fields": { "height": "6-12", "spread": "5-8", "sun": "full sun", "bloomSeason": "夏", "flowerColor": "白", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "7-9" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=249453&isprofile=1&basic=Magnolia+grandiflora", "https://plantdatabase.kpu.ca/Plant/magr"]
   },
   {
     "match": "Pinus thunbergii",
-    "fields": { "height": "6-15", "spread": "4-6", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "针叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "5-8" },
+    "fields": { "height": "6-15", "spread": "4-6", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "针叶", "reliability": "强健",  "hardinessZone": "5-8" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=b438", "https://plantdatabase.kpu.ca/Plant/pith"]
   },
   {
     "match": "Pinus parviflora",
-    "fields": { "height": "6-12", "spread": "6-10", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "针叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "5-7" },
+    "fields": { "height": "6-12", "spread": "6-10", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "针叶", "reliability": "强健",  "hardinessZone": "5-7" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=284968&isprofile=0&hf=30&z=6"]
   },
   {
     "match": "Taxus wallichiana",
-    "fields": { "height": "8-14", "spread": "4-6", "sun": "part shade", "evergreen": "evergreen", "leafForm": "针叶", "reliability": "需照料", "habitat": "半荫·耐旱 · 乔木", "hardinessZone": "6-9" },
+    "fields": { "height": "8-14", "spread": "4-6", "sun": "part shade", "evergreen": "evergreen", "leafForm": "针叶", "reliability": "需照料",  "hardinessZone": "6-9" },
     "sources": ["https://worldplants.ca/display0.php?id=10179", "https://en.wikipedia.org/wiki/Himalayan_Yew"]
   },
   {
     "match": "Osmanthus",
-    "fields": { "height": "3-5", "spread": "3-4.5", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 乔木", "hardinessZone": "8-11" },
+    "fields": { "height": "3-5", "spread": "3-4.5", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "8-11" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282983&isprofile=0&chr=16", "https://midvalleytrees.com/product/sweet-olive/"]
   },
   {
     "match": "Trachycarpus fortunei",
-    "fields": { "height": "6-12", "spread": "2-3", "sun": "full sun", "evergreen": "evergreen", "leafForm": "扇形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 乔木", "hardinessZone": "7-10" },
+    "fields": { "height": "6-12", "spread": "2-3", "sun": "full sun", "evergreen": "evergreen", "leafForm": "扇形叶", "reliability": "强健",  "hardinessZone": "7-10" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c973", "https://plantdatabase.kpu.ca/Plant/trfo"]
   }
 ]

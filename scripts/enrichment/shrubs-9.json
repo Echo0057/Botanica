@@ -1,32 +1,32 @@
 [
   {
     "match": "Rhododendron",
-    "fields": { "height": "1-2", "spread": "1-2", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 灌木", "hardinessZone": "5-9", "bloomSeason": "春", "flowerColor": "粉" },
+    "fields": { "height": "1-2", "spread": "1-2", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "5-9", "bloomSeason": "春", "flowerColor": "粉" },
     "sources": ["https://www.greatplantpicks.org/plantlists/view/1294", "https://plantdatabase.kpu.ca/Plant/rhhi"]
   },
   {
     "match": "Rhododendron indicum",
-    "fields": { "height": "0.5-1.2", "spread": "0.5-1.2", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 灌木", "hardinessZone": "6-9", "bloomSeason": "春-夏", "flowerColor": "粉" },
+    "fields": { "height": "0.5-1.2", "spread": "0.5-1.2", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "春-夏", "flowerColor": "粉" },
     "sources": ["http://plants.pikenursery.com/12291001/Plant/31424/", "https://garden.org/plants/view/130651/Satsuki-Azalea-Rhododendron-indicum-Flame-Creeper/"]
   },
   {
     "match": "Enkianthus perulatus",
-    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 灌木", "hardinessZone": "6-8", "bloomSeason": "春", "flowerColor": "白" },
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "6-8", "bloomSeason": "春", "flowerColor": "白" },
     "sources": ["https://www.greatplantpicks.org/plantlists/view/563", "http://plants.pikenursery.com/12291001/Plant/24095/White_Enkianthus"]
   },
   {
     "match": "Hibiscus mutabilis",
-    "fields": { "height": "2-3.5", "spread": "1.5-3", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健", "habitat": "全日照·喜湿 · 灌木", "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "粉" },
+    "fields": { "height": "2-3.5", "spread": "1.5-3", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "掌状裂叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "粉" },
     "sources": ["http://plants.pikenursery.com/12291001/Plant/35782/", "http://www.onlineplantguide.com/Plant-Details/1053"]
   },
   {
     "match": "Corylopsis",
-    "fields": { "height": "1.5-3", "spread": "2-3", "sun": "part shade", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 灌木", "hardinessZone": "6-9", "bloomSeason": "春", "flowerColor": "黄" },
+    "fields": { "height": "1.5-3", "spread": "2-3", "sun": "part shade", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "春", "flowerColor": "黄" },
     "sources": ["https://dplantdatabase.kpu.ca/Plant/copa", "https://www.greatplantpicks.org/plantlists/view/437"]
   },
   {
     "match": "Styrax japonicus",
-    "fields": { "height": "5-8", "spread": "4-6", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 灌木", "hardinessZone": "5-8", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "5-8", "spread": "4-6", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "5-8", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://dplantdatabase.kpu.ca/Plant/stja", "https://www.greatplantpicks.org/plantlists/view/1811"]
   }
 ]

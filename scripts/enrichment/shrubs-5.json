@@ -1,32 +1,32 @@
 [
   {
     "match": "Mahonia japonica",
-    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "part shade", "evergreen": "evergreen", "leafForm": "羽状复叶", "reliability": "强健", "habitat": "半荫·耐旱 · 灌木", "hardinessZone": "6-9", "bloomSeason": "冬-春", "flowerColor": "黄" },
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "part shade", "evergreen": "evergreen", "leafForm": "羽状复叶", "reliability": "强健",  "hardinessZone": "6-9", "bloomSeason": "冬-春", "flowerColor": "黄" },
     "sources": ["http://plants.pikenursery.com/12291001/Plant/19586/", "https://www.gardenia.net/plant/mahonia-japonica"]
   },
   {
     "match": "Daphne odora",
-    "fields": { "height": "0.7-1.3", "spread": "0.7-1.2", "sun": "part shade", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "需照料", "habitat": "半荫·喜湿 · 灌木", "hardinessZone": "7-9", "bloomSeason": "冬-春", "flowerColor": "粉" },
+    "fields": { "height": "0.7-1.3", "spread": "0.7-1.2", "sun": "part shade", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "需照料",  "hardinessZone": "7-9", "bloomSeason": "冬-春", "flowerColor": "粉" },
     "sources": ["https://www.greatplantpicks.org/plantlists/view/491", "https://dplantdatabase.kpu.ca/Plant/daod"]
   },
   {
     "match": "Pittosporum",
-    "fields": { "height": "1-3", "spread": "1-3", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "1-3", "spread": "1-3", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "8-10", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://plants.ces.ncsu.edu/plants/pittosporum-tobira/", "http://plants.pikenursery.com/12291001/Plant/19285/Japanese_Mock_Orange"]
   },
   {
     "match": "Fatsia",
-    "fields": { "height": "1.5-2.5", "spread": "1.5-2", "sun": "shade", "water": "wet", "evergreen": "evergreen", "leafForm": "掌状裂叶", "reliability": "强健", "habitat": "林下·荫 · 喜湿 · 灌木", "hardinessZone": "8-11", "bloomSeason": "秋-冬", "flowerColor": "白" },
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2", "sun": "shade", "water": "wet", "evergreen": "evergreen", "leafForm": "掌状裂叶", "reliability": "强健",  "hardinessZone": "8-11", "bloomSeason": "秋-冬", "flowerColor": "白" },
     "sources": ["https://www.monrovia.com/japanese-aralia.html", "https://plantdatabase.kpu.ca/Plant/faja"]
   },
   {
     "match": "Ilex",
-    "fields": { "height": "2-4", "spread": "2-4", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "7-9", "bloomSeason": "春", "flowerColor": "白" },
+    "fields": { "height": "2-4", "spread": "2-4", "sun": "full sun", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "7-9", "bloomSeason": "春", "flowerColor": "白" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=276168", "http://plants.pikenursery.com/12291001/Plant/11860/Chinese_Holly"]
   },
   {
     "match": "Euonymus japonicus",
-    "fields": { "height": "1-4", "spread": "1-2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "6-9" },
+    "fields": { "height": "1-4", "spread": "1-2", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "6-9" },
     "sources": ["http://plants.pikenursery.com/12291001/Plant/11685/", "https://garden.org/plants/view/779890/Japanese-Spindle-Euonymus-japonicus-Green-Rocket/"]
   }
 ]

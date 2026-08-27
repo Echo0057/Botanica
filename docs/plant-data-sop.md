@@ -41,7 +41,7 @@
 
 优先从海外权威库提取**结构字段**:
 
-- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`habitat`(生境)、`flowerColor`、`bloomSeason`、`hardinessZone`、`reliability`、`leafForm`。
+- `height`(米)、`spread`(米)、`sun`(full sun / part shade / shade)、`water`(dry / wet)、`flowerColor`、`bloomSeason`、`hardinessZone`、`reliability`、`leafForm`。
 - 把来源都记进该条的 `sources` 数组(站点 + URL)。
 
 ### 第 5 步:写入清单
@@ -54,7 +54,6 @@
   "latinName": "Genus species",
   "genus": "某属",
   "family": "某科",
-  "habitat": "林下·耐荫 · 喜湿",
   "category": "宿根草本",
   "sun": "part shade",
   "water": "wet",
@@ -149,16 +148,14 @@ npm run import:plants
 | `category` | 是 | 7 类之一:常绿乔木/落叶乔木/灌木/宿根草本/藤本/地被/水生植物 |
 | `latinName` | 建议 | 拉丁学名,如 `Saururus chinensis`;缺失会标记 `missingName` |
 | `genus` / `family` | 建议 | 属/科(APG IV);分类只用 科-属-种,无「目(order)」 |
-| `habitat` | 否 | 生境,如 `水生·水畔`、`林下·耐荫`;表格「生境」列直接读它 |
 | `aliases` | 否 | 别名、异名 |
 | `evergreen` | 否 | `evergreen` / `deciduous` |
-| `height` / `spread` / `density` | 否 | 高度/冠幅(米)、种植密度(株/㎡) |
+| `height` / `spread` | 否 | 高度/冠幅(米) |
 | `sun` | 否 | `full sun` / `part shade` / `shade` |
 | `water` | 否 | `dry` / `wet` |
 | `flowerColor` / `bloomSeason` | 否 | 花色 / 花期(如 `夏`) |
 | `leafForm` | 否 | 叶形/形态,如 `剑形叶` |
 | `reliability` | 否 | 可靠度(如 `强健`) |
-| `lifespan` | 否 | 寿命 |
 | `notes` | 否 | 一句话特性(映射到 `rawNotes`) |
 | `sources` | 否 | 来源 URL 数组 |
 | `images` | 否 | 本地 `public/images/` 文件名数组 |

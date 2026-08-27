@@ -1,32 +1,32 @@
 [
   {
     "match": "Yulania stellata",
-    "fields": { "height": "2-4.5", "spread": "2-4", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 灌木", "hardinessZone": "4-9", "bloomSeason": "春", "flowerColor": "白" },
+    "fields": { "height": "2-4.5", "spread": "2-4", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "4-9", "bloomSeason": "春", "flowerColor": "白" },
     "sources": ["https://myplantin.com/plant/1315", "https://www.epicgardening.com/star-magnolia-trees/"]
   },
   {
     "match": "Itea virginica",
-    "fields": { "height": "0.9-1.5", "spread": "1.2-1.8", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 灌木", "hardinessZone": "5-9", "bloomSeason": "夏", "flowerColor": "白" },
+    "fields": { "height": "0.9-1.5", "spread": "1.2-1.8", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "5-9", "bloomSeason": "夏", "flowerColor": "白" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=1&pm=1&taxonid=249812", "https://plantdatabase.uconn.edu/detail.php?pid=223"]
   },
   {
     "match": "Euonymus",
-    "fields": { "height": "1.8-3", "spread": "1.8-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "极强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "4-8" },
+    "fields": { "height": "1.8-3", "spread": "1.8-3", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "极强健",  "hardinessZone": "4-8" },
     "sources": ["https://plantdatabase.uconn.edu/detail.php?pid=167", "https://www.greatplantpicks.org/search/plant-details/608"]
   },
   {
     "match": "Vaccinium oldhamii",
-    "fields": { "height": "1.5-3", "spread": "1.5-2", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 灌木", "hardinessZone": "5-8", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "fields": { "height": "1.5-3", "spread": "1.5-2", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健",  "hardinessZone": "5-8", "bloomSeason": "春-夏", "flowerColor": "白" },
     "sources": ["https://plants.ces.ncsu.edu/plants/vaccinium-oldhamii/", "https://meetsmore.com/t/gardening/media/83051"]
   },
   {
     "match": "Sambucus nigra",
-    "fields": { "height": "2-4", "spread": "2-3", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "羽状复叶", "reliability": "极强健", "habitat": "全日照·喜湿 · 灌木", "hardinessZone": "5-7", "bloomSeason": "夏", "flowerColor": "白" },
+    "fields": { "height": "2-4", "spread": "2-3", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "羽状复叶", "reliability": "极强健",  "hardinessZone": "5-7", "bloomSeason": "夏", "flowerColor": "白" },
     "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?c&isprofile=0&taxonid=359574", "https://plantdatabase.kpu.ca/Plant/sani"]
   },
   {
     "match": "Malva subovata",
-    "fields": { "height": "1-1.5", "spread": "0.5-1", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "需照料", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "粉" },
+    "fields": { "height": "1-1.5", "spread": "0.5-1", "sun": "full sun", "water": "dry", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "需照料",  "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "粉" },
     "sources": ["https://www.rhs.org.uk/plants/507369/malva-subovata/details", "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/malvasubovata.html"]
   }
 ]

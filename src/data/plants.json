@@ -9,7 +9,6 @@
     "evergreen": "deciduous",
     "height": "2-6",
     "spread": "2-5",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": "春",
@@ -17,7 +16,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -25,7 +23,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "半荫·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280632&letter=A"
     ]
@@ -40,7 +37,6 @@
     "evergreen": "deciduous",
     "height": "1-1.8",
     "spread": "1-1.5",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "夏-秋",
@@ -48,7 +44,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "羽状复叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -56,7 +51,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/27603/China_Rose",
       "https://pfaf.org/User/Plant.aspx?LatinName=Rosa+chinensis"
@@ -72,7 +66,6 @@
     "evergreen": null,
     "height": "1-2",
     "spread": "0.8-1.2",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": "秋",
@@ -80,7 +73,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -88,7 +80,6 @@
     "images": [],
     "tags": [],
     "category": "宿根草本",
-    "habitat": "半荫·喜湿 · 宿根",
     "sources": [
       "https://weeds.brisbane.qld.gov.au/weeds/crofton-weed",
       "https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Ageratina_adenophora_%28Crofton_Weed%29.htm"
@@ -104,7 +95,6 @@
     "evergreen": "evergreen",
     "height": "0.3-0.6",
     "spread": "0.6-0.9",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏",
@@ -112,7 +102,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -120,7 +109,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277227",
       "https://dplantdatabase.kpu.ca/Plant/sach"
@@ -136,7 +124,6 @@
     "evergreen": "evergreen",
     "height": "0.6-0.9",
     "spread": "0.6-0.9",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -144,7 +131,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "剑形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -152,7 +138,6 @@
     "images": [],
     "tags": [],
     "category": "宿根草本",
-    "habitat": "全日照·耐旱 · 宿根",
     "sources": [
       "https://midvalleytrees.com/product/dietes-bicolor-milky-way/",
       "https://nativegardeners.com/collections/swiss-avenue-garden-tour-collection/products/bicolor-iris"
@@ -168,7 +153,6 @@
     "evergreen": "evergreen",
     "height": "0.15-0.3",
     "spread": "0.3-0.6",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏",
@@ -176,7 +160,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -184,7 +167,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/thvu",
       "https://www.depts.ttu.edu/plantresources/Pages/directories/landscape-info-sheets/edible-info/Thymus-vulgaris.php"
@@ -200,7 +182,6 @@
     "evergreen": "evergreen",
     "height": "1-2.5",
     "spread": "1.5-3",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -208,7 +189,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "9-10",
     "missingName": false,
@@ -216,7 +196,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282891",
       "http://www.onlineplantguide.com/Plant-Details/384"
@@ -232,7 +211,6 @@
     "evergreen": "evergreen",
     "height": "0.5-0.9",
     "spread": "0.4-0.6",
-    "density": null,
     "sun": "part shade",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -240,7 +218,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "剑形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -248,7 +225,6 @@
     "images": [],
     "tags": [],
     "category": "宿根草本",
-    "habitat": "全日照·耐旱 · 宿根",
     "sources": [
       "http://www.fnai.org/Invasives/Dianella_ensifolia_FNAI.pdf",
       "https://www.bhg.com/gardening/plant-dictionary/perennial/flax-lily/"
@@ -264,7 +240,6 @@
     "evergreen": "evergreen",
     "height": "0.5-0.9",
     "spread": "0.6-0.9",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏",
@@ -272,7 +247,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "带状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-10",
     "missingName": false,
@@ -280,7 +254,6 @@
     "images": [],
     "tags": [],
     "category": "宿根草本",
-    "habitat": "全日照·耐旱 · 宿根",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/26960/",
       "https://pix.davesgarden.com/guides/pf/print/166816"
@@ -296,7 +269,6 @@
     "evergreen": "evergreen",
     "height": "0.5-0.9",
     "spread": "0.5-0.8",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -304,7 +276,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -312,7 +283,6 @@
     "images": [],
     "tags": [],
     "category": "宿根草本",
-    "habitat": "全日照·耐旱 · 宿根",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=256635",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=245685"
@@ -328,7 +298,6 @@
     "evergreen": "evergreen",
     "height": "0.6-1.2",
     "spread": "0.9-1.2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -336,7 +305,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -344,7 +312,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantlust.com/plants/14495/cistus-creticus/",
       "https://plantthis.com.au/plant-information.asp?gardener=11371&tabview=bio&plantSpot="
@@ -360,7 +327,6 @@
     "evergreen": "deciduous",
     "height": "0.6-0.9",
     "spread": "0.6-0.9",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏-秋",
@@ -368,7 +334,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "3-9",
     "missingName": false,
@@ -376,7 +341,6 @@
     "images": [],
     "tags": [],
     "category": "宿根草本",
-    "habitat": "全日照·耐旱 · 宿根",
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281406",
       "https://plantmaster.com/plants/eplant.php?plantnum=4535&project=9121"
@@ -392,7 +356,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -400,15 +363,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_15",
@@ -420,7 +381,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -428,15 +388,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_16",
@@ -448,7 +406,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -456,15 +413,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_17",
@@ -476,7 +431,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -484,15 +438,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_18",
@@ -504,7 +456,6 @@
     "evergreen": "evergreen",
     "height": "0.3-0.6",
     "spread": "0.6-0.9",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -512,7 +463,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -520,7 +470,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279298",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/convolvuluscneorum.html"
@@ -536,7 +485,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -544,15 +492,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_20",
@@ -564,7 +510,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -572,15 +517,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_21",
@@ -592,7 +535,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -600,15 +542,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_22",
@@ -620,7 +560,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -628,15 +567,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_23",
@@ -648,7 +585,6 @@
     "evergreen": "evergreen",
     "height": "1.2-2",
     "spread": "0.6-1.2",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -656,7 +592,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "9-11",
     "missingName": false,
@@ -664,7 +599,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/8082/gomphostigma-virgatum/details",
       "https://pza.sanbi.org/gomphostigma-virgatum"
@@ -680,7 +614,6 @@
     "evergreen": "evergreen",
     "height": "12-15",
     "spread": "4.5-6",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -688,7 +621,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "鳞叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -696,7 +628,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279597"
     ]
@@ -711,7 +642,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -719,15 +649,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_26",
@@ -739,7 +667,6 @@
     "evergreen": "evergreen",
     "height": "1-1.8",
     "spread": "0.6-1.2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -747,7 +674,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "9-11",
     "missingName": false,
@@ -755,7 +681,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://www.monrovia.com/dark-pink-rice-flower.html",
       "http://plants.pikenursery.com/12291001/Plant/19986/"
@@ -771,7 +696,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -779,15 +703,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_28",
@@ -799,7 +721,6 @@
     "evergreen": "deciduous",
     "height": "0.6-1.2",
     "spread": "0.6-1.2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏-秋",
@@ -807,7 +728,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -815,7 +735,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://www.monrovia.com/blue-mist-bluebeard.html",
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=330"
@@ -831,7 +750,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -839,15 +757,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_30",
@@ -859,7 +775,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -867,15 +782,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_31",
@@ -887,7 +800,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -895,15 +807,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_32",
@@ -915,7 +825,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -923,15 +832,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_33",
@@ -943,7 +850,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -951,15 +857,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_34",
@@ -971,7 +875,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -979,15 +882,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_35",
@@ -999,7 +900,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1007,15 +907,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_36",
@@ -1027,7 +925,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1035,15 +932,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_37",
@@ -1055,7 +950,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1063,15 +957,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_38",
@@ -1083,7 +975,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1091,15 +982,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_39",
@@ -1111,7 +1000,6 @@
     "evergreen": "deciduous",
     "height": "1.5-2.5",
     "spread": "1.5-2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏-秋",
@@ -1119,7 +1007,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -1127,7 +1014,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://davesgarden.com/guides/pf/print/57955",
       "https://www.plantsnap.com/plant-care/buddleja-lindleyana"
@@ -1143,7 +1029,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1151,15 +1036,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_41",
@@ -1171,7 +1054,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1179,15 +1061,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_42",
@@ -1199,7 +1079,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1207,15 +1086,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_43",
@@ -1227,7 +1104,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1235,15 +1111,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_44",
@@ -1255,7 +1129,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -1263,15 +1136,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "plant_45",
@@ -1283,7 +1154,6 @@
     "evergreen": "evergreen",
     "height": "0.1-0.15",
     "spread": "0.3-0.6",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -1291,7 +1161,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "心形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "9-11",
     "missingName": false,
@@ -1299,7 +1168,6 @@
     "images": [],
     "tags": [],
     "category": "地被",
-    "habitat": "半荫·喜湿 · 铺地",
     "sources": [
       "https://resources.austplants.com.au/plant/viola-banksii/",
       "https://www.seasol.com.au/australian-natives/native-violet-viola-banksii/"
@@ -1315,7 +1183,6 @@
     "evergreen": "evergreen",
     "height": "3-6",
     "spread": "1.5-2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": null,
@@ -1323,7 +1190,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -1331,7 +1197,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/lano",
       "https://selectree.calpoly.edu/tree-detail/laurus-nobilis"
@@ -1347,7 +1212,6 @@
     "evergreen": "evergreen",
     "height": "5-10",
     "spread": "5-8",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": null,
@@ -1355,7 +1219,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -1363,7 +1226,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plants.ces.ncsu.edu/plants/olea-europaea/",
       "https://plantdatabase.kpu.ca/Plant/oleu"
@@ -1379,7 +1241,6 @@
     "evergreen": "evergreen",
     "height": "3-6",
     "spread": "2-4",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春-夏",
@@ -1387,7 +1248,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "9-11",
     "missingName": false,
@@ -1395,7 +1255,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://www.waysidegardens.com/collections/trees/products/citrus-eureka-lemon-tree-36491",
       "https://selectree.calpoly.edu/tree-detail/364"
@@ -1411,7 +1270,6 @@
     "evergreen": "evergreen",
     "height": "4.5-9",
     "spread": "4.5-9",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -1419,7 +1277,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -1427,7 +1284,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://landscapeplants.oregonstate.edu/plants/eriobotrya-japonica",
       "https://hort.ifas.ufl.edu/trees/ERIJAPC.pdf"
@@ -1443,7 +1299,6 @@
     "evergreen": "evergreen",
     "height": "6-12",
     "spread": "5-8",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "夏",
@@ -1451,7 +1306,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-9",
     "missingName": false,
@@ -1459,7 +1313,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=249453&isprofile=1&basic=Magnolia+grandiflora",
       "https://plantdatabase.kpu.ca/Plant/magr"
@@ -1475,7 +1328,6 @@
     "evergreen": "evergreen",
     "height": "6-15",
     "spread": "4-6",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": null,
@@ -1483,7 +1335,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "针叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -1491,7 +1342,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=b438",
       "https://plantdatabase.kpu.ca/Plant/pith"
@@ -1507,7 +1357,6 @@
     "evergreen": "evergreen",
     "height": "6-12",
     "spread": "6-10",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": null,
@@ -1515,7 +1364,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "针叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-7",
     "missingName": false,
@@ -1523,7 +1371,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=284968&isprofile=0&hf=30&z=6"
     ]
@@ -1538,7 +1385,6 @@
     "evergreen": "evergreen",
     "height": "8-14",
     "spread": "4-6",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": null,
@@ -1546,7 +1392,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "针叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -1554,7 +1399,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "半荫·耐旱 · 乔木",
     "sources": [
       "https://worldplants.ca/display0.php?id=10179",
       "https://en.wikipedia.org/wiki/Himalayan_Yew"
@@ -1570,7 +1414,6 @@
     "evergreen": "evergreen",
     "height": "3-5",
     "spread": "3-4.5",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "秋",
@@ -1578,7 +1421,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -1586,7 +1428,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282983&isprofile=0&chr=16",
       "https://midvalleytrees.com/product/sweet-olive/"
@@ -1602,7 +1443,6 @@
     "evergreen": "evergreen",
     "height": "6-12",
     "spread": "2-3",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -1610,7 +1450,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "扇形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-10",
     "missingName": false,
@@ -1618,7 +1457,6 @@
     "images": [],
     "tags": [],
     "category": "常绿乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c973",
       "https://plantdatabase.kpu.ca/Plant/trfo"
@@ -1634,7 +1472,6 @@
     "evergreen": "evergreen",
     "height": "0.6-1.3",
     "spread": "0.5-1",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -1642,7 +1479,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "针叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -1650,7 +1486,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=444418",
       "https://plantdatabase.kpu.ca/Plant/roof"
@@ -1666,7 +1501,6 @@
     "evergreen": "deciduous",
     "height": "3-5",
     "spread": "3-4",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": "春-夏",
@@ -1674,7 +1508,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -1682,7 +1515,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/coks",
       "https://web.extension.illinois.edu/hortanswers/PlantDetail.cfm?PlantID=199&PlantTypeID=7"
@@ -1698,7 +1530,6 @@
     "evergreen": "evergreen",
     "height": "1.5-3",
     "spread": "1.5-2.5",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "冬-春",
@@ -1706,7 +1537,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-9",
     "missingName": false,
@@ -1714,7 +1544,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287331",
       "https://dplantdatabase.kpu.ca/Plant/caja"
@@ -1730,7 +1559,6 @@
     "evergreen": "evergreen",
     "height": "1-3",
     "spread": "1-2",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "冬-春",
@@ -1738,7 +1566,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-10",
     "missingName": false,
@@ -1746,7 +1573,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://internationalcamellia.org/en-us/conservation-preservation-of-camellias/camellia-sasanqua-genebank",
       "https://baike.so.com/doc/485831-514475.html"
@@ -1762,7 +1588,6 @@
     "evergreen": "evergreen",
     "height": "1.5-3",
     "spread": "1.5-2.5",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "秋-冬",
@@ -1770,7 +1595,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-9",
     "missingName": false,
@@ -1778,7 +1602,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/casa",
       "http://plants.pikenursery.com/12291001/Plant/25533/Sasanqua_Camellia"
@@ -1794,7 +1617,6 @@
     "evergreen": "evergreen",
     "height": "1-2",
     "spread": "1-2",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "春",
@@ -1802,7 +1624,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -1810,7 +1631,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://www.greatplantpicks.org/plantlists/view/1294",
       "https://plantdatabase.kpu.ca/Plant/rhhi"
@@ -1826,7 +1646,6 @@
     "evergreen": "evergreen",
     "height": "0.5-1.2",
     "spread": "0.5-1.2",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -1834,7 +1653,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -1842,7 +1660,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/31424/",
       "https://garden.org/plants/view/130651/Satsuki-Azalea-Rhododendron-indicum-Flame-Creeper/"
@@ -1858,7 +1675,6 @@
     "evergreen": "evergreen",
     "height": "1.5-2.5",
     "spread": "1.5-2",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "春",
@@ -1866,7 +1682,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-8",
     "missingName": false,
@@ -1874,7 +1689,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://plantdatabase.uconn.edu/detail.php?pid=318",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=256229"
@@ -1890,7 +1704,6 @@
     "evergreen": "evergreen",
     "height": "1-2",
     "spread": "1-2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏",
@@ -1898,7 +1711,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -1906,7 +1718,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=251004",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/myrtuscommunis.html"
@@ -1922,7 +1733,6 @@
     "evergreen": "evergreen",
     "height": "1.3-2",
     "spread": "1-1.5",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -1930,7 +1740,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状复叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -1938,7 +1747,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/nado",
       "https://www.greatplantpicks.org/plantlists/view/1023"
@@ -1954,7 +1762,6 @@
     "evergreen": "evergreen",
     "height": "1.2-1.8",
     "spread": "1-1.5",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": "秋-冬",
@@ -1962,7 +1769,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状复叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-9",
     "missingName": false,
@@ -1970,7 +1776,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·耐旱 · 灌木",
     "sources": [
       "https://www.monrovia.com/chinese-mahonia.html",
       "https://www.onlineplantguide.com/Plant-Details/1633/"
@@ -1986,7 +1791,6 @@
     "evergreen": "evergreen",
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": "冬-春",
@@ -1994,7 +1798,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状复叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -2002,7 +1805,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·耐旱 · 灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/19586/",
       "https://www.gardenia.net/plant/mahonia-japonica"
@@ -2018,7 +1820,6 @@
     "evergreen": "evergreen",
     "height": "0.7-1.3",
     "spread": "0.7-1.2",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": "冬-春",
@@ -2026,7 +1827,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-9",
     "missingName": false,
@@ -2034,7 +1834,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://www.greatplantpicks.org/plantlists/view/491",
       "https://dplantdatabase.kpu.ca/Plant/daod"
@@ -2050,7 +1849,6 @@
     "evergreen": "evergreen",
     "height": "1-2.5",
     "spread": "1-2",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏",
@@ -2058,7 +1856,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-11",
     "missingName": false,
@@ -2066,7 +1863,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://www.monrovia.com/frostproof-gardenia.html",
       "http://plants.pikenursery.com/12291001/Plant/26150/"
@@ -2082,7 +1878,6 @@
     "evergreen": "evergreen",
     "height": "1-3",
     "spread": "1-3",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -2090,7 +1885,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -2098,7 +1892,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plants.ces.ncsu.edu/plants/pittosporum-tobira/",
       "http://plants.pikenursery.com/12291001/Plant/19285/Japanese_Mock_Orange"
@@ -2114,7 +1907,6 @@
     "evergreen": "evergreen",
     "height": "1.5-2.5",
     "spread": "1.5-2",
-    "density": null,
     "sun": "shade",
     "water": "wet",
     "bloomSeason": "秋-冬",
@@ -2122,7 +1914,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -2130,7 +1921,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "林下·荫 · 喜湿 · 灌木",
     "sources": [
       "https://www.monrovia.com/japanese-aralia.html",
       "https://plantdatabase.kpu.ca/Plant/faja"
@@ -2146,7 +1936,6 @@
     "evergreen": "evergreen",
     "height": "2-4",
     "spread": "2-4",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -2154,7 +1943,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-9",
     "missingName": false,
@@ -2162,7 +1950,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=276168",
       "http://plants.pikenursery.com/12291001/Plant/11860/Chinese_Holly"
@@ -2178,7 +1965,6 @@
     "evergreen": "deciduous",
     "height": "2.5-3.5",
     "spread": "2.5-3",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "夏",
@@ -2186,7 +1972,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -2194,7 +1979,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://woodlanders.net/collections/woody-plants/products/ligustrum-quihoui",
       "https://www.backyardgardener.com/plantname/ligustrum-quihoui-quihoui-privet/"
@@ -2210,7 +1994,6 @@
     "evergreen": "evergreen",
     "height": "1-4",
     "spread": "1-2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": null,
@@ -2218,7 +2001,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -2226,7 +2008,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/11685/",
       "https://garden.org/plants/view/779890/Japanese-Spindle-Euonymus-japonicus-Green-Rocket/"
@@ -2242,7 +2023,6 @@
     "evergreen": "evergreen",
     "height": "0.8-1.5",
     "spread": "0.8-1.5",
-    "density": null,
     "sun": "shade",
     "water": "wet",
     "bloomSeason": "夏",
@@ -2250,7 +2030,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -2258,7 +2037,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "林下·荫 · 喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282841",
       "http://plants.pikenursery.com/12291001/Plant/17030/"
@@ -2274,7 +2052,6 @@
     "evergreen": "evergreen",
     "height": "0.3-0.9",
     "spread": "0.5-1",
-    "density": null,
     "sun": "shade",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -2282,7 +2059,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -2290,7 +2066,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "林下·荫 · 喜湿 · 灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/10058/Sarcandra",
       "https://woodlanders.net/collections/woody-plants/products/sarcandra-glabra"
@@ -2306,7 +2081,6 @@
     "evergreen": "evergreen",
     "height": "1.3-2.5",
     "spread": "1.3-2",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": null,
@@ -2314,7 +2088,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "扇形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "9-11",
     "missingName": false,
@@ -2322,7 +2095,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/rhex",
       "http://plants.pikenursery.com/12291001/Plant/25630/"
@@ -2338,7 +2110,6 @@
     "evergreen": "deciduous",
     "height": "3-7",
     "spread": "3-6",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -2346,7 +2117,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-7",
     "missingName": false,
@@ -2354,7 +2124,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "半荫·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275393",
       "https://plantdatabase.uconn.edu/detail.php?pid=16"
@@ -2370,7 +2139,6 @@
     "evergreen": "deciduous",
     "height": "5-10",
     "spread": "3-6",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -2378,7 +2146,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-9",
     "missingName": false,
@@ -2386,7 +2153,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://nativetree.forest.gov.tw/tree/Info/d9b3af3a4cf040b2bdac1146a07f5ade",
       "https://inature.app/species/acer-serrulatum-hayata/"
@@ -2402,7 +2168,6 @@
     "evergreen": "deciduous",
     "height": "8-12",
     "spread": "4-8",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -2410,7 +2175,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -2418,7 +2182,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://www.rhs.org.uk/plants/87420/acer-pictum/details",
       "https://landscapeplants.oregonstate.edu/plants/acer-pictum"
@@ -2434,7 +2197,6 @@
     "evergreen": "deciduous",
     "height": "5-8",
     "spread": "4-6",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -2442,7 +2204,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "3-7",
     "missingName": false,
@@ -2450,7 +2211,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/amca",
       "https://www.csu.org/water-wise-plants/shadblow-serviceberry"
@@ -2466,7 +2226,6 @@
     "evergreen": "deciduous",
     "height": "6-10",
     "spread": "6-8",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -2474,7 +2233,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -2482,7 +2240,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286608",
       "https://plantdatabase.uconn.edu/detail.php?pid=364"
@@ -2498,7 +2255,6 @@
     "evergreen": "deciduous",
     "height": "3-6",
     "spread": "3-5",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "冬-春",
@@ -2506,7 +2262,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -2514,7 +2269,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://landscapeplants.oregonstate.edu/plants/prunus-mume",
       "https://www.thespruce.com/prunus-mume-plum-blossom-care-guide-8426994"
@@ -2530,7 +2284,6 @@
     "evergreen": "deciduous",
     "height": "4-8",
     "spread": "4-8",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -2538,7 +2291,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "3-8",
     "missingName": false,
@@ -2546,7 +2298,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264689",
       "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila"
@@ -2562,7 +2313,6 @@
     "evergreen": "deciduous",
     "height": "20-30",
     "spread": "8-15",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": null,
@@ -2570,7 +2320,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-8",
     "missingName": false,
@@ -2578,7 +2327,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=270524",
       "https://www.epicgardening.com/dawn-redwood-trees/"
@@ -2594,7 +2342,6 @@
     "evergreen": "deciduous",
     "height": "15-25",
     "spread": "6-8",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": null,
@@ -2602,7 +2349,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -2610,7 +2356,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://u.osu.edu/plants/taxodium-distichum/",
       "https://plantdatabase.kpu.ca/Plant/tadi"
@@ -2626,7 +2371,6 @@
     "evergreen": "deciduous",
     "height": "15-25",
     "spread": "8-12",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -2634,7 +2378,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "扇形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "3-8",
     "missingName": false,
@@ -2642,7 +2385,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280988",
       "https://greatplainsnursery.com/product/ginkgo-ginkgo-biloba/"
@@ -2658,7 +2400,6 @@
     "evergreen": "deciduous",
     "height": "10-18",
     "spread": "6-10",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -2666,7 +2407,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "羽状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-8",
     "missingName": false,
@@ -2674,7 +2414,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/rops",
       "https://u.osu.edu/plants/robinia-pseudoacacia/"
@@ -2690,7 +2429,6 @@
     "evergreen": "deciduous",
     "height": "8-15",
     "spread": "5-8",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -2698,7 +2436,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -2706,7 +2443,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://www.vdberk.co.uk/index.php/trees/zelkova-schneideriana/",
       "https://pfaf.org/User/Plant.aspx?LatinName=Zelkova+schneideriana"
@@ -2722,7 +2458,6 @@
     "evergreen": "deciduous",
     "height": "4-6",
     "spread": "4-6",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -2730,7 +2465,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-7",
     "missingName": false,
@@ -2738,7 +2472,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286345",
       "https://plantdatabase.kpu.ca/Plant/crla"
@@ -2754,7 +2487,6 @@
     "evergreen": "deciduous",
     "height": "4-8",
     "spread": "4-8",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -2762,7 +2494,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-8",
     "missingName": false,
@@ -2770,7 +2501,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264636",
       "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila"
@@ -2786,7 +2516,6 @@
     "evergreen": "deciduous",
     "height": "15-25",
     "spread": "10-18",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": null,
@@ -2794,7 +2523,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -2802,7 +2530,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/17259/Nuttalls_Oak",
       "http://web.unthsc.edu/download/downloads/id/792/texas_red_oak"
@@ -2818,7 +2545,6 @@
     "evergreen": "deciduous",
     "height": "8-15",
     "spread": "6-8",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": null,
@@ -2826,7 +2552,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -2834,7 +2559,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://davesgarden.com/guides/pf/print/81906",
       "https://shop.app/products/8023654662401/sapindus-mukorossi-seeds-indian-soapberry-tree"
@@ -2850,7 +2574,6 @@
     "evergreen": "deciduous",
     "height": "6-12",
     "spread": "5-8",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏-秋",
@@ -2858,7 +2581,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "二回羽状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -2866,7 +2588,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://www.mastergardenerssandiego.org/newclass/wp-content/uploads/2020/04/Andersen-Karen-Koelreuteria-bipinnata-reduced.pdf",
       "https://www.backyardgardener.com/plantname/koelreuteria-bipinnata-bougainvillea-golden-rain-tree/"
@@ -2882,7 +2603,6 @@
     "evergreen": "deciduous",
     "height": "8-11",
     "spread": "6-9",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春",
@@ -2890,7 +2610,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -2898,7 +2617,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·耐旱 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275957",
       "https://midvalleytrees.com/product/chinese-pistache/"
@@ -2914,7 +2632,6 @@
     "evergreen": "deciduous",
     "height": "6-9",
     "spread": "4-6",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "秋",
@@ -2922,7 +2639,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -2930,7 +2646,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?pt=14&taxonid=368407",
       "https://www.csustan.edu/campus-tree-story-map/chinese-tallow-triadica-sebifera"
@@ -2946,7 +2661,6 @@
     "evergreen": "deciduous",
     "height": "15-22",
     "spread": "10-15",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -2954,7 +2668,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -2962,7 +2675,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281024",
       "https://plantdatabase.kpu.ca/Plant/list"
@@ -2978,7 +2690,6 @@
     "evergreen": "deciduous",
     "height": "10-15",
     "spread": "7-10",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "秋",
@@ -2986,7 +2697,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "马褂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -2994,7 +2704,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://www.havlis.cz/catalogue/liriodendron-x-tulipifera-x-chinense-hybrid-tul",
       "https://plantdatabase.kpu.ca/Plant/lich"
@@ -3010,7 +2719,6 @@
     "evergreen": "deciduous",
     "height": "5-7",
     "spread": "4-6",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -3018,7 +2726,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -3026,7 +2733,6 @@
     "images": [],
     "tags": [],
     "category": "落叶乔木",
-    "habitat": "全日照·喜湿 · 乔木",
     "sources": [
       "https://www.princetonnj.gov/1533/April-2024---Saucer-Magnolia",
       "https://dplantdatabase.kpu.ca/Plant/maso"
@@ -3042,7 +2748,6 @@
     "evergreen": "deciduous",
     "height": "2-4",
     "spread": "1.5-3",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "冬",
@@ -3050,7 +2755,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -3058,7 +2762,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/3412/",
       "https://landscapeplants.oregonstate.edu/plants/chimonanthus-praecox"
@@ -3074,7 +2777,6 @@
     "evergreen": "deciduous",
     "height": "2-5",
     "spread": "2-5",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -3082,7 +2784,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -3090,7 +2791,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c944",
       "https://mortonarb.org/plant-and-protect/trees-and-plants/common-fig/"
@@ -3106,7 +2806,6 @@
     "evergreen": "deciduous",
     "height": "1.2-2.5",
     "spread": "1.2-2.5",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春-夏",
@@ -3114,7 +2813,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -3122,7 +2820,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://hort.ifas.ufl.edu/database/documents/pdf/shrub_fact_sheets/spicana.pdf",
       "http://www.onlineplantguide.com/Plant-Details/2570/"
@@ -3138,7 +2835,6 @@
     "evergreen": "deciduous",
     "height": "0.3-1",
     "spread": "0.5-1",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "夏",
@@ -3146,7 +2842,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-8",
     "missingName": false,
@@ -3154,7 +2849,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/10907/spiraea-alpina/details"
     ]
@@ -3169,7 +2863,6 @@
     "evergreen": "deciduous",
     "height": "1.5-2.5",
     "spread": "2-3",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春-夏",
@@ -3177,7 +2870,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-8",
     "missingName": false,
@@ -3185,7 +2877,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/97141/spiraea-vanhouttei/details",
       "https://plantdatabase.kpu.ca/Plant/spva"
@@ -3201,7 +2892,6 @@
     "evergreen": "deciduous",
     "height": "1-2.5",
     "spread": "1-2.5",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -3209,7 +2899,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-8",
     "missingName": false,
@@ -3217,7 +2906,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=244222",
       "https://plantdatabase.kpu.ca/Plant/chsp"
@@ -3233,7 +2921,6 @@
     "evergreen": "deciduous",
     "height": "2-3",
     "spread": "2-3",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春-夏",
@@ -3241,7 +2928,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -3249,7 +2935,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://baike.baidu.com/item/绣球荚蒾/6987884"
     ]
@@ -3264,7 +2949,6 @@
     "evergreen": "deciduous",
     "height": "2-4",
     "spread": "2-4",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -3272,7 +2956,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "3-8",
     "missingName": false,
@@ -3280,7 +2963,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/18919/viburnum-opulus/details",
       "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/8e3d8fdd-4910-4e19-a960-0e9a4931f0cd/content"
@@ -3296,7 +2978,6 @@
     "evergreen": "deciduous",
     "height": "1.8-3",
     "spread": "1.2-2.5",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春-夏",
@@ -3304,7 +2985,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -3312,7 +2992,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&pt=4&taxonid=286870",
       "https://plantdatabase.kpu.ca/Plant/desc"
@@ -3328,7 +3007,6 @@
     "evergreen": "deciduous",
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春-夏",
@@ -3336,7 +3014,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -3344,7 +3021,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/189318/deutzia-crenata-pride-of-rochester-d/details",
       "https://en.paperblog.com/plant-of-the-week-deutzia-crenata-587848/"
@@ -3360,7 +3036,6 @@
     "evergreen": "deciduous",
     "height": "1.5-3",
     "spread": "1.5-2.5",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春-夏",
@@ -3368,7 +3043,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -3376,7 +3050,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/phcn",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=268016"
@@ -3392,7 +3065,6 @@
     "evergreen": "deciduous",
     "height": "1.3-2",
     "spread": "1.5-2",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -3400,7 +3072,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -3408,7 +3079,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/hyma",
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=401"
@@ -3424,7 +3094,6 @@
     "evergreen": "deciduous",
     "height": "1.5-3",
     "spread": "1.5-2.5",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -3432,7 +3101,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "3-8",
     "missingName": false,
@@ -3440,7 +3108,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=249039",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=442964"
@@ -3456,7 +3123,6 @@
     "evergreen": "deciduous",
     "height": "2-4",
     "spread": "2-3",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏",
@@ -3464,7 +3130,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-11",
     "missingName": false,
@@ -3472,7 +3137,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=253038",
       "https://www.monrovia.com/fruiting-pomegranate.html"
@@ -3488,7 +3152,6 @@
     "evergreen": "deciduous",
     "height": "1.2-2",
     "spread": "1.2-2",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏",
@@ -3496,7 +3159,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -3504,7 +3166,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287491",
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=328"
@@ -3520,7 +3181,6 @@
     "evergreen": "deciduous",
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春",
@@ -3528,7 +3188,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-8",
     "missingName": false,
@@ -3536,7 +3195,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://www.greatplantpicks.org/plantlists/view/563",
       "http://plants.pikenursery.com/12291001/Plant/24095/White_Enkianthus"
@@ -3552,7 +3210,6 @@
     "evergreen": "deciduous",
     "height": "2-3.5",
     "spread": "1.5-3",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -3560,7 +3217,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "掌状裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -3568,7 +3224,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/35782/",
       "http://www.onlineplantguide.com/Plant-Details/1053"
@@ -3584,7 +3239,6 @@
     "evergreen": "deciduous",
     "height": "1.5-3",
     "spread": "2-3",
-    "density": null,
     "sun": "part shade",
     "water": null,
     "bloomSeason": "春",
@@ -3592,7 +3246,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -3600,7 +3253,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/copa",
       "https://www.greatplantpicks.org/plantlists/view/437"
@@ -3616,7 +3268,6 @@
     "evergreen": "deciduous",
     "height": "5-8",
     "spread": "4-6",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -3624,7 +3275,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -3632,7 +3282,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/stja",
       "https://www.greatplantpicks.org/plantlists/view/1811"
@@ -3648,7 +3297,6 @@
     "evergreen": "deciduous",
     "height": "2-4.5",
     "spread": "2-4",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春",
@@ -3656,7 +3304,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -3664,7 +3311,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://myplantin.com/plant/1315",
       "https://www.epicgardening.com/star-magnolia-trees/"
@@ -3680,7 +3326,6 @@
     "evergreen": "deciduous",
     "height": "0.9-1.5",
     "spread": "1.2-1.8",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏",
@@ -3688,7 +3333,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -3696,7 +3340,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=1&pm=1&taxonid=249812",
       "https://plantdatabase.uconn.edu/detail.php?pid=223"
@@ -3712,7 +3355,6 @@
     "evergreen": "deciduous",
     "height": "1.8-3",
     "spread": "1.8-3",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -3720,7 +3362,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-8",
     "missingName": false,
@@ -3728,7 +3369,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://plantdatabase.uconn.edu/detail.php?pid=167",
       "https://www.greatplantpicks.org/search/plant-details/608"
@@ -3744,7 +3384,6 @@
     "evergreen": "deciduous",
     "height": "1.5-3",
     "spread": "1.5-2",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -3752,7 +3391,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -3760,7 +3398,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://plants.ces.ncsu.edu/plants/vaccinium-oldhamii/",
       "https://meetsmore.com/t/gardening/media/83051"
@@ -3776,7 +3413,6 @@
     "evergreen": "deciduous",
     "height": "2-4",
     "spread": "2-3",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏",
@@ -3784,7 +3420,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "羽状复叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-7",
     "missingName": false,
@@ -3792,7 +3427,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?c&isprofile=0&taxonid=359574",
       "https://plantdatabase.kpu.ca/Plant/sani"
@@ -3808,7 +3442,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -3816,15 +3449,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "直立",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "bistorta_amplexicaulis",
@@ -3836,7 +3467,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "秋",
@@ -3844,15 +3474,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "直立",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "eupatorium_cannabinum",
@@ -3864,7 +3492,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "秋",
@@ -3872,15 +3499,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "rudbeckia",
@@ -3892,7 +3517,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "秋",
@@ -3900,15 +3524,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "coreopsis",
@@ -3920,7 +3542,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "夏",
@@ -3928,15 +3549,13 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "erigeron",
@@ -3948,7 +3567,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": "dry",
     "bloomSeason": "春",
@@ -3956,15 +3574,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": "多年",
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "耐旱·耐瘠"
+    "category": "宿根草本"
   },
   {
     "id": "crossostephium_chinense",
@@ -3976,7 +3592,6 @@
     "evergreen": "evergreen",
     "height": "0.3-0.9",
     "spread": "0.4-0.8",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "秋-冬",
@@ -3984,7 +3599,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "匙形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-10",
     "missingName": false,
@@ -3992,7 +3606,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://baike.baidu.com/item/芙蓉菊/8388872",
       "https://tlpg.hsiliu.org.tw/search/view/300"
@@ -4008,7 +3621,6 @@
     "evergreen": "deciduous",
     "height": "1.5-3.5",
     "spread": "1.5-3.5",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "秋",
@@ -4016,7 +3628,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -4024,7 +3635,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://www.jerseyyards.org/plant/baccharis-halimifolia/",
       "https://newmoonnursery.com/nursery-plants/baccharis-halimifolia/"
@@ -4040,7 +3650,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4048,15 +3657,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "artemisia_schmidtiana",
@@ -4068,7 +3675,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4076,15 +3682,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "银·球状",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "tagetes_lemmonii",
@@ -4096,7 +3700,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4104,15 +3707,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "anisodontea_capensis",
@@ -4124,7 +3725,6 @@
     "evergreen": "evergreen",
     "height": "0.6-1",
     "spread": "0.5-0.9",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "夏-秋",
@@ -4132,7 +3732,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-9",
     "missingName": false,
@@ -4140,7 +3739,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·喜湿 · 灌木",
     "sources": [
       "https://www.gardenia.net/plant/anisodontea-capensis",
       "https://www.rhs.org.uk/plants/1298/i-anisodontea-capensis-i/details"
@@ -4156,7 +3754,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -4164,15 +3761,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "匍匐",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "全日照"
+    "category": "宿根草本"
   },
   {
     "id": "malva_subovata_subsp_bicolor",
@@ -4184,7 +3779,6 @@
     "evergreen": "evergreen",
     "height": "1-1.5",
     "spread": "0.5-1",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏-秋",
@@ -4192,7 +3786,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -4200,7 +3793,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/507369/malva-subovata/details",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/malvasubovata.html"
@@ -4216,7 +3808,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "夏",
@@ -4224,15 +3815,13 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "monarda_citriodora",
@@ -4244,7 +3833,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4252,15 +3840,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "丛生",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "aster",
@@ -4272,7 +3858,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "秋",
@@ -4280,15 +3865,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "aster_piccolii",
@@ -4300,7 +3883,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "夏",
@@ -4308,15 +3890,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "hemerocallis",
@@ -4328,7 +3908,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4336,15 +3915,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "agapanthus",
@@ -4356,7 +3933,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4364,15 +3940,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "crocosmia",
@@ -4384,7 +3958,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -4392,15 +3965,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "全日照"
+    "category": "宿根草本"
   },
   {
     "id": "oenothera_lindheimeri",
@@ -4412,7 +3983,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4420,15 +3990,13 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "sanguisorba",
@@ -4440,7 +4008,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4448,15 +4015,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "verbena",
@@ -4468,7 +4033,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4476,15 +4040,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": "短",
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "betonica",
@@ -4496,7 +4058,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4504,15 +4065,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "直立",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "veronicastrum_virginicum",
@@ -4524,7 +4083,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "冬",
@@ -4532,15 +4090,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "salvia_yangii_blue_steel",
@@ -4552,7 +4108,6 @@
     "evergreen": "deciduous",
     "height": "0.9-1.5",
     "spread": "0.6-1.2",
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "夏-秋",
@@ -4560,7 +4115,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "细裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -4568,7 +4122,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "全日照·耐旱 · 灌木",
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/peat",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/perovskiaatriplicifolia.html"
@@ -4584,7 +4137,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": null,
@@ -4592,15 +4144,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "耐旱·耐瘠 · 全日照"
+    "category": "宿根草本"
   },
   {
     "id": "helianthus",
@@ -4612,7 +4162,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4620,15 +4169,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "allium_giganteum",
@@ -4640,7 +4187,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4648,15 +4194,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": "多年",
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "asclepias_tuberosa",
@@ -4668,7 +4212,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": "dry",
     "bloomSeason": null,
@@ -4676,15 +4219,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "耐旱·耐瘠"
+    "category": "宿根草本"
   },
   {
     "id": "foeniculum",
@@ -4696,7 +4237,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4704,15 +4244,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": "短",
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "thalictrum_ichangense",
@@ -4724,7 +4262,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4732,15 +4269,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "rhapis_gracilis_burret",
@@ -4752,7 +4287,6 @@
     "evergreen": "evergreen",
     "height": "0.6-1.5",
     "spread": "0.5-1",
-    "density": null,
     "sun": "shade",
     "water": "wet",
     "bloomSeason": null,
@@ -4760,7 +4294,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "扇形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -4768,7 +4301,6 @@
     "images": [],
     "tags": [],
     "category": "灌木",
-    "habitat": "半荫·喜湿 · 灌木",
     "sources": [
       "https://baike.baidu.com/item/细棕竹",
       "https://www.tszwy.com.cn/m/product/html/?1056.html"
@@ -4784,7 +4316,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4792,15 +4323,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "yuccasmallianafern",
@@ -4812,7 +4341,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4820,15 +4348,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "蓝绿·莲座簇生",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "phormium_tenax",
@@ -4840,7 +4366,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4848,15 +4373,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "agave_americana_l",
@@ -4868,7 +4391,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4876,15 +4398,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "verbena_officinalis_l",
@@ -4896,7 +4416,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4904,15 +4423,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "lysimachia",
@@ -4924,7 +4441,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4932,15 +4448,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "匍匐",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "muehlenbeckia_complexa_meisn",
@@ -4952,7 +4466,6 @@
     "evergreen": "evergreen",
     "height": "3-6",
     "spread": "1-2",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -4960,7 +4473,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "圆形小叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -4968,7 +4480,6 @@
     "images": [],
     "tags": [],
     "category": "藤本",
-    "habitat": "全日照·耐旱 · 攀援",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/mucv",
       "https://www.provenwinners.com/plants/muehlenbeckia/big-leaf-creeping-wire-vine-muehlenbeckia-complexa"
@@ -4984,7 +4495,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -4992,15 +4502,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "anemone_hupehensis_var_japonica",
@@ -5012,7 +4520,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5020,15 +4527,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "helleborus",
@@ -5040,7 +4545,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5048,15 +4552,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "bletilla",
@@ -5068,7 +4570,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5076,15 +4577,13 @@
     "seasonOfInterest": null,
     "reliability": "一般",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "disporum",
@@ -5096,7 +4595,6 @@
     "evergreen": "evergreen",
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5104,15 +4602,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "ledebouria",
@@ -5124,7 +4620,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5132,15 +4627,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "symphytum",
@@ -5152,7 +4645,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": "春-夏",
@@ -5160,15 +4652,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "polygonatum_odoratum",
@@ -5180,7 +4670,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5188,15 +4677,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "hosta",
@@ -5208,7 +4695,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -5216,15 +4702,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "全日照"
+    "category": "宿根草本"
   },
   {
     "id": "astilbe",
@@ -5236,7 +4720,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5244,15 +4727,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "epimedium",
@@ -5264,7 +4745,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "shade",
     "water": null,
     "bloomSeason": null,
@@ -5272,15 +4752,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "林下·耐荫 · 荫"
+    "category": "宿根草本"
   },
   {
     "id": "lamprocapnos_spectabilis",
@@ -5292,7 +4770,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5300,15 +4777,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "dryopteris",
@@ -5320,7 +4795,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5328,15 +4802,13 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "cibotium",
@@ -5348,7 +4820,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5356,15 +4827,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "cyrtomium",
@@ -5376,7 +4845,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5384,15 +4852,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "深绿",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "osmunda",
@@ -5404,7 +4870,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5412,15 +4877,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "深绿",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "arachniodes_simplicior_variegata",
@@ -5432,7 +4895,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5440,15 +4902,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "深绿",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "pteris",
@@ -5460,7 +4920,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5468,15 +4927,13 @@
     "seasonOfInterest": null,
     "reliability": "一般",
     "leafForm": "银",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "pteris_multifida",
@@ -5488,7 +4945,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5496,15 +4952,13 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "lepisorus_fortunei",
@@ -5516,7 +4970,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5524,15 +4977,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "davallia",
@@ -5544,7 +4995,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5552,15 +5002,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "pleioblastus_fortunei",
@@ -5572,7 +5020,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5580,15 +5027,13 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "匍匐",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "aspidistra",
@@ -5600,7 +5045,6 @@
     "evergreen": "evergreen",
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5608,15 +5052,13 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "farfugium_japonicum",
@@ -5628,7 +5070,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "shade",
     "water": null,
     "bloomSeason": null,
@@ -5636,15 +5077,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "林下·耐荫 · 荫"
+    "category": "宿根草本"
   },
   {
     "id": "hakonechloa",
@@ -5656,7 +5095,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5664,15 +5102,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "carex",
@@ -5684,7 +5120,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -5692,15 +5127,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "红褐·垂吊",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "全日照"
+    "category": "宿根草本"
   },
   {
     "id": "reineckea_carnea",
@@ -5712,7 +5145,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "shade",
     "water": null,
     "bloomSeason": null,
@@ -5720,15 +5152,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "林下·耐荫 · 荫"
+    "category": "宿根草本"
   },
   {
     "id": "acorus_gramineus_ogon",
@@ -5740,7 +5170,6 @@
     "evergreen": "evergreen",
     "height": "0.1-0.3",
     "spread": "0.2-0.45",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": null,
@@ -5748,7 +5177,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "带状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-9",
     "missingName": false,
@@ -5756,7 +5184,6 @@
     "images": [],
     "tags": [],
     "category": "水生植物",
-    "habitat": "水生·水畔 · 半荫 · 喜湿",
     "sources": [
       "https://www.monrovia.com/dwarf-golden-sweet-flag.html",
       "https://www.onlineplantguide.com/plant-details/68/"
@@ -5772,7 +5199,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -5780,15 +5206,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "全日照"
+    "category": "宿根草本"
   },
   {
     "id": "stipa_tenuissima_pony_tails",
@@ -5800,7 +5224,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": null,
@@ -5808,15 +5231,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "全日照"
+    "category": "宿根草本"
   },
   {
     "id": "ensete",
@@ -5828,7 +5249,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5836,15 +5256,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": "红褐",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "cortaderia_selloana_pumila",
@@ -5856,7 +5274,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5864,15 +5281,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "deschampsia",
@@ -5884,7 +5299,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5892,15 +5306,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "miscanthus",
@@ -5912,7 +5324,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5920,15 +5331,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "calamagrostis_acutiflora_karl_foerster",
@@ -5940,7 +5349,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -5948,15 +5356,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "juncus",
@@ -5968,7 +5374,6 @@
     "evergreen": "evergreen",
     "height": "0.3-1.5",
     "spread": "0.3-0.6",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏",
@@ -5976,7 +5381,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -5984,7 +5388,6 @@
     "images": [],
     "tags": [],
     "category": "水生植物",
-    "habitat": "水生·水畔 · 全日照 · 喜湿",
     "sources": [
       "https://www.terranovanurseries.com/product/juncus-blonde-ambition/",
       "https://www.thompson-morgan.com/p/juncus-effusus-f-spiralis-marginal-aquatic/t78237TM"
@@ -6000,7 +5403,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -6008,15 +5410,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "leucojum",
@@ -6028,7 +5428,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": "wet",
     "bloomSeason": null,
@@ -6036,15 +5435,13 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": null,
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": "喜湿"
+    "category": "宿根草本"
   },
   {
     "id": "lilium",
@@ -6056,7 +5453,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -6064,15 +5460,13 @@
     "seasonOfInterest": null,
     "reliability": null,
     "leafForm": null,
-    "lifespan": "多年",
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "iris_louisiana_black_gamecock",
@@ -6084,7 +5478,6 @@
     "evergreen": "evergreen",
     "height": "0.6-0.9",
     "spread": "0.5-0.8",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -6092,7 +5485,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "剑形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-10",
     "missingName": false,
@@ -6100,7 +5492,6 @@
     "images": [],
     "tags": [],
     "category": "水生植物",
-    "habitat": "水生·水畔 · 全日照 · 喜湿",
     "sources": [
       "https://txmg.org/hendersonmg/plant-library/louisiana-iris/",
       "https://kiefernursery.com/product/iris-louisiana-heather-stream/"
@@ -6116,7 +5507,6 @@
     "evergreen": null,
     "height": null,
     "spread": null,
-    "density": null,
     "sun": null,
     "water": null,
     "bloomSeason": null,
@@ -6124,15 +5514,13 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "直立",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": null,
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
-    "category": "宿根草本",
-    "habitat": null
+    "category": "宿根草本"
   },
   {
     "id": "persicaria_capitata",
@@ -6144,7 +5532,6 @@
     "evergreen": null,
     "height": "0.1-0.2",
     "spread": "0.3-0.8",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -6152,7 +5539,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -6160,7 +5546,6 @@
     "images": [],
     "tags": [],
     "category": "地被",
-    "habitat": "全日照·喜湿 · 铺地",
     "sources": [
       "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242100091",
       "https://www.shootgardening.com/plants/persicaria-capitata"
@@ -6176,7 +5561,6 @@
     "evergreen": "evergreen",
     "height": "0.1-0.2",
     "spread": "0.5-1",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -6184,7 +5568,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "心形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -6192,7 +5575,6 @@
     "images": [],
     "tags": [],
     "category": "地被",
-    "habitat": "半荫·喜湿 · 铺地",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/glhe",
       "https://www.rhs.org.uk/plants/71551/glechoma-hederacea-variegata-v/details"
@@ -6208,7 +5590,6 @@
     "evergreen": "evergreen",
     "height": "0.15-0.45",
     "spread": "0.3-0.6",
-    "density": null,
     "sun": "shade",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -6216,7 +5597,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "心形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -6224,7 +5604,6 @@
     "images": [],
     "tags": [],
     "category": "地被",
-    "habitat": "林下·荫 · 喜湿 · 铺地",
     "sources": [
       "http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c251"
     ]
@@ -6239,7 +5618,6 @@
     "evergreen": "evergreen",
     "height": "0.05-0.1",
     "spread": "0.5-1",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -6247,7 +5625,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "7-10",
     "missingName": false,
@@ -6255,7 +5632,6 @@
     "images": [],
     "tags": [],
     "category": "地被",
-    "habitat": "全日照·喜湿 · 铺地",
     "sources": [
       "https://adelaideplantco.com.au/collections/australian-native-plants/products/pratia-pedunculata",
       "https://www.rhs.org.uk/plants/518932/lobelia-pedunculata-county-park/details"
@@ -6271,7 +5647,6 @@
     "evergreen": "evergreen",
     "height": "0.15-0.3",
     "spread": "0.3-0.6",
-    "density": null,
     "sun": "shade",
     "water": "wet",
     "bloomSeason": "春",
@@ -6279,7 +5654,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -6287,7 +5661,6 @@
     "images": [],
     "tags": [],
     "category": "地被",
-    "habitat": "林下·荫 · 喜湿 · 铺地",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/pate",
       "https://slcgardenwise.com/eplant.php?plantnum=437&return=s_p98&l1=8&l2=4&l3=1&l4=8"
@@ -6303,7 +5676,6 @@
     "evergreen": "evergreen",
     "height": "5-10",
     "spread": "3-4",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "夏-秋",
@@ -6311,7 +5683,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -6319,7 +5690,6 @@
     "images": [],
     "tags": [],
     "category": "藤本",
-    "habitat": "全日照·耐旱 · 攀援",
     "sources": [
       "https://plantdatabase.uconn.edu/detail.php?pid=262",
       "https://dplantdatabase.kpu.ca/Plant/loja"
@@ -6335,7 +5705,6 @@
     "evergreen": null,
     "height": "2-4",
     "spread": "1-2",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "夏-秋",
@@ -6343,7 +5712,6 @@
     "seasonOfInterest": null,
     "reliability": "需照料",
     "leafForm": "复叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -6351,7 +5719,6 @@
     "images": [],
     "tags": [],
     "category": "藤本",
-    "habitat": "全日照·喜湿 · 攀援",
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx"
     ]
@@ -6366,7 +5733,6 @@
     "evergreen": "evergreen",
     "height": "3-9",
     "spread": "1-1.5",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": null,
@@ -6374,7 +5740,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -6382,7 +5747,6 @@
     "images": [],
     "tags": [],
     "category": "藤本",
-    "habitat": "半荫·喜湿 · 攀援",
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/fipu",
       "https://www.monrovia.com/shop/creeping-fig.html"
@@ -6398,7 +5762,6 @@
     "evergreen": "evergreen",
     "height": "6-9",
     "spread": "1-2",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春-夏",
@@ -6406,7 +5769,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "8-11",
     "missingName": false,
@@ -6414,7 +5776,6 @@
     "images": [],
     "tags": [],
     "category": "藤本",
-    "habitat": "全日照·喜湿 · 攀援",
     "sources": [
       "https://www.monrovia.com/star-jasmine.html",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&letter=T"
@@ -6430,7 +5791,6 @@
     "evergreen": "evergreen",
     "height": "5-15",
     "spread": "3-5",
-    "density": null,
     "sun": "shade",
     "water": null,
     "bloomSeason": "秋",
@@ -6438,7 +5798,6 @@
     "seasonOfInterest": null,
     "reliability": "极强健",
     "leafForm": "三角叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-11",
     "missingName": false,
@@ -6446,7 +5805,6 @@
     "images": [],
     "tags": [],
     "category": "藤本",
-    "habitat": "半荫·耐旱 · 攀援",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&isprofile=0&letter=H",
       "https://dplantdatabase.kpu.ca/Plant/hehe"
@@ -6462,7 +5820,6 @@
     "evergreen": "deciduous",
     "height": "10-25",
     "spread": "4-8",
-    "density": null,
     "sun": "full sun",
     "water": null,
     "bloomSeason": "春",
@@ -6470,7 +5827,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -6478,7 +5834,6 @@
     "images": [],
     "tags": [],
     "category": "藤本",
-    "habitat": "全日照·喜湿 · 攀援",
     "sources": [
       "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=280632"
     ]
@@ -6493,7 +5848,6 @@
     "evergreen": null,
     "height": "0.3-0.9",
     "spread": "0.4-0.9",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "夏",
@@ -6501,7 +5855,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "心形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -6512,8 +5865,7 @@
       "https://easyscape.com/species/Saururus-chinensis(Asian-Lizard%E2%80%99s-Tail)"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·水畔 · 全日照 · 喜湿"
+    "tags": []
   },
   {
     "id": "lythrum_salicaria_f_alba",
@@ -6525,7 +5877,6 @@
     "evergreen": null,
     "height": "0.6-1.2",
     "spread": "0.6-1.2",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -6533,7 +5884,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "细长叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -6544,8 +5894,7 @@
       "https://plantdatabase.kpu.ca/Plant/lysa"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·水畔 · 全日照 · 喜湿"
+    "tags": []
   },
   {
     "id": "iris_sanguinea",
@@ -6557,7 +5906,6 @@
     "evergreen": null,
     "height": "0.3-0.9",
     "spread": "0.3-0.9",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏",
@@ -6565,7 +5913,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "剑形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-8",
     "missingName": false,
@@ -6576,8 +5923,7 @@
       "https://pfaf.org/USER/Plant.aspx?LatinName=Iris+sanguinea"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·水畔 · 全日照 · 喜湿"
+    "tags": []
   },
   {
     "id": "lysimachia_candida",
@@ -6589,7 +5935,6 @@
     "evergreen": null,
     "height": "0.1-0.5",
     "spread": "0.2-0.4",
-    "density": null,
     "sun": "part shade",
     "water": "wet",
     "bloomSeason": "春-夏",
@@ -6597,7 +5942,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "匙形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "6-9",
     "missingName": false,
@@ -6608,8 +5952,7 @@
       "https://wapbaike.baidu.com/item/泽珍珠菜/2567621"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·水畔 · 半荫 · 喜湿"
+    "tags": []
   },
   {
     "id": "vallisneria_nana",
@@ -6621,7 +5964,6 @@
     "evergreen": null,
     "height": "0.15-0.3",
     "spread": "0.1-0.2",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": null,
@@ -6629,7 +5971,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "带状叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-11",
     "missingName": false,
@@ -6640,8 +5981,7 @@
       "https://pts.lifeasible.com/vallisneria-nana-gracilisnarrow-leaf-eelgrass-item-1020.html"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·沉水 · 全日照"
+    "tags": []
   },
   {
     "id": "ceratophyllum_demersum",
@@ -6653,7 +5993,6 @@
     "evergreen": null,
     "height": "0.3-0.6",
     "spread": "0.5-2",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": null,
@@ -6661,7 +6000,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "羽状细裂叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-11",
     "missingName": false,
@@ -6672,8 +6010,7 @@
       "https://www.lilyblooms.com/hornwort-ceratophyllum-demersum-submerged-oxygenating-pond-plant/"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·沉水 · 全日照"
+    "tags": []
   },
   {
     "id": "sagittaria_sagittifolia",
@@ -6685,7 +6022,6 @@
     "evergreen": null,
     "height": "0.3-0.8",
     "spread": "0.4-1",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -6693,7 +6029,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "箭形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "5-10",
     "missingName": false,
@@ -6704,8 +6039,7 @@
       "https://www.thompson-morgan.com/p/sagittaria-sagittifolia-marginal-aquatic/wkh4754TM"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·水畔 · 全日照 · 喜湿"
+    "tags": []
   },
   {
     "id": "alisma_plantago_aquatica",
@@ -6717,7 +6051,6 @@
     "evergreen": null,
     "height": "0.5-1",
     "spread": "0.1-0.5",
-    "density": null,
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏-秋",
@@ -6725,7 +6058,6 @@
     "seasonOfInterest": null,
     "reliability": "强健",
     "leafForm": "卵形叶",
-    "lifespan": null,
     "persistence": null,
     "hardinessZone": "4-9",
     "missingName": false,
@@ -6736,7 +6068,6 @@
       "https://www.thompson-morgan.com/p/alisma-plantagoaquatica-marginal-aquatic/T78076TM"
     ],
     "images": [],
-    "tags": [],
-    "habitat": "水生·水畔 · 全日照 · 喜湿"
+    "tags": []
   }
 ]
