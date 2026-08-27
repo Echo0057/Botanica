@@ -9,14 +9,16 @@
 ## 当前状态
 
 - **技术栈**:React 19 + Vite 8 + Tailwind CSS v4,纯前端,无后端/数据库。
-- **数据**:`src/data/plants.json`,共 227 条。
+- **数据**:`src/data/plants.json`,共 223 条。
   - 基础 236 条源自 Excel(Excel 导入已停用);手工补充 8 种水生植物。
-  - 已按**种**整理:同一物种的不同园艺品种只保留一条(`scripts/consolidate-species.mjs`),并去掉「目(order)」字段。
+  - 已按**种**整理:同一物种的不同园艺品种只保留一条(`scripts/consolidate-species.mjs`),学名统一到「属+种」;并去掉「目(order)」字段。
+  - **全部植物已联网核定学名**(缺学名 45 条全部补全,并批量修正继承错误的属/科);185 条已补中文别名。
+  - 已移除与分类重复的 `designLayer` 字段和用户弃用的 `rawNotes`(特性)字段。
 - **分类(6 类)**:常绿乔木 / 落叶乔木 / 灌木 / 宿根 / 匍匐攀缘 / 水生植物。
 - **分类系统**:统一 **APG IV**(科-属-种)。
 - **界面**:总览表(奥多夫《荒野之美》风格,按 6 大类分组)+ 名称搜索 + 分类筛选 + 植物详情弹窗。
-  - 学名列为「中文学名 + 拉丁学名」,别名悬浮显示;表格含「科 / 属 / 生境」列(生境列直接读 `habitat` 字段,已按现有信息预填 52 条);已去掉「设计层」列。
-  - 已移除:浏览卡片视图、收藏功能。
+  - 学名列为「中文学名 + 拉丁学名」,别名悬浮显示;表格含「科 / 属 / 生境」列(生境列直接读 `habitat` 字段);详情页「科」在前、「属」在后。
+  - 已移除:浏览卡片视图、收藏功能、「设计层」列、「特性」字段。
   - 浏览器标签页图标为 Botanica 叶子 favicon(`public/favicon.svg`)。
 - **Dock 启动器**:`~/Applications/Botanica.app`,点击可确保 Vite 在跑并打开浏览器。
 
@@ -27,19 +29,19 @@
 | 分类 | 数量 |
 | --- | ---: |
 | 常绿乔木 | 10 |
-| 落叶乔木 | 23 |
+| 落叶乔木 | 22 |
 | 灌木 | 46 |
-| 宿根 | 123 |
+| 宿根 | 120 |
 | 匍匐攀缘 | 12 |
 | 水生植物 | 13 |
-| **合计** | **227** |
+| **合计** | **223** |
 
 ---
 
 ## 数据工作流(SOP)
 
 - 新增植物 → 写 `scripts/additional-plants.json`(必填 `chineseName`+`category`)→ `npm run import:plants` 校验/去重/合并 → `git commit`。
-- 联网检索特性 → 见 `plant-data-sop.md`(KEW POWO / RHS / MoBot Plant Finder / Great Plant Picks / Mount Cuba / Commons 等)。
+- 联网检索学名/别名 → 见 `plant-data-sop.md`(KEW POWO / RHS / 植物智 iPlant / 中国植物志 等)。
 - Excel 导入已停用(2026-08-27)。
 
 ---

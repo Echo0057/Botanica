@@ -5,12 +5,10 @@ export default function PlantDetail({ plant, onClose }) {
 
   const rows = [
     ['类别', categoryOf(plant)],
-    ['设计层', plant.designLayer],
-    ['拉丁学名', plant.latinName],
-    ['属', plant.genus],
     ['科', plant.family],
-    ['别名/备注', plant.aliases],
-    ['特性', plant.rawNotes],
+    ['属', plant.genus],
+    ['拉丁学名', plant.latinName],
+    ['别名', plant.aliases],
     ['高度', plant.height],
     ['冠幅', plant.spread],
     ['日照', plant.sun],

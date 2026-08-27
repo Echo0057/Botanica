@@ -1,6 +1,7 @@
 // 一次性数据整理:
 //   1) 去掉「目(order)」字段(分类只需 科-属-种)
 //   2) 同一物种(拉丁学名的 属+种)下的不同园艺品种只保留一条
+//   3) 学名统一为「属+种」级别(去掉 var./subsp. 变种、亚种与品种引号)
 // 用法: node scripts/consolidate-species.mjs
 
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -24,6 +25,14 @@ function speciesKey(p) {
   if (!l) return null;
   const noQuote = l.split("'")[0];
   const words = noQuote.split(/[^a-z]+/).filter(Boolean);
+  // 杂交种(×)自成物种,避免与父本误合并:用「属 x 种」作键
+  if (l.includes('×')) {
+    const before = noQuote.split('×')[0].trim();
+    const bw = before.split(/[^a-z]+/).filter(Boolean);
+    const after = noQuote.split('×')[1] || '';
+    const aw = after.split(/[^a-z]+/).filter(Boolean);
+    if (bw.length >= 1) return `${bw[0]} x ${aw[0] || ''}`.trim();
+  }
   if (words.length >= 2) return `${words[0]} ${words[1]}`;
   if (words.length === 1) return words[0];
   return null;
@@ -64,9 +73,7 @@ for (const [key, group] of byKey.entries()) {
     return (a.chineseName || '').length - (b.chineseName || '').length;
   });
   const rep = sorted[0];
-  const notes = uniq(group.map((g) => g.rawNotes));
   const aliases = uniq([rep.aliases, ...group.map((g) => g.aliases)]);
-  if (notes) rep.rawNotes = notes;
   if (aliases) rep.aliases = aliases;
   kept.push(rep);
   collapsedCount += group.length - 1;

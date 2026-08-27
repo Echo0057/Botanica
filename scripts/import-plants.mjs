@@ -93,7 +93,6 @@ for (const entry of additional) {
 
   plants.push({
     id: nextId(latin || name || 'plant'),
-    designLayer: (entry.designLayer || cat).trim(),
     chineseName: name,
     latinName: latin || null,
     genus: entry.genus || null,
@@ -116,7 +115,6 @@ for (const entry of additional) {
     selfSeeding: entry.selfSeeding ?? null,
     persistence: entry.persistence ?? null,
     hardinessZone: entry.hardinessZone ?? null,
-    rawNotes: entry.notes || entry.rawNotes || null,
     habitat: entry.habitat ?? null,
     missingName: !latin,
     genusOnly: false,
