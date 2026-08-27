@@ -1,6 +1,6 @@
 import { categoryOf } from '../data/layers.js';
 
-export default function PlantDetail({ plant, onClose }) {
+export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, hasNext }) {
   if (!plant) return null;
 
   const rows = [
@@ -19,6 +19,24 @@ export default function PlantDetail({ plant, onClose }) {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4" onClick={onClose}>
       <div className="absolute inset-0 bg-black/30" aria-hidden="true" />
+      {hasPrev && (
+        <button
+          onClick={(e) => { e.stopPropagation(); onPrev(); }}
+          aria-label="上一个"
+          className="absolute left-2 z-20 flex h-11 w-11 items-center justify-center rounded-full bg-white/90 text-2xl text-stone-700 shadow-lg transition md:left-6 hover:bg-white hover:text-green-700"
+        >
+          ‹
+        </button>
+      )}
+      {hasNext && (
+        <button
+          onClick={(e) => { e.stopPropagation(); onNext(); }}
+          aria-label="下一个"
+          className="absolute right-2 z-20 flex h-11 w-11 items-center justify-center rounded-full bg-white/90 text-2xl text-stone-700 shadow-lg transition md:right-6 hover:bg-white hover:text-green-700"
+        >
+          ›
+        </button>
+      )}
       <div
         className="relative z-10 max-h-[90vh] w-full max-w-lg overflow-y-auto rounded-2xl bg-white p-6 shadow-xl"
         onClick={(e) => e.stopPropagation()}

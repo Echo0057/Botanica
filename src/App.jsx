@@ -26,7 +26,15 @@ export default function App() {
     });
   }, [plants, query, category]);
 
-  const selected = plants.find((p) => p.id === selectedId) || null;
+  const selectedIndex = filtered.findIndex((p) => p.id === selectedId);
+  const selected = selectedIndex >= 0 ? filtered[selectedIndex] : null;
+  const hasPrev = selectedIndex > 0;
+  const hasNext = selectedIndex >= 0 && selectedIndex < filtered.length - 1;
+  const goTo = (dir) => {
+    const next = selectedIndex + dir;
+    if (next < 0 || next >= filtered.length) return;
+    setSelectedId(filtered[next].id);
+  };
 
   return (
     <div className="min-h-screen bg-stone-50 text-stone-800">
@@ -57,6 +65,10 @@ export default function App() {
       <PlantDetail
         plant={selected}
         onClose={() => setSelectedId(null)}
+        onPrev={() => goTo(-1)}
+        onNext={() => goTo(1)}
+        hasPrev={hasPrev}
+        hasNext={hasNext}
       />
     </div>
   );
