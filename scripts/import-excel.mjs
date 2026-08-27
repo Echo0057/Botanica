@@ -5,6 +5,7 @@ import ExcelJS from 'exceljs';
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { enrichNotes } from './enrich-fields.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -113,6 +114,14 @@ for (const sheetName of DESIGN_LAYERS) {
     const genusOnly = !hasSpecies; // 只有属(整属可用)
     if (genusOnly) genusOnlyCount++;
 
+    // 从特性文本抽取结构化字段
+    const en = enrichNotes(notes);
+    let evergreen = EVERGREEN_BY_LAYER[sheetName] ?? null;
+    if (/落叶/.test(notes)) evergreen = 'deciduous';
+    else if (/常绿|四季常绿/.test(notes)) evergreen = 'evergreen';
+
+    const leafForm = [en.leafColor, en.growthForm].filter(Boolean).join('·') || null;
+
     records.push({
       id: nextId(latin || chineseName || `${sheetName}_${rowIndex}`),
       designLayer: sheetName,
@@ -122,16 +131,23 @@ for (const sheetName of DESIGN_LAYERS) {
       family: family || null,
       order: order || null,
       aliases: aliases || null,
-      evergreen: EVERGREEN_BY_LAYER[sheetName] ?? null,
-      height: null,
-      spread: null,
-      sun: null,
-      water: null,
-      bloomSeason: null,
-      flowerColor: null,
-      seasonOfInterest: null,
-      fragrance: null,
-      reliability: null,
+      evergreen,
+      height: en.height,
+      spread: en.spread,
+      density: en.density,
+      sun: en.sun,
+      water: en.water,
+      bloomSeason: en.bloomSeason,
+      flowerColor: en.flowerColor,
+      seasonOfInterest: en.seasonOfInterest,
+      fragrance: en.fragrance,
+      reliability: en.reliability,
+      leafForm,
+      lifespan: en.lifespan,
+      spreadRate: en.spreadRate,
+      selfSeeding: en.selfSeeding,
+      persistence: en.persistence,
+      hardinessZone: en.hardinessZone,
       rawNotes: notes || null,
       missingName,
       genusOnly,

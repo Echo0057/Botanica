@@ -3,6 +3,7 @@ import plantsData from './data/plants.json';
 import FilterBar from './components/FilterBar.jsx';
 import PlantCard from './components/PlantCard.jsx';
 import PlantDetail from './components/PlantDetail.jsx';
+import OverviewTable from './components/OverviewTable.jsx';
 
 const FAV_KEY = 'botanica:favorites';
 
@@ -22,6 +23,7 @@ export default function App() {
   const [evergreen, setEvergreen] = useState('all');
   const [selectedId, setSelectedId] = useState(null);
   const [favorites, setFavorites] = useState(loadFavorites);
+  const [view, setView] = useState('overview');
 
   useEffect(() => {
     localStorage.setItem(FAV_KEY, JSON.stringify([...favorites]));
@@ -64,6 +66,23 @@ export default function App() {
       </header>
 
       <main className="mx-auto max-w-6xl px-4 py-6">
+        <div className="mb-4 flex items-center gap-2 rounded-xl border border-stone-200 bg-white p-1 text-sm">
+          {[
+            ['overview', '总览表'],
+            ['browse', '浏览卡片'],
+          ].map(([val, label]) => (
+            <button
+              key={val}
+              onClick={() => setView(val)}
+              className={`flex-1 rounded-lg px-3 py-1.5 font-medium transition ${
+                view === val ? 'bg-green-700 text-white' : 'text-stone-600 hover:bg-stone-100'
+              }`}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
+
         <FilterBar
           query={query}
           onQuery={setQuery}
@@ -77,7 +96,11 @@ export default function App() {
           共 {filtered.length} / {plants.length} 种
         </div>
 
-        {filtered.length === 0 ? (
+        {view === 'overview' ? (
+          <div className="mt-4">
+            <OverviewTable plants={filtered} onOpen={setSelectedId} />
+          </div>
+        ) : filtered.length === 0 ? (
           <div className="mt-10 rounded-lg border border-dashed border-stone-300 p-10 text-center text-stone-400">
             没有符合条件的植物
           </div>
