@@ -33,7 +33,9 @@
 
 ### 第 3 步:填字段(能填则填,不编造)
 
-把已知信息按 `scripts/additional-plants.json` 的字段写进去。**必填**:`chineseName`、`category`。**建议填**:`latinName`、`genus`、`family`、`order`。其它(日照/水分/花期/花色/高度/耐寒等)从第 4 步检索后来填。
+把已知信息按 `scripts/additional-plants.json` 的字段写进去。**必填**:`chineseName`、`category`。**建议填**:`latinName`、`genus`、`family`。分类只用 **科-属-种**(无「目(order)」字段)。其它(日照/水分/花期/花色/高度/耐寒等)从第 4 步检索后来填。
+
+> **学名与分类**:学名 = 中文学名(`chineseName`)+ 拉丁学名(`latinName`)。分类系统统一采用 **APG IV**(被子植物;蕨类用 PPG I),仅保留 科-属-种。数据库按**种**为标准:同一物种下的不同园艺品种只保留一条(`scripts/consolidate-species.mjs`)。
 
 ### 第 4 步:联网检索特性(见第 2 节)
 
@@ -52,7 +54,6 @@
   "latinName": "Genus species",
   "genus": "某属",
   "family": "某科",
-  "order": "某目",
   "category": "宿根",
   "sun": "part shade",
   "water": "wet",
@@ -74,7 +75,7 @@
 npm run import:plants
 ```
 
-脚本会:读取 `scripts/additional-plants.json` 清单 + 现有 `plants.json` → 校验(缺中文名/类别非法会**中止**并报错)→ 去重(已存在则跳过硬告)→ 追加新增 → 重算 `id`/`category`/`missingName` → 写回 `plants.json` → 打印分类统计与警告。
+脚本会:读取 `scripts/additional-plants.json` 清单 + 现有 `plants.json` → 校验(缺中文名/类别非法会**中止**并报错)→ 按**种**去重(同一物种/已存在会跳过硬告)→ 追加新增 → 重算 `id`/`category`/`missingName` → 写回 `plants.json` → 打印分类统计与警告。
 
 ### 第 7 步:验证与提交
 
@@ -98,12 +99,25 @@ npm run import:plants
 | 6 | **Wikimedia Commons / iNaturalist / GBIF** | 图片(多为 CC 授权) |
 | 7 | 补充 | Wikipedia、园艺商/苗圃页(仅作参考) |
 
+### 中文学名 / 中文别名(权威来源)
+
+中文名与别名**不要凭印象**,要用以下权威库核对(中国原生植物尤须如此;引种/园艺品种则参考园艺通行中文名):
+
+| 优先级 | 站点 | 用途 / 取什么 |
+| --- | --- | --- |
+| 1 | **《中国植物志》/ Flora of China(eFloras)** | 中文学名(正名)、别名、科属、拉丁学名 —— 中国原生植物最权威 |
+| 2 | **iPlant 植物智(iPlant.cn)** | 中文名 / 别名 / 分类 / 图片,现代整理,推荐 |
+| 3 | **中国植物图像库(PPBC, ppbc.iplant.cn)** | 中文名、别名与图片交叉核对(多为 CC) |
+
+> 学名(拉丁)以 KEW POWO / RHS 为正名;中文名以《中国植物志》/ iPlant 为准;别名记入该条 `aliases`。
+
 ### 检索步骤
 
-1. **先确定能查的学名**。用 `search` 搜 `"<拉丁学名>" RHS` 或 `"<拉丁学名>" powo.kew.org`,先锁定 POWO / RHS 的正名。
-2. **再查结构特征**。搜 `"<学名>" Missouri Botanical Garden Plant Finder`;有结果用 `open_page` 读高度/冠幅/日照/水分/花期/耐寒。
-3. **搜可靠性**。搜 `"<学名>" Great Plant Picks` 或 `Mount Cuba`;看「可靠好养」描述。
-4. **有图片需求**时,搜 `"<学名>" site:commons.wikimedia.org` 或 iNaturalist / GBIF。
+1. **先定中文名与别名**。搜 `"<中文名>" 植物智` 或 `"<中文名>" 中国植物志` 或 `"<拉丁学名>" iPlant`,拿到**中文学名**与**别名**。
+2. **再确定拉丁学名**。用 `search` 搜 `"<拉丁学名>" RHS` 或 `"<拉丁学名>" powo.kew.org`,锁定 POWO / RHS 的正名。
+3. **查结构特征**。搜 `"<学名>" Missouri Botanical Garden Plant Finder`;有结果用 `open_page` 读高度/冠幅/日照/水分/花期/耐寒。
+4. **搜可靠性**。搜 `"<学名>" Great Plant Picks` 或 `Mount Cuba`;看「可靠好养」描述。
+5. **有图片需求**时,搜 `"<学名>" site:commons.wikimedia.org` 或 iNaturalist / GBIF。
 
 ### 抽取规则(字段 → 来源)
 
@@ -116,7 +130,7 @@ npm run import:plants
 
 ### 交叉核对(重要)
 
-- **学名以 POWO / RHS 为正名**;中文名/别名有出入记到 `aliases`。
+- **学名以 POWO / RHS 为正名;中文名以《中国植物志》/ iPlant 为准**;别名(不标准叫法)记到 `aliases`。
 - 同一信息不同库冲突时:以 MoBot = RHS > POWO(分类)> 其它;拿不准就把该字段留空,并在 `notes` 里写「待核对」。
 - **不要从普通商品/论坛页直接抄结构数据**,只作线索。
 
@@ -133,7 +147,7 @@ npm run import:plants
 | `chineseName` | 是 | 中文名,如 `三白草` |
 | `category` | 是 | 6 类之一:常绿乔木/落叶乔木/灌木/宿根/匍匐攀缘/水生植物 |
 | `latinName` | 建议 | 拉丁学名,如 `Saururus chinensis`;缺失会标记 `missingName` |
-| `genus` / `family` / `order` | 建议 | 属/科(APG IV)/目;如 三白草属/三白草科/胡椒目 |
+| `genus` / `family` | 建议 | 属/科(APG IV);分类只用 科-属-种,无「目(order)」 |
 | `aliases` | 否 | 别名、异名 |
 | `evergreen` | 否 | `evergreen` / `deciduous` |
 | `height` / `spread` / `density` | 否 | 高度/冠幅(米)、种植密度(株/㎡) |

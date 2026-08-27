@@ -16,7 +16,7 @@ export default function App() {
     return plants.filter((p) => {
       if (category !== 'all' && categoryOf(p) !== category) return false;
       if (q) {
-        const haystack = [p.chineseName, p.latinName, p.genus, p.family, p.order, p.aliases]
+        const haystack = [p.chineseName, p.latinName, p.genus, p.family, p.aliases]
           .filter(Boolean)
           .join(' ')
           .toLowerCase();

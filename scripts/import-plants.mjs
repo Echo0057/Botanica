@@ -32,6 +32,14 @@ function makeId(existing) {
   };
 }
 
+// 按「属+种」提取物种键,防止同一物种下的不同品种重复入库
+function speciesKey(latin) {
+  const l = (latin || '').trim().toLowerCase();
+  if (!l) return null;
+  const words = l.split("'")[0].split(/[^a-z]+/).filter(Boolean);
+  return words.length >= 2 ? `${words[0]} ${words[1]}` : words.length ? words[0] : null;
+}
+
 if (!existsSync(PLANTS_PATH)) {
   console.error('[error] 找不到 src/data/plants.json');
   process.exit(1);
@@ -51,6 +59,11 @@ if (!Array.isArray(additional)) {
 }
 
 const existingNames = new Set(plants.map((p) => (p.chineseName || '').trim().toLowerCase()));
+const existingSpecies = new Set();
+for (const p of plants) {
+  const k = speciesKey(p.latinName);
+  if (k) existingSpecies.add(k);
+}
 const nextId = makeId(plants.map((p) => p.id));
 const errors = [];
 const warnings = [];
@@ -68,12 +81,14 @@ for (const entry of additional) {
     continue;
   }
   const latin = (entry.latinName || '').trim();
-  const key = name.toLowerCase();
-  if (existingNames.has(key)) {
-    warnings.push(`跳过已存在:「${name}」`);
+  const spKey = speciesKey(latin);
+  const dup = spKey ? existingSpecies.has(spKey) : existingNames.has(name.toLowerCase());
+  if (dup) {
+    warnings.push(`跳过已存在(按种去重):「${name}」`);
     continue;
   }
-  existingNames.add(key);
+  if (spKey) existingSpecies.add(spKey);
+  else existingNames.add(name.toLowerCase());
   if (!latin) warnings.push(`「${name}」缺少拉丁学名(建议补上)`);
 
   plants.push({
@@ -83,7 +98,6 @@ for (const entry of additional) {
     latinName: latin || null,
     genus: entry.genus || null,
     family: entry.family || null,
-    order: entry.order || null,
     aliases: entry.aliases || null,
     evergreen: entry.evergreen ?? null,
     height: entry.height ?? null,
