@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "import:plants": "node scripts/import-plants.mjs"
+    "import:plants": "node scripts/import-plants.mjs",
+    "enrich": "node scripts/apply-enrichment.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",
