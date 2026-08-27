@@ -51,7 +51,8 @@ const CATEGORY_BY_LAYER = {
   匍匐攀援类: '匍匐攀缘',
 };
 
-const AQUATIC_RE = /水生|可水生|浅水|水边|近水/;
+// 仅当描述为明确的(半)水生植物时才归为水生,排除「近水/水边/可水生/喜湿」等
+const AQUATIC_RE = /水生植物|浅水|挺水|浮水|沉水|水景|生于水中/;
 const SHORTLIVED_RE = /短寿|较短寿|短命|不一定能复花|未必复花|难复花/;
 
 export function categoryOf(plant) {
