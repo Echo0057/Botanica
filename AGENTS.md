@@ -79,3 +79,9 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 - "Design palette / pairing" is phase 2: group selected plants by design layer and add a bloom-season continuity check.
 - Prefer a pure-frontend approach. Do not add a backend or SQLite unless the user explicitly asks.
 - The `plants.json` data file is generated from the Excel; write/keep an import script (e.g. `scripts/import-excel.mjs`) alongside it rather than hand-editing the JSON for bulk changes.
+
+## Git workflow
+
+- **Autonomously commit** any substantial/complete change once it is done and verified (e.g. `git add -A && git commit -m "..."`). No need to ask first.
+- **Do not push to remote proactively.** Leave pushing to the user (`git push` only when the user asks).
+- Keep commits focused and descriptive; commit before handing off a finished piece of work.
