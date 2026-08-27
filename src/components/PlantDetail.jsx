@@ -4,10 +4,10 @@ export default function PlantDetail({ plant, onClose }) {
   if (!plant) return null;
 
   const rows = [
+    ['别名', plant.aliases],
     ['类别', categoryOf(plant)],
     ['科', plant.family],
     ['属', plant.genus],
-    ['别名', plant.aliases],
     ['高度', plant.height],
     ['冠幅', plant.spread],
     ['日照', plant.sun],
