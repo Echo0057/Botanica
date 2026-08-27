@@ -1,9 +1,8 @@
 import { categoryOf } from '../data/layers.js';
 
-export default function PlantDetail({ plant, favorites, onToggleFavorite, onClose }) {
+export default function PlantDetail({ plant, onClose }) {
   if (!plant) return null;
 
-  const favorite = favorites.has(plant.id);
   const rows = [
     ['类别', categoryOf(plant)],
     ['设计层', plant.designLayer],
@@ -72,13 +71,6 @@ export default function PlantDetail({ plant, favorites, onToggleFavorite, onClos
             </div>
           ))}
         </dl>
-
-        <button
-          onClick={() => onToggleFavorite(plant.id)}
-          className="mt-5 w-full rounded-lg bg-green-700 py-2 text-sm font-medium text-white transition hover:bg-green-800"
-        >
-          {favorite ? '取消收藏' : '加入收藏'}
-        </button>
       </div>
     </div>
   );
