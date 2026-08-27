@@ -7,7 +7,6 @@ export default function PlantDetail({ plant, onClose }) {
     ['类别', categoryOf(plant)],
     ['科', plant.family],
     ['属', plant.genus],
-    ['拉丁学名', plant.latinName],
     ['别名', plant.aliases],
     ['高度', plant.height],
     ['冠幅', plant.spread],
