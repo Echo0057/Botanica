@@ -9,7 +9,7 @@
 
 `src/data/plants.json` 是唯一数据库。**Excel 导入已停用**(2026-08-27):基础数据已固化在 `plants.json` 里,之后新增一律走手工清单。
 
-1. **基础数据**:原 Excel(9 张表 = 9 个设计层)已固化进 `src/data/plants.json`,字段含义见 `design.md` / `AGENTS.md`。
+1. **基础数据**:原 Excel(9 张表 = 9 个设计层)已固化进 `src/data/plants.json`,字段含义见 `design.md` / `../AGENTS.md`。
 2. **手工清单**:`scripts/additional-plants.json` —— 所有新增植物都写这里。
 
 > 不要手改 `plants.json`。新增就写进清单,再跑 `npm run import:plants` 合并(自动去重)。
