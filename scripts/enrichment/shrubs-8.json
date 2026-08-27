@@ -1,0 +1,32 @@
+[
+  {
+    "match": "Deutzia crenata",
+    "fields": { "height": "1.5-2.5", "spread": "1.5-2.5", "sun": "full sun", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "5-8", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "sources": ["https://www.rhs.org.uk/plants/189318/deutzia-crenata-pride-of-rochester-d/details", "https://en.paperblog.com/plant-of-the-week-deutzia-crenata-587848/"]
+  },
+  {
+    "match": "Philadelphus",
+    "fields": { "height": "1.5-3", "spread": "1.5-2.5", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "5-9", "bloomSeason": "春-夏", "flowerColor": "白" },
+    "sources": ["https://dplantdatabase.kpu.ca/Plant/phcn", "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=268016"]
+  },
+  {
+    "match": "Hydrangea macrophylla",
+    "fields": { "height": "1.3-2", "spread": "1.5-2", "sun": "part shade", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 灌木", "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫" },
+    "sources": ["https://plantdatabase.kpu.ca/Plant/hyma", "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=401"]
+  },
+  {
+    "match": "Hydrangea paniculata",
+    "fields": { "height": "1.5-3", "spread": "1.5-2.5", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "3-8", "bloomSeason": "夏-秋", "flowerColor": "白" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=249039", "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=442964"]
+  },
+  {
+    "match": "Punica",
+    "fields": { "height": "2-4", "spread": "2-3", "sun": "full sun", "water": "dry", "evergreen": "deciduous", "leafForm": "细长叶", "reliability": "强健", "habitat": "全日照·耐旱 · 灌木", "hardinessZone": "7-11", "bloomSeason": "夏", "flowerColor": "红" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=253038", "https://www.monrovia.com/fruiting-pomegranate.html"]
+  },
+  {
+    "match": "Callicarpa japonica",
+    "fields": { "height": "1.2-2", "spread": "1.2-2", "sun": "full sun", "water": "wet", "evergreen": "deciduous", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 灌木", "hardinessZone": "5-8", "bloomSeason": "夏", "flowerColor": "粉" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287491", "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=328"]
+  }
+]
