@@ -55,6 +55,8 @@ const CATEGORY_BY_LAYER = {
 const AQUATIC_RE = /水生植物|浅水|挺水|浮水|沉水|水景|生于水中|近水|水边|可水生/;
 
 export function categoryOf(plant) {
+  // 已显式写入的分类,优先采用(手工新增清单使用)
+  if (plant.category) return plant.category;
   const notes = plant.rawNotes || '';
   if (AQUATIC_RE.test(notes)) return '水生植物';
   return CATEGORY_BY_LAYER[plant.designLayer] || '宿根';

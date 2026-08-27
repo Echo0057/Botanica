@@ -79,6 +79,8 @@ A = APG IV genus(属) · B = species(种) · C = cultivar/subspecies/variety(品
 - "Design palette / pairing" is phase 2: group selected plants by design layer and add a bloom-season continuity check.
 - Prefer a pure-frontend approach. Do not add a backend or SQLite unless the user explicitly asks.
 - The `plants.json` data file is generated from the Excel; write/keep an import script (e.g. `scripts/import-excel.mjs`) alongside it rather than hand-editing the JSON for bulk changes.
+  - Plants not in the Excel go into `scripts/additional-plants.json` (required: `chineseName` + `category`); run `npm run import:plants` to validate, merge, and regenerate `plants.json`.
+  - Follow `PLANT-DATA-SOP.md` for the "add a new plant" and "search overseas databases to enrich characteristics" workflow. Record source URLs in each entry's `sources` array.
 
 ## Git workflow
 

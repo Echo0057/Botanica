@@ -6,7 +6,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { enrichNotes } from './enrich-fields.mjs';
-import { AQUATIC_PLANTS } from './aquatic-plants.mjs';
+import { categoryOf, PLANT_CATEGORIES } from '../src/data/layers.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -158,44 +158,90 @@ for (const sheetName of DESIGN_LAYERS) {
   }
 }
 
-// 补充的水生植物(不在 Excel 表里)
-for (const ap of AQUATIC_PLANTS) {
-  const latin = ap.latinName || '';
-  const missingName = !latin;
-  if (missingName) missingNameCount++;
+// 合并「待新增植物清单」(不在 Excel 表里,手工维护)
+const ADDITIONAL_PATH = resolve(ROOT, 'scripts/additional-plants.json');
+let additional = [];
+try {
+  additional = JSON.parse(readFileSync(ADDITIONAL_PATH, 'utf8'));
+} catch (e) {
+  console.error('[error] 无法读取 additional-plants.json:', e.message);
+  process.exit(1);
+}
+if (!Array.isArray(additional)) {
+  console.error('[error] additional-plants.json 必须是数组');
+  process.exit(1);
+}
+
+const errors = [];
+const warnings = [];
+const seenNames = new Set();
+const existingNames = new Set(records.map((r) => r.chineseName));
+
+for (const entry of additional) {
+  const name = (entry.chineseName || '').trim();
+  if (!name) {
+    errors.push('有一条清单记录缺少 chineseName');
+    continue;
+  }
+  const cat = (entry.category || '').trim();
+  if (!PLANT_CATEGORIES.includes(cat)) {
+    errors.push(`「${name}」的 category 无效: "${cat}"(应为 ${PLANT_CATEGORIES.join(' / ')})`);
+    continue;
+  }
+  const latin = (entry.latinName || '').trim();
+  const key = name.toLowerCase();
+  if (seenNames.has(key) || existingNames.has(key)) {
+    warnings.push(`跳过重复:「${name}」`);
+    continue;
+  }
+  seenNames.add(key);
+  if (!latin) warnings.push(`「${name}」缺少拉丁学名(建议补上)`);
+
   records.push({
-    id: nextId(latin || ap.chineseName || 'aquatic'),
-    designLayer: ap.designLayer || '水生植物',
-    chineseName: ap.chineseName,
+    id: nextId(latin || name || 'plant'),
+    designLayer: (entry.designLayer || cat).trim(),
+    chineseName: name,
     latinName: latin || null,
-    genus: ap.genus || null,
-    family: ap.family || null,
-    order: ap.order || null,
-    aliases: ap.aliases || null,
-    evergreen: ap.evergreen ?? null,
-    height: ap.height ?? null,
-    spread: ap.spread ?? null,
-    density: ap.density ?? null,
-    sun: ap.sun ?? null,
-    water: ap.water ?? null,
-    bloomSeason: ap.bloomSeason ?? null,
-    flowerColor: ap.flowerColor ?? null,
-    seasonOfInterest: ap.seasonOfInterest ?? null,
-    fragrance: ap.fragrance ?? null,
-    reliability: ap.reliability ?? null,
-    leafForm: ap.leafForm ?? null,
-    lifespan: ap.lifespan ?? null,
-    spreadRate: ap.spreadRate ?? null,
-    selfSeeding: ap.selfSeeding ?? null,
-    persistence: ap.persistence ?? null,
-    hardinessZone: ap.hardinessZone ?? null,
-    rawNotes: ap.rawNotes || null,
-    missingName,
+    genus: entry.genus || null,
+    family: entry.family || null,
+    order: entry.order || null,
+    aliases: entry.aliases || null,
+    evergreen: entry.evergreen ?? null,
+    height: entry.height ?? null,
+    spread: entry.spread ?? null,
+    density: entry.density ?? null,
+    sun: entry.sun ?? null,
+    water: entry.water ?? null,
+    bloomSeason: entry.bloomSeason ?? null,
+    flowerColor: entry.flowerColor ?? null,
+    seasonOfInterest: entry.seasonOfInterest ?? null,
+    fragrance: entry.fragrance ?? null,
+    reliability: entry.reliability ?? null,
+    leafForm: entry.leafForm ?? null,
+    lifespan: entry.lifespan ?? null,
+    spreadRate: entry.spreadRate ?? null,
+    selfSeeding: entry.selfSeeding ?? null,
+    persistence: entry.persistence ?? null,
+    hardinessZone: entry.hardinessZone ?? null,
+    rawNotes: entry.notes || entry.rawNotes || null,
+    missingName: !latin,
     genusOnly: false,
+    category: cat,
+    sources: Array.isArray(entry.sources) ? entry.sources : entry.sources ? [entry.sources] : [],
     images: [],
     tags: [],
   });
+  if (!latin) missingNameCount++;
 }
+
+if (errors.length) {
+  console.error('[error] additional-plants.json 校验失败,已中止导入:');
+  errors.forEach((e) => console.error('  - ' + e));
+  process.exit(1);
+}
+
+// 统一写入 category(Excel 记录按规则派生;手工清单用显式分类)
+for (const r of records) r.category = categoryOf(r);
 
 mkdirSync(dirname(OUT), { recursive: true });
 writeFileSync(OUT, JSON.stringify(records, null, 2) + '\n', 'utf8');
@@ -203,10 +249,16 @@ writeFileSync(OUT, JSON.stringify(records, null, 2) + '\n', 'utf8');
 const byLayer = Object.fromEntries(
   [...DESIGN_LAYERS, '水生植物'].map((l) => [l, records.filter((x) => x.designLayer === l).length]),
 );
+const byCategory = Object.fromEntries(
+  PLANT_CATEGORIES.map((c) => [c, records.filter((r) => categoryOf(r) === c).length]),
+);
 
 console.log('已写入:', OUT);
 console.log('记录总数:', records.length);
 console.log('缺拉丁学名:', missingNameCount);
 console.log('仅属级(整属可用):', genusOnlyCount);
 console.log('跳过空行:', skippedCount);
+console.log('清单条目:', additional.length);
+if (warnings.length) console.log('警告:', warnings);
 console.log('按层统计:', JSON.stringify(byLayer, null, 2));
+console.log('按分类统计:', JSON.stringify(byCategory, null, 2));
