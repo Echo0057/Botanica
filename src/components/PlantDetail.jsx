@@ -1,11 +1,8 @@
-import { categoryOf } from '../data/layers.js';
-
 export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, hasNext }) {
   if (!plant) return null;
 
   const rows = [
     ['别名', plant.aliases],
-    ['类别', categoryOf(plant)],
     ['科', plant.family],
     ['属', plant.genus],
     ['高度', plant.height],
