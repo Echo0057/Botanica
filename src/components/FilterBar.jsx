@@ -17,11 +17,12 @@ export default function FilterBar({ query, onQuery, category, onCategory }) {
       />
 
       <div className="flex flex-wrap items-center gap-2">
-        <button onClick={() => onCategory('all')} className={chip(category === 'all')}>
-          全部
-        </button>
         {PLANT_CATEGORIES.map((c) => (
-          <button key={c} onClick={() => onCategory(c)} className={chip(category === c)}>
+          <button
+            key={c}
+            onClick={() => onCategory(category === c ? 'all' : c)}
+            className={chip(category === c)}
+          >
             {c}
           </button>
         ))}
