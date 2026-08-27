@@ -1,0 +1,67 @@
+[
+  {
+    "match": "Viola banksii",
+    "fields": { "height": "0.1-0.15", "spread": "0.3-0.6", "sun": "part shade", "water": "wet", "bloomSeason": "春-夏", "flowerColor": "蓝紫", "evergreen": "evergreen", "leafForm": "心形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 铺地", "hardinessZone": "9-11" },
+    "sources": ["https://resources.austplants.com.au/plant/viola-banksii/", "https://www.seasol.com.au/australian-natives/native-violet-viola-banksii/"]
+  },
+  {
+    "match": "Persicaria capitata",
+    "fields": { "height": "0.1-0.2", "spread": "0.3-0.8", "sun": "full sun", "water": "wet", "bloomSeason": "夏-秋", "flowerColor": "粉", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 铺地", "hardinessZone": "8-11" },
+    "sources": ["http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242100091", "https://www.shootgardening.com/plants/persicaria-capitata"]
+  },
+  {
+    "match": "Glechoma hederacea",
+    "fields": { "height": "0.1-0.2", "spread": "0.5-1", "sun": "part shade", "water": "wet", "bloomSeason": "春-夏", "flowerColor": "蓝紫", "evergreen": "evergreen", "leafForm": "心形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 铺地", "hardinessZone": "4-9" },
+    "sources": ["https://plantdatabase.kpu.ca/Plant/glhe", "https://www.rhs.org.uk/plants/71551/glechoma-hederacea-variegata-v/details"]
+  },
+  {
+    "match": "Saxifraga",
+    "fields": { "height": "0.15-0.45", "spread": "0.3-0.6", "sun": "shade", "water": "wet", "bloomSeason": "春-夏", "flowerColor": "白", "evergreen": "evergreen", "leafForm": "心形叶", "reliability": "强健", "habitat": "林下·荫 · 喜湿 · 铺地", "hardinessZone": "6-9" },
+    "sources": ["http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c251"]
+  },
+  {
+    "match": "Pratia pedunculata",
+    "fields": { "height": "0.05-0.1", "spread": "0.5-1", "sun": "full sun", "water": "wet", "bloomSeason": "春-夏", "flowerColor": "蓝紫", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 铺地", "hardinessZone": "7-10" },
+    "sources": ["https://adelaideplantco.com.au/collections/australian-native-plants/products/pratia-pedunculata", "https://www.rhs.org.uk/plants/518932/lobelia-pedunculata-county-park/details"]
+  },
+  {
+    "match": "Pachysandra terminalis",
+    "fields": { "height": "0.15-0.3", "spread": "0.3-0.6", "sun": "shade", "water": "wet", "bloomSeason": "春", "flowerColor": "白", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "林下·荫 · 喜湿 · 铺地", "hardinessZone": "4-9" },
+    "sources": ["https://plantdatabase.kpu.ca/Plant/pate", "https://slcgardenwise.com/eplant.php?plantnum=437&return=s_p98&l1=8&l2=4&l3=1&l4=8"]
+  },
+  {
+    "match": "Muehlenbeckia complexa",
+    "fields": { "height": "3-6", "spread": "1-2", "sun": "full sun", "evergreen": "evergreen", "leafForm": "圆形小叶", "reliability": "强健", "habitat": "全日照·耐旱 · 攀援", "hardinessZone": "8-11" },
+    "sources": ["https://plantdatabase.kpu.ca/Plant/mucv", "https://www.provenwinners.com/plants/muehlenbeckia/big-leaf-creeping-wire-vine-muehlenbeckia-complexa"]
+  },
+  {
+    "match": "Lonicera japonica",
+    "fields": { "height": "5-10", "spread": "3-4", "sun": "full sun", "bloomSeason": "夏-秋", "flowerColor": "白", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·耐旱 · 攀援", "hardinessZone": "4-9" },
+    "sources": ["https://plantdatabase.uconn.edu/detail.php?pid=262", "https://dplantdatabase.kpu.ca/Plant/loja"]
+  },
+  {
+    "match": "Clematis",
+    "fields": { "height": "2-4", "spread": "1-2", "sun": "full sun", "bloomSeason": "夏-秋", "flowerColor": "蓝紫", "leafForm": "复叶", "reliability": "需照料", "habitat": "全日照·喜湿 · 攀援", "hardinessZone": "4-9" },
+    "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx"]
+  },
+  {
+    "match": "Ficus pumila",
+    "fields": { "height": "3-9", "spread": "1-1.5", "sun": "part shade", "water": "wet", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "半荫·喜湿 · 攀援", "hardinessZone": "8-11" },
+    "sources": ["https://dplantdatabase.kpu.ca/Plant/fipu", "https://www.monrovia.com/shop/creeping-fig.html"]
+  },
+  {
+    "match": "Trachelospermum jasminoides",
+    "fields": { "height": "6-9", "spread": "1-2", "sun": "full sun", "bloomSeason": "春-夏", "flowerColor": "白", "evergreen": "evergreen", "leafForm": "卵形叶", "reliability": "强健", "habitat": "全日照·喜湿 · 攀援", "hardinessZone": "8-11" },
+    "sources": ["https://www.monrovia.com/star-jasmine.html", "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&letter=T"]
+  },
+  {
+    "match": "Hedera helix",
+    "fields": { "height": "5-15", "spread": "3-5", "sun": "shade", "bloomSeason": "秋", "flowerColor": "白", "evergreen": "evergreen", "leafForm": "三角叶", "reliability": "极强健", "habitat": "半荫·耐旱 · 攀援", "hardinessZone": "5-11" },
+    "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&isprofile=0&letter=H", "https://dplantdatabase.kpu.ca/Plant/hehe"]
+  },
+  {
+    "match": "Wisteria",
+    "fields": { "height": "10-25", "spread": "4-8", "sun": "full sun", "bloomSeason": "春", "flowerColor": "蓝紫", "evergreen": "deciduous", "leafForm": "羽状叶", "reliability": "强健", "habitat": "全日照·喜湿 · 攀援", "hardinessZone": "5-8" },
+    "sources": ["https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=280632"]
+  }
+]
