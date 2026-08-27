@@ -169,6 +169,6 @@ npm run import:plants
 ## 4. 数据质量规则(沿用现有)
 
 - 缺拉丁学名 → 自动标 `missingName: true`,界面显示「学名待核对」。
-- 只有「属」、整属可用 → `genusOnly: true`,界面显示「整属可用」。
+- 只有「属」、整属可用 → `genusOnly: true`(仅作为数据标记,界面不再显示「整属可用」标签)。
 - 富集字段没有把握就留 `null`,宁可少不要错。
-- 分类以显式 `category` 优先;若依赖 `rawNotes`/设计层,以现有 `categoryOf` 规则为准。
+- 分类以显式 `category` 为准(`categoryOf` 只读该字段)。

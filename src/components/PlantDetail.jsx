@@ -38,9 +38,6 @@ export default function PlantDetail({ plant, onClose }) {
           {plant.missingName && (
             <span className="rounded bg-yellow-100 px-2 py-0.5 text-xs text-yellow-800">学名待核对</span>
           )}
-          {plant.genusOnly && !plant.missingName && (
-            <span className="rounded bg-sky-100 px-2 py-0.5 text-xs text-sky-800">整属可用（整属都适合）</span>
-          )}
         </div>
 
         <div className="mt-4 grid grid-cols-3 gap-2">
