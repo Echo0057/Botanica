@@ -3,12 +3,12 @@ import plantsData from './data/plants.json';
 import FilterBar from './components/FilterBar.jsx';
 import PlantDetail from './components/PlantDetail.jsx';
 import OverviewTable from './components/OverviewTable.jsx';
-import { categoryOf } from './data/layers.js';
+import { PLANT_CATEGORIES, categoryOf } from './data/layers.js';
 
 export default function App() {
   const [plants] = useState(plantsData);
   const [query, setQuery] = useState('');
-  const [category, setCategory] = useState('all');
+  const [category, setCategory] = useState(PLANT_CATEGORIES[0]);
   const [selectedId, setSelectedId] = useState(null);
 
   const filtered = useMemo(() => {

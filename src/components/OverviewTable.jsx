@@ -106,13 +106,13 @@ export default function OverviewTable({ plants, activeCategory = 'all', onOpen }
                       <tr
                         key={p.id}
                         onClick={() => onOpen(p.id)}
-                        className="cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40"
+                        className="group cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40"
                       >
                         {COLUMNS.map((c, i) => (
                           <td
                             key={c.key}
                             className={`whitespace-nowrap px-3 py-2 align-top text-stone-700 ${
-                              i === 0 ? 'sticky left-0 z-10 bg-white' : ''
+                              i === 0 ? 'sticky left-0 z-10 bg-white group-hover:bg-green-50/40' : ''
                             }`}
                           >
                             {i === 0 ? (
