@@ -7904,32 +7904,6 @@
     "tags": []
   },
   {
-    "id": "euphorbia_ceratocarpa",
-    "chineseName": "西西里大戟",
-    "latinName": "Euphorbia ceratocarpa",
-    "genus": "大戟属",
-    "family": "大戟科",
-    "aliases": null,
-    "evergreen": null,
-    "height": "0.6-1",
-    "spread": null,
-    "sun": "full sun",
-    "water": "dry",
-    "bloomSeason": "春-夏",
-    "flowerColor": "黄",
-    "seasonOfInterest": null,
-    "leafForm": null,
-    "persistence": null,
-    "hardinessZone": null,
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "http://www.isenlin.cn/sf_F956CFE25C3F4D85BCED9D16DABEE18A_209_CE847C1C518.html"
-    ],
-    "tags": []
-  },
-  {
     "id": "rudbeckia_triloba",
     "chineseName": "小花金光菊",
     "latinName": "Rudbeckia triloba",
@@ -7978,32 +7952,6 @@
     "category": "宿根草本",
     "sources": [
       "http://hnfbg.cn/yndt/4881.html"
-    ],
-    "tags": []
-  },
-  {
-    "id": "phedimus_spurius",
-    "chineseName": "小球玫瑰",
-    "latinName": "Phedimus spurius",
-    "genus": "费菜属",
-    "family": "景天科",
-    "aliases": "龙血景天",
-    "evergreen": "evergreen",
-    "height": "0.1-0.2",
-    "spread": null,
-    "sun": "full sun to part shade",
-    "water": "dry",
-    "bloomSeason": "夏",
-    "flowerColor": "红",
-    "seasonOfInterest": null,
-    "leafForm": null,
-    "persistence": null,
-    "hardinessZone": null,
-    "missingName": false,
-    "genusOnly": false,
-    "category": "地被",
-    "sources": [
-      "http://www.isenlin.cn/sf_B252688D57B9481BABAC513AD1A4BF57_209_CE847C1C518.html"
     ],
     "tags": []
   },
@@ -8274,32 +8222,6 @@
     "category": "灌木",
     "sources": [
       "https://biocache.ala.org.au/occurrences/37ce116f-7f88-43a0-b706-7541a3b29736"
-    ],
-    "tags": []
-  },
-  {
-    "id": "eryngium_planum",
-    "chineseName": "扁叶刺芹",
-    "latinName": "Eryngium planum",
-    "genus": "刺芹属",
-    "family": "伞形科",
-    "aliases": null,
-    "evergreen": null,
-    "height": "0.6-0.8",
-    "spread": null,
-    "sun": "full sun",
-    "water": "medium",
-    "bloomSeason": "夏",
-    "flowerColor": "蓝",
-    "seasonOfInterest": null,
-    "leafForm": null,
-    "persistence": null,
-    "hardinessZone": null,
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "http://www.iplant.cn/z/frps/7620"
     ],
     "tags": []
   },
