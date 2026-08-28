@@ -41,6 +41,19 @@ function speciesKey(latin) {
   return words.length >= 2 ? `${words[0]} ${words[1]}` : words.length ? words[0] : null;
 }
 
+// 中文名规范:只保留标准中文名。
+// 若写成「标准名（别名）」这样的形式,把括号里的名字拆到 aliases,避免中文名夹带别名的重大错误。
+function splitNameAlias(name) {
+  const m = String(name || '').match(/^(.*?)[（(](.+?)[)）]$/);
+  if (!m) return { name, aliasParts: [] };
+  const base = m[1].trim();
+  const aliasParts = m[2]
+    .split(/[·|、，,]/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+  return { name: base, aliasParts };
+}
+
 if (!existsSync(PLANTS_PATH)) {
   console.error('[error] 找不到 src/data/plants.json');
   process.exit(1);
@@ -71,7 +84,7 @@ const warnings = [];
 let added = 0;
 
 for (const entry of additional) {
-  const name = (entry.chineseName || '').trim();
+  const { name, aliasParts } = splitNameAlias((entry.chineseName || '').trim());
   if (!name) {
     errors.push('有一条清单记录缺少 chineseName');
     continue;
@@ -98,7 +111,9 @@ for (const entry of additional) {
     latinName: latin || null,
     genus: entry.genus || null,
     family: entry.family || null,
-    aliases: stripCultivarAliases(entry.aliases || null),
+    aliases: stripCultivarAliases(
+      [entry.aliases, ...aliasParts].filter(Boolean).join('·')
+    ),
     evergreen: entry.evergreen ?? null,
     height: entry.height ?? null,
     spread: entry.spread ?? null,

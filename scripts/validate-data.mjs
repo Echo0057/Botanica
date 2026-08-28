@@ -70,6 +70,14 @@ for (const p of plants) {
   if (p.bloomSeason && !BLOOM_SEASONS.includes(p.bloomSeason)) errors.push(`花期值超范围: "${p.bloomSeason}" (${p.chineseName})`);
 }
 
+// 4.5) 中文名规范:应只含标准中文名,不允许「标准名（别名）」夹带别名
+for (const p of plants) {
+  const cn = String(p.chineseName || '');
+  if (/[（(]/.test(cn)) {
+    errors.push(`中文名含括号别名,应改为标准名+aliases: "${cn}"(${p.latinName})`);
+  }
+}
+
 // 5) 格式校验(耐寒区 / 高度 / 冠幅)
 for (const p of plants) {
   if (p.hardinessZone && !HARDINESS_RE.test(String(p.hardinessZone).trim())) {
