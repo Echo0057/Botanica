@@ -4874,34 +4874,6 @@
     "habitat": "林下、阴湿岩石地、湿润山坡"
   },
   {
-    "id": "lamprocapnos_spectabilis",
-    "chineseName": "荷包牡丹",
-    "latinName": "Lamprocapnos spectabilis",
-    "genus": "荷包牡丹属",
-    "family": "罂粟科",
-    "aliases": "兔儿牡丹·铃儿草",
-    "evergreen": "deciduous",
-    "height": "0.5-1",
-    "spread": "0.4-0.6",
-    "sun": "part shade",
-    "water": "medium",
-    "bloomSeason": "春",
-    "flowerColor": "粉/红",
-    "seasonOfInterest": null,
-    "leafForm": "羽状分裂叶",
-    "persistence": null,
-    "hardinessZone": "3-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/293049/lamprocapnos-spectabilis/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "habitat": "林下、湿润山地"
-  },
-  {
     "id": "dryopteris",
     "chineseName": "鳞毛蕨属",
     "latinName": "Dryopteris",
