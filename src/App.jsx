@@ -53,10 +53,6 @@ export default function App() {
           onCategory={setCategory}
         />
 
-        <div className="mt-4 text-sm text-stone-500">
-          共 {filtered.length} / {plants.length} 种
-        </div>
-
         <div className="mt-4">
           <OverviewTable plants={filtered} activeCategory={category} onOpen={setSelectedId} />
         </div>
