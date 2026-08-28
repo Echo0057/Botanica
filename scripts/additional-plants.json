@@ -1084,5 +1084,71 @@
       "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:829437-1"
     ],
     "notes": "滨海/近海耐旱型常绿小乔木或灌木,喜光耐瘠薄,假种皮鲜红色醒目。"
+  },
+  {
+    "chineseName": "地中海荚蒾",
+    "latinName": "Viburnum tinus",
+    "genus": "荚蒾属",
+    "family": "五福花科",
+    "category": "灌木",
+    "evergreen": "evergreen",
+    "height": "2-7",
+    "spread": "2.5-3",
+    "sun": "full sun to part shade",
+    "water": "dry to medium",
+    "bloomSeason": "冬-春",
+    "flowerColor": "白/粉",
+    "leafForm": "椭圆形叶",
+    "hardinessZone": "8-10",
+    "habitat": "山坡灌丛、排水良好的干燥疏林缘",
+    "sources": [
+      "https://www.iplant.cn/bk/95590C8532AC714A",
+      "https://shflora.ibiodiversity.net/pages/Viburnum_tinus.html"
+    ],
+    "notes": "长江三角洲少见冬季观花常绿灌木,耐-15℃,上海可安全越冬;较耐旱,忌土壤过湿。"
+  },
+  {
+    "chineseName": "珊瑚树",
+    "latinName": "Viburnum odoratissimum",
+    "genus": "荚蒾属",
+    "family": "五福花科",
+    "category": "常绿乔木",
+    "evergreen": "evergreen",
+    "height": "3-10",
+    "sun": "full sun to part shade",
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "白",
+    "leafForm": "倒卵状椭圆形叶",
+    "hardinessZone": "7-9",
+    "aliases": "法国冬青",
+    "habitat": "山地林缘、灌丛",
+    "sources": [
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022488",
+      "https://www.iplant.cn/info/Viburnum%20odoratissimum?id=D1714EAB357E7A40"
+    ],
+    "notes": "上海绿篱/隔离带的常绿灌木或小乔木,耐修剪、生长整齐,可高至10m。"
+  },
+  {
+    "chineseName": "含笑花",
+    "latinName": "Michelia figo",
+    "genus": "含笑属",
+    "family": "木兰科",
+    "category": "常绿乔木",
+    "evergreen": "evergreen",
+    "height": "2-3",
+    "sun": "part shade to full sun",
+    "water": "medium",
+    "bloomSeason": "春-夏",
+    "flowerColor": "淡黄/白",
+    "leafForm": "椭圆形叶",
+    "hardinessZone": "8-10",
+    "aliases": "含笑",
+    "habitat": "山谷林下、溪边灌丛",
+    "sources": [
+      "http://www.iplant.cn/z/frps/31556",
+      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480"
+    ],
+    "notes": "花含苞不绽、有水果甜香,故得名;上海常见庭院常绿小乔木或灌木,耐半荫。"
   }
 ]
