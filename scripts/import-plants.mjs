@@ -90,10 +90,6 @@ for (const entry of additional) {
     errors.push('有一条清单记录缺少 chineseName');
     continue;
   }
-  if (habitatIssues(entry.habitat).length) {
-    errors.push(`「${name}」的生境不合规: ${habitatIssues(entry.habitat).join(' / ')}`);
-    continue;
-  }
   const cat = (entry.category || '').trim();
   if (!PLANT_CATEGORIES.includes(cat)) {
     errors.push(`「${name}」的 category 无效: "${cat}"(应为 ${PLANT_CATEGORIES.join(' / ')})`);
@@ -109,6 +105,10 @@ for (const entry of additional) {
   if (spKey) existingSpecies.add(spKey);
   else existingNames.add(name.toLowerCase());
   if (!latin) warnings.push(`「${name}」缺少拉丁学名(建议补上)`);
+  if (habitatIssues(entry.habitat).length) {
+    errors.push(`「${name}」的生境不合规: ${habitatIssues(entry.habitat).join(' / ')}`);
+    continue;
+  }
 
   plants.push({
     id: nextId(latin || name || 'plant'),

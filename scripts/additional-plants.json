@@ -944,6 +944,123 @@
     "hardinessZone": "9-11",
     "aliases": "夜香花·夜兰香",
     "notes": "柔弱藤本,夏秋夜间浓香;喜高温高湿。耐寒弱(9-11区),上海以露台盆栽养,冬季入室/暖房,不宜露地过冬。",
-    "sources": ["https://www.iplant.cn/bk/F7DCF20D3B5AF75A"]
+    "sources": [
+      "https://www.iplant.cn/bk/F7DCF20D3B5AF75A"
+    ]
+  },
+  {
+    "chineseName": "红花槭",
+    "latinName": "Acer rubrum",
+    "genus": "槭属",
+    "family": "无患子科",
+    "category": "落叶乔木",
+    "evergreen": "deciduous",
+    "height": "10-25",
+    "spread": "6-10",
+    "sun": "full sun to part shade",
+    "water": "medium to wet",
+    "bloomSeason": "春",
+    "flowerColor": "红",
+    "leafForm": "掌状裂叶",
+    "hardinessZone": "3-9",
+    "aliases": "红枫·北美红枫",
+    "habitat": "河岸湿地、沼泽林缘、湿润低地",
+    "sources": [
+      "https://research.fs.usda.gov/silvics/red-maple",
+      "https://gardens.si.edu/collections/explore/object/ofeo-sg_2011-2815A"
+    ],
+    "notes": "上海引种最多的秋色槭,红叶稳定,耐湿热,适河道/林缘。"
+  },
+  {
+    "chineseName": "元宝槭",
+    "latinName": "Acer truncatum",
+    "genus": "槭属",
+    "family": "无患子科",
+    "category": "落叶乔木",
+    "evergreen": "deciduous",
+    "height": "5-10",
+    "spread": "5-8",
+    "sun": "full sun to part shade",
+    "water": "dry to medium",
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
+    "leafForm": "掌状五裂、基部截形",
+    "hardinessZone": "5-9",
+    "aliases": "元宝枫·华北元宝槭",
+    "habitat": "落叶阔叶疏林、石灰岩质山坡",
+    "sources": [
+      "https://www.iplant.cn/bk/F7EEC08A82514345",
+      "https://pfaf.org/user/Plant.aspx?LatinName=Acer+truncatum"
+    ],
+    "notes": "翅果形似元宝,秋叶金黄橙红,耐旱耐荫,中小庭院佳。"
+  },
+  {
+    "chineseName": "茶条槭",
+    "latinName": "Acer tataricum subsp. ginnala",
+    "genus": "槭属",
+    "family": "无患子科",
+    "category": "落叶乔木",
+    "evergreen": "deciduous",
+    "height": "4-6",
+    "spread": "3-5",
+    "sun": "full sun to part shade",
+    "water": "dry to medium",
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
+    "leafForm": "三裂带齿叶",
+    "hardinessZone": "4-8",
+    "aliases": "苦条槭·苦茶槭·茶条",
+    "habitat": "山坡疏林、溪边灌丛、河岸",
+    "sources": [
+      "https://www.iplant.cn/bk/F276F3554FE93742",
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250084171"
+    ],
+    "notes": "华东原生,秋叶红边或全红,耐旱耐寒,适中小庭院。"
+  },
+  {
+    "chineseName": "秀丽槭",
+    "latinName": "Acer elegantulum",
+    "genus": "槭属",
+    "family": "无患子科",
+    "category": "落叶乔木",
+    "evergreen": "deciduous",
+    "height": "8-15",
+    "spread": "5-8",
+    "sun": "part shade",
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
+    "leafForm": "掌状五裂薄纸质",
+    "hardinessZone": "6-8",
+    "aliases": "地锦槭·丫角枫",
+    "habitat": "山谷溪边林、湿润疏林",
+    "sources": [
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012968",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:56651-1"
+    ],
+    "notes": "江南山地原生,喜温凉湿润,适合有溪流/湿润的园子。"
+  },
+  {
+    "chineseName": "毛脉槭",
+    "latinName": "Acer pubinerve",
+    "genus": "槭属",
+    "family": "无患子科",
+    "category": "落叶乔木",
+    "evergreen": "deciduous",
+    "height": "7-15",
+    "spread": "5-8",
+    "sun": "part shade",
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
+    "leafForm": "掌状五裂",
+    "hardinessZone": "7-8",
+    "aliases": "江南毛脉槭",
+    "habitat": "山坡疏林、湿润谷地",
+    "sources": [
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013079",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50866518-1"
+    ],
+    "notes": "江浙皖原生,适江南湿润气候,秋叶转红。"
   }
 ]
