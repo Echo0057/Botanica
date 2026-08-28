@@ -4472,34 +4472,33 @@
     "habitat": "林下、阴湿岩壁"
   },
   {
-    "id": "rhapis_gracilis_burret",
+    "id": "rhapis_excelsa",
     "chineseName": "棕竹",
-    "latinName": "Rhapis gracilis",
+    "latinName": "Rhapis excelsa",
     "genus": "棕竹属",
     "family": "棕榈科",
-    "aliases": "细棕竹",
+    "aliases": "观音竹·筋头竹",
     "evergreen": "evergreen",
-    "height": "0.6-1.5",
-    "spread": "0.5-1",
-    "sun": "shade",
-    "water": "wet",
+    "height": "2-3",
+    "spread": "1.5-2",
+    "sun": "part shade",
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "扇形叶",
     "persistence": null,
-    "hardinessZone": "8-11",
+    "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
     "tags": [],
     "category": "灌木",
     "sources": [
-      "https://baike.baidu.com/item/细棕竹",
-      "https://www.tszwy.com.cn/m/product/html/?1056.html",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200027111"
+      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027109",
+      "https://www.iplant.cn/z/frps/34053",
+      "https://landscapeplants.oregonstate.edu/plants/rhapis-excelsa"
     ],
-    "habitat": "低山石灰岩坡林、山谷湿地"
+    "habitat": "山谷林下、溪边灌丛"
   },
   {
     "id": "liriope_spicata_thunb_lour",
