@@ -1,0 +1,18 @@
+#!/bin/sh
+# Botanica 提交前数据校验:任何不一致即阻止提交
+repo="$(git rev-parse --show-toplevel)"
+cd "$repo" || exit 1
+
+# 让 npm 可用(nvm 管理系统 node)
+if [ -s "$HOME/.nvm/nvm.sh" ]; then
+  . "$HOME/.nvm/nvm.sh" >/dev/null 2>&1
+fi
+if ! command -v npm >/dev/null 2>&1; then
+  [ -x "$HOME/.nvm/versions/node/v22.23.2/bin/npm" ] && PATH="$HOME/.nvm/versions/node/v22.23.2/bin:$PATH"
+fi
+
+if ! npm run validate; then
+  echo "⛔ 数据校验未通过,已阻止提交。请运行 npm run validate 查看并修复。"
+  exit 1
+fi
+exit 0
