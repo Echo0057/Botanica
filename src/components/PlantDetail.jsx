@@ -1,5 +1,14 @@
 import { SUN_LABELS, WATER_LABELS, EVERGREEN_LABELS, label } from '../data/layers.js';
 
+// 表格列序:学名(表头)→ 科 → 属 → 高度 → 冠幅 → 叶/形态 → 常绿/落叶 → 花色·花期 → 日照 → 水分
+function bloom(p) {
+  const color = p.flowerColor;
+  const season = p.bloomSeason;
+  if (color && season) return `${color}花·${season}`;
+  if (color) return `${color}花`;
+  return season;
+}
+
 export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, hasNext }) {
   if (!plant) return null;
 
@@ -9,10 +18,11 @@ export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, h
     ['属', plant.genus],
     ['高度', plant.height],
     ['冠幅', plant.spread],
+    ['叶/形态', plant.leafForm],
+    ['常绿/落叶', label(EVERGREEN_LABELS, plant.evergreen)],
+    ['花色·花期', bloom(plant)],
     ['日照', label(SUN_LABELS, plant.sun)],
     ['水分', label(WATER_LABELS, plant.water)],
-    ['花期', plant.bloomSeason],
-    ['花色', plant.flowerColor],
   ].filter(([, v]) => v != null && v !== '');
 
   return (

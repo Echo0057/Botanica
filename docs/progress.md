@@ -29,6 +29,7 @@
 - **界面**:总览表(奥多夫《荒野之美》风格,按 7 大类分组)+ 名称搜索 + 分类筛选 + 植物详情弹窗;默认选中第一个分类,悬浮行整行高亮(含固定学名列);详情页卡片两侧有上下一个切换箭头(在当前过滤列表内切换,首尾自动隐藏)。
   - **已取消图片(2026-08-28)**:移除 `images` 字段(`plants.json`)、图片渲染(详情页/表格悬浮图)、`scripts/fetch-images.mjs` 与 `public/images/`;`aliases` 只收通用名,不再写入品种名(见 `scripts/cultivar-names.js` + `scripts/strip-cultivar-aliases.mjs`),导入/降级/别名脚本与 `npm run validate` 同步约束。
   - 学名列为「中文学名 + 拉丁学名」,别名悬浮显示;表格含「科 / 属 / 高度 / 冠幅 / 叶形 / 花色·花期 / 日照」列;详情页「科」在前、「属」在后。
+  - 详情页字段排序对齐表格列序:学名(表头)→ 科 → 属 → 高度 → 冠幅 → 叶/形态 → 常绿/落叶 → 花色·花期 → 日照 → 水分;并补上详情页缺失的「叶/形态」「常绿/落叶」,花期/花色合并为「花色·花期」。
   - 已移除:浏览卡片视图、收藏功能、「设计层」列、「特性」字段。
   - 浏览器标签页图标为 Botanica 叶子 favicon(`public/favicon.svg`)。
 - **Dock 启动器**:`~/Applications/Botanica.app`,点击可确保 Vite 在跑并打开浏览器;图标已换成 Botanica 叶子(`AppIcon.icns`,由 `assets/icon.svg` 生成),并移除会导致点击后 Dock 图标显示空白的 `CFBundleIconName` 资产目录引用。
