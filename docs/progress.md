@@ -26,7 +26,7 @@
   - 学名列为「中文学名 + 拉丁学名」,别名悬浮显示;表格含「科 / 属 / 高度 / 冠幅 / 叶形 / 花色·花期 / 日照」列;详情页「科」在前、「属」在后。
   - 已移除:浏览卡片视图、收藏功能、「设计层」列、「特性」字段。
   - 浏览器标签页图标为 Botanica 叶子 favicon(`public/favicon.svg`)。
-- **Dock 启动器**:`~/Applications/Botanica.app`,点击可确保 Vite 在跑并打开浏览器。
+- **Dock 启动器**:`~/Applications/Botanica.app`,点击可确保 Vite 在跑并打开浏览器;图标已换成 Botanica 叶子(`AppIcon.icns`,由 `assets/icon.svg` 生成),并移除会导致点击后 Dock 图标显示空白的 `CFBundleIconName` 资产目录引用。
 
 ---
 
