@@ -46,15 +46,14 @@ export default function App() {
       </header>
 
       <main className="mx-auto max-w-6xl px-4 py-6">
-        <FilterBar
-          query={query}
-          onQuery={setQuery}
-          category={category}
-          onCategory={setCategory}
-        />
-
-        <div className="mt-4">
-          <OverviewTable plants={filtered} activeCategory={category} onOpen={setSelectedId} />
+        <div className="overflow-hidden rounded-xl border border-stone-200 bg-white">
+          <FilterBar
+            query={query}
+            onQuery={setQuery}
+            category={category}
+            onCategory={setCategory}
+          />
+          <OverviewTable plants={filtered} onOpen={setSelectedId} />
         </div>
       </main>
 

@@ -1,4 +1,4 @@
-import { PLANT_CATEGORIES, categoryOf, SUN_LABELS } from '../data/layers.js';
+import { SUN_LABELS } from '../data/layers.js';
 
 const COLUMNS = [
   { key: 'name', label: '学名' },
@@ -47,74 +47,61 @@ function value(p, key) {
   }
 }
 
-export default function OverviewTable({ plants, activeCategory = 'all', onOpen }) {
-  const cats = activeCategory && activeCategory !== 'all' ? [activeCategory] : PLANT_CATEGORIES;
+export default function OverviewTable({ plants, onOpen }) {
+  if (plants.length === 0) {
+    return (
+      <div className="p-6 text-center text-sm text-stone-400">
+        该分类暂无植物记录
+      </div>
+    );
+  }
   return (
-    <div className="space-y-8">
-      {cats.map((cat) => {
-        const rows = plants.filter((p) => categoryOf(p) === cat);
-        return (
-          <section key={cat}>
-            <div className="mb-3 flex items-center gap-3">
-              <h2 className="text-lg font-semibold text-stone-800">{cat}</h2>
-              <span className="text-sm text-stone-400">{rows.length} 种</span>
-            </div>
-            {rows.length === 0 ? (
-              <div className="rounded-lg border border-dashed border-stone-300 p-6 text-center text-sm text-stone-400">
-                该分类暂无植物记录
-              </div>
-            ) : (
-              <div className="overflow-x-auto rounded-xl border border-stone-200 bg-white">
-                <table className="w-full min-w-max border-collapse text-xs">
-                  <thead>
-                    <tr className="bg-stone-50 text-left text-stone-500">
-                      {COLUMNS.map((c, i) => (
-                        <th
-                          key={c.key}
-                          className={`whitespace-nowrap border-b border-stone-200 px-3 py-2 font-medium ${
-                            i === 0 ? 'sticky left-0 z-10 bg-stone-50' : ''
-                          }`}
-                        >
-                          {c.label}
-                        </th>
-                      ))}
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {rows.map((p) => (
-                      <tr
-                        key={p.id}
-                        onClick={() => onOpen(p.id)}
-                        className="group cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40"
-                      >
-                        {COLUMNS.map((c, i) => (
-                          <td
-                            key={c.key}
-                            className={`whitespace-nowrap px-3 py-2 align-top text-stone-700 ${
-                              i === 0 ? 'sticky left-0 z-10 bg-white group-hover:bg-green-50/40' : ''
-                            }`}
-                          >
-                            {i === 0 ? (
-                              <span title={p.aliases || undefined}>
-                                <span className="block font-medium text-stone-800">{p.chineseName}</span>
-                                {p.latinName && (
-                                  <span className="block italic text-stone-500">{p.latinName}</span>
-                                )}
-                              </span>
-                            ) : (
-                              value(p, c.key)
-                            )}
-                          </td>
-                        ))}
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            )}
-          </section>
-        );
-      })}
+    <div className="overflow-x-auto">
+      <table className="w-full min-w-max border-collapse text-xs">
+        <thead>
+          <tr className="bg-stone-50 text-left text-stone-500">
+            {COLUMNS.map((c, i) => (
+              <th
+                key={c.key}
+                className={`whitespace-nowrap border-b border-stone-200 px-3 py-2 font-medium ${
+                  i === 0 ? 'sticky left-0 z-10 bg-stone-50' : ''
+                }`}
+              >
+                {c.label}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {plants.map((p) => (
+            <tr
+              key={p.id}
+              onClick={() => onOpen(p.id)}
+              className="group cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40"
+            >
+              {COLUMNS.map((c, i) => (
+                <td
+                  key={c.key}
+                  className={`whitespace-nowrap px-3 py-2 align-top text-stone-700 ${
+                    i === 0 ? 'sticky left-0 z-10 bg-white group-hover:bg-green-50/40' : ''
+                  }`}
+                >
+                  {i === 0 ? (
+                    <span title={p.aliases || undefined}>
+                      <span className="block font-medium text-stone-800">{p.chineseName}</span>
+                      {p.latinName && (
+                        <span className="block italic text-stone-500">{p.latinName}</span>
+                      )}
+                    </span>
+                  ) : (
+                    value(p, c.key)
+                  )}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 }

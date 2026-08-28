@@ -8,7 +8,7 @@ function chip(active) {
 
 export default function FilterBar({ query, onQuery, category, onCategory }) {
   return (
-    <div className="space-y-3 rounded-xl border border-stone-200 bg-white p-4">
+    <div className="space-y-3 border-b border-stone-200 p-4">
       <input
         value={query}
         onChange={(e) => onQuery(e.target.value)}
@@ -20,7 +20,7 @@ export default function FilterBar({ query, onQuery, category, onCategory }) {
         {PLANT_CATEGORIES.map((c) => (
           <button
             key={c}
-            onClick={() => onCategory(category === c ? 'all' : c)}
+            onClick={() => onCategory(c)}
             className={chip(category === c)}
           >
             {c}
