@@ -8248,29 +8248,5 @@
     "category": "宿根草本",
     "sources": [],
     "tags": []
-  },
-  {
-    "id": "verbena_hybrida",
-    "chineseName": "紫叶大花马鞭草",
-    "latinName": "Verbena × hybrida",
-    "genus": "马鞭草属",
-    "family": "马鞭草科",
-    "aliases": null,
-    "evergreen": null,
-    "height": "0.2-0.4",
-    "spread": null,
-    "sun": "full sun",
-    "water": "medium",
-    "bloomSeason": "春-秋",
-    "flowerColor": "紫",
-    "seasonOfInterest": null,
-    "leafForm": null,
-    "persistence": null,
-    "hardinessZone": null,
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [],
-    "tags": []
   }
 ]
