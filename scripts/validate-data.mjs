@@ -71,11 +71,17 @@ for (const p of plants) {
   if (p.bloomSeason && !BLOOM_SEASONS.includes(p.bloomSeason)) errors.push(`花期值超范围: "${p.bloomSeason}" (${p.chineseName})`);
 }
 
-// 4.5) 中文名规范:应只含标准中文名,不允许「标准名（别名）」夹带别名
+// 4.5) 中文名规范:应只含单一标准中文名,不允许夹带别名/品种名/空格拼接多个名字
 for (const p of plants) {
   const cn = String(p.chineseName || '');
   if (/[（(]/.test(cn)) {
     errors.push(`中文名含括号别名,应改为标准名+aliases: "${cn}"(${p.latinName})`);
+  }
+  if (/\s/.test(cn)) {
+    errors.push(`中文名含空格(疑似多个名字拼接),应改为标准名+aliases: "${cn}"(${p.latinName})`);
+  }
+  if (/[“”"'×·,，]/.test(cn)) {
+    errors.push(`中文名含引号/品种名/分隔符,应只存标准中文名: "${cn}"(${p.latinName})`);
   }
 }
 
