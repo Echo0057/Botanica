@@ -839,34 +839,6 @@
     "habitat": "碎石坡、路缝、石壁"
   },
   {
-    "id": "plant_36",
-    "chineseName": "火星花",
-    "latinName": "Crocosmia × crocosmiiflora",
-    "genus": "雄黄兰属",
-    "family": "鸢尾科",
-    "aliases": "雄黄兰·观音兰·黄大蒜·倒挂金钩·标竿花",
-    "evergreen": "deciduous",
-    "height": "0.5-1",
-    "spread": "0.3-0.5",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "bloomSeason": "夏",
-    "flowerColor": "橙",
-    "seasonOfInterest": null,
-    "leafForm": "剑形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/92445/crocosmia-x-crocosmiiflora/details",
-      "https://kiefernursery.com/product/crocosmia-x-crocosmiiflora-honey-angels/"
-    ],
-    "habitat": "山坡草地、树缘"
-  },
-  {
     "id": "plant_37",
     "chineseName": "匍匐筋骨草",
     "latinName": "Ajuga reptans",
