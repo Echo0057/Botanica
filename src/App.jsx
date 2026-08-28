@@ -1,4 +1,4 @@
-import { useMemo, useRef, useLayoutEffect, useState } from 'react';
+import { useMemo, useState } from 'react';
 import plantsData from './data/plants.json';
 import FilterBar from './components/FilterBar.jsx';
 import PlantDetail from './components/PlantDetail.jsx';
@@ -10,18 +10,6 @@ export default function App() {
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState(PLANT_CATEGORIES[0]);
   const [selectedId, setSelectedId] = useState(null);
-  const filterRef = useRef(null);
-
-  useLayoutEffect(() => {
-    const el = filterRef.current;
-    if (!el) return;
-    const set = () => {
-      document.documentElement.style.setProperty('--filterbar-h', `${el.offsetHeight}px`);
-    };
-    set();
-    window.addEventListener('resize', set);
-    return () => window.removeEventListener('resize', set);
-  }, []);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -50,30 +38,24 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-stone-50 text-stone-800">
-      <div
-        ref={filterRef}
-        className="sticky top-0 z-30 border-b border-stone-200 bg-stone-50/80"
-      >
-        <div className="mx-auto max-w-6xl">
-          <div className="flex items-center gap-2 px-4 pt-3 pb-1">
-            <img src="/favicon.svg" alt="" className="h-4 w-4" />
-            <span className="text-sm font-semibold text-green-800">Botanica</span>
-          </div>
-          <FilterBar
-            query={query}
-            onQuery={setQuery}
-            category={category}
-            onCategory={setCategory}
-          />
-        </div>
-      </div>
-
-      <main className="mx-auto max-w-6xl px-4">
+      <main className="mx-auto max-w-6xl px-4 py-4">
         <div
-          className="sticky overflow-hidden rounded-xl border border-stone-200 bg-white shadow-sm"
-          style={{ top: 'var(--filterbar-h)', height: 'calc(100vh - var(--filterbar-h))' }}
+          className="flex h-[calc(100vh-2rem)] flex-col overflow-hidden rounded-xl border border-stone-200 bg-white shadow-sm"
         >
-          <div className="overflow-auto" style={{ height: '100%' }}>
+          <div className="border-b border-stone-200 bg-stone-50/60">
+            <div className="flex items-center gap-2 px-4 pt-4">
+              <img src="/favicon.svg" alt="" className="h-4 w-4" />
+              <span className="text-sm font-semibold text-green-800">Botanica</span>
+            </div>
+            <FilterBar
+              query={query}
+              onQuery={setQuery}
+              category={category}
+              onCategory={setCategory}
+            />
+          </div>
+
+          <div className="flex-1 overflow-auto">
             <OverviewTable plants={filtered} onOpen={setSelectedId} />
           </div>
         </div>
