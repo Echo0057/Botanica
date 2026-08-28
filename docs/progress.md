@@ -43,6 +43,7 @@
 - **新增「彩叶」(leafColor)字段**:详情页与概览表在 **花色·花期之后**新增「彩叶」行/列,搜索同时纳入 `leafColor`(可搜「秋色/银灰/紫叶/花叶」等)。数据侧为 **66 条**秋色叶 / 全年彩叶(银灰、紫红、花叶、黄边等)植物补填彩叶描述;非彩叶(常绿/纯绿/灰绿)不标。`import-plants.mjs` 支持写入 `leafColor`;`validate-data.mjs` 新增政策校验:彩叶字段非空时不应含「常绿/纯绿/绿叶/蓝绿色」等非彩叶词(warning,不阻断)。
 - **修复概览表文本穿入冻结表头**:`OverviewTable` 因表头 z-index(Z-10/Z-20)低于行悬停时的 `hover:z-40`,快速滚动时悬停行的文字会绘制到冻结表头之上。已将表头 z-index 提升至 **Z-30(普通列)/Z-40(首列)**,并移除行的 `hover:z-40`,使表头层级始终高于行,消除穿透。
 - **彩叶(leafColor)文字规格统一**:统一为 **`季节前缀(秋色/全年/冬季)+标准色名(/分隔多色)`**,末尾去掉冗余「叶字(古铜叶/古铜色叶→古铜)」,组合色统一用 `/`(红橙→红/橙、黄橙→黄/橙、红紫→红/紫)。`validate-data.mjs` 新增彩叶规范校验:检查季节前缀、标准色名白名单、末段冗余「叶」,防止新录入再混用写法。
+- **部署准备**:`vite.config.js` 设 `base: './'`,构建产物改用**相对路径**,可直接部署到任意子路径(Cloudflare Pages / GitHub / Gitee Pages 等)而不 404。`dist/` 处于 `.gitignore`,不上传仓库。
   - 已移除:浏览卡片视图、收藏功能、「设计层」列、「特性」字段。
   - 浏览器标签页图标为 Botanica 叶子 favicon(`public/favicon.svg`)。
 - **Dock 启动器**:`~/Applications/Botanica.app`,点击可确保 Vite 在跑并打开浏览器;图标已换成 Botanica 叶子(`AppIcon.icns`,由 `assets/icon.svg` 生成),并移除会导致点击后 Dock 图标显示空白的 `CFBundleIconName` 资产目录引用。
