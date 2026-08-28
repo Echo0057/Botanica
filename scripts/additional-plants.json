@@ -1092,5 +1092,29 @@
       "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480"
     ],
     "notes": "花含苞不绽、有水果甜香,故得名;上海常见庭院常绿小乔木或灌木,耐半荫。"
+  },
+  {
+    "chineseName": "睡莲属",
+    "latinName": "Nymphaea",
+    "genus": "睡莲属",
+    "family": "睡莲科",
+    "category": "水生植物",
+    "genusOnly": true,
+    "evergreen": null,
+    "height": null,
+    "spread": null,
+    "sun": "full sun",
+    "water": "wet",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "蓝/白/粉/黄/红",
+    "leafForm": "浮叶圆形",
+    "hardinessZone": "5-10",
+    "aliases": null,
+    "habitat": "池沼、静水塘、缓流河湾",
+    "sources": [
+      "http://blooge.cn/flora/10131.html",
+      "https://www.iplant.cn/info/Nymphaea"
+    ],
+    "notes": "多年生浮叶水生草本,叶浮水,花多浮水面或略挺水,喜强光静水;耐寒睡莲上海自然花期5-10月。"
   }
 ]

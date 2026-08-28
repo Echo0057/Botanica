@@ -8744,5 +8744,34 @@
     ],
     "tags": [],
     "habitat": "林下、溪边阴湿"
+  },
+  {
+    "id": "nymphaea",
+    "chineseName": "睡莲属",
+    "latinName": "Nymphaea",
+    "genus": "睡莲属",
+    "family": "睡莲科",
+    "aliases": null,
+    "evergreen": null,
+    "height": null,
+    "spread": null,
+    "sun": "full sun",
+    "water": "wet",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "蓝/白/粉/黄/红",
+    "seasonOfInterest": null,
+    "leafColor": null,
+    "leafForm": "浮叶圆形",
+    "persistence": null,
+    "hardinessZone": "5-10",
+    "habitat": "池沼、静水塘、缓流河湾",
+    "missingName": false,
+    "genusOnly": true,
+    "category": "水生植物",
+    "sources": [
+      "http://blooge.cn/flora/10131.html",
+      "https://www.iplant.cn/info/Nymphaea"
+    ],
+    "tags": []
   }
 ]
