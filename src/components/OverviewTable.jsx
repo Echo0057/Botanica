@@ -7,10 +7,10 @@ const COLUMNS = [
   { key: 'height', label: '高度(m)' },
   { key: 'spread', label: '冠幅(m)' },
   { key: 'leaf', label: '叶/形态' },
+  { key: 'evergreen', label: '常绿/落叶' },
   { key: 'bloom', label: '花色·花期' },
   { key: 'sun', label: '日照' },
   { key: 'water', label: '水分' },
-  { key: 'evergreen', label: '常绿/落叶' },
   { key: 'hardinessZone', label: '耐寒区' },
 ];
 
