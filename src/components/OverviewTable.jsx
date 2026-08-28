@@ -56,15 +56,15 @@ export default function OverviewTable({ plants, onOpen }) {
     );
   }
   return (
-    <div className="overflow-x-auto">
+    <div className="max-h-[68vh] overflow-auto">
       <table className="w-full min-w-max border-collapse text-xs">
         <thead>
-          <tr className="bg-stone-50 text-left text-stone-500">
+          <tr className="text-left text-stone-500">
             {COLUMNS.map((c, i) => (
               <th
                 key={c.key}
-                className={`whitespace-nowrap border-b border-stone-200 px-3 py-2 font-medium ${
-                  i === 0 ? 'sticky left-0 z-10 bg-stone-50' : ''
+                className={`sticky top-0 whitespace-nowrap border-b border-stone-200 bg-stone-50 px-3 py-2 font-medium shadow-[0_1px_0_0_rgba(0,0,0,0.05)] ${
+                  i === 0 ? 'left-0 z-20 border-r' : 'z-10'
                 }`}
               >
                 {c.label}
@@ -83,7 +83,7 @@ export default function OverviewTable({ plants, onOpen }) {
                 <td
                   key={c.key}
                   className={`whitespace-nowrap px-3 py-2 align-top text-stone-700 ${
-                    i === 0 ? 'sticky left-0 z-10 bg-white group-hover:bg-green-50/40' : ''
+                    i === 0 ? 'sticky left-0 z-10 border-r border-stone-200 bg-white group-hover:bg-green-50' : ''
                   }`}
                 >
                   {i === 0 ? (

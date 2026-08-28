@@ -8,7 +8,7 @@ function chip(active) {
 
 export default function FilterBar({ query, onQuery, category, onCategory }) {
   return (
-    <div className="space-y-3 border-b border-stone-200 p-4">
+    <div className="space-y-3 border-b border-stone-200 bg-stone-50/60 p-4">
       <input
         value={query}
         onChange={(e) => onQuery(e.target.value)}
