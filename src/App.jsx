@@ -5,6 +5,9 @@ import PlantDetail from './components/PlantDetail.jsx';
 import OverviewTable from './components/OverviewTable.jsx';
 import { PLANT_CATEGORIES, categoryOf } from './data/layers.js';
 
+const zh = new Intl.Collator(['zh-Hans', 'zh'], { sensitivity: 'base' });
+const latin = new Intl.Collator('en', { sensitivity: 'base' });
+
 export default function App() {
   const [plants] = useState(plantsData);
   const [query, setQuery] = useState('');
@@ -13,18 +16,29 @@ export default function App() {
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    return plants.filter((p) => {
-      if (category !== 'all' && categoryOf(p) !== category) return false;
-      if (q) {
-        const haystack = [p.chineseName, p.latinName, p.genus, p.family, p.aliases]
-          .filter(Boolean)
-          .join(' ')
-          .toLowerCase();
-        if (!haystack.includes(q)) return false;
-      }
-      return true;
-    });
-  }, [plants, query, category]);
+    return plants
+      .filter((p) => {
+        if (category !== 'all' && categoryOf(p) !== category) return false;
+        if (q) {
+          const haystack = [p.chineseName, p.latinName, p.genus, p.family, p.aliases]
+            .filter(Boolean)
+            .join(' ')
+            .toLowerCase();
+          if (!haystack.includes(q)) return false;
+        }
+        return true;
+      })
+      .sort((a, b) => {
+        const fam = zh.compare(a.family || '', b.family || '');
+        if (fam) return fam;
+        const gen = zh.compare(a.genus || '', b.genus || '');
+        if (gen) return gen;
+        return latin.compare(
+          a.latinName || a.chineseName || '',
+          b.latinName || b.chineseName || ''
+        );
+      });
+  }, [plants, query, category, zh, latin]);
 
   const selectedIndex = filtered.findIndex((p) => p.id === selectedId);
   const selected = selectedIndex >= 0 ? filtered[selectedIndex] : null;
