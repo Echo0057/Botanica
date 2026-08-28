@@ -2889,65 +2889,6 @@
     "habitat": "河岸、湿润灌丛"
   },
   {
-    "id": "deutzia_scabra_pride_of_rochester",
-    "chineseName": "溲疏",
-    "latinName": "Deutzia scabra",
-    "genus": "溲疏属",
-    "family": "绣球花科",
-    "aliases": null,
-    "evergreen": "deciduous",
-    "height": "1.8-3",
-    "spread": "1.2-2.5",
-    "sun": "full sun",
-    "water": "medium",
-    "bloomSeason": "春-夏",
-    "flowerColor": "白",
-    "seasonOfInterest": null,
-    "leafForm": "卵形叶",
-    "persistence": null,
-    "hardinessZone": "5-8",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "灌木",
-    "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&pt=4&taxonid=286870",
-      "https://plantdatabase.kpu.ca/Plant/desc",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200010112"
-    ],
-    "habitat": "山坡灌丛、林缘、岩石缝隙"
-  },
-  {
-    "id": "deutzia_crenata_nikko",
-    "chineseName": "齿叶溲疏",
-    "latinName": "Deutzia crenata",
-    "genus": "溲疏属",
-    "family": "绣球花科",
-    "aliases": null,
-    "evergreen": "deciduous",
-    "height": "1.5-2.5",
-    "spread": "1.5-2.5",
-    "sun": "full sun",
-    "water": "medium",
-    "bloomSeason": "春-夏",
-    "flowerColor": "白",
-    "seasonOfInterest": null,
-    "leafForm": "卵形叶",
-    "persistence": null,
-    "hardinessZone": "5-8",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "灌木",
-    "sources": [
-      "https://www.rhs.org.uk/plants/189318/deutzia-crenata-pride-of-rochester-d/details",
-      "https://en.paperblog.com/plant-of-the-week-deutzia-crenata-587848/",
-      "https://plantfinder.mobot.org/"
-    ],
-    "habitat": "山坡、溪边灌丛"
-  },
-  {
     "id": "philadelphus",
     "chineseName": "山梅花属",
     "latinName": "Philadelphus",
@@ -7812,33 +7753,6 @@
     "habitat": "湿润林地、草丛、溪边、荒坡"
   },
   {
-    "id": "deutzia_gracilis",
-    "chineseName": "细梗溲疏",
-    "latinName": "Deutzia gracilis",
-    "genus": "溲疏属",
-    "family": "绣球花科",
-    "aliases": null,
-    "evergreen": null,
-    "height": "0.6-1",
-    "spread": null,
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "bloomSeason": "春",
-    "flowerColor": "白",
-    "seasonOfInterest": null,
-    "leafForm": null,
-    "persistence": null,
-    "hardinessZone": null,
-    "missingName": false,
-    "genusOnly": false,
-    "category": "灌木",
-    "sources": [
-      "https://plants.ces.ncsu.edu/plants/deutzia-gracilis/common-name/slender-deutzia/"
-    ],
-    "tags": [],
-    "habitat": "山坡、溪边灌丛、林缘"
-  },
-  {
     "id": "ricinus_communis",
     "chineseName": "蓖麻",
     "latinName": "Ricinus communis",
@@ -8432,5 +8346,33 @@
     ],
     "tags": [],
     "habitat": "山坡草地、林缘、溪边湿地"
+  },
+  {
+    "id": "deutzia",
+    "chineseName": "溲疏属",
+    "latinName": "Deutzia",
+    "genus": "溲疏属",
+    "family": "绣球花科",
+    "aliases": null,
+    "evergreen": "deciduous",
+    "height": "0.8-2.5",
+    "spread": null,
+    "sun": "full sun to part shade",
+    "water": "medium",
+    "bloomSeason": "春-夏",
+    "flowerColor": "白/粉",
+    "seasonOfInterest": null,
+    "leafForm": null,
+    "persistence": null,
+    "hardinessZone": "5-9",
+    "missingName": false,
+    "genusOnly": true,
+    "category": "灌木",
+    "sources": [
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008185",
+      "https://www.rhs.org.uk/plants/deutzia"
+    ],
+    "tags": [],
+    "habitat": "山坡灌丛、林缘"
   }
 ]

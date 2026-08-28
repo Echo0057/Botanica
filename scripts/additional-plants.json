@@ -132,14 +132,6 @@
     "aliases": null
   },
   {
-    "chineseName": "溲疏",
-    "latinName": "Deutzia scabra",
-    "genus": "溲疏属",
-    "family": "绣球花科",
-    "category": "灌木",
-    "aliases": null
-  },
-  {
     "chineseName": "映山红",
     "latinName": "Rhododendron simsii",
     "genus": "杜鹃花属",
@@ -684,20 +676,6 @@
     "bloomSeason": "春",
     "flowerColor": "白",
     "aliases": "三棱茎葱"
-  },
-  {
-    "chineseName": "细梗溲疏",
-    "latinName": "Deutzia gracilis",
-    "genus": "溲疏属",
-    "family": "绣球花科",
-    "category": "灌木",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "height": "0.6-1",
-    "bloomSeason": "春",
-    "flowerColor": "白",
-    "aliases": null,
-    "notes": "细梗溲疏'日光'(Deutzia gracilis 'Nikko')按种级录入。"
   },
   {
     "chineseName": "蓖麻",
