@@ -12,7 +12,7 @@ export default function FilterBar({ query, onQuery, category, onCategory }) {
       <input
         value={query}
         onChange={(e) => onQuery(e.target.value)}
-        placeholder="搜索中文名 / 学名 / 属 / 科…"
+        placeholder="搜索中文名 / 学名 / 科 / 属…"
         className="w-full rounded-lg border border-stone-300 px-3 py-2 text-sm outline-none focus:border-green-700 focus:ring-2 focus:ring-green-100"
       />
 
