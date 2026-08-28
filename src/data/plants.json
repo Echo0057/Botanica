@@ -8170,5 +8170,31 @@
     "category": "宿根草本",
     "sources": [],
     "tags": []
+  },
+  {
+    "id": "telosma_cordata",
+    "chineseName": "夜来香",
+    "latinName": "Telosma cordata",
+    "genus": "夜来香属",
+    "family": "夹竹桃科",
+    "aliases": "夜香花·夜兰香",
+    "evergreen": "evergreen",
+    "height": "2-5",
+    "spread": null,
+    "sun": "full sun to part shade",
+    "water": "medium",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "黄",
+    "seasonOfInterest": null,
+    "leafForm": null,
+    "persistence": null,
+    "hardinessZone": "9-11",
+    "missingName": false,
+    "genusOnly": false,
+    "category": "藤本",
+    "sources": [
+      "https://www.iplant.cn/bk/F7DCF20D3B5AF75A"
+    ],
+    "tags": []
   }
 ]

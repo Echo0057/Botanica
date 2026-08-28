@@ -928,5 +928,22 @@
     "flowerColor": "红",
     "aliases": null,
     "notes": "锈红鼠尾草(猩红鼠尾草/朱唇一类红色鼠尾草),学名按近似种 Salvia coccinea 录入,待核对。"
+  },
+  {
+    "chineseName": "夜来香",
+    "latinName": "Telosma cordata",
+    "genus": "夜来香属",
+    "family": "夹竹桃科",
+    "category": "藤本",
+    "sun": "full sun to part shade",
+    "water": "medium",
+    "height": "2-5",
+    "evergreen": "evergreen",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "黄",
+    "hardinessZone": "9-11",
+    "aliases": "夜香花·夜兰香",
+    "notes": "柔弱藤本,夏秋夜间浓香;喜高温高湿。耐寒弱(9-11区),上海以露台盆栽养,冬季入室/暖房,不宜露地过冬。",
+    "sources": ["https://www.iplant.cn/bk/F7DCF20D3B5AF75A"]
   }
 ]
