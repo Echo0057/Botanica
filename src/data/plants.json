@@ -24,7 +24,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280632&letter=A",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "疏林、林缘;排水好的山地"
   },
   {
     "id": "plant_2",
@@ -52,7 +53,8 @@
       "http://plants.pikenursery.com/12291001/Plant/27603/China_Rose",
       "https://pfaf.org/User/Plant.aspx?LatinName=Rosa+chinensis",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "灌丛、路边、田野"
   },
   {
     "id": "plant_3",
@@ -80,7 +82,8 @@
       "https://weeds.brisbane.qld.gov.au/weeds/crofton-weed",
       "https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Ageratina_adenophora_%28Crofton_Weed%29.htm",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "路边、旱生地、荒地"
   },
   {
     "id": "plant_4",
@@ -107,7 +110,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277227",
       "https://dplantdatabase.kpu.ca/Plant/sach"
-    ]
+    ],
+    "habitat": "地中海旱生坡地、岩石地"
   },
   {
     "id": "plant_5",
@@ -134,7 +138,8 @@
     "sources": [
       "https://midvalleytrees.com/product/dietes-bicolor-milky-way/",
       "https://nativegardeners.com/collections/swiss-avenue-garden-tour-collection/products/bicolor-iris"
-    ]
+    ],
+    "habitat": "草地、林缘(南非)"
   },
   {
     "id": "plant_7",
@@ -161,7 +166,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/thvu",
       "https://www.depts.ttu.edu/plantresources/Pages/directories/landscape-info-sheets/edible-info/Thymus-vulgaris.php"
-    ]
+    ],
+    "habitat": "地中海旱生石质坡地"
   },
   {
     "id": "plant_8",
@@ -188,7 +194,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282891",
       "http://www.onlineplantguide.com/Plant-Details/384"
-    ]
+    ],
+    "habitat": "河岸、林缘(澳洲)"
   },
   {
     "id": "plant_9",
@@ -215,7 +222,8 @@
     "sources": [
       "http://www.fnai.org/Invasives/Dianella_ensifolia_FNAI.pdf",
       "https://www.bhg.com/gardening/plant-dictionary/perennial/flax-lily/"
-    ]
+    ],
+    "habitat": "林下、湿润灌丛"
   },
   {
     "id": "plant_10",
@@ -242,7 +250,8 @@
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/26960/",
       "https://pix.davesgarden.com/guides/pf/print/166816"
-    ]
+    ],
+    "habitat": "湿润草地、溪岸(南非)"
   },
   {
     "id": "plant_11",
@@ -269,7 +278,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=256635",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=245685"
-    ]
+    ],
+    "habitat": "旱生坡地、荒地、岩坡"
   },
   {
     "id": "plant_12",
@@ -296,7 +306,8 @@
     "sources": [
       "https://plantlust.com/plants/14495/cistus-creticus/",
       "https://plantthis.com.au/plant-information.asp?gardener=11371&tabview=bio&plantSpot="
-    ]
+    ],
+    "habitat": "地中海旱生灌丛、岩坡(石灰岩)"
   },
   {
     "id": "plant_13",
@@ -323,7 +334,8 @@
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281406",
       "https://plantmaster.com/plants/eplant.php?plantnum=4535&project=9121"
-    ]
+    ],
+    "habitat": "路边、田野、荒地"
   },
   {
     "id": "plant_15",
@@ -350,7 +362,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/159311/hylotelephium-spectabile/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生草地、岩石地"
   },
   {
     "id": "plant_16",
@@ -377,7 +390,8 @@
     "sources": [
       "https://www.plantplus.cn/frps/pdf/29/232b.pdf",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、山地草丛"
   },
   {
     "id": "plant_17",
@@ -404,7 +418,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277129",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "草甸、路边、荒地"
   },
   {
     "id": "plant_18",
@@ -431,7 +446,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279298",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/convolvuluscneorum.html"
-    ]
+    ],
+    "habitat": "地中海旱生灌丛、石坡"
   },
   {
     "id": "plant_19",
@@ -458,7 +474,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281892",
       "https://shuncy.com/plant-finder/plant/2473/red-hot-poker"
-    ]
+    ],
+    "habitat": "南非高山草甸、沼泽边(栽培)"
   },
   {
     "id": "plant_20",
@@ -485,7 +502,8 @@
     "sources": [
       "https://www.iplant.cn/bk/8C4612D2DF7A975E",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡草地、灌丛"
   },
   {
     "id": "plant_21",
@@ -512,7 +530,8 @@
     "sources": [
       "https://cornellbotanicgardens.org/plant/great-burnet",
       "https://www.wildflower.org/plants/result.php?id_plant=SAOF3"
-    ]
+    ],
+    "habitat": "草甸、河岸湿地"
   },
   {
     "id": "plant_22",
@@ -539,7 +558,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/33739/agastache-rugosa/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生灌丛、山地草地"
   },
   {
     "id": "plant_23",
@@ -566,7 +586,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/8082/gomphostigma-virgatum/details",
       "https://pza.sanbi.org/gomphostigma-virgatum"
-    ]
+    ],
+    "habitat": "干旱河谷灌丛、岩石地"
   },
   {
     "id": "plant_24",
@@ -593,7 +614,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279597",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山地灌丛、岩石坡地"
   },
   {
     "id": "plant_25",
@@ -620,7 +642,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?chr=25&taxonid=282153",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "南非草原、岩石坡地"
   },
   {
     "id": "plant_26",
@@ -647,7 +670,8 @@
     "sources": [
       "https://www.monrovia.com/dark-pink-rice-flower.html",
       "http://plants.pikenursery.com/12291001/Plant/19986/"
-    ]
+    ],
+    "habitat": "旱生灌丛、瘠薄坡地(澳洲)"
   },
   {
     "id": "plant_27",
@@ -674,7 +698,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/2605/calamintha-nepeta/details",
       "https://plants.jobsnursery.com/12170026/Plant/Print?id=2171"
-    ]
+    ],
+    "habitat": "山地灌丛、林缘"
   },
   {
     "id": "plant_28",
@@ -701,7 +726,8 @@
     "sources": [
       "https://www.monrovia.com/blue-mist-bluebeard.html",
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=330"
-    ]
+    ],
+    "habitat": "旱生灌丛、石质坡地"
   },
   {
     "id": "plant_29",
@@ -728,7 +754,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277464",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=293533"
-    ]
+    ],
+    "habitat": "草原、湿地草甸(北美)"
   },
   {
     "id": "plant_30",
@@ -755,7 +782,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280580",
       "https://kiefernursery.com/product/baptisia-australis-2/"
-    ]
+    ],
+    "habitat": "草原、林缘草地(北美)"
   },
   {
     "id": "plant_31",
@@ -782,7 +810,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285439",
       "https://kiefernursery.com/product/phlox-subulata-pink-parasol/"
-    ]
+    ],
+    "habitat": "干旱坡地、岩石地、草地"
   },
   {
     "id": "plant_32",
@@ -809,7 +838,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/219360/dichondra-argentea-silver-falls/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "干旱草地、沙砾地"
   },
   {
     "id": "plant_33",
@@ -835,7 +865,8 @@
     "category": "宿根草本",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=f193"
-    ]
+    ],
+    "habitat": "林缘、湿润草地"
   },
   {
     "id": "plant_34",
@@ -862,7 +893,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275664",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生荒地、沙砾地"
   },
   {
     "id": "plant_35",
@@ -889,7 +921,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/32487/erigeron-karvinskianus/details",
       "https://biogardens.org/encyclopedia/erigeron-karvinskianus"
-    ]
+    ],
+    "habitat": "碎石坡、路缝、石壁(干旱)"
   },
   {
     "id": "plant_36",
@@ -916,7 +949,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/92445/crocosmia-x-crocosmiiflora/details",
       "https://kiefernursery.com/product/crocosmia-x-crocosmiiflora-honey-angels/"
-    ]
+    ],
+    "habitat": "山坡草地、树缘"
   },
   {
     "id": "plant_37",
@@ -943,7 +977,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/742/ajuga-reptans-bugle-brown-bugle/details",
       "https://kiefernursery.com/product/ajuga-reptans-chocolate-chip/"
-    ]
+    ],
+    "habitat": "林下、湿润草地"
   },
   {
     "id": "plant_38",
@@ -970,7 +1005,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/10536/lotus-berthelotii/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生岩坡、海岸(加那利)"
   },
   {
     "id": "plant_39",
@@ -997,7 +1033,8 @@
     "sources": [
       "https://davesgarden.com/guides/pf/print/57955",
       "https://www.plantsnap.com/plant-care/buddleja-lindleyana"
-    ]
+    ],
+    "habitat": "溪边、河岸灌丛"
   },
   {
     "id": "plant_40",
@@ -1024,7 +1061,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/8960/hydrocotyle-vulgaris/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "水边、湿地、草丛"
   },
   {
     "id": "plant_41",
@@ -1051,7 +1089,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285290",
       "https://txmg.org/hendersonmg/plant-library/grass-purple-fountain/"
-    ]
+    ],
+    "habitat": "旱生沙地、砾地"
   },
   {
     "id": "plant_42",
@@ -1078,7 +1117,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=l510",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&letter=P&taxonid=251868"
-    ]
+    ],
+    "habitat": "草原、草甸、河岸"
   },
   {
     "id": "plant_43",
@@ -1105,7 +1145,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/70387/pennisetum-orientale/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生坡地、沙砾地"
   },
   {
     "id": "plant_44",
@@ -1132,7 +1173,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=250977",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285333"
-    ]
+    ],
+    "habitat": "山坡、路边、旱生草地"
   },
   {
     "id": "plant_45",
@@ -1159,7 +1201,8 @@
     "sources": [
       "https://resources.austplants.com.au/plant/viola-banksii/",
       "https://www.seasol.com.au/australian-natives/native-violet-viola-banksii/"
-    ]
+    ],
+    "habitat": "林下、湿润溪边(澳洲)"
   },
   {
     "id": "laurus",
@@ -1187,7 +1230,8 @@
       "https://plantdatabase.kpu.ca/Plant/lano",
       "https://selectree.calpoly.edu/tree-detail/laurus-nobilis",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "亚热带常绿阔叶林"
   },
   {
     "id": "olea",
@@ -1215,7 +1259,8 @@
       "https://plants.ces.ncsu.edu/plants/olea-europaea/",
       "https://plantdatabase.kpu.ca/Plant/oleu",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生石质坡地、灌丛"
   },
   {
     "id": "citrus",
@@ -1243,7 +1288,8 @@
       "https://www.waysidegardens.com/collections/trees/products/citrus-eureka-lemon-tree-36491",
       "https://selectree.calpoly.edu/tree-detail/364",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "温暖湿润的丘陵、河谷"
   },
   {
     "id": "eriobotrya_japonica",
@@ -1271,7 +1317,8 @@
       "https://landscapeplants.oregonstate.edu/plants/eriobotrya-japonica",
       "https://hort.ifas.ufl.edu/trees/ERIJAPC.pdf",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "丘陵、山坡疏林"
   },
   {
     "id": "magnolia_grandiflora",
@@ -1299,7 +1346,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=249453&isprofile=1&basic=Magnolia+grandiflora",
       "https://plantdatabase.kpu.ca/Plant/magr",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿润低地、林缘"
   },
   {
     "id": "pinus_thunbergii",
@@ -1327,7 +1375,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=b438",
       "https://plantdatabase.kpu.ca/Plant/pith",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "海岸沙地、丘陵旱生坡地"
   },
   {
     "id": "pinus_parviflora",
@@ -1354,7 +1403,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=284968&isprofile=0&hf=30&z=6",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山地、石质坡地"
   },
   {
     "id": "taxus_wallichiana_var_mairei",
@@ -1382,7 +1432,8 @@
       "https://worldplants.ca/display0.php?id=10179",
       "https://en.wikipedia.org/wiki/Himalayan_Yew",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山地雨林、石灰岩山地红壤"
   },
   {
     "id": "osmanthus",
@@ -1410,7 +1461,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282983&isprofile=0&chr=16",
       "https://midvalleytrees.com/product/sweet-olive/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "亚热带常绿阔叶林、石灰岩山地"
   },
   {
     "id": "trachycarpus_fortunei",
@@ -1438,7 +1490,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c973",
       "https://plantdatabase.kpu.ca/Plant/trfo",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山谷、林缘湿润地"
   },
   {
     "id": "rosmarinus_officinalis",
@@ -1494,7 +1547,8 @@
       "https://plantdatabase.kpu.ca/Plant/coks",
       "https://web.extension.illinois.edu/hortanswers/PlantDetail.cfm?PlantID=199&PlantTypeID=7",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡疏林、林缘"
   },
   {
     "id": "camellia_japonica_3",
@@ -1521,7 +1575,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287331",
       "https://dplantdatabase.kpu.ca/Plant/caja"
-    ]
+    ],
+    "habitat": "亚热带常绿阔叶林、湿润坡地"
   },
   {
     "id": "camellia_uraku",
@@ -1548,7 +1603,8 @@
     "sources": [
       "https://internationalcamellia.org/en-us/conservation-preservation-of-camellias/camellia-sasanqua-genebank",
       "https://baike.so.com/doc/485831-514475.html"
-    ]
+    ],
+    "habitat": "林缘、山坡灌丛"
   },
   {
     "id": "camellia_sasanqua",
@@ -1575,7 +1631,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/casa",
       "http://plants.pikenursery.com/12291001/Plant/25533/Sasanqua_Camellia"
-    ]
+    ],
+    "habitat": "林缘、旱生坡地"
   },
   {
     "id": "rhododendron",
@@ -1602,7 +1659,8 @@
     "sources": [
       "https://www.greatplantpicks.org/plantlists/view/1294",
       "https://plantdatabase.kpu.ca/Plant/rhhi"
-    ]
+    ],
+    "habitat": "山地灌丛、林缘(酸性土)"
   },
   {
     "id": "rhododendron_indicum",
@@ -1629,7 +1687,8 @@
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/31424/",
       "https://garden.org/plants/view/130651/Satsuki-Azalea-Rhododendron-indicum-Flame-Creeper/"
-    ]
+    ],
+    "habitat": "低山灌丛、林缘"
   },
   {
     "id": "pieris_japonica_debutante",
@@ -1656,7 +1715,8 @@
     "sources": [
       "https://plantdatabase.uconn.edu/detail.php?pid=318",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=256229"
-    ]
+    ],
+    "habitat": "山地林下、酸性灌丛"
   },
   {
     "id": "myrtus_communis",
@@ -1683,7 +1743,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=251004",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/myrtuscommunis.html"
-    ]
+    ],
+    "habitat": "地中海旱生灌丛、石质坡地"
   },
   {
     "id": "nandina_domestica",
@@ -1710,7 +1771,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/nado",
       "https://www.greatplantpicks.org/plantlists/view/1023"
-    ]
+    ],
+    "habitat": "山谷林下、沟边灌丛"
   },
   {
     "id": "mahonia_fortunei",
@@ -1738,7 +1800,8 @@
       "https://www.monrovia.com/chinese-mahonia.html",
       "https://www.onlineplantguide.com/Plant-Details/1633/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、沟谷湿润灌丛"
   },
   {
     "id": "mahonia_japonica",
@@ -1766,7 +1829,8 @@
       "http://plants.pikenursery.com/12291001/Plant/19586/",
       "https://www.gardenia.net/plant/mahonia-japonica",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、湿润坡地"
   },
   {
     "id": "daphne_odora_aureomarginata",
@@ -1794,7 +1858,8 @@
       "https://www.greatplantpicks.org/plantlists/view/491",
       "https://dplantdatabase.kpu.ca/Plant/daod",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山谷湿润灌丛、林下"
   },
   {
     "id": "gardenia_jasminoides",
@@ -1850,7 +1915,8 @@
     "sources": [
       "https://plants.ces.ncsu.edu/plants/pittosporum-tobira/",
       "http://plants.pikenursery.com/12291001/Plant/19285/Japanese_Mock_Orange"
-    ]
+    ],
+    "habitat": "海岸、丘陵灌丛"
   },
   {
     "id": "fatsia",
@@ -1877,7 +1943,8 @@
     "sources": [
       "https://www.monrovia.com/japanese-aralia.html",
       "https://plantdatabase.kpu.ca/Plant/faja"
-    ]
+    ],
+    "habitat": "林下、阴湿沟谷"
   },
   {
     "id": "ilex",
@@ -1905,7 +1972,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=276168",
       "http://plants.pikenursery.com/12291001/Plant/11860/Chinese_Holly",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "常绿阔叶林、林缘"
   },
   {
     "id": "ligustrum_quihoui",
@@ -1933,7 +2001,8 @@
       "https://woodlanders.net/collections/woody-plants/products/ligustrum-quihoui",
       "https://www.backyardgardener.com/plantname/ligustrum-quihoui-quihoui-privet/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡灌丛、路边"
   },
   {
     "id": "euonymus_japonicus",
@@ -1961,7 +2030,8 @@
       "http://plants.pikenursery.com/12291001/Plant/11685/",
       "https://garden.org/plants/view/779890/Japanese-Spindle-Euonymus-japonicus-Green-Rocket/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、海滨灌丛"
   },
   {
     "id": "ardisia_crenata",
@@ -1988,7 +2058,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282841",
       "http://plants.pikenursery.com/12291001/Plant/17030/"
-    ]
+    ],
+    "habitat": "林下、山谷湿润地"
   },
   {
     "id": "sarcandra",
@@ -2015,7 +2086,8 @@
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/10058/Sarcandra",
       "https://woodlanders.net/collections/woody-plants/products/sarcandra-glabra"
-    ]
+    ],
+    "habitat": "林下、阴湿溪边"
   },
   {
     "id": "rhapis",
@@ -2043,7 +2115,8 @@
       "https://plantdatabase.kpu.ca/Plant/rhex",
       "http://plants.pikenursery.com/12291001/Plant/25630/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、温暖湿润山谷"
   },
   {
     "id": "acer_japonicum_aconitifolium",
@@ -2071,7 +2144,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275393",
       "https://plantdatabase.uconn.edu/detail.php?pid=16",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿润林下、溪畔"
   },
   {
     "id": "acer_serrulatum",
@@ -2099,7 +2173,8 @@
       "https://nativetree.forest.gov.tw/tree/Info/d9b3af3a4cf040b2bdac1146a07f5ade",
       "https://inature.app/species/acer-serrulatum-hayata/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "低山疏林、林缘"
   },
   {
     "id": "acer_pictum_subsp_mono",
@@ -2127,7 +2202,8 @@
       "https://www.rhs.org.uk/plants/87420/acer-pictum/details",
       "https://landscapeplants.oregonstate.edu/plants/acer-pictum",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山地阔叶林"
   },
   {
     "id": "amelanchier_canadensis",
@@ -2155,7 +2231,8 @@
       "https://plantdatabase.kpu.ca/Plant/amca",
       "https://www.csu.org/water-wise-plants/shadblow-serviceberry",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、干燥坡地"
   },
   {
     "id": "prunus_yedoensis_somei_yoshino",
@@ -2183,7 +2260,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286608",
       "https://plantdatabase.uconn.edu/detail.php?pid=364",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡疏林、林缘"
   },
   {
     "id": "prunus_mume",
@@ -2211,7 +2289,8 @@
       "https://landscapeplants.oregonstate.edu/plants/prunus-mume",
       "https://www.thespruce.com/prunus-mume-plum-blossom-care-guide-8426994",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡灌丛、沟谷"
   },
   {
     "id": "malus_pumila",
@@ -2239,7 +2318,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264689",
       "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡、河谷果园(栽培)"
   },
   {
     "id": "metasequoia",
@@ -2267,7 +2347,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=270524",
       "https://www.epicgardening.com/dawn-redwood-trees/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "溪边、水边湿地"
   },
   {
     "id": "taxodium",
@@ -2295,7 +2376,8 @@
       "https://u.osu.edu/plants/taxodium-distichum/",
       "https://plantdatabase.kpu.ca/Plant/tadi",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "沼泽、水边湿地"
   },
   {
     "id": "ginkgo",
@@ -2323,7 +2405,8 @@
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280988",
       "https://greatplainsnursery.com/product/ginkgo-ginkgo-biloba/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山地疏林、湿润石灰岩地"
   },
   {
     "id": "robinia_pseudoacacia_frisia",
@@ -2350,7 +2433,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/rops",
       "https://u.osu.edu/plants/robinia-pseudoacacia/"
-    ]
+    ],
+    "habitat": "干燥瘠薄地、路边"
   },
   {
     "id": "zelkova_schneideriana",
@@ -2378,7 +2462,8 @@
       "https://www.vdberk.co.uk/index.php/trees/zelkova-schneideriana/",
       "https://pfaf.org/User/Plant.aspx?LatinName=Zelkova+schneideriana",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡、河谷疏林"
   },
   {
     "id": "crataegus",
@@ -2406,7 +2491,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286345",
       "https://plantdatabase.kpu.ca/Plant/crla",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山野灌丛、林缘"
   },
   {
     "id": "malus_american",
@@ -2434,7 +2520,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264636",
       "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡林缘、灌丛"
   },
   {
     "id": "quercus_texana",
@@ -2462,7 +2549,8 @@
       "http://plants.pikenursery.com/12291001/Plant/17259/Nuttalls_Oak",
       "http://web.unthsc.edu/download/downloads/id/792/texas_red_oak",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "河滩、低洼湿润林地"
   },
   {
     "id": "sapindus",
@@ -2490,7 +2578,8 @@
       "https://davesgarden.com/guides/pf/print/81906",
       "https://shop.app/products/8023654662401/sapindus-mukorossi-seeds-indian-soapberry-tree",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "丘陵、石灰岩山地"
   },
   {
     "id": "koelreuteria_bipinnata_integrifoliola",
@@ -2517,7 +2606,8 @@
     "sources": [
       "https://www.mastergardenerssandiego.org/newclass/wp-content/uploads/2020/04/Andersen-Karen-Koelreuteria-bipinnata-reduced.pdf",
       "https://www.backyardgardener.com/plantname/koelreuteria-bipinnata-bougainvillea-golden-rain-tree/"
-    ]
+    ],
+    "habitat": "山坡、河谷疏林"
   },
   {
     "id": "pistacia",
@@ -2545,7 +2635,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275957",
       "https://midvalleytrees.com/product/chinese-pistache/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生石质山坡、石灰岩山地"
   },
   {
     "id": "triadica",
@@ -2573,7 +2664,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?pt=14&taxonid=368407",
       "https://www.csustan.edu/campus-tree-story-map/chinese-tallow-triadica-sebifera",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "丘陵、沟谷、河滩"
   },
   {
     "id": "liquidambar_styraciflua",
@@ -2601,7 +2693,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281024",
       "https://plantdatabase.kpu.ca/Plant/list",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "低洼湿润林地"
   },
   {
     "id": "liriodendron_chinense_tulipifera",
@@ -2629,7 +2722,8 @@
       "https://www.havlis.cz/catalogue/liriodendron-x-tulipifera-x-chinense-hybrid-tul",
       "https://plantdatabase.kpu.ca/Plant/lich",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿润山谷、山坡林"
   },
   {
     "id": "yulania_soulangeana",
@@ -2657,7 +2751,8 @@
       "https://www.princetonnj.gov/1533/April-2024---Saucer-Magnolia",
       "https://dplantdatabase.kpu.ca/Plant/maso",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘润土(栽培)"
   },
   {
     "id": "chimonanthus",
@@ -2685,7 +2780,8 @@
       "http://plants.pikenursery.com/12291001/Plant/3412/",
       "https://landscapeplants.oregonstate.edu/plants/chimonanthus-praecox",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡灌丛、林缘(耐旱)"
   },
   {
     "id": "ficus_carica",
@@ -2713,7 +2809,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c944",
       "https://mortonarb.org/plant-and-protect/trees-and-plants/common-fig/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生、石灰岩山坡、栽培"
   },
   {
     "id": "spiraea_cantoniensis",
@@ -2741,7 +2838,8 @@
       "https://hort.ifas.ufl.edu/database/documents/pdf/shrub_fact_sheets/spicana.pdf",
       "http://www.onlineplantguide.com/Plant-Details/2570/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡、溪边灌丛"
   },
   {
     "id": "spiraea_alpina",
@@ -2768,7 +2866,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/10907/spiraea-alpina/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "高山灌丛、石坡"
   },
   {
     "id": "spiraea_vanhouttei_pink_ice",
@@ -2796,7 +2895,8 @@
       "https://www.rhs.org.uk/plants/97141/spiraea-vanhouttei/details",
       "https://plantdatabase.kpu.ca/Plant/spva",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡灌丛、林缘"
   },
   {
     "id": "chaenomeles_speciosa",
@@ -2824,7 +2924,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=244222",
       "https://plantdatabase.kpu.ca/Plant/chsp",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡、溪边灌丛"
   },
   {
     "id": "viburnum_keteleeri_sterile",
@@ -2851,7 +2952,8 @@
     "sources": [
       "https://baike.baidu.com/item/绣球荚蒾/6987884",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、溪边灌丛"
   },
   {
     "id": "viburnum_opulus_roseum",
@@ -2878,7 +2980,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/18919/viburnum-opulus/details",
       "https://vtechworks.lib.vt.edu/server/api/core/bitstreams/8e3d8fdd-4910-4e19-a960-0e9a4931f0cd/content"
-    ]
+    ],
+    "habitat": "河岸、湿润灌丛"
   },
   {
     "id": "deutzia_scabra_pride_of_rochester",
@@ -2906,7 +3009,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&pt=4&taxonid=286870",
       "https://plantdatabase.kpu.ca/Plant/desc",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡灌丛、林缘"
   },
   {
     "id": "deutzia_crenata_nikko",
@@ -2934,7 +3038,8 @@
       "https://www.rhs.org.uk/plants/189318/deutzia-crenata-pride-of-rochester-d/details",
       "https://en.paperblog.com/plant-of-the-week-deutzia-crenata-587848/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡、溪边灌丛"
   },
   {
     "id": "philadelphus",
@@ -2961,7 +3066,8 @@
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/phcn",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=268016"
-    ]
+    ],
+    "habitat": "林缘、灌丛、岩石坡"
   },
   {
     "id": "hydrangea_macrophylla_var_normalis",
@@ -2988,7 +3094,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/hyma",
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=401"
-    ]
+    ],
+    "habitat": "林下、溪边湿润地"
   },
   {
     "id": "hydrangea_paniculata",
@@ -3015,7 +3122,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=249039",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=442964"
-    ]
+    ],
+    "habitat": "林缘、湿润灌丛"
   },
   {
     "id": "punica",
@@ -3042,7 +3150,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=253038",
       "https://www.monrovia.com/fruiting-pomegranate.html"
-    ]
+    ],
+    "habitat": "旱生山坡、石质地"
   },
   {
     "id": "callicarpa_japonica",
@@ -3069,7 +3178,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287491",
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=328"
-    ]
+    ],
+    "habitat": "山坡、路边灌丛"
   },
   {
     "id": "enkianthus_perulatus",
@@ -3096,7 +3206,8 @@
     "sources": [
       "https://www.greatplantpicks.org/plantlists/view/563",
       "http://plants.pikenursery.com/12291001/Plant/24095/White_Enkianthus"
-    ]
+    ],
+    "habitat": "林下、石质坡地"
   },
   {
     "id": "hibiscus_mutabilis",
@@ -3123,7 +3234,8 @@
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/35782/",
       "http://www.onlineplantguide.com/Plant-Details/1053"
-    ]
+    ],
+    "habitat": "水边、田野湿地"
   },
   {
     "id": "corylopsis",
@@ -3151,7 +3263,8 @@
       "https://dplantdatabase.kpu.ca/Plant/copa",
       "https://www.greatplantpicks.org/plantlists/view/437",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、湿润灌丛"
   },
   {
     "id": "styrax_japonicus",
@@ -3178,7 +3291,8 @@
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/stja",
       "https://www.greatplantpicks.org/plantlists/view/1811"
-    ]
+    ],
+    "habitat": "山坡疏林、灌丛"
   },
   {
     "id": "yulania_stellata",
@@ -3205,7 +3319,8 @@
     "sources": [
       "https://myplantin.com/plant/1315",
       "https://www.epicgardening.com/star-magnolia-trees/"
-    ]
+    ],
+    "habitat": "山地灌丛、林缘"
   },
   {
     "id": "itea_virginica",
@@ -3232,7 +3347,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=1&pm=1&taxonid=249812",
       "https://plantdatabase.uconn.edu/detail.php?pid=223"
-    ]
+    ],
+    "habitat": "湿地、溪边灌丛"
   },
   {
     "id": "euonymus",
@@ -3260,7 +3376,8 @@
       "https://plantdatabase.uconn.edu/detail.php?pid=167",
       "https://www.greatplantpicks.org/search/plant-details/608",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、灌丛、石坡"
   },
   {
     "id": "vaccinium_oldhamii",
@@ -3287,7 +3404,8 @@
     "sources": [
       "https://plants.ces.ncsu.edu/plants/vaccinium-oldhamii/",
       "https://meetsmore.com/t/gardening/media/83051"
-    ]
+    ],
+    "habitat": "山坡灌丛、林缘"
   },
   {
     "id": "sambucus_nigra_black_lace",
@@ -3314,7 +3432,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?c&isprofile=0&taxonid=359574",
       "https://plantdatabase.kpu.ca/Plant/sani"
-    ]
+    ],
+    "habitat": "湿润林地、路边灌丛"
   },
   {
     "id": "salvia",
@@ -3341,7 +3460,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/salvia",
       "https://kiefernursery.com/product/salvia-officinalis/"
-    ]
+    ],
+    "habitat": "山坡、路边草丛"
   },
   {
     "id": "bistorta_amplexicaulis",
@@ -3368,7 +3488,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285452",
       "https://davesgarden.com/guides/pf/print/205785"
-    ]
+    ],
+    "habitat": "湿润草甸、溪边"
   },
   {
     "id": "eupatorium_cannabinum",
@@ -3395,7 +3516,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/7024/eupatorium-cannabinum/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿草地、林缘、溪边"
   },
   {
     "id": "rudbeckia",
@@ -3422,7 +3544,8 @@
     "sources": [
       "https://plants.ces.ncsu.edu/plants/rudbeckia/",
       "https://kiefernursery.com/product/rudbeckia-lacinata/"
-    ]
+    ],
+    "habitat": "草原、林缘、路边"
   },
   {
     "id": "coreopsis",
@@ -3449,7 +3572,8 @@
     "sources": [
       "https://mortonarb.org/plant-and-protect/trees-and-plants/hybrid-coreopsis/",
       "https://kiefernursery.com/product/coreopsis-verticillata-zagreb/"
-    ]
+    ],
+    "habitat": "草原、旱生草地、路边"
   },
   {
     "id": "erigeron",
@@ -3476,7 +3600,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/158639/erigeron-canadensis/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "荒地、路边、碎石地"
   },
   {
     "id": "crossostephium_chinense",
@@ -3503,7 +3628,8 @@
     "sources": [
       "https://baike.baidu.com/item/芙蓉菊/8388872",
       "https://tlpg.hsiliu.org.tw/search/view/300"
-    ]
+    ],
+    "habitat": "海岸岩石、旱生灌丛"
   },
   {
     "id": "baccharis_halimifolia_moench",
@@ -3530,7 +3656,8 @@
     "sources": [
       "https://www.jerseyyards.org/plant/baccharis-halimifolia/",
       "https://newmoonnursery.com/nursery-plants/baccharis-halimifolia/"
-    ]
+    ],
+    "habitat": "海岸湿灌丛、盐湿地"
   },
   {
     "id": "gazania_rigens_l_gaertn",
@@ -3557,7 +3684,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/86144/gazania-rigens/details",
       "https://www.balllandscape.com/products/plantinfo.aspx?phid=028106282006060"
-    ]
+    ],
+    "habitat": "中南非旱生草地、岩坡"
   },
   {
     "id": "artemisia_schmidtiana",
@@ -3612,7 +3740,8 @@
     "sources": [
       "https://www.camarillogardening.com/eplant.php?plantnum=1652",
       "https://ftp.calflora.org/entry/plantchar.html?crn=14612"
-    ]
+    ],
+    "habitat": "旱生灌丛、岩坡(墨西哥)"
   },
   {
     "id": "anisodontea_capensis",
@@ -3640,7 +3769,8 @@
       "https://www.gardenia.net/plant/anisodontea-capensis",
       "https://www.rhs.org.uk/plants/1298/i-anisodontea-capensis-i/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "非洲南部旱生灌木(栽培)"
   },
   {
     "id": "callirhoe_involucrata",
@@ -3667,7 +3797,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282616",
       "https://www.missouribotanicalgarden.org/plan-your-visit/family-of-attractions/butterfly-house/learn-discover-at-the-butterfly-house-/butterflies-and-plants/our-plant-collection/article/1525"
-    ]
+    ],
+    "habitat": "草原、旱生草地"
   },
   {
     "id": "malva_subovata_subsp_bicolor",
@@ -3694,7 +3825,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/507369/malva-subovata/details",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/malvasubovata.html"
-    ]
+    ],
+    "habitat": "旱生灌丛、岩坡"
   },
   {
     "id": "monarda",
@@ -3721,7 +3853,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/monarda",
       "https://kiefernursery.com/product/monarda-didyma-grand-marshall/"
-    ]
+    ],
+    "habitat": "草原、林缘湿润草地"
   },
   {
     "id": "monarda_citriodora",
@@ -3748,7 +3881,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/67779/monarda-citriodora/details",
       "https://txmg.org/hendersonmg/plant-library/beebalm-lemon-mint-purple/"
-    ]
+    ],
+    "habitat": "草原、旱生坡地"
   },
   {
     "id": "aster",
@@ -3775,7 +3909,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/aster/growing-guide",
       "https://kiefernursery.com/product/aster-now-eurybia-divaricatus-eastern-star/"
-    ]
+    ],
+    "habitat": "山坡草地、路边、林缘"
   },
   {
     "id": "aster_piccolii",
@@ -3802,7 +3937,8 @@
     "sources": [
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242306244",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "高原草地、灌丛"
   },
   {
     "id": "hemerocallis",
@@ -3829,7 +3965,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/8628/hemerocallis-x-luteola/details",
       "https://kiefernursery.com/product/hemerocallis-hyperion/"
-    ]
+    ],
+    "habitat": "草甸、溪边、林缘"
   },
   {
     "id": "agapanthus",
@@ -3856,7 +3993,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/agapanthus",
       "https://kiefernursery.com/product/agapanthus-comptonii-headbourne-hybrids/"
-    ]
+    ],
+    "habitat": "南非草原、岩石坡(栽培)"
   },
   {
     "id": "crocosmia",
@@ -3883,7 +4021,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/109118/crocosmia-debutante/details",
       "https://kiefernursery.com/product/crocosmia-walberton-yellow/"
-    ]
+    ],
+    "habitat": "山坡草丛、溪边(南非)"
   },
   {
     "id": "oenothera_lindheimeri",
@@ -3910,7 +4049,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/386413/oenothera-lindheimeri-g/details",
       "https://api.provenwinners.com/plants/oenothera/stratosphere-white-butterfly-flower-oenothera-lindheimeri"
-    ]
+    ],
+    "habitat": "草原、路边、旱生坡地"
   },
   {
     "id": "sanguisorba",
@@ -3937,7 +4077,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/16403/sanguisorba-officinalis/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "草甸、河岸湿地"
   },
   {
     "id": "verbena",
@@ -3964,7 +4105,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/verbena",
       "https://cbmga.org/moss-verbena/"
-    ]
+    ],
+    "habitat": "草地、路边、荒地"
   },
   {
     "id": "betonica",
@@ -3991,7 +4133,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/124649/betonica-officinalis/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山地草甸、林缘"
   },
   {
     "id": "veronicastrum_virginicum",
@@ -4018,7 +4161,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287000",
       "https://plantfinder.nativeplanttrust.org/plant/Veronicastrum-virginicum"
-    ]
+    ],
+    "habitat": "湿润草地、林缘"
   },
   {
     "id": "salvia_yangii_blue_steel",
@@ -4045,7 +4189,8 @@
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/peat",
       "https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/perovskiaatriplicifolia.html"
-    ]
+    ],
+    "habitat": "旱生石质坡地、灌丛"
   },
   {
     "id": "achillea",
@@ -4072,7 +4217,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/93547/achillea-appleblossom/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "草甸、路边、山坡"
   },
   {
     "id": "helianthus",
@@ -4099,7 +4245,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/501580/helianthus-sunfinity-yellow-dark-centre-heiz0001-pbr-sunfinity-series/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "草原、路边、旱生坡地"
   },
   {
     "id": "allium_giganteum",
@@ -4126,7 +4273,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/829/allium-giganteum/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "干旱山坡、岩石草地"
   },
   {
     "id": "asclepias_tuberosa",
@@ -4153,7 +4301,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/43609/asclepias-tuberosa/details",
       "https://kiefernursery.com/product/asclepias-tuberosa/"
-    ]
+    ],
+    "habitat": "草原、旱生坡地(北美)"
   },
   {
     "id": "foeniculum",
@@ -4180,7 +4329,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/24472/foeniculum-vulgare/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生荒地、路边、海滨"
   },
   {
     "id": "thalictrum_ichangense",
@@ -4207,7 +4357,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/76382/thalictrum-ichangense/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿岩壁"
   },
   {
     "id": "rhapis_gracilis_burret",
@@ -4235,7 +4386,8 @@
       "https://baike.baidu.com/item/细棕竹",
       "https://www.tszwy.com.cn/m/product/html/?1056.html",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下湿润地"
   },
   {
     "id": "liriope_spicata_thunb_lour",
@@ -4262,7 +4414,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=a620",
       "https://depts.washington.edu/hortlib/pal/liriope-lawn-in-the-pacific-northwest/"
-    ]
+    ],
+    "habitat": "林下、山坡草地"
   },
   {
     "id": "yuccasmallianafern",
@@ -4289,7 +4442,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282017",
       "https://kiefernursery.com/product/yucca-filamentosa-color-guard/"
-    ]
+    ],
+    "habitat": "旱生沙砾地、岩坡"
   },
   {
     "id": "phormium_tenax",
@@ -4316,7 +4470,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/12791/phormium-tenax/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿地、溪边(新西兰)"
   },
   {
     "id": "agave_americana_l",
@@ -4343,7 +4498,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275719",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生岩坡、沙砾地"
   },
   {
     "id": "verbena_officinalis_l",
@@ -4370,7 +4526,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/18816/verbena-officinalis/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "路边、荒地、草丛"
   },
   {
     "id": "lysimachia",
@@ -4397,7 +4554,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/10632/lysimachia-nummularia/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、溪边湿润地"
   },
   {
     "id": "muehlenbeckia_complexa_meisn",
@@ -4425,7 +4583,8 @@
       "https://plantdatabase.kpu.ca/Plant/mucv",
       "https://www.provenwinners.com/plants/muehlenbeckia/big-leaf-creeping-wire-vine-muehlenbeckia-complexa",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "干旱石壁、林缘攀援(新西兰)"
   },
   {
     "id": "aloe_arborescens",
@@ -4452,7 +4611,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/923/aloe-arborescens/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生灌丛、岩坡(南非)"
   },
   {
     "id": "anemone_hupehensis_var_japonica",
@@ -4479,7 +4639,8 @@
     "sources": [
       "https://www.jungledragon.com/specie/13291/japanese_anemone",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、山坡草地"
   },
   {
     "id": "helleborus",
@@ -4506,7 +4667,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=271449",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿坡地"
   },
   {
     "id": "bletilla",
@@ -4533,7 +4695,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、湿润岩壁"
   },
   {
     "id": "disporum",
@@ -4560,7 +4723,8 @@
     "sources": [
       "https://plants.ces.ncsu.edu/plants/disporum/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿"
   },
   {
     "id": "ledebouria",
@@ -4587,7 +4751,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/75902/ledebouria-cooperi/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生草地、岩石地(南非)"
   },
   {
     "id": "symphytum",
@@ -4614,7 +4779,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/PlantPrint/syof",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、湿润草地"
   },
   {
     "id": "polygonatum_odoratum",
@@ -4641,7 +4807,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/13415/polygonatum-odoratum/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、灌丛"
   },
   {
     "id": "hosta",
@@ -4668,7 +4835,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=262330",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、溪边阴湿"
   },
   {
     "id": "astilbe",
@@ -4695,7 +4863,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260361",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、溪畔湿润"
   },
   {
     "id": "epimedium",
@@ -4722,7 +4891,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264472",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿岩石地"
   },
   {
     "id": "lamprocapnos_spectabilis",
@@ -4749,7 +4919,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/293049/lamprocapnos-spectabilis/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、湿润山地"
   },
   {
     "id": "dryopteris",
@@ -4776,7 +4947,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/dryopteris",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿岩石边"
   },
   {
     "id": "cibotium",
@@ -4803,7 +4975,8 @@
     "sources": [
       "https://en.wikipedia.org/wiki/Golden_chicken_fern",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "热带亚热带林下、湿润谷地"
   },
   {
     "id": "cyrtomium",
@@ -4830,7 +5003,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、岩石缝隙"
   },
   {
     "id": "osmunda",
@@ -4857,7 +5031,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285736",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、溪边阴湿(酸性)"
   },
   {
     "id": "arachniodes_simplicior_variegata",
@@ -4884,7 +5059,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/117923/arachniodes-simplicior/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下阴湿岩石地"
   },
   {
     "id": "pteris",
@@ -4911,7 +5087,8 @@
     "sources": [
       "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200003393",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、墙壁、干旱石缝"
   },
   {
     "id": "pteris_multifida",
@@ -4938,7 +5115,8 @@
     "sources": [
       "https://www.iplant.cn/z/frps/8140",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "墙缝、石壁、溪边"
   },
   {
     "id": "lepisorus_fortunei",
@@ -4993,7 +5171,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/5360/davallia-fejeensis/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "附生岩石/树干、岩壁"
   },
   {
     "id": "pleioblastus_fortunei",
@@ -5020,7 +5199,8 @@
     "sources": [
       "https://plants.ces.ncsu.edu/plants/pleioblastus-fortunei/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿坡地"
   },
   {
     "id": "aspidistra",
@@ -5047,7 +5227,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿"
   },
   {
     "id": "farfugium_japonicum",
@@ -5103,7 +5284,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下湿润地"
   },
   {
     "id": "carex",
@@ -5130,7 +5312,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿地、林下、水边"
   },
   {
     "id": "reineckea_carnea",
@@ -5157,7 +5340,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/55064/reineckea-carnea/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿沟谷"
   },
   {
     "id": "acorus_gramineus_ogon",
@@ -5185,7 +5369,8 @@
       "https://www.monrovia.com/dwarf-golden-sweet-flag.html",
       "https://www.onlineplantguide.com/plant-details/68/",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "水边、湿地、溪流旁"
   },
   {
     "id": "liriope_pure_blonde",
@@ -5212,7 +5397,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=a620",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、湿润地被"
   },
   {
     "id": "stipa_tenuissima_pony_tails",
@@ -5239,7 +5425,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/58857/stipa-tenuissima/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生草原、石质坡地"
   },
   {
     "id": "cortaderia_selloana_pumila",
@@ -5266,7 +5453,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/4431/cortaderia-selloana/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "河岸、湿地、疏林(南美)"
   },
   {
     "id": "deschampsia",
@@ -5293,7 +5481,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/5638/tufted-hair-grass/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿地草甸、林缘"
   },
   {
     "id": "miscanthus",
@@ -5320,7 +5509,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=250977",
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285333"
-    ]
+    ],
+    "habitat": "山坡、路旁、河岸"
   },
   {
     "id": "calamagrostis_acutiflora_karl_foerster",
@@ -5347,7 +5537,8 @@
     "sources": [
       "https://www.slcgardenwise.com/eplant.php?plantnum=24206",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿地草甸、林缘(欧亚)"
   },
   {
     "id": "juncus",
@@ -5375,7 +5566,8 @@
       "https://www.terranovanurseries.com/product/juncus-blonde-ambition/",
       "https://www.thompson-morgan.com/p/juncus-effusus-f-spiralis-marginal-aquatic/t78237TM",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿地、水边、沼泽"
   },
   {
     "id": "eragrostis",
@@ -5402,7 +5594,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285200",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "旱生草地、路旁"
   },
   {
     "id": "leucojum",
@@ -5429,7 +5622,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/10003/leucojum-aestivum/details",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "湿润草地、林缘"
   },
   {
     "id": "lilium",
@@ -5456,7 +5650,8 @@
     "sources": [
       "https://cornellbotanicgardens.org/plant/tiger-lily",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "山坡草地、林缘"
   },
   {
     "id": "iris_louisiana_black_gamecock",
@@ -5483,7 +5678,8 @@
     "sources": [
       "https://txmg.org/hendersonmg/plant-library/louisiana-iris/",
       "https://kiefernursery.com/product/iris-louisiana-heather-stream/"
-    ]
+    ],
+    "habitat": "湿地、水边"
   },
   {
     "id": "camassia_leichtlinii",
@@ -5510,7 +5706,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282043",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "潮湿草原、溪边(北美)"
   },
   {
     "id": "persicaria_capitata",
@@ -5538,7 +5735,8 @@
       "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242100091",
       "https://www.shootgardening.com/plants/persicaria-capitata",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、坡地草丛"
   },
   {
     "id": "glechoma_hederacea",
@@ -5565,7 +5763,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/glhe",
       "https://www.rhs.org.uk/plants/71551/glechoma-hederacea-variegata-v/details"
-    ]
+    ],
+    "habitat": "林下、湿草地、路边"
   },
   {
     "id": "saxifraga",
@@ -5591,7 +5790,8 @@
     "category": "地被",
     "sources": [
       "http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c251"
-    ]
+    ],
+    "habitat": "岩壁、石缝、阴湿"
   },
   {
     "id": "pratia_pedunculata",
@@ -5618,7 +5818,8 @@
     "sources": [
       "https://adelaideplantco.com.au/collections/australian-native-plants/products/pratia-pedunculata",
       "https://www.rhs.org.uk/plants/518932/lobelia-pedunculata-county-park/details"
-    ]
+    ],
+    "habitat": "溪边、阴湿草地"
   },
   {
     "id": "pachysandra_terminalis",
@@ -5645,7 +5846,8 @@
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/pate",
       "https://slcgardenwise.com/eplant.php?plantnum=437&return=s_p98&l1=8&l2=4&l3=1&l4=8"
-    ]
+    ],
+    "habitat": "林下、阴湿地被"
   },
   {
     "id": "lonicera_japonica",
@@ -5673,7 +5875,8 @@
       "https://plantdatabase.uconn.edu/detail.php?pid=262",
       "https://dplantdatabase.kpu.ca/Plant/loja",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、灌丛、攀援"
   },
   {
     "id": "clematis",
@@ -5700,7 +5903,8 @@
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、灌丛、攀援"
   },
   {
     "id": "ficus_pumila",
@@ -5728,7 +5932,8 @@
       "https://dplantdatabase.kpu.ca/Plant/fipu",
       "https://www.monrovia.com/shop/creeping-fig.html",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "岩壁、墙缝、林缘攀附"
   },
   {
     "id": "trachelospermum_jasminoides",
@@ -5786,7 +5991,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&isprofile=0&letter=H",
       "https://dplantdatabase.kpu.ca/Plant/hehe",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下、阴湿、攀援岩壁/树"
   },
   {
     "id": "wisteria",
@@ -5813,7 +6019,8 @@
     "sources": [
       "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=280632",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林缘、河边、攀援"
   },
   {
     "id": "saururus_chinensis",
@@ -5841,7 +6048,8 @@
       "https://easyscape.com/species/Saururus-chinensis(Asian-Lizard%E2%80%99s-Tail)",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "水边、湿地、溪流"
   },
   {
     "id": "lythrum_salicaria_f_alba",
@@ -5899,7 +6107,8 @@
       "https://pfaf.org/USER/Plant.aspx?LatinName=Iris+sanguinea",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "湿地、水边"
   },
   {
     "id": "lysimachia_candida",
@@ -5927,7 +6136,8 @@
       "https://wapbaike.baidu.com/item/泽珍珠菜/2567621",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "水田、湿地、沟边"
   },
   {
     "id": "vallisneria_nana",
@@ -5955,7 +6165,8 @@
       "https://pts.lifeasible.com/vallisneria-nana-gracilisnarrow-leaf-eelgrass-item-1020.html",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "沉水植被"
   },
   {
     "id": "ceratophyllum_demersum",
@@ -5983,7 +6194,8 @@
       "https://www.lilyblooms.com/hornwort-ceratophyllum-demersum-submerged-oxygenating-pond-plant/",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "沉水植被"
   },
   {
     "id": "sagittaria_sagittifolia",
@@ -6011,7 +6223,8 @@
       "https://www.thompson-morgan.com/p/sagittaria-sagittifolia-marginal-aquatic/wkh4754TM",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "水田、浅水湿地"
   },
   {
     "id": "alisma_plantago_aquatica",
@@ -6039,7 +6252,8 @@
       "https://www.thompson-morgan.com/p/alisma-plantagoaquatica-marginal-aquatic/T78076TM",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "水边、浅水、湿地"
   },
   {
     "id": "fraxinus_bungeana",
@@ -6066,7 +6280,8 @@
       "https://en.paperblog.com/plant-of-the-week-fraxinus-bungeana-566629/",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、石灰岩山地"
   },
   {
     "id": "camellia_trichoclada",
@@ -6093,7 +6308,8 @@
       "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242310271",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林缘、山坡灌丛"
   },
   {
     "id": "viburnum_taitoense",
@@ -6120,7 +6336,8 @@
       "https://www.worldfloraonline.org/taxon/wfo-0001291121",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、山谷灌丛"
   },
   {
     "id": "kerria_japonica",
@@ -6147,7 +6364,8 @@
       "https://dawesarb.arboretumexplorer.org/taxon-18996.aspx",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "溪边、林缘湿润灌丛"
   },
   {
     "id": "rhododendron_simsii",
@@ -6174,7 +6392,8 @@
       "https://www.rhs.org.uk/plants/15682/rhododendron-simsii-ea/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡灌丛、林缘(酸性土)"
   },
   {
     "id": "callicarpa_dichotoma",
@@ -6201,7 +6420,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287487&isprofile=0&bt=7",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡路边灌丛、林缘"
   },
   {
     "id": "corylopsis_sinensis",
@@ -6228,7 +6448,8 @@
       "https://www.rhs.org.uk/plants/92278/corylopsis-sinensis-var-sinensis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林缘、湿润灌丛"
   },
   {
     "id": "spiraea_japonica",
@@ -6255,7 +6476,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286473",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、林缘草丛"
   },
   {
     "id": "hydrangea_quercifolia",
@@ -6282,7 +6504,8 @@
       "https://plantfinder.nativeplanttrust.org/plant/Hydrangea-quercifolia",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林地、山坡(酸性湿润)"
   },
   {
     "id": "philadelphus_coronarius",
@@ -6309,7 +6532,8 @@
       "https://www.rhs.org.uk/plants/92563/philadelphus-coronarius/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林缘、灌丛"
   },
   {
     "id": "enkianthus_campanulatus",
@@ -6336,7 +6560,8 @@
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=390",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、湿润灌丛(酸性土)"
   },
   {
     "id": "vaccinium_corymbosum",
@@ -6363,7 +6588,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279992",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "沼泽、酸性湿地灌丛"
   },
   {
     "id": "euonymus_phellomanus",
@@ -6390,7 +6616,8 @@
       "https://www.rhs.org.uk/plants/7014/euonymus-phellomanus/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡灌丛、沟谷"
   },
   {
     "id": "itea_ilicifolia",
@@ -6417,7 +6644,8 @@
       "https://www.rhs.org.uk/plants/9420/itea-ilicifolia/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林缘、湿润灌丛"
   },
   {
     "id": "lonicera_fragrantissima",
@@ -6444,7 +6672,8 @@
       "https://www.rhs.org.uk/plants/68665/lonicera-fragrantissima/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡灌丛、林缘"
   },
   {
     "id": "ligustrum_lucidum",
@@ -6471,7 +6700,8 @@
       "http://plants.pikenursery.com/12291001/Results/Index/133?Cattree=True&senderAll=Trees",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "四旁、丘陵灌丛"
   },
   {
     "id": "amelanchier_laevis",
@@ -6498,7 +6728,8 @@
       "http://plants.oaklandnursery.com/12130001/Results/Index/13?Cattrde=True&senderAll=Deciduous%2bTrees",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林缘、石质坡地"
   },
   {
     "id": "hamamelis_mollis",
@@ -6525,7 +6756,8 @@
       "https://www.rhs.org.uk/plants/8246/hamamelis-mollis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡灌丛、林缘"
   },
   {
     "id": "anemone_hybrida",
@@ -6552,7 +6784,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=e135",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "湿润林地、溪边"
   },
   {
     "id": "thalictrum_delavayi",
@@ -6579,7 +6812,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286295",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山地草丛、林缘"
   },
   {
     "id": "cyrtomium_falcatum",
@@ -6606,7 +6840,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "海岸岩壁、林下"
   },
   {
     "id": "dryopteris_erythrosora",
@@ -6633,7 +6868,8 @@
       "https://www.rhs.org.uk/plants/25899/dryopteris-erythrosora/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下湿润酸性土"
   },
   {
     "id": "macrothelypteris_oligophlebia",
@@ -6660,7 +6896,8 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200004030",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、溪边阴湿"
   },
   {
     "id": "dryopteris_tokyoensis",
@@ -6687,7 +6924,8 @@
       "https://www.rhs.org.uk/plants/69247/dryopteris-tokyoensis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下阴湿"
   },
   {
     "id": "pteris_nipponica",
@@ -6714,7 +6952,8 @@
       "https://www.rhs.org.uk/plants/240129/pteris-nipponica/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下阴湿、岩壁"
   },
   {
     "id": "scutellaria_indica",
@@ -6741,7 +6980,8 @@
       "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200020320",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、路边草丛"
   },
   {
     "id": "fritillaria_thunbergii",
@@ -6768,7 +7008,8 @@
       "https://www.rhs.org.uk/plants/24174/fritillaria-thunbergii/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、山坡草丛"
   },
   {
     "id": "tricyrtis_formosana",
@@ -6795,7 +7036,8 @@
       "https://www.rhs.org.uk/plants/18350/tricyrtis-formosana/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、溪边阴湿"
   },
   {
     "id": "disporopsis_aspersa",
@@ -6822,7 +7064,8 @@
       "https://www.rhs.org.uk/plants/219228/disporopsis-aspersa/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下阴湿岩石地"
   },
   {
     "id": "iris_ensata",
@@ -6849,7 +7092,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281083",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "水边、湿地"
   },
   {
     "id": "patrinia_villosa",
@@ -6876,7 +7120,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287439",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、路边草丛"
   },
   {
     "id": "campanula_punctata",
@@ -6903,7 +7148,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=278821",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山地草丛、林缘"
   },
   {
     "id": "asarum_splendens",
@@ -6930,7 +7176,8 @@
       "https://www.rhs.org.uk/plants/107239/asarum-splendens/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、阴湿岩壁"
   },
   {
     "id": "dianthus_superbus",
@@ -6957,7 +7204,8 @@
       "https://en.wikipedia.org/wiki/Dianthus_superbus",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡草地、林缘"
   },
   {
     "id": "lilium_lancifolium",
@@ -6984,7 +7232,8 @@
       "https://cornellbotanicgardens.org/plant/tiger-lily",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、林缘草丛"
   },
   {
     "id": "viburnum_macrocephalum",
@@ -7011,7 +7260,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=d583",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林缘、溪边灌丛"
   },
   {
     "id": "cercis_canadensis",
@@ -7038,7 +7288,8 @@
       "https://si.gardenexplorer.org/taxon-1242.aspx",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林缘、山坡疏林"
   },
   {
     "id": "pavonia_hastata",
@@ -7065,7 +7316,8 @@
       "https://friendsofmercer.com/Pavonia-hastata--Spearleaf-Swamp-Mallow-P_p_5679.html",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "旱生灌丛、石质草地"
   },
   {
     "id": "narcissus",
@@ -7092,7 +7344,8 @@
       "https://fresnogardening.org/eplant.php?plantnum=1630",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "湿润草地、林下"
   },
   {
     "id": "melianthus_major",
@@ -7119,7 +7372,8 @@
       "https://www.rhs.org.uk/plants/84304/melianthus-major/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "南非旱生灌丛(栽培)"
   },
   {
     "id": "acer_buergerianum",
@@ -7146,7 +7400,8 @@
       "https://kiefernursery.com/product/acer-buergerianum/",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、溪谷疏林"
   },
   {
     "id": "cornus_controversa",
@@ -7173,7 +7428,8 @@
       "https://plants.squakmtnursery.com/12230001/Plant/6195/Giant_Dogwood",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山谷湿润林地"
   },
   {
     "id": "ternstroemia_gymnanthera",
@@ -7200,7 +7456,8 @@
       "https://landscapeplants.oregonstate.edu/plants/ternstroemia-gymnanthera",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、湿润缓坡"
   },
   {
     "id": "aucuba_japonica",
@@ -7227,7 +7484,8 @@
       "https://www.rhs.org.uk/plants/148757/aucuba-japonica/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、阴湿山谷"
   },
   {
     "id": "fatsia_japonica",
@@ -7254,7 +7512,8 @@
       "https://www.rhs.org.uk/plants/7147/fatsia-japonica/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "海岸林下、阴湿溪边"
   },
   {
     "id": "aspidistra_elatior",
@@ -7281,7 +7540,8 @@
       "https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、阴湿溪谷"
   },
   {
     "id": "hakonechloa_macra",
@@ -7308,7 +7568,8 @@
       "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下阴湿、溪边"
   },
   {
     "id": "bletilla_striata",
@@ -7335,7 +7596,8 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、山坡湿润地"
   },
   {
     "id": "saxifraga_stolonifera",
@@ -7362,7 +7624,8 @@
       "https://www.rhs.org.uk/plants/98506/saxifraga-stolonifera-5/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "阴湿岩壁、林下石缝"
   },
   {
     "id": "helleborus_thibetanus",
@@ -7389,7 +7652,8 @@
       "https://www.rhs.org.uk/plants/24575/helleborus-thibetanus/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、石灰岩山地阴湿"
   },
   {
     "id": "epimedium_sagittatum",
@@ -7416,7 +7680,8 @@
       "https://www.onlineplantguide.com/plant-details/3780",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、阴湿灌丛"
   },
   {
     "id": "disporum_cantoniense",
@@ -7443,7 +7708,8 @@
       "https://www.rhs.org.uk/plants/5982/disporum-cantoniense/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、溪边阴湿"
   },
   {
     "id": "ajuga_decumbens",
@@ -7470,7 +7736,8 @@
       "https://en.wikipedia.org/wiki/Ajuga_decumbens",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、沟边湿润"
   },
   {
     "id": "carex_oshimensis",
@@ -7497,7 +7764,8 @@
       "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、湿润草地"
   },
   {
     "id": "typha_minima",
@@ -7524,7 +7792,8 @@
       "https://stage.gardenia.net/plant/typha-minima",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "水体浅滩、湿地"
   },
   {
     "id": "mahonia_eurybracteata_subsp_ganpinensis",
@@ -7551,7 +7820,8 @@
       "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250096504",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、石灰岩山地灌丛"
   },
   {
     "id": "carex_lingii",
@@ -7578,7 +7848,8 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250095526",
       "https://plantfinder.mobot.org/"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下湿润地"
   },
   {
     "id": "crataegus_viridis",
@@ -7604,7 +7875,8 @@
     "sources": [
       "http://www.isenlin.cn/sf_31FE123F3D1546C3893C4AA6FC987826_209_A952252C215.html"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "河岸、低地湿润林地"
   },
   {
     "id": "hypericum_densiflorum",
@@ -7630,7 +7902,8 @@
     "sources": [
       "https://shflora.ibiodiversity.cn/pages/Hypericum_densiflorum.html"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "湿润林地、溪边灌丛"
   },
   {
     "id": "aloysia_chamaedryfolia",
@@ -7656,7 +7929,8 @@
     "sources": [
       "https://ppbc.iplant.cn/24408/usersp/300129"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "亚热带灌丛、石灰岩坡地"
   },
   {
     "id": "ceratostigma_willmottianum",
@@ -7710,7 +7984,8 @@
     "sources": [
       "https://www.flower-db.com/zh/flowers/eupatorium-hagoromo"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "林下、湿润草地、山谷"
   },
   {
     "id": "aster_ericoides",
@@ -7736,7 +8011,8 @@
     "sources": [
       "http://www.isenlin.cn/sf_FBEFC4B25F1C430FA57CCF1B366F00CA_209_A952252C215.html"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "草原、旱生坡地(北美)"
   },
   {
     "id": "patrinia_scabiosifolia",
@@ -7760,7 +8036,8 @@
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡草地、林缘"
   },
   {
     "id": "panicum_virgatum",
@@ -7784,7 +8061,8 @@
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "草原、路边旱生地(北美)"
   },
   {
     "id": "neyraudia_montana",
@@ -7810,7 +8088,8 @@
     "sources": [
       "http://www.iplant.cn/z/frps/17115"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、路旁草丛"
   },
   {
     "id": "verbena_bonariensis",
@@ -7836,7 +8115,8 @@
     "sources": [
       "http://shidicn.isenlin.cn/sf_F7135F619AEC44E0B83CE70F52F2E096_151_66E3D680754.html"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "低海拔草地、河岸、老耕地、路边"
   },
   {
     "id": "rudbeckia_triloba",
@@ -7862,7 +8142,8 @@
     "sources": [
       "https://www.flower-db.com/zh/flowers/rudbeckia-triloba-l"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "湿地草甸、林缘(北美)"
   },
   {
     "id": "melinis_nerviglumis",
@@ -7888,7 +8169,8 @@
     "sources": [
       "http://hnfbg.cn/yndt/4881.html"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "热带草原(非洲)"
   },
   {
     "id": "juniperus_procumbens",
@@ -7912,7 +8194,8 @@
     "genusOnly": false,
     "category": "地被",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡石质草地、旱生坡地"
   },
   {
     "id": "thymus_serpyllum",
@@ -7936,7 +8219,8 @@
     "genusOnly": false,
     "category": "地被",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "干旱石坡、旱生草地"
   },
   {
     "id": "nepeta_faassenii",
@@ -7960,7 +8244,8 @@
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "旱生荒坡、石质草地"
   },
   {
     "id": "allium_triquetrum",
@@ -7984,7 +8269,8 @@
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "湿润林地、草丛(欧洲)"
   },
   {
     "id": "deutzia_gracilis",
@@ -8008,7 +8294,8 @@
     "genusOnly": false,
     "category": "灌木",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "山坡、溪边灌丛"
   },
   {
     "id": "ricinus_communis",
@@ -8032,7 +8319,8 @@
     "genusOnly": false,
     "category": "灌木",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "热带旱生坡地、荒地(栽培)"
   },
   {
     "id": "sisyrinchium_angustifolium",
@@ -8056,7 +8344,8 @@
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "湿润草地、水边"
   },
   {
     "id": "salvia_greggii",
@@ -8082,7 +8371,8 @@
     "sources": [
       "https://baike.baidu.com/item/樱桃鼠尾草/19867827"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "旱生坡地、岩石地(北美)"
   },
   {
     "id": "helianthus_maximiliani",
@@ -8108,7 +8398,8 @@
     "sources": [
       "https://baike.baidu.com/item/糙叶向日葵/8845751"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "草原、路边(北美)"
   },
   {
     "id": "jamesbrittenia",
@@ -8132,7 +8423,8 @@
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "南非旱生灌丛(栽培)"
   },
   {
     "id": "rhagodia_spinescens",
@@ -8183,7 +8475,8 @@
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [],
-    "tags": []
+    "tags": [],
+    "habitat": "热带旱生坡地、荒地"
   },
   {
     "id": "telosma_cordata",
