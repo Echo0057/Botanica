@@ -1823,7 +1823,7 @@
       "http://plants.pikenursery.com/12291001/Plant/26150/",
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250096369"
     ],
-    "habitat": "山坡、丘陵、山谷或田野,溪边灌丛或林中;海拔0-1500m"
+    "habitat": "山坡、丘陵、山谷或田野,溪边灌丛或林中"
   },
   {
     "id": "pittosporum",
@@ -3585,7 +3585,7 @@
       "https://www.rhs.org.uk/plants/97590/artemisia-schmidtiana/details",
       "https://c3.provenwinners.com/plants/artemisia/silver-mound-wormwood-artemisia-schmidtiana-0"
     ],
-    "habitat": "高山岩石缝、砾石坡地;高海拔"
+    "habitat": "高山岩石缝、砾石坡地"
   },
   {
     "id": "tagetes_lemmonii",
@@ -4966,7 +4966,7 @@
       "https://www.iplant.cn/bk/894C86B6F3942783",
       "https://plantfinder.mobot.org/"
     ],
-    "habitat": "林下溪边岩石上或树干附生;海拔300-1800m"
+    "habitat": "林下溪边岩石上或树干附生"
   },
   {
     "id": "davallia",
@@ -5076,7 +5076,7 @@
       "https://plantfinder.mobot.org/",
       "https://pfaf.org/user/Plant.aspx?LatinName=Farfugium+japonicum"
     ],
-    "habitat": "林下阴湿、山谷草丛、溪边石崖下;低海拔"
+    "habitat": "林下阴湿、山谷草丛、溪边石崖下"
   },
   {
     "id": "hakonechloa",
@@ -5758,7 +5758,7 @@
       "https://plantfinder.mobot.org/",
       "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200018484"
     ],
-    "habitat": "向阳林缘、灌丛,常攀援树木、岩壁、墙壁;海拔200-1300m"
+    "habitat": "向阳林缘、灌丛,常攀援树木、岩壁、墙壁"
   },
   {
     "id": "hedera_helix",
@@ -5871,7 +5871,7 @@
       "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200014658"
     ],
     "tags": [],
-    "habitat": "水边湿地、沼泽、沟渠、湖岸,常成片;海拔0-2200m"
+    "habitat": "水边湿地、沼泽、沟渠、湖岸,常成片"
   },
   {
     "id": "iris_sanguinea",
@@ -7684,7 +7684,7 @@
       "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017492"
     ],
     "tags": [],
-    "habitat": "暖河谷林缘灌丛(干热河谷);海拔700-3500m"
+    "habitat": "干热河谷林缘灌丛"
   },
   {
     "id": "eupatorium_japonicum",

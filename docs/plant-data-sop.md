@@ -62,7 +62,7 @@
   "flowerColor": "白",
   "bloomSeason": "夏",
   "leafForm": "卵形叶",
-  "habitat": "林下阴湿、溪边石崖下;低海拔",
+  "habitat": "林下阴湿、溪边石崖下",
   "notes": "一句话特性描述。",
   "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?..."]
 }
@@ -151,7 +151,7 @@ npm run import:plants
 | `water` | 否 | `dry` / `wet` |
 | `flowerColor` / `bloomSeason` | 否 | 花色 / 花期(如 `夏`) |
 | `leafForm` | 否 | 叶形/形态,如 `剑形叶` |
-| `habitat` | 否 | 生态型生境描述(如「干热河谷林缘灌丛」「海拔1000m林下」「岩壁」),**不含地区/国家** |
+| `habitat` | 否 | 生态型微生境描述(如「干热河谷林缘灌丛」「林下」「岩壁」「贫瘠盐碱地」),**不含海拔、地区/国家** |
 | `notes` | 否 | 一句话特性(映射到 `rawNotes`) |
 | `sources` | 否 | 来源 URL 数组 |
 | `tags` | 否 | 自定义标签数组 |
