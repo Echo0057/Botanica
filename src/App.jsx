@@ -43,10 +43,6 @@ export default function App() {
           className="flex h-[calc(100vh-2rem)] flex-col overflow-hidden rounded-xl border border-stone-200 bg-white shadow-sm"
         >
           <div className="border-b border-stone-200 bg-stone-50/60">
-            <div className="flex items-center gap-2 px-4 pt-4">
-              <img src="/favicon.svg" alt="" className="h-4 w-4" />
-              <span className="text-sm font-semibold text-green-800">Botanica</span>
-            </div>
             <FilterBar
               query={query}
               onQuery={setQuery}
