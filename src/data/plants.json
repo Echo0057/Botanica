@@ -1126,34 +1126,6 @@
     "habitat": "旱生坡地、沙砾地"
   },
   {
-    "id": "plant_44",
-    "chineseName": "芒",
-    "latinName": "Miscanthus sinensis",
-    "genus": "芒属",
-    "family": "禾本科",
-    "aliases": "拉手笼·纤细芒·细叶芒草·细叶芒",
-    "evergreen": "deciduous",
-    "height": "1.5-2.5",
-    "spread": "1.2-2",
-    "sun": "full sun",
-    "water": "medium",
-    "bloomSeason": "秋",
-    "flowerColor": "银白",
-    "seasonOfInterest": null,
-    "leafForm": "线形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=250977",
-      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285333"
-    ],
-    "habitat": "山坡、河岸、路旁、撂荒地"
-  },
-  {
     "id": "plant_45",
     "chineseName": "熊猫堇",
     "latinName": "Viola banksii",
@@ -7476,35 +7448,6 @@
     ],
     "tags": [],
     "habitat": "阴湿林下灌丛"
-  },
-  {
-    "id": "hakonechloa_macra",
-    "chineseName": "箱根草",
-    "latinName": "Hakonechloa macra",
-    "genus": "箱根草属",
-    "family": "禾本科",
-    "aliases": "细叶箱根草",
-    "evergreen": "deciduous",
-    "height": "0.2-0.5",
-    "spread": "0.3-0.5",
-    "sun": "part shade to shade",
-    "water": "medium",
-    "bloomSeason": null,
-    "flowerColor": null,
-    "seasonOfInterest": null,
-    "leafForm": "弧形线形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "tags": [],
-    "habitat": "林下阴湿、溪边",
-    "leafColor": "全年金边"
   },
   {
     "id": "bletilla_striata",
