@@ -34,3 +34,23 @@ export const BLOOM_SEASONS = [
 // 格式校验正则
 export const HARDINESS_RE = /^\d{1,2}(\s*[-–—]\s*\d{1,2})?$/;
 export const SIZE_RE = /^\d+(\.\d+)?(\s*[-–—]\s*\d+(\.\d+)?)?$/;
+
+// 解析耐寒区("5-9" / "9-10" / "8")
+export function hardinessRange(hz) {
+  const s = String(hz ?? '').trim();
+  const m = s.match(/(\d{1,2})\s*[-–—]\s*(\d{1,2})/);
+  if (m) return { min: +m[1], max: +m[2] };
+  const one = s.match(/^\d{1,2}$/);
+  if (one) return { min: +one[0], max: +one[0] };
+  return null;
+}
+
+// 上海适温评估(基于 USDA 耐寒区;据近年冬季实测,市区≈9a,郊区/崇明≈8b,寒潮可到~-9℃)
+export function hardinessSuitability(hz) {
+  const r = hardinessRange(hz);
+  if (!r) return { level: null, reason: '耐寒区缺失/无法解析,请人工判断' };
+  if (r.max < 7) return { level: 'warn', reason: `耐寒上限 ${r.max} 区,忌酷热/湿热,上海夏季难养` };
+  if (r.min > 9) return { level: 'alert', reason: `耐寒下限 ${r.min} 区(仅10区及以上),上海冬季寒潮(郊区可达-9℃)易冻死,不建议露天` };
+  if (r.min === 9) return { level: 'warn', reason: `耐寒下限 9 区,寒潮年(如2025年2月郊区-9℃)可能冻伤,建议避风/保护` };
+  return { level: 'ok', reason: '可正常过冬' };
+}

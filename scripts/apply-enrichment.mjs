@@ -12,7 +12,7 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
 import { resolve, dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { canonicalFamily, canonicalGenus } from '../src/data/taxonomy-cn.js';
+import { canonicalFamily, canonicalGenus, hardinessSuitability } from '../src/data/taxonomy-cn.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -93,6 +93,16 @@ for (const file of files) {
         if (!cur.includes(s)) cur.push(s);
       }
       plant.sources = cur;
+    }
+
+    // 只对本次新写入的耐寒区做上海适温提醒(避免对既有数据重复轰炸)
+    if (Object.prototype.hasOwnProperty.call(merged, 'hardinessZone')) {
+      const s = hardinessSuitability(merged.hardinessZone);
+      if (s.level === 'alert' || s.level === 'warn') {
+        console.warn(
+          `⚠️ [上海耐寒提醒] ${plant.chineseName}(${plant.latinName}) 耐寒区 ${merged.hardinessZone} · ${s.reason}`
+        );
+      }
     }
 
     applied++;

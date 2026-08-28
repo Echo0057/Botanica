@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 import {
   SUN_VALUES, WATER_VALUES, EVERGREEN_VALUES, BLOOM_SEASONS,
   FAMILY_VARIANTS, GENUS_VARIANTS, HARDINESS_RE, SIZE_RE,
+  hardinessSuitability,
 } from '../src/data/taxonomy-cn.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -14,6 +15,7 @@ const plants = JSON.parse(
 );
 
 const errors = [];
+const warnings = [];
 const norm = (s) => (s || '').toLowerCase();
 const latinGenus = (ln) => norm(String(ln || '').trim().split(/\s+/)[0] || '');
 const uniq = (set) => [...set].filter(Boolean).sort();
@@ -79,6 +81,16 @@ for (const p of plants) {
   }
 }
 
+// 6) 上海适温评估(非阻断,仅提示;用于排查耐寒偏弱的植物)
+for (const p of plants) {
+  if (p.hardinessZone) {
+    const s = hardinessSuitability(p.hardinessZone);
+    if (s.level === 'alert' || s.level === 'warn') {
+      warnings.push(`${p.chineseName}(${p.latinName}) 耐寒区 ${p.hardinessZone} · ${s.reason}`);
+    }
+  }
+}
+
 if (errors.length) {
   console.error(`[validate] 发现 ${errors.length} 处问题:`);
   for (const e of errors) console.error('  ✗ ' + e);
@@ -88,3 +100,7 @@ if (errors.length) {
 console.log(
   `[validate] OK · ${plants.length} 条,科/属一致性、字段白名单、格式校验全部通过。`
 );
+if (warnings.length) {
+  console.warn(`[validate] ⚠️ 上海耐寒提醒 ${warnings.length} 条(不阻断):`);
+  for (const w of warnings) console.warn('  ⚠️ ' + w);
+}

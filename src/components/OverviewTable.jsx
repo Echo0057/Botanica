@@ -11,7 +11,6 @@ const COLUMNS = [
   { key: 'bloom', label: '花色·花期' },
   { key: 'sun', label: '日照' },
   { key: 'water', label: '水分' },
-  { key: 'hardinessZone', label: '耐寒区' },
 ];
 
 const dash = '—';
@@ -49,8 +48,6 @@ function value(p, key) {
       return label(WATER_LABELS, p.water) || dash;
     case 'evergreen':
       return label(EVERGREEN_LABELS, p.evergreen) || dash;
-    case 'hardinessZone':
-      return cell(p.hardinessZone);
     default:
       return dash;
   }
