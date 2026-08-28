@@ -475,7 +475,7 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281892",
       "https://shuncy.com/plant-finder/plant/2473/red-hot-poker"
     ],
-    "habitat": "南非高山草甸、沼泽边(栽培)"
+    "habitat": "南非高山草甸、沼泽边"
   },
   {
     "id": "plant_20",
@@ -2319,7 +2319,7 @@
       "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila",
       "https://plantfinder.mobot.org/"
     ],
-    "habitat": "山坡、河谷果园(栽培)"
+    "habitat": "河谷疏林、林缘"
   },
   {
     "id": "metasequoia",
@@ -2752,7 +2752,7 @@
       "https://dplantdatabase.kpu.ca/Plant/maso",
       "https://plantfinder.mobot.org/"
     ],
-    "habitat": "林缘润土(栽培)"
+    "habitat": "林缘、山谷湿润地"
   },
   {
     "id": "chimonanthus",
@@ -2810,7 +2810,7 @@
       "https://mortonarb.org/plant-and-protect/trees-and-plants/common-fig/",
       "https://plantfinder.mobot.org/"
     ],
-    "habitat": "旱生、石灰岩山坡、栽培"
+    "habitat": "旱生、石灰岩山坡"
   },
   {
     "id": "spiraea_cantoniensis",
@@ -3770,7 +3770,7 @@
       "https://www.rhs.org.uk/plants/1298/i-anisodontea-capensis-i/details",
       "https://plantfinder.mobot.org/"
     ],
-    "habitat": "非洲南部旱生灌木(栽培)"
+    "habitat": "非洲南部旱生灌丛"
   },
   {
     "id": "callirhoe_involucrata",
@@ -3994,7 +3994,7 @@
       "https://www.rhs.org.uk/plants/agapanthus",
       "https://kiefernursery.com/product/agapanthus-comptonii-headbourne-hybrids/"
     ],
-    "habitat": "南非草原、岩石坡(栽培)"
+    "habitat": "南非草原、岩石坡"
   },
   {
     "id": "crocosmia",
@@ -6698,10 +6698,11 @@
     "category": "常绿乔木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Results/Index/133?Cattree=True&senderAll=Trees",
-      "https://plantfinder.mobot.org/"
+      "https://plantfinder.mobot.org/",
+      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017794"
     ],
     "tags": [],
-    "habitat": "四旁、丘陵灌丛"
+    "habitat": "疏林、密林、林缘、山谷灌丛"
   },
   {
     "id": "amelanchier_laevis",
@@ -7373,7 +7374,7 @@
       "https://plantfinder.mobot.org/"
     ],
     "tags": [],
-    "habitat": "南非旱生灌丛(栽培)"
+    "habitat": "南非旱生灌丛"
   },
   {
     "id": "acer_buergerianum",
@@ -8320,7 +8321,7 @@
     "category": "灌木",
     "sources": [],
     "tags": [],
-    "habitat": "热带旱生坡地、荒地(栽培)"
+    "habitat": "热带旱生坡地、荒地"
   },
   {
     "id": "sisyrinchium_angustifolium",
@@ -8424,7 +8425,7 @@
     "category": "宿根草本",
     "sources": [],
     "tags": [],
-    "habitat": "南非旱生灌丛(栽培)"
+    "habitat": "南非旱生灌丛"
   },
   {
     "id": "rhagodia_spinescens",
