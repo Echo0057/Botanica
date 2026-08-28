@@ -9,6 +9,7 @@ import {
   hardinessSuitability,
 } from '../src/data/taxonomy-cn.js';
 import { CULTIVAR_ALIASES } from './cultivar-names.js';
+import { habitatIssues } from './habitat-rules.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const plants = JSON.parse(
@@ -113,6 +114,13 @@ for (const p of plants) {
   if (!p.aliases) continue;
   const bad = String(p.aliases).split('·').map((s) => s.trim()).filter((s) => CULTIVAR_SET.has(s));
   if (bad.length) warnings.push(`${p.chineseName} 别名含品种名: ${bad.join(' / ')}`);
+}
+
+// 9) 政策:生境只收生态型微生境,不含海拔/地区/国家/括号/栽植用词
+for (const p of plants) {
+  if (p.habitat == null && p.habitat !== '') continue;
+  const bad = habitatIssues(p.habitat);
+  if (bad.length) errors.push(`${p.chineseName} 生境不合规: ${bad.join(' / ')} -> "${p.habitat}"`);
 }
 
 if (errors.length) {

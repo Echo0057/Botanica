@@ -6,6 +6,7 @@ import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { categoryOf, PLANT_CATEGORIES } from '../src/data/layers.js';
 import { stripCultivarAliases } from './cultivar-names.js';
+import { habitatIssues } from './habitat-rules.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -87,6 +88,10 @@ for (const entry of additional) {
   const { name, aliasParts } = splitNameAlias((entry.chineseName || '').trim());
   if (!name) {
     errors.push('有一条清单记录缺少 chineseName');
+    continue;
+  }
+  if (habitatIssues(entry.habitat).length) {
+    errors.push(`「${name}」的生境不合规: ${habitatIssues(entry.habitat).join(' / ')}`);
     continue;
   }
   const cat = (entry.category || '').trim();

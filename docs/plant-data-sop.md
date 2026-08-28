@@ -166,3 +166,4 @@ npm run import:plants
 - 只有「属」、整属可用 → `genusOnly: true`(仅作为数据标记,界面不再显示「整属可用」标签)。
 - 富集字段没有把握就留 `null`,宁可少不要错。
 - 分类以显式 `category` 为准(`categoryOf` 只读该字段)。
+- **生境规范(硬性)**:`habitat` 只写生态型微生境(如「干热河谷林缘灌丛」「林下」「岩壁」「湿地」),**不得**包含海拔、地区/国家、括号,或栽植语境词(四旁/栽培/果园等)。`npm run validate` 会拦截(`scripts/habitat-rules.js`);`import:plants` 对非法生境直接中止。
