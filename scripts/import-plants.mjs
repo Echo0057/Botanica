@@ -127,6 +127,7 @@ for (const entry of additional) {
     bloomSeason: entry.bloomSeason ?? null,
     flowerColor: entry.flowerColor ?? null,
     seasonOfInterest: entry.seasonOfInterest ?? null,
+    leafColor: entry.leafColor ?? null,
     leafForm: entry.leafForm ?? null,
     persistence: entry.persistence ?? null,
     hardinessZone: entry.hardinessZone ?? null,

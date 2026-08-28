@@ -122,6 +122,14 @@ for (const p of plants) {
   if (bad.length) warnings.push(`${p.chineseName} 别名含品种名: ${bad.join(' / ')}`);
 }
 
+// 8.5) 政策:彩叶(leafColor)可选;若非空应为彩色/秋色描述,不应写「常绿/纯绿/绿叶」等非彩叶词
+const NON_COLOR_LEAF = ['常绿', '纯绿', '绿叶', '绿色复叶', '蓝绿色', '细线叶'];
+for (const p of plants) {
+  if (!p.leafColor) continue;
+  const hit = NON_COLOR_LEAF.find((w) => p.leafColor.includes(w));
+  if (hit) warnings.push(`${p.chineseName} 彩叶字段疑似非彩叶(含「${hit}」): "${p.leafColor}"`);
+}
+
 // 9) 政策:生境只收生态型微生境,不含海拔/地区/国家/括号/栽植用词
 for (const p of plants) {
   if (p.habitat == null && p.habitat !== '') continue;

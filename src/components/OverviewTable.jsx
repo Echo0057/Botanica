@@ -9,6 +9,7 @@ const COLUMNS = [
   { key: 'leaf', label: '叶/形态' },
   { key: 'evergreen', label: '常绿/落叶' },
   { key: 'bloom', label: '花色·花期' },
+  { key: 'leafColor', label: '彩叶' },
   { key: 'sun', label: '日照' },
   { key: 'water', label: '水分' },
 ];
@@ -42,6 +43,8 @@ function value(p, key) {
       return cell(p.leafForm);
     case 'bloom':
       return bloom(p);
+    case 'leafColor':
+      return cell(p.leafColor);
     case 'sun':
       return label(SUN_LABELS, p.sun) || dash;
     case 'water':

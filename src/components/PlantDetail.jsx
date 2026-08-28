@@ -21,6 +21,7 @@ export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, h
     ['叶/形态', plant.leafForm],
     ['常绿/落叶', label(EVERGREEN_LABELS, plant.evergreen)],
     ['花色·花期', bloom(plant)],
+    ['彩叶', plant.leafColor],
     ['日照', label(SUN_LABELS, plant.sun)],
     ['水分', label(WATER_LABELS, plant.water)],
     ['生境', plant.habitat],

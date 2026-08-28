@@ -52,6 +52,7 @@ function searchable(p) {
     water,
     ever,
     bloom,
+    p.leafColor,
     p.leafForm,
     p.habitat,
     p.seasonOfInterest,
