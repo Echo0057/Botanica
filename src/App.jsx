@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useLayoutEffect, useState } from 'react';
 import plantsData from './data/plants.json';
 import FilterBar from './components/FilterBar.jsx';
 import PlantDetail from './components/PlantDetail.jsx';
@@ -10,6 +10,18 @@ export default function App() {
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState(PLANT_CATEGORIES[0]);
   const [selectedId, setSelectedId] = useState(null);
+  const filterRef = useRef(null);
+
+  useLayoutEffect(() => {
+    const el = filterRef.current;
+    if (!el) return;
+    const set = () => {
+      document.documentElement.style.setProperty('--filterbar-h', `${el.offsetHeight}px`);
+    };
+    set();
+    window.addEventListener('resize', set);
+    return () => window.removeEventListener('resize', set);
+  }, []);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -38,22 +50,32 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-stone-50 text-stone-800">
-      <header className="border-b border-stone-200 bg-white">
-        <div className="mx-auto max-w-6xl px-4 py-6">
-          <h1 className="text-3xl font-bold tracking-tight text-green-800">Botanica</h1>
-          <p className="mt-1 text-sm text-stone-500">江浙沪 · 自然主义花园植物数据库</p>
-        </div>
-      </header>
-
-      <main className="mx-auto max-w-6xl px-4 py-6">
-        <div className="overflow-hidden rounded-xl border border-stone-200 bg-white">
+      <div
+        ref={filterRef}
+        className="sticky top-0 z-30 border-b border-stone-200 bg-stone-50/80"
+      >
+        <div className="mx-auto max-w-6xl">
+          <div className="flex items-center gap-2 px-4 pt-3 pb-1">
+            <img src="/favicon.svg" alt="" className="h-4 w-4" />
+            <span className="text-sm font-semibold text-green-800">Botanica</span>
+          </div>
           <FilterBar
             query={query}
             onQuery={setQuery}
             category={category}
             onCategory={setCategory}
           />
-          <OverviewTable plants={filtered} onOpen={setSelectedId} />
+        </div>
+      </div>
+
+      <main className="mx-auto max-w-6xl px-4">
+        <div
+          className="sticky overflow-hidden rounded-xl border border-stone-200 bg-white shadow-sm"
+          style={{ top: 'var(--filterbar-h)', height: 'calc(100vh - var(--filterbar-h))' }}
+        >
+          <div className="overflow-auto" style={{ height: '100%' }}>
+            <OverviewTable plants={filtered} onOpen={setSelectedId} />
+          </div>
         </div>
       </main>
 
