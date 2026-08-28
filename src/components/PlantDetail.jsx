@@ -23,6 +23,7 @@ export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, h
     ['花色·花期', bloom(plant)],
     ['日照', label(SUN_LABELS, plant.sun)],
     ['水分', label(WATER_LABELS, plant.water)],
+    ['生境', plant.habitat],
   ].filter(([, v]) => v != null && v !== '');
 
   return (

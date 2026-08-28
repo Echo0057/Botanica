@@ -1465,7 +1465,8 @@
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=444418",
       "https://plantdatabase.kpu.ca/Plant/roof"
-    ]
+    ],
+    "habitat": "地中海干燥灌丛、岩石旱生地、开阔林地"
   },
   {
     "id": "cornus_kousa_subsp_chinensis",
@@ -1819,8 +1820,10 @@
     "category": "灌木",
     "sources": [
       "https://www.monrovia.com/frostproof-gardenia.html",
-      "http://plants.pikenursery.com/12291001/Plant/26150/"
-    ]
+      "http://plants.pikenursery.com/12291001/Plant/26150/",
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250096369"
+    ],
+    "habitat": "山坡、丘陵、山谷或田野,溪边灌丛或林中;海拔0-1500m"
   },
   {
     "id": "pittosporum",
@@ -3581,7 +3584,8 @@
     "sources": [
       "https://www.rhs.org.uk/plants/97590/artemisia-schmidtiana/details",
       "https://c3.provenwinners.com/plants/artemisia/silver-mound-wormwood-artemisia-schmidtiana-0"
-    ]
+    ],
+    "habitat": "高山岩石缝、砾石坡地;高海拔"
   },
   {
     "id": "tagetes_lemmonii",
@@ -4961,7 +4965,8 @@
     "sources": [
       "https://www.iplant.cn/bk/894C86B6F3942783",
       "https://plantfinder.mobot.org/"
-    ]
+    ],
+    "habitat": "林下溪边岩石上或树干附生;海拔300-1800m"
   },
   {
     "id": "davallia",
@@ -5068,8 +5073,10 @@
     "category": "宿根草本",
     "sources": [
       "https://www.rhs.org.uk/plants/113070/farfugium-japonicum/details",
-      "https://plantfinder.mobot.org/"
-    ]
+      "https://plantfinder.mobot.org/",
+      "https://pfaf.org/user/Plant.aspx?LatinName=Farfugium+japonicum"
+    ],
+    "habitat": "林下阴湿、山谷草丛、溪边石崖下;低海拔"
   },
   {
     "id": "hakonechloa",
@@ -5748,8 +5755,10 @@
     "sources": [
       "https://www.monrovia.com/star-jasmine.html",
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&letter=T",
-      "https://plantfinder.mobot.org/"
-    ]
+      "https://plantfinder.mobot.org/",
+      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200018484"
+    ],
+    "habitat": "向阳林缘、灌丛,常攀援树木、岩壁、墙壁;海拔200-1300m"
   },
   {
     "id": "hedera_helix",
@@ -5858,9 +5867,11 @@
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282500",
       "https://plantdatabase.kpu.ca/Plant/lysa",
-      "https://plantfinder.mobot.org/"
+      "https://plantfinder.mobot.org/",
+      "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200014658"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "水边湿地、沼泽、沟渠、湖岸,常成片;海拔0-2200m"
   },
   {
     "id": "iris_sanguinea",
@@ -7669,9 +7680,11 @@
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "http://www.plantplus.cn/cn/sp/Ceratostigma%20willmottianum"
+      "http://www.plantplus.cn/cn/sp/Ceratostigma%20willmottianum",
+      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017492"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "暖河谷林缘灌丛(干热河谷);海拔700-3500m"
   },
   {
     "id": "eupatorium_japonicum",
@@ -8145,7 +8158,8 @@
     "sources": [
       "https://biocache.ala.org.au/occurrences/37ce116f-7f88-43a0-b706-7541a3b29736"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "干旱盐碱、砾质荒地(盐灌丛)"
   },
   {
     "id": "salvia_coccinea",
@@ -8195,6 +8209,7 @@
     "sources": [
       "https://www.iplant.cn/bk/F7DCF20D3B5AF75A"
     ],
-    "tags": []
+    "tags": [],
+    "habitat": "低地热带、亚热带次生林与灌丛"
   }
 ]

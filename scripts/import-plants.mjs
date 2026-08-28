@@ -125,6 +125,7 @@ for (const entry of additional) {
     leafForm: entry.leafForm ?? null,
     persistence: entry.persistence ?? null,
     hardinessZone: entry.hardinessZone ?? null,
+    habitat: entry.habitat ?? null,
     missingName: !latin,
     genusOnly: false,
     category: cat,

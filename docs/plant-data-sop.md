@@ -62,6 +62,7 @@
   "flowerColor": "白",
   "bloomSeason": "夏",
   "leafForm": "卵形叶",
+  "habitat": "林下阴湿、溪边石崖下;低海拔",
   "notes": "一句话特性描述。",
   "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?..."]
 }
@@ -94,7 +95,9 @@ npm run import:plants
 | 3 | **Missouri Botanical Garden · Plant Finder** | 高度 / 冠幅 / 日照 / 水分 / 花期 / 花色 / 耐寒区(结构字段齐全) |
 | 4 | **Great Plant Picks** | 「可靠好养/成熟表现佳」的可靠性判断 |
 | 5 | **Mount Cuba Center** | 多年生草花试种结果、花期/表现可靠度 |
-| 6 | 补充 | Wikipedia、园艺商/苗圃页(仅作参考) |
+| 6 | **eFloras / Flora of China · Flora of North America** | 生境(habitat)与**海拔**的权威英文措辞;查 `efloras.org/florataxon.aspx?flora_id=2&taxon_id=...` |
+| 7 | **Plants for a Future (PFAF)** | 额外生境信息(如「岩石海岸/林下/溪边」) |
+| 8 | 补充 | Wikipedia、园艺商/苗圃页(仅作参考) |
 
 ### 中文学名 / 中文别名(权威来源)
 
@@ -148,6 +151,7 @@ npm run import:plants
 | `water` | 否 | `dry` / `wet` |
 | `flowerColor` / `bloomSeason` | 否 | 花色 / 花期(如 `夏`) |
 | `leafForm` | 否 | 叶形/形态,如 `剑形叶` |
+| `habitat` | 否 | 生态型生境描述(如「干热河谷林缘灌丛」「海拔1000m林下」「岩壁」),**不含地区/国家** |
 | `notes` | 否 | 一句话特性(映射到 `rawNotes`) |
 | `sources` | 否 | 来源 URL 数组 |
 | `tags` | 否 | 自定义标签数组 |
