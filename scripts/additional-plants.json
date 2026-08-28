@@ -268,14 +268,6 @@
     "aliases": null
   },
   {
-    "chineseName": "全缘贯众",
-    "latinName": "Cyrtomium falcatum",
-    "genus": "贯众属",
-    "family": "鳞毛蕨科",
-    "category": "宿根草本",
-    "aliases": null
-  },
-  {
     "chineseName": "红盖鳞毛蕨",
     "latinName": "Dryopteris erythrosora",
     "genus": "鳞毛蕨属",
@@ -636,23 +628,6 @@
     "aliases": "紫金标",
     "sources": [
       "http://www.plantplus.cn/cn/sp/Ceratostigma%20willmottianum"
-    ]
-  },
-  {
-    "chineseName": "泽兰",
-    "latinName": "Eupatorium japonicum",
-    "genus": "泽兰属",
-    "family": "菊科",
-    "category": "宿根草本",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "height": "1-1.8",
-    "bloomSeason": "秋",
-    "flowerColor": "白",
-    "aliases": "白头婆",
-    "notes": "泽兰'羽衣'(Eupatorium japonicum 'Hagoromo')按种级录入。",
-    "sources": [
-      "https://www.flower-db.com/zh/flowers/eupatorium-hagoromo"
     ]
   },
   {
