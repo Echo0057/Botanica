@@ -1062,5 +1062,27 @@
       "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50866518-1"
     ],
     "notes": "江浙皖原生,适江南湿润气候,秋叶转红。"
+  },
+  {
+    "chineseName": "小叶厚皮香",
+    "latinName": "Ternstroemia microphylla",
+    "genus": "厚皮香属",
+    "family": "五列木科",
+    "category": "常绿乔木",
+    "evergreen": "evergreen",
+    "height": "1-6",
+    "sun": "full sun to part shade",
+    "water": "dry",
+    "bloomSeason": "夏",
+    "flowerColor": "白",
+    "leafForm": "倒卵形叶",
+    "hardinessZone": "9-10",
+    "habitat": "干燥山坡灌丛、岩隙间",
+    "sources": [
+      "https://www.iplant.cn/bk/A1B2BAD655269089",
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014147",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:829437-1"
+    ],
+    "notes": "滨海/近海耐旱型常绿小乔木或灌木,喜光耐瘠薄,假种皮鲜红色醒目。"
   }
 ]
