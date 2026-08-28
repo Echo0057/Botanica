@@ -206,36 +206,6 @@
     "habitat": "林下、草坡、灌丛"
   },
   {
-    "id": "plant_10",
-    "chineseName": "落叶百子莲",
-    "latinName": "Agapanthus praecox",
-    "genus": "百子莲属",
-    "family": "石蒜科",
-    "aliases": "非洲爱情花·蓝百合",
-    "evergreen": "evergreen",
-    "height": "0.5-0.9",
-    "spread": "0.6-0.9",
-    "sun": "full sun",
-    "water": "dry",
-    "bloomSeason": "夏",
-    "flowerColor": "蓝紫",
-    "seasonOfInterest": null,
-    "leafForm": "带状叶",
-    "persistence": null,
-    "hardinessZone": "7-10",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "http://plants.pikenursery.com/12291001/Plant/26960/",
-      "https://pix.davesgarden.com/guides/pf/print/166816",
-      "https://eflora.sydney.edu.au/taxon/agapanthaceae",
-      "https://pza.sanbi.org/agapanthus-praecox"
-    ],
-    "habitat": "湿润草地、溪岸、岩石质山坡草地"
-  },
-  {
     "id": "plant_11",
     "chineseName": "大戟",
     "latinName": "Euphorbia",
@@ -4386,34 +4356,6 @@
     "habitat": "旱生荒地、路边、海滨"
   },
   {
-    "id": "thalictrum_ichangense",
-    "chineseName": "盾叶唐松草",
-    "latinName": "Thalictrum ichangense",
-    "genus": "唐松草属",
-    "family": "毛茛科",
-    "aliases": null,
-    "evergreen": "deciduous",
-    "height": "0.1-0.3",
-    "spread": "0.3",
-    "sun": "part shade",
-    "water": "medium",
-    "bloomSeason": "春-夏",
-    "flowerColor": "淡紫/白",
-    "seasonOfInterest": null,
-    "leafForm": "三出复叶(盾形)",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/76382/thalictrum-ichangense/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "habitat": "林下、阴湿岩壁"
-  },
-  {
     "id": "rhapis_gracilis_burret",
     "chineseName": "细棕竹",
     "latinName": "Rhapis gracilis",
@@ -4672,35 +4614,6 @@
       "https://plantfinder.mobot.org/"
     ],
     "habitat": "旱生灌丛、岩坡"
-  },
-  {
-    "id": "anemone_hupehensis_var_japonica",
-    "chineseName": "打破碗花花",
-    "latinName": "Anemone hupehensis",
-    "genus": "银莲花属",
-    "family": "毛茛科",
-    "aliases": "野棉花·秋牡丹",
-    "evergreen": "deciduous",
-    "height": "0.8-1.2",
-    "spread": "0.5-0.8",
-    "sun": "part shade",
-    "water": "medium",
-    "bloomSeason": "夏-秋",
-    "flowerColor": "粉/白",
-    "seasonOfInterest": null,
-    "leafForm": "三裂叶",
-    "persistence": null,
-    "hardinessZone": "4-8",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://www.jungledragon.com/specie/13291/japanese_anemone",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200007452"
-    ],
-    "habitat": "林缘、山坡草地、溪边"
   },
   {
     "id": "helleborus",
@@ -6900,35 +6813,6 @@
     "habitat": "湿润林地、溪边、半阴坡地"
   },
   {
-    "id": "thalictrum_delavayi",
-    "chineseName": "偏翅唐松草",
-    "latinName": "Thalictrum delavayi",
-    "genus": "唐松草属",
-    "family": "毛茛科",
-    "aliases": null,
-    "evergreen": "deciduous",
-    "height": "0.9-1.5",
-    "spread": "0.5-0.6",
-    "sun": "part shade",
-    "water": "medium",
-    "bloomSeason": "夏",
-    "flowerColor": "紫红",
-    "seasonOfInterest": null,
-    "leafForm": "细裂叶",
-    "persistence": null,
-    "hardinessZone": "4-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286295",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008185"
-    ],
-    "tags": [],
-    "habitat": "山地草丛、林缘、溪边、湿润岩壁"
-  },
-  {
     "id": "dryopteris_erythrosora",
     "chineseName": "红盖鳞毛蕨",
     "latinName": "Dryopteris erythrosora",
@@ -7096,35 +6980,6 @@
     ],
     "tags": [],
     "habitat": "林下、山坡草丛"
-  },
-  {
-    "id": "tricyrtis_formosana",
-    "chineseName": "金边油点草",
-    "latinName": "Tricyrtis formosana",
-    "genus": "油点草属",
-    "family": "百合科",
-    "aliases": "油点草",
-    "evergreen": "deciduous",
-    "height": "0.5-1",
-    "spread": "0.3-0.5",
-    "sun": "part shade to shade",
-    "water": "medium",
-    "bloomSeason": "夏-秋",
-    "flowerColor": "淡紫带紫斑",
-    "seasonOfInterest": null,
-    "leafForm": "卵形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/18350/tricyrtis-formosana/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "tags": [],
-    "habitat": "林下、溪边阴湿",
-    "leafColor": "全年黄边/花叶"
   },
   {
     "id": "disporopsis_aspersa",
@@ -7853,34 +7708,6 @@
     "leafColor": "全年紫红/古铜"
   },
   {
-    "id": "carex_oshimensis",
-    "chineseName": "薹草",
-    "latinName": "Carex oshimensis",
-    "genus": "薹草属",
-    "family": "莎草科",
-    "aliases": null,
-    "evergreen": "evergreen",
-    "height": "0.3-0.4",
-    "spread": "0.3-0.4",
-    "sun": "part shade to shade",
-    "water": "medium",
-    "bloomSeason": null,
-    "flowerColor": null,
-    "seasonOfInterest": null,
-    "leafForm": "线形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "tags": [],
-    "habitat": "林下、湿润草地"
-  },
-  {
     "id": "typha_minima",
     "chineseName": "小水蜡烛",
     "latinName": "Typha minima",
@@ -7936,34 +7763,6 @@
     ],
     "tags": [],
     "habitat": "林下、石灰岩山地灌丛"
-  },
-  {
-    "id": "carex_lingii",
-    "chineseName": "林氏薹草",
-    "latinName": "Carex lingii",
-    "genus": "薹草属",
-    "family": "莎草科",
-    "aliases": null,
-    "evergreen": "evergreen",
-    "height": "0.15-0.4",
-    "spread": "0.2",
-    "sun": "part shade to shade",
-    "water": "medium",
-    "bloomSeason": null,
-    "flowerColor": null,
-    "seasonOfInterest": null,
-    "leafForm": "线形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250095526",
-      "https://plantfinder.mobot.org/"
-    ],
-    "tags": [],
-    "habitat": "林下湿润地"
   },
   {
     "id": "crataegus_viridis",
@@ -8917,5 +8716,61 @@
       "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480"
     ],
     "tags": []
+  },
+  {
+    "id": "thalictrum",
+    "chineseName": "唐松草属",
+    "latinName": "Thalictrum",
+    "genus": "唐松草属",
+    "family": "毛茛科",
+    "aliases": null,
+    "evergreen": "deciduous",
+    "height": "0.3-1.5",
+    "spread": null,
+    "sun": "part shade",
+    "water": "medium",
+    "bloomSeason": "春-夏",
+    "flowerColor": "紫红/淡紫/白",
+    "seasonOfInterest": null,
+    "leafForm": null,
+    "persistence": null,
+    "hardinessZone": "4-9",
+    "missingName": false,
+    "genusOnly": true,
+    "category": "宿根草本",
+    "sources": [
+      "https://www.rhs.org.uk/plants/thalictrum",
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008185"
+    ],
+    "tags": [],
+    "habitat": "山地草丛、林缘、溪边、阴湿岩壁"
+  },
+  {
+    "id": "tricyrtis",
+    "chineseName": "油点草属",
+    "latinName": "Tricyrtis",
+    "genus": "油点草属",
+    "family": "百合科",
+    "aliases": null,
+    "evergreen": "deciduous",
+    "height": "0.3-1",
+    "spread": null,
+    "sun": "part shade to shade",
+    "water": "medium",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "淡紫带紫斑/白",
+    "seasonOfInterest": null,
+    "leafForm": null,
+    "persistence": null,
+    "hardinessZone": "5-9",
+    "missingName": false,
+    "genusOnly": true,
+    "category": "宿根草本",
+    "sources": [
+      "https://www.rhs.org.uk/plants/18350/tricyrtis-formosana/details",
+      "https://plantfinder.mobot.org/"
+    ],
+    "tags": [],
+    "habitat": "林下、溪边阴湿"
   }
 ]

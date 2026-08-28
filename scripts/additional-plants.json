@@ -260,14 +260,6 @@
     "aliases": "秋牡丹"
   },
   {
-    "chineseName": "偏翅唐松草",
-    "latinName": "Thalictrum delavayi",
-    "genus": "唐松草属",
-    "family": "毛茛科",
-    "category": "宿根草本",
-    "aliases": null
-  },
-  {
     "chineseName": "红盖鳞毛蕨",
     "latinName": "Dryopteris erythrosora",
     "genus": "鳞毛蕨属",
@@ -314,14 +306,6 @@
     "family": "百合科",
     "category": "宿根草本",
     "aliases": "象贝"
-  },
-  {
-    "chineseName": "金边油点草",
-    "latinName": "Tricyrtis formosana",
-    "genus": "油点草属",
-    "family": "百合科",
-    "category": "宿根草本",
-    "aliases": "油点草"
   },
   {
     "chineseName": "散斑竹根七",
@@ -533,14 +517,6 @@
     "aliases": null
   },
   {
-    "chineseName": "薹草",
-    "latinName": "Carex oshimensis",
-    "genus": "薹草属",
-    "family": "莎草科",
-    "category": "宿根草本",
-    "aliases": null
-  },
-  {
     "chineseName": "小水蜡烛",
     "latinName": "Typha minima",
     "genus": "香蒲属",
@@ -557,15 +533,6 @@
     "category": "灌木",
     "notes": null,
     "aliases": "宽苞十大功劳"
-  },
-  {
-    "chineseName": "林氏薹草",
-    "latinName": "Carex lingii",
-    "genus": "薹草属",
-    "family": "莎草科",
-    "category": "宿根草本",
-    "notes": null,
-    "aliases": null
   },
   {
     "chineseName": "北美山楂",
