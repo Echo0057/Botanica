@@ -2157,36 +2157,6 @@
     "habitat": "林下、阴湿溪边、沟谷灌丛"
   },
   {
-    "id": "rhapis",
-    "chineseName": "棕竹属",
-    "latinName": "Rhapis",
-    "genus": "棕竹属",
-    "family": "棕榈科",
-    "aliases": null,
-    "evergreen": "evergreen",
-    "height": "1.3-2.5",
-    "spread": "1.3-2",
-    "sun": "part shade",
-    "water": "wet",
-    "bloomSeason": "夏",
-    "flowerColor": "黄",
-    "seasonOfInterest": null,
-    "leafForm": "扇形叶",
-    "persistence": null,
-    "hardinessZone": "9-11",
-    "missingName": false,
-    "genusOnly": true,
-    "tags": [],
-    "category": "灌木",
-    "sources": [
-      "https://plantdatabase.kpu.ca/Plant/rhex",
-      "http://plants.pikenursery.com/12291001/Plant/25630/",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200027112"
-    ],
-    "habitat": "低山干坡林、山谷湿地"
-  },
-  {
     "id": "acer_japonicum_aconitifolium",
     "chineseName": "羽扇槭",
     "latinName": "Acer japonicum",
