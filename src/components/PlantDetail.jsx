@@ -1,3 +1,5 @@
+import { SUN_LABELS, WATER_LABELS, EVERGREEN_LABELS, label } from '../data/layers.js';
+
 export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, hasNext }) {
   if (!plant) return null;
 
@@ -7,8 +9,8 @@ export default function PlantDetail({ plant, onClose, onPrev, onNext, hasPrev, h
     ['属', plant.genus],
     ['高度', plant.height],
     ['冠幅', plant.spread],
-    ['日照', plant.sun],
-    ['水分', plant.water],
+    ['日照', label(SUN_LABELS, plant.sun)],
+    ['水分', label(WATER_LABELS, plant.water)],
     ['花期', plant.bloomSeason],
     ['花色', plant.flowerColor],
   ].filter(([, v]) => v != null && v !== '');

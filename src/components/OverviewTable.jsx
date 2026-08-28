@@ -1,4 +1,4 @@
-import { SUN_LABELS } from '../data/layers.js';
+import { SUN_LABELS, label } from '../data/layers.js';
 
 const COLUMNS = [
   { key: 'name', label: '学名' },
@@ -41,7 +41,7 @@ function value(p, key) {
     case 'bloom':
       return bloom(p);
     case 'sun':
-      return p.sun ? SUN_LABELS[p.sun] || p.sun : dash;
+      return label(SUN_LABELS, p.sun) || dash;
     default:
       return dash;
   }
