@@ -7306,35 +7306,6 @@
     "habitat": "阴湿林下灌丛"
   },
   {
-    "id": "bletilla_striata",
-    "chineseName": "白芨",
-    "latinName": "Bletilla striata",
-    "genus": "白及属",
-    "family": "兰科",
-    "aliases": "白及",
-    "evergreen": "deciduous",
-    "height": "0.3-0.5",
-    "spread": "0.3-0.5",
-    "sun": "part shade",
-    "water": "medium",
-    "bloomSeason": "春",
-    "flowerColor": "粉紫",
-    "seasonOfInterest": null,
-    "leafForm": "披针形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535"
-    ],
-    "tags": [],
-    "habitat": "阔叶林下、针叶林下、路边草丛、石缝"
-  },
-  {
     "id": "saxifraga_stolonifera",
     "chineseName": "虎耳草",
     "latinName": "Saxifraga stolonifera",
