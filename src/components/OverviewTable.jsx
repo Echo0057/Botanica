@@ -1,4 +1,4 @@
-import { SUN_LABELS, label } from '../data/layers.js';
+import { SUN_LABELS, WATER_LABELS, EVERGREEN_LABELS, label } from '../data/layers.js';
 
 const COLUMNS = [
   { key: 'name', label: '学名' },
@@ -9,6 +9,9 @@ const COLUMNS = [
   { key: 'leaf', label: '叶/形态' },
   { key: 'bloom', label: '花色·花期' },
   { key: 'sun', label: '日照' },
+  { key: 'water', label: '水分' },
+  { key: 'evergreen', label: '常绿/落叶' },
+  { key: 'hardinessZone', label: '耐寒区' },
 ];
 
 const dash = '—';
@@ -42,6 +45,12 @@ function value(p, key) {
       return bloom(p);
     case 'sun':
       return label(SUN_LABELS, p.sun) || dash;
+    case 'water':
+      return label(WATER_LABELS, p.water) || dash;
+    case 'evergreen':
+      return label(EVERGREEN_LABELS, p.evergreen) || dash;
+    case 'hardinessZone':
+      return cell(p.hardinessZone);
     default:
       return dash;
   }
@@ -56,8 +65,7 @@ export default function OverviewTable({ plants, onOpen }) {
     );
   }
   return (
-    <div className="max-h-[68vh] overflow-auto">
-      <table className="w-full min-w-max border-collapse text-xs">
+    <table className="w-full min-w-max border-collapse text-xs">
         <thead>
           <tr className="text-left text-stone-500">
             {COLUMNS.map((c, i) => (
@@ -101,7 +109,6 @@ export default function OverviewTable({ plants, onOpen }) {
             </tr>
           ))}
         </tbody>
-      </table>
-    </div>
+    </table>
   );
 }
