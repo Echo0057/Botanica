@@ -137,7 +137,7 @@
     "genus": "溲疏属",
     "family": "绣球花科",
     "category": "灌木",
-    "aliases": "雪樱花·日光·斑丽"
+    "aliases": null
   },
   {
     "chineseName": "映山红",
@@ -169,7 +169,7 @@
     "genus": "绣线菊属",
     "family": "蔷薇科",
     "category": "灌木",
-    "aliases": "金色喷泉·金焰绣线菊"
+    "aliases": null
   },
   {
     "chineseName": "栎叶绣球",
@@ -177,7 +177,7 @@
     "genus": "绣球属",
     "family": "绣球花科",
     "category": "灌木",
-    "aliases": "雪花·小蜜蜂"
+    "aliases": null
   },
   {
     "chineseName": "山梅花",
@@ -185,7 +185,7 @@
     "genus": "山梅花属",
     "family": "绣球花科",
     "category": "灌木",
-    "aliases": "金叶山梅花"
+    "aliases": null
   },
   {
     "chineseName": "粉花吊钟",
@@ -410,7 +410,7 @@
     "genus": "紫荆属",
     "family": "豆科",
     "category": "落叶乔木",
-    "aliases": "永恒之火"
+    "aliases": null
   },
   {
     "chineseName": "高砂芙蓉",
@@ -546,7 +546,7 @@
     "genus": "薹草属",
     "family": "莎草科",
     "category": "宿根草本",
-    "aliases": "凤凰绿·埃弗利斯特"
+    "aliases": null
   },
   {
     "chineseName": "小水蜡烛",

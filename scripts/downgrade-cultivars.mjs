@@ -3,11 +3,13 @@
 //  - 杂交种(×)保留种级(如 Prunus × yedoensis),仅去掉品种
 //  - 仅「属+品种」无种名的记录降为属级,并标记 genusOnly=true
 //  - 被去掉的品种/变种名并入 aliases(用 · 连接,不覆盖已有别名)
+//  - 注:品种/变种名只作「曾用园艺名」保留在脚本注释,不再写入 aliases(政策:别名只收通用名)。
 //  - 中文名同步精简为种级标准名
 // 用法: node scripts/downgrade-cultivars.mjs
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { stripCultivarAliases } from './cultivar-names.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -64,7 +66,7 @@ for (const [from, to] of Object.entries(MAP)) {
   if (to.genusOnly) p.genusOnly = true;
   // 别名合并(去重,用 · 连接)
   const parts = [p.aliases, to.alias].filter(Boolean).flatMap((s) => s.split('·').map((x) => x.trim()).filter(Boolean));
-  p.aliases = [...new Set(parts)].join('·');
+  p.aliases = stripCultivarAliases([...new Set(parts)].join('·'));
   applied++;
 }
 

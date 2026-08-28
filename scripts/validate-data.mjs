@@ -8,6 +8,7 @@ import {
   FAMILY_VARIANTS, GENUS_VARIANTS, HARDINESS_RE, SIZE_RE,
   hardinessSuitability,
 } from '../src/data/taxonomy-cn.js';
+import { CULTIVAR_ALIASES } from './cultivar-names.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const plants = JSON.parse(
@@ -16,6 +17,7 @@ const plants = JSON.parse(
 
 const errors = [];
 const warnings = [];
+const CULTIVAR_SET = new Set(CULTIVAR_ALIASES);
 const norm = (s) => (s || '').toLowerCase();
 const latinGenus = (ln) => norm(String(ln || '').trim().split(/\s+/)[0] || '');
 const uniq = (set) => [...set].filter(Boolean).sort();
@@ -91,6 +93,20 @@ for (const p of plants) {
   }
 }
 
+// 7) 政策:数据库不含图片(images 字段已整体移除)
+for (const p of plants) {
+  if ('images' in p) {
+    warnings.push(`${p.chineseName} 仍含有 images 字段(政策:不做图片)`);
+  }
+}
+
+// 8) 政策:别名只收通用名,不写品种名
+for (const p of plants) {
+  if (!p.aliases) continue;
+  const bad = String(p.aliases).split('·').map((s) => s.trim()).filter((s) => CULTIVAR_SET.has(s));
+  if (bad.length) warnings.push(`${p.chineseName} 别名含品种名: ${bad.join(' / ')}`);
+}
+
 if (errors.length) {
   console.error(`[validate] 发现 ${errors.length} 处问题:`);
   for (const e of errors) console.error('  ✗ ' + e);
@@ -101,6 +117,6 @@ console.log(
   `[validate] OK · ${plants.length} 条,科/属一致性、字段白名单、格式校验全部通过。`
 );
 if (warnings.length) {
-  console.warn(`[validate] ⚠️ 上海耐寒提醒 ${warnings.length} 条(不阻断):`);
+  console.warn(`[validate] ⚠️ 提醒 ${warnings.length} 条(不阻断):`);
   for (const w of warnings) console.warn('  ⚠️ ' + w);
 }

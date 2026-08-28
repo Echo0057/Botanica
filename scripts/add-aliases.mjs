@@ -1,8 +1,10 @@
 // 批量补充已联网核实的常用中文别名(有权威来源佐证,不凭印象)
+// 政策:别名只收通用名,不含品种名(见 cultivar-names.js)。
 // 用法: node scripts/add-aliases.mjs
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { stripCultivarAliases } from './cultivar-names.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -133,7 +135,7 @@ let added = 0;
 for (const [name, aliases] of Object.entries(ALIASES)) {
   const p = plants.find((x) => x.chineseName.trim() === name.trim());
   if (!p) { console.warn('[warn] 未找到:', name); continue; }
-  if (!p.aliases) p.aliases = aliases;
+  if (!p.aliases) p.aliases = stripCultivarAliases(aliases);
   added++;
 }
 

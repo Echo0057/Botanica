@@ -5,6 +5,7 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { categoryOf, PLANT_CATEGORIES } from '../src/data/layers.js';
+import { stripCultivarAliases } from './cultivar-names.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -97,7 +98,7 @@ for (const entry of additional) {
     latinName: latin || null,
     genus: entry.genus || null,
     family: entry.family || null,
-    aliases: entry.aliases || null,
+    aliases: stripCultivarAliases(entry.aliases || null),
     evergreen: entry.evergreen ?? null,
     height: entry.height ?? null,
     spread: entry.spread ?? null,
@@ -113,7 +114,6 @@ for (const entry of additional) {
     genusOnly: false,
     category: cat,
     sources: Array.isArray(entry.sources) ? entry.sources : entry.sources ? [entry.sources] : [],
-    images: Array.isArray(entry.images) ? entry.images : [],
     tags: Array.isArray(entry.tags) ? entry.tags : [],
   });
   added++;

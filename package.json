@@ -10,7 +10,6 @@
     "preview": "vite preview",
     "import:plants": "node scripts/import-plants.mjs",
     "enrich": "node scripts/apply-enrichment.mjs",
-    "fetch-images": "node scripts/fetch-images.mjs",
     "validate": "node scripts/validate-data.mjs"
   },
   "dependencies": {

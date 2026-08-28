@@ -5,7 +5,7 @@
     "latinName": "Acer palmatum",
     "genus": "槭属",
     "family": "无患子科",
-    "aliases": "鸡爪枫·羽枫·中之乡·羽毛槭·羽状鸡爪槭",
+    "aliases": "鸡爪枫·羽枫",
     "evergreen": "deciduous",
     "height": "2-6",
     "spread": "2-5",
@@ -19,26 +19,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [
-      {
-        "type": "habit",
-        "src": "/images/acer-palmatum-habit.jpg",
-        "credit": "File:Plants in Showa Commemorative National Government Park, Japan; November 2018 (02).jpg",
-        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Plants_in_Showa_Commemorative_National_Government_Park%2C_Japan%3B_November_2018_%2802%29.jpg/1920px-Plants_in_Showa_Commemorative_National_Government_Park%2C_Japan%3B_November_2018_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      },
-      {
-        "type": "leaf",
-        "src": "/images/acer-palmatum-leaf.jpg",
-        "credit": "File:Japanischer Ahorn -- 2023 -- 9280.jpg",
-        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Japanischer_Ahorn_--_2023_--_9280.jpg/1920px-Japanischer_Ahorn_--_2023_--_9280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      },
-      {
-        "type": "detail",
-        "src": "/images/acer-palmatum-detail.jpg",
-        "credit": "File:Dülmen, Hausdülmen, Knospen eines Japanischen Ahorns -- 2021 -- 7491.jpg",
-        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Knospen_eines_Japanischen_Ahorns_--_2021_--_7491.jpg/1920px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Knospen_eines_Japanischen_Ahorns_--_2021_--_7491.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      }
-    ],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -66,7 +46,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -95,7 +74,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -124,7 +102,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -152,7 +129,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -180,7 +156,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -208,7 +183,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -236,7 +210,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -264,7 +237,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -292,7 +264,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -320,7 +291,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -348,7 +318,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -376,7 +345,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -404,7 +372,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -432,7 +399,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -460,7 +426,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -488,7 +453,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -516,7 +480,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -544,7 +507,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -572,7 +534,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -586,7 +547,7 @@
     "latinName": "Agastache",
     "genus": "藿香属",
     "family": "唇形科",
-    "aliases": "黑爵士藿香·巨型藿香(杂交大藿香)·巨藿香",
+    "aliases": "巨型藿香(杂交大藿香)·巨藿香",
     "evergreen": "deciduous",
     "height": "0.6-1.2",
     "spread": "0.3-0.5",
@@ -600,7 +561,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -628,7 +588,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -656,7 +615,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -684,7 +642,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -712,7 +669,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -740,7 +696,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -768,7 +723,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -796,7 +750,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -824,7 +777,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -852,7 +804,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -866,7 +817,7 @@
     "latinName": "Dichondra argentea",
     "genus": "马蹄金属",
     "family": "旋花科",
-    "aliases": "银瀑·Silver Falls",
+    "aliases": null,
     "evergreen": "evergreen",
     "height": "0.1",
     "spread": "0.6-1.2",
@@ -880,7 +831,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -908,7 +858,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -935,7 +884,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -963,7 +911,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -991,7 +938,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1019,7 +965,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1047,7 +992,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1075,7 +1019,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1103,7 +1046,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1117,7 +1059,7 @@
     "latinName": "Pennisetum setaceum",
     "genus": "狼尾草属",
     "family": "禾本科",
-    "aliases": "紫穗狼尾草·紫梦狼尾草·羽绒狼尾草·紫叶狼尾草",
+    "aliases": "紫穗狼尾草·羽绒狼尾草·紫叶狼尾草",
     "evergreen": "evergreen",
     "height": "0.9-1.5",
     "spread": "0.6-1",
@@ -1131,7 +1073,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1145,7 +1086,7 @@
     "latinName": "Pennisetum alopecuroides",
     "genus": "狼尾草属",
     "family": "禾本科",
-    "aliases": "小布尼狼尾草·Little Bunny·小兔子狼尾草",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "0.6-1.2",
     "spread": "0.6-1.2",
@@ -1159,7 +1100,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1187,7 +1127,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1215,7 +1154,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -1243,7 +1181,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "地被",
     "sources": [
@@ -1271,7 +1208,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1300,7 +1236,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1329,7 +1264,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1358,7 +1292,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1387,7 +1320,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1416,7 +1348,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1445,7 +1376,6 @@
     "hardinessZone": "5-7",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1473,7 +1403,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1502,7 +1431,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1531,7 +1459,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "常绿乔木",
     "sources": [
@@ -1560,7 +1487,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1588,7 +1514,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1617,7 +1542,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1645,7 +1569,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1673,7 +1596,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1701,7 +1623,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1729,7 +1650,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1743,7 +1663,7 @@
     "latinName": "Pieris japonica",
     "genus": "马醉木属",
     "family": "杜鹃花科",
-    "aliases": "妙龄少女·Debutante",
+    "aliases": null,
     "evergreen": "evergreen",
     "height": "1.5-2.5",
     "spread": "1.5-2",
@@ -1757,7 +1677,6 @@
     "hardinessZone": "6-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1785,7 +1704,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1813,7 +1731,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1841,7 +1758,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1870,7 +1786,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1885,7 +1800,7 @@
     "latinName": "Daphne odora",
     "genus": "瑞香属",
     "family": "瑞香科",
-    "aliases": "金边瑞香",
+    "aliases": null,
     "evergreen": "evergreen",
     "height": "0.7-1.3",
     "spread": "0.7-1.2",
@@ -1899,7 +1814,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1928,7 +1842,6 @@
     "hardinessZone": "7-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1956,7 +1869,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -1984,7 +1896,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2012,7 +1923,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2041,7 +1951,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2070,7 +1979,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2099,7 +2007,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2127,7 +2034,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2155,7 +2061,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2170,7 +2075,7 @@
     "latinName": "Acer japonicum",
     "genus": "槭属",
     "family": "无患子科",
-    "aliases": "舞孔雀·Aconitifolium",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "3-7",
     "spread": "3-6",
@@ -2184,7 +2089,6 @@
     "hardinessZone": "5-7",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2213,7 +2117,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2242,7 +2145,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2271,7 +2173,6 @@
     "hardinessZone": "3-7",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2286,7 +2187,7 @@
     "latinName": "Prunus × yedoensis",
     "genus": "李属",
     "family": "蔷薇科",
-    "aliases": "染井吉野·Somei-yoshino",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "6-10",
     "spread": "6-8",
@@ -2300,7 +2201,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2329,7 +2229,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2358,7 +2257,6 @@
     "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2387,7 +2285,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2416,7 +2313,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2445,7 +2341,6 @@
     "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2460,7 +2355,7 @@
     "latinName": "Robinia pseudoacacia",
     "genus": "刺槐属",
     "family": "豆科",
-    "aliases": "金叶刺槐·Frisia",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "10-18",
     "spread": "6-10",
@@ -2474,7 +2369,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2502,7 +2396,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2531,7 +2424,6 @@
     "hardinessZone": "4-7",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2546,7 +2438,7 @@
     "latinName": "Malus",
     "genus": "苹果属",
     "family": "蔷薇科",
-    "aliases": "北美海棠·American",
+    "aliases": "北美海棠",
     "evergreen": "deciduous",
     "height": "4-8",
     "spread": "4-8",
@@ -2560,7 +2452,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2589,7 +2480,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2618,7 +2508,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2647,7 +2536,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2675,7 +2563,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2704,7 +2591,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2733,7 +2619,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2762,7 +2647,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2791,7 +2675,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
@@ -2820,7 +2703,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2849,7 +2731,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2878,7 +2759,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2907,7 +2787,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2921,7 +2800,7 @@
     "latinName": "Spiraea × vanhouttei",
     "genus": "绣线菊属",
     "family": "蔷薇科",
-    "aliases": "粉霜·Pink Ice",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "1.5-2.5",
     "spread": "2-3",
@@ -2935,7 +2814,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2964,7 +2842,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -2993,7 +2870,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3007,7 +2883,7 @@
     "latinName": "Viburnum opulus",
     "genus": "荚蒾属",
     "family": "五福花科",
-    "aliases": "欧洲绣球·玫瑰欧洲荚蒾·Roseum",
+    "aliases": "欧洲绣球",
     "evergreen": "deciduous",
     "height": "2-4",
     "spread": "2-4",
@@ -3021,7 +2897,6 @@
     "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3035,7 +2910,7 @@
     "latinName": "Deutzia scabra",
     "genus": "溲疏属",
     "family": "绣球花科",
-    "aliases": "罗切斯特的荣耀·雪樱花·日光·斑丽·Pride of Rochester",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "1.8-3",
     "spread": "1.2-2.5",
@@ -3049,7 +2924,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3064,7 +2938,7 @@
     "latinName": "Deutzia crenata",
     "genus": "溲疏属",
     "family": "绣球花科",
-    "aliases": "冰生溲疏·Nikko",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
@@ -3078,7 +2952,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3107,7 +2980,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3135,7 +3007,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3163,7 +3034,6 @@
     "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3191,7 +3061,6 @@
     "hardinessZone": "7-11",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3219,7 +3088,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3247,7 +3115,6 @@
     "hardinessZone": "6-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3275,7 +3142,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3303,7 +3169,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3332,7 +3197,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3360,7 +3224,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3388,7 +3251,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3416,7 +3278,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3445,7 +3306,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3459,7 +3319,7 @@
     "latinName": "Sambucus nigra",
     "genus": "接骨木属",
     "family": "五福花科",
-    "aliases": "紫叶接骨木·Black Lace",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "2-4",
     "spread": "2-3",
@@ -3473,7 +3333,6 @@
     "hardinessZone": "5-7",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3501,7 +3360,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3529,7 +3387,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3557,7 +3414,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3585,7 +3441,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3613,7 +3468,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3641,7 +3495,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3669,7 +3522,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3697,7 +3549,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3725,7 +3576,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3753,7 +3603,6 @@
     "hardinessZone": "4-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3781,7 +3630,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3809,7 +3657,6 @@
     "hardinessZone": "8-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3838,7 +3685,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3866,7 +3712,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -3894,7 +3739,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3922,7 +3766,6 @@
     "hardinessZone": "2-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3950,7 +3793,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -3978,7 +3820,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4006,7 +3847,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4034,7 +3874,6 @@
     "hardinessZone": "6-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4062,7 +3901,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4090,7 +3928,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4118,7 +3955,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4146,7 +3982,6 @@
     "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4174,7 +4009,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4202,7 +4036,6 @@
     "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4216,7 +4049,7 @@
     "latinName": "Salvia yangii",
     "genus": "鼠尾草属",
     "family": "唇形科",
-    "aliases": "蓝箭·Blue Steel·分药花",
+    "aliases": "分药花",
     "evergreen": "deciduous",
     "height": "0.9-1.5",
     "spread": "0.6-1.2",
@@ -4230,7 +4063,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -4258,7 +4090,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4286,7 +4117,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4314,7 +4144,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4342,7 +4171,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4370,7 +4198,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4398,7 +4225,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4426,7 +4252,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "灌木",
     "sources": [
@@ -4455,7 +4280,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4483,7 +4307,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4511,7 +4334,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4539,7 +4361,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4567,7 +4388,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4595,7 +4415,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4623,7 +4442,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "藤本",
     "sources": [
@@ -4652,7 +4470,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4680,7 +4497,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4708,7 +4524,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4736,7 +4551,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4764,7 +4578,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4792,7 +4605,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4820,7 +4632,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4848,7 +4659,6 @@
     "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4876,7 +4686,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4904,7 +4713,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4932,7 +4740,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4960,7 +4767,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -4988,7 +4794,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5016,7 +4821,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5044,7 +4848,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5072,7 +4875,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5086,7 +4888,7 @@
     "latinName": "Arachniodes simplicior",
     "genus": "复叶耳蕨属",
     "family": "鳞毛蕨科",
-    "aliases": "印度冬青·花叶异羽复叶耳蕨·Variegata",
+    "aliases": "印度冬青",
     "evergreen": "evergreen",
     "height": "0.3-0.6",
     "spread": "0.5-0.9",
@@ -5100,7 +4902,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5128,7 +4929,6 @@
     "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5156,7 +4956,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5184,7 +4983,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5212,7 +5010,6 @@
     "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5240,7 +5037,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5268,7 +5064,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5296,7 +5091,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5324,7 +5118,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5352,7 +5145,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5380,7 +5172,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5394,7 +5185,7 @@
     "latinName": "Acorus gramineus",
     "genus": "菖蒲属",
     "family": "菖蒲科",
-    "aliases": "金叶石菖蒲·Ogon·石菖蒲",
+    "aliases": "石菖蒲",
     "evergreen": "evergreen",
     "height": "0.1-0.3",
     "spread": "0.2-0.45",
@@ -5408,7 +5199,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "水生植物",
     "sources": [
@@ -5423,7 +5213,7 @@
     "latinName": "Liriope",
     "genus": "山麦冬属",
     "family": "天门冬科",
-    "aliases": "阔叶山麦冬·纯金麦冬·纯金啤酒麦冬·Pure Blonde",
+    "aliases": "阔叶山麦冬",
     "evergreen": "evergreen",
     "height": "0.2-0.45",
     "spread": "0.3-0.6",
@@ -5437,7 +5227,6 @@
     "hardinessZone": "4-10",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5451,7 +5240,7 @@
     "latinName": "Stipa tenuissima",
     "genus": "针茅属",
     "family": "禾本科",
-    "aliases": "墨西哥羽毛草·针茅·Pony Tails",
+    "aliases": "墨西哥羽毛草·针茅",
     "evergreen": "deciduous",
     "height": "0.5-0.9",
     "spread": "0.3-0.5",
@@ -5465,7 +5254,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5493,7 +5281,6 @@
     "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5507,7 +5294,7 @@
     "latinName": "Cortaderia selloana",
     "genus": "蒲苇属",
     "family": "禾本科",
-    "aliases": "白蒲苇·矮蒲苇·Pumila",
+    "aliases": "白蒲苇",
     "evergreen": "evergreen",
     "height": "2-3",
     "spread": "1.5-2.5",
@@ -5521,7 +5308,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5549,7 +5335,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5577,7 +5362,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5591,7 +5375,7 @@
     "latinName": "Calamagrostis acutiflora",
     "genus": "拂子茅属",
     "family": "禾本科",
-    "aliases": "拂子茅·卡尔福斯特·Karl Foerster",
+    "aliases": "拂子茅",
     "evergreen": "deciduous",
     "height": "1.2-1.8",
     "spread": "0.6-0.9",
@@ -5605,7 +5389,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5633,7 +5416,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "水生植物",
     "sources": [
@@ -5662,7 +5444,6 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5690,7 +5471,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5718,7 +5498,6 @@
     "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5732,7 +5511,7 @@
     "latinName": "Iris louisiana",
     "genus": "鸢尾属",
     "family": "鸢尾科",
-    "aliases": "路易斯安娜鸢尾·黑斗鸡·Black Gamecock",
+    "aliases": "路易斯安娜鸢尾",
     "evergreen": "evergreen",
     "height": "0.6-0.9",
     "spread": "0.5-0.8",
@@ -5746,7 +5525,6 @@
     "hardinessZone": "5-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "水生植物",
     "sources": [
@@ -5774,7 +5552,6 @@
     "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
@@ -5802,7 +5579,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "地被",
     "sources": [
@@ -5831,7 +5607,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "地被",
     "sources": [
@@ -5859,7 +5634,6 @@
     "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "地被",
     "sources": [
@@ -5886,7 +5660,6 @@
     "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "地被",
     "sources": [
@@ -5914,7 +5687,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "地被",
     "sources": [
@@ -5942,7 +5714,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "藤本",
     "sources": [
@@ -5971,7 +5742,6 @@
     "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "藤本",
     "sources": [
@@ -5999,7 +5769,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "藤本",
     "sources": [
@@ -6028,7 +5797,6 @@
     "hardinessZone": "8-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "藤本",
     "sources": [
@@ -6057,7 +5825,6 @@
     "hardinessZone": "5-11",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
     "tags": [],
     "category": "藤本",
     "sources": [
@@ -6086,7 +5853,6 @@
     "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": true,
-    "images": [],
     "tags": [],
     "category": "藤本",
     "sources": [
@@ -6120,7 +5886,6 @@
       "https://easyscape.com/species/Saururus-chinensis(Asian-Lizard%E2%80%99s-Tail)",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6129,7 +5894,7 @@
     "latinName": "Lythrum salicaria",
     "genus": "千屈菜属",
     "family": "千屈菜科",
-    "aliases": "白花千屈菜",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "0.6-1.2",
     "spread": "0.6-1.2",
@@ -6149,7 +5914,6 @@
       "https://plantdatabase.kpu.ca/Plant/lysa",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6178,7 +5942,6 @@
       "https://pfaf.org/USER/Plant.aspx?LatinName=Iris+sanguinea",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6207,7 +5970,6 @@
       "https://wapbaike.baidu.com/item/泽珍珠菜/2567621",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6236,7 +5998,6 @@
       "https://pts.lifeasible.com/vallisneria-nana-gracilisnarrow-leaf-eelgrass-item-1020.html",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6265,7 +6026,6 @@
       "https://www.lilyblooms.com/hornwort-ceratophyllum-demersum-submerged-oxygenating-pond-plant/",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6294,7 +6054,6 @@
       "https://www.thompson-morgan.com/p/sagittaria-sagittifolia-marginal-aquatic/wkh4754TM",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6323,7 +6082,6 @@
       "https://www.thompson-morgan.com/p/alisma-plantagoaquatica-marginal-aquatic/T78076TM",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6351,7 +6109,6 @@
       "https://en.paperblog.com/plant-of-the-week-fraxinus-bungeana-566629/",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6379,7 +6136,6 @@
       "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242310271",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6407,7 +6163,6 @@
       "https://www.worldfloraonline.org/taxon/wfo-0001291121",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6435,7 +6190,6 @@
       "https://dawesarb.arboretumexplorer.org/taxon-18996.aspx",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6463,7 +6217,6 @@
       "https://www.rhs.org.uk/plants/15682/rhododendron-simsii-ea/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6491,7 +6244,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287487&isprofile=0&bt=7",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6519,7 +6271,6 @@
       "https://www.rhs.org.uk/plants/92278/corylopsis-sinensis-var-sinensis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6528,7 +6279,7 @@
     "latinName": "Spiraea japonica",
     "genus": "绣线菊属",
     "family": "蔷薇科",
-    "aliases": "金色喷泉·金焰绣线菊",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "1.2-1.8",
     "spread": "1.5-2",
@@ -6547,7 +6298,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286473",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6556,7 +6306,7 @@
     "latinName": "Hydrangea quercifolia",
     "genus": "绣球属",
     "family": "绣球花科",
-    "aliases": "雪花·小蜜蜂",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "1.8-3",
     "spread": "2.4-3",
@@ -6575,7 +6325,6 @@
       "https://plantfinder.nativeplanttrust.org/plant/Hydrangea-quercifolia",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6584,7 +6333,7 @@
     "latinName": "Philadelphus coronarius",
     "genus": "山梅花属",
     "family": "绣球花科",
-    "aliases": "金叶山梅花",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
@@ -6603,7 +6352,6 @@
       "https://www.rhs.org.uk/plants/92563/philadelphus-coronarius/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6631,7 +6379,6 @@
       "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=390",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6659,7 +6406,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279992",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6687,7 +6433,6 @@
       "https://www.rhs.org.uk/plants/7014/euonymus-phellomanus/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6715,7 +6460,6 @@
       "https://www.rhs.org.uk/plants/9420/itea-ilicifolia/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6743,7 +6487,6 @@
       "https://www.rhs.org.uk/plants/68665/lonicera-fragrantissima/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6771,7 +6514,6 @@
       "http://plants.pikenursery.com/12291001/Results/Index/133?Cattree=True&senderAll=Trees",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6799,7 +6541,6 @@
       "http://plants.oaklandnursery.com/12130001/Results/Index/13?Cattrde=True&senderAll=Deciduous%2bTrees",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6827,7 +6568,6 @@
       "https://www.rhs.org.uk/plants/8246/hamamelis-mollis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6855,7 +6595,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=e135",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6883,7 +6622,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286295",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6911,7 +6649,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6939,7 +6676,6 @@
       "https://www.rhs.org.uk/plants/25899/dryopteris-erythrosora/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6967,7 +6703,6 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200004030",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -6995,7 +6730,6 @@
       "https://www.rhs.org.uk/plants/69247/dryopteris-tokyoensis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7023,7 +6757,6 @@
       "https://www.rhs.org.uk/plants/240129/pteris-nipponica/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7051,7 +6784,6 @@
       "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200020320",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7079,7 +6811,6 @@
       "https://www.rhs.org.uk/plants/24174/fritillaria-thunbergii/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7107,7 +6838,6 @@
       "https://www.rhs.org.uk/plants/18350/tricyrtis-formosana/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7135,7 +6865,6 @@
       "https://www.rhs.org.uk/plants/219228/disporopsis-aspersa/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7163,7 +6892,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281083",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7191,7 +6919,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287439",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7219,7 +6946,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=278821",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7247,7 +6973,6 @@
       "https://www.rhs.org.uk/plants/107239/asarum-splendens/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7275,7 +7000,6 @@
       "https://en.wikipedia.org/wiki/Dianthus_superbus",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7303,7 +7027,6 @@
       "https://cornellbotanicgardens.org/plant/tiger-lily",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7331,7 +7054,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=d583",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7340,7 +7062,7 @@
     "latinName": "Cercis canadensis",
     "genus": "紫荆属",
     "family": "豆科",
-    "aliases": "永恒之火",
+    "aliases": null,
     "evergreen": "deciduous",
     "height": "6-9",
     "spread": "6-8",
@@ -7359,7 +7081,6 @@
       "https://si.gardenexplorer.org/taxon-1242.aspx",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7387,7 +7108,6 @@
       "https://friendsofmercer.com/Pavonia-hastata--Spearleaf-Swamp-Mallow-P_p_5679.html",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7415,7 +7135,6 @@
       "https://fresnogardening.org/eplant.php?plantnum=1630",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7443,7 +7162,6 @@
       "https://www.rhs.org.uk/plants/84304/melianthus-major/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7471,7 +7189,6 @@
       "https://kiefernursery.com/product/acer-buergerianum/",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7499,7 +7216,6 @@
       "https://plants.squakmtnursery.com/12230001/Plant/6195/Giant_Dogwood",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7527,7 +7243,6 @@
       "https://landscapeplants.oregonstate.edu/plants/ternstroemia-gymnanthera",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7555,7 +7270,6 @@
       "https://www.rhs.org.uk/plants/148757/aucuba-japonica/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7583,7 +7297,6 @@
       "https://www.rhs.org.uk/plants/7147/fatsia-japonica/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7611,7 +7324,6 @@
       "https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7639,7 +7351,6 @@
       "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7667,7 +7378,6 @@
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7695,7 +7405,6 @@
       "https://www.rhs.org.uk/plants/98506/saxifraga-stolonifera-5/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7723,7 +7432,6 @@
       "https://www.rhs.org.uk/plants/24575/helleborus-thibetanus/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7751,7 +7459,6 @@
       "https://www.onlineplantguide.com/plant-details/3780",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7779,7 +7486,6 @@
       "https://www.rhs.org.uk/plants/5982/disporum-cantoniense/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7807,7 +7513,6 @@
       "https://en.wikipedia.org/wiki/Ajuga_decumbens",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7816,7 +7521,7 @@
     "latinName": "Carex oshimensis",
     "genus": "薹草属",
     "family": "莎草科",
-    "aliases": "凤凰绿·埃弗利斯特",
+    "aliases": null,
     "evergreen": "evergreen",
     "height": "0.3-0.4",
     "spread": "0.3-0.4",
@@ -7835,7 +7540,6 @@
       "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7863,7 +7567,6 @@
       "https://stage.gardenia.net/plant/typha-minima",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7891,7 +7594,6 @@
       "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250096504",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   },
   {
@@ -7919,7 +7621,6 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250095526",
       "https://plantfinder.mobot.org/"
     ],
-    "images": [],
     "tags": []
   }
 ]

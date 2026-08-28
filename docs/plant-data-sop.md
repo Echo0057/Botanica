@@ -22,7 +22,7 @@
 
 - 拿到中文名(如「三白草」)后,先确定它的**拉丁学名**(属名 + 种加词)。
 - 我自己能确定的直接用;不确定或存在争议时,**联网核对**(见第 2 节),以 KEW POWO / RHS 为正名。
-- 中文名可能有异名,多看一眼 `aliases`(别名)。
+- 中文名可能有异名,多看一眼 `aliases`(别名)。**注意:`aliases` 只收通用名/俗名,不写品种名**(品种已按种合并成一条记录)。
 
 ### 第 2 步:定分类
 
@@ -63,8 +63,7 @@
   "bloomSeason": "夏",
   "leafForm": "卵形叶",
   "notes": "一句话特性描述。",
-  "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?..."],
-  "images": []
+  "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?..."]
 }
 ```
 
@@ -95,8 +94,7 @@ npm run import:plants
 | 3 | **Missouri Botanical Garden · Plant Finder** | 高度 / 冠幅 / 日照 / 水分 / 花期 / 花色 / 耐寒区(结构字段齐全) |
 | 4 | **Great Plant Picks** | 「可靠好养/成熟表现佳」的可靠性判断 |
 | 5 | **Mount Cuba Center** | 多年生草花试种结果、花期/表现可靠度 |
-| 6 | **Wikimedia Commons / iNaturalist / GBIF** | 图片(多为 CC 授权) |
-| 7 | 补充 | Wikipedia、园艺商/苗圃页(仅作参考) |
+| 6 | 补充 | Wikipedia、园艺商/苗圃页(仅作参考) |
 
 ### 中文学名 / 中文别名(权威来源)
 
@@ -116,8 +114,6 @@ npm run import:plants
 2. **再确定拉丁学名**。用 `search` 搜 `"<拉丁学名>" RHS` 或 `"<拉丁学名>" powo.kew.org`,锁定 POWO / RHS 的正名。
 3. **查结构特征**。搜 `"<学名>" Missouri Botanical Garden Plant Finder`;有结果用 `open_page` 读高度/冠幅/日照/水分/花期/耐寒。
 4. **搜可靠性**。搜 `"<学名>" Great Plant Picks` 或 `Mount Cuba`;看「可靠好养」描述。
-5. **有图片需求**时,搜 `"<学名>" site:commons.wikimedia.org` 或 iNaturalist / GBIF。
-
 ### 抽取规则(字段 → 来源)
 
 - **height / spread(米)**:MoBot/RHS 给的是区间或描述,统一转成如 `"0.5-1"`、`"4-6"`(米)。拿不到就留 `null`,别猜。
@@ -154,8 +150,9 @@ npm run import:plants
 | `leafForm` | 否 | 叶形/形态,如 `剑形叶` |
 | `notes` | 否 | 一句话特性(映射到 `rawNotes`) |
 | `sources` | 否 | 来源 URL 数组 |
-| `images` | 否 | 本地 `public/images/` 文件名数组 |
 | `tags` | 否 | 自定义标签数组 |
+
+> **已移除**:`images` 字段(2026-08-28 起不做图片,前端不渲染、脚本不再抓图)。
 
 ---
 
