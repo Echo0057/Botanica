@@ -6323,34 +6323,6 @@
     "leafColor": "秋色红/褐"
   },
   {
-    "id": "philadelphus_coronarius",
-    "chineseName": "山梅花",
-    "latinName": "Philadelphus coronarius",
-    "genus": "山梅花属",
-    "family": "绣球花科",
-    "aliases": null,
-    "evergreen": "deciduous",
-    "height": "1.5-2.5",
-    "spread": "1.5-2.5",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "bloomSeason": "春-夏",
-    "flowerColor": "白",
-    "seasonOfInterest": null,
-    "leafForm": "卵形叶",
-    "persistence": null,
-    "hardinessZone": "4-8",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "灌木",
-    "sources": [
-      "https://www.rhs.org.uk/plants/92563/philadelphus-coronarius/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "tags": [],
-    "habitat": "林缘、灌丛"
-  },
-  {
     "id": "enkianthus_campanulatus",
     "chineseName": "粉花吊钟",
     "latinName": "Enkianthus campanulatus",
