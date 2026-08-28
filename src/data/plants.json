@@ -117,7 +117,7 @@
       "https://floranorthamerica.org/Santolina_chamaecyparissus"
     ],
     "habitat": "地中海旱生坡地、岩石地、荒地",
-    "leafColor": "全年银灰叶"
+    "leafColor": "全年银灰"
   },
   {
     "id": "plant_5",
@@ -465,7 +465,7 @@
       "https://www.cushionplants.eu/spfiche/540"
     ],
     "habitat": "地中海碱质岩石海岸崖壁、旱生灌丛",
-    "leafColor": "全年银白色叶"
+    "leafColor": "全年银白"
   },
   {
     "id": "plant_19",
@@ -696,7 +696,7 @@
       "https://anpsa.org.au/plant_profiles/ozothamnus-diosmifolius/"
     ],
     "habitat": "旱生灌丛、开阔林地、贫瘠坡地",
-    "leafColor": "全年银灰叶"
+    "leafColor": "全年银灰"
   },
   {
     "id": "plant_27",
@@ -869,7 +869,7 @@
       "https://plantfinder.mobot.org/"
     ],
     "habitat": "干旱草地、沙砾地",
-    "leafColor": "全年银灰叶"
+    "leafColor": "全年银灰"
   },
   {
     "id": "plant_33",
@@ -1011,7 +1011,7 @@
       "https://kiefernursery.com/product/ajuga-reptans-chocolate-chip/"
     ],
     "habitat": "林下、湿润草地",
-    "leafColor": "全年紫红/古铜叶"
+    "leafColor": "全年紫红/古铜"
   },
   {
     "id": "plant_38",
@@ -1126,7 +1126,7 @@
       "https://pfaf.org/User/Plant.aspx?LatinName=Pennisetum+setaceum"
     ],
     "habitat": "旱生岩石坡地、干燥石质草地、沙地",
-    "leafColor": "全年紫红色叶"
+    "leafColor": "全年紫红"
   },
   {
     "id": "plant_42",
@@ -1830,7 +1830,7 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008408"
     ],
     "habitat": "山地林缘溪边、灌丛",
-    "leafColor": "冬季红斑/红果"
+    "leafColor": "冬季红/红果"
   },
   {
     "id": "mahonia_fortunei",
@@ -2307,7 +2307,7 @@
       "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250100535"
     ],
     "habitat": "林缘、干燥坡地、松林地空地",
-    "leafColor": "秋色红橙"
+    "leafColor": "秋色红/橙"
   },
   {
     "id": "prunus_yedoensis_somei_yoshino",
@@ -3296,7 +3296,7 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019257"
     ],
     "habitat": "山坡、路边灌丛、疏林",
-    "leafColor": "秋色红紫"
+    "leafColor": "秋色红/紫"
   },
   {
     "id": "enkianthus_perulatus",
@@ -3763,7 +3763,7 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250097925"
     ],
     "habitat": "海岸珊瑚岩、礁石、崖壁",
-    "leafColor": "全年银灰叶"
+    "leafColor": "全年银灰"
   },
   {
     "id": "baccharis_halimifolia_moench",
@@ -3821,7 +3821,7 @@
       "https://www.balllandscape.com/products/plantinfo.aspx?phid=028106282006060"
     ],
     "habitat": "旱生草地、岩坡",
-    "leafColor": "全年银灰叶"
+    "leafColor": "全年银灰"
   },
   {
     "id": "artemisia_schmidtiana",
@@ -3850,7 +3850,7 @@
       "https://c3.provenwinners.com/plants/artemisia/silver-mound-wormwood-artemisia-schmidtiana-0"
     ],
     "habitat": "高山岩石缝、砾石坡地",
-    "leafColor": "全年银灰色叶"
+    "leafColor": "全年银灰"
   },
   {
     "id": "tagetes_lemmonii",
@@ -4616,7 +4616,7 @@
       "https://plantfinder.mobot.org/"
     ],
     "habitat": "湿地、溪边",
-    "leafColor": "全年紫红/古铜色叶"
+    "leafColor": "全年紫红/古铜"
   },
   {
     "id": "agave_americana_l",
@@ -4646,7 +4646,7 @@
       "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242102115"
     ],
     "habitat": "沙漠灌丛、沙质旱地、岩石坡地",
-    "leafColor": "全年蓝灰色叶"
+    "leafColor": "全年蓝灰"
   },
   {
     "id": "verbena_officinalis_l",
@@ -5360,7 +5360,7 @@
       "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242338760"
     ],
     "habitat": "林下、阴湿坡地、湿润山谷",
-    "leafColor": "全年白色条纹叶"
+    "leafColor": "全年白纹"
   },
   {
     "id": "aspidistra",
@@ -5446,7 +5446,7 @@
       "https://plantfinder.mobot.org/"
     ],
     "habitat": "林下湿润地",
-    "leafColor": "全年黄绿/金边叶"
+    "leafColor": "全年金边"
   },
   {
     "id": "carex",
@@ -5908,7 +5908,7 @@
       "https://plantfinder.mobot.org/"
     ],
     "habitat": "林下、坡地草丛",
-    "leafColor": "全年古铜红顶叶"
+    "leafColor": "全年古铜/红顶"
   },
   {
     "id": "glechoma_hederacea",
@@ -5937,7 +5937,7 @@
       "https://www.rhs.org.uk/plants/71551/glechoma-hederacea-variegata-v/details"
     ],
     "habitat": "林下、湿草地、路边",
-    "leafColor": "全年黄绿斑叶"
+    "leafColor": "全年黄绿斑"
   },
   {
     "id": "saxifraga",
@@ -6607,7 +6607,7 @@
     ],
     "tags": [],
     "habitat": "低山丘陵灌丛、林缘",
-    "leafColor": "秋色红紫"
+    "leafColor": "秋色红/紫"
   },
   {
     "id": "corylopsis_sinensis",
@@ -6928,7 +6928,7 @@
     ],
     "tags": [],
     "habitat": "林缘、湿润坡地、干燥高地林",
-    "leafColor": "秋色红橙"
+    "leafColor": "秋色红/橙"
   },
   {
     "id": "hamamelis_mollis",
@@ -6957,7 +6957,7 @@
     ],
     "tags": [],
     "habitat": "山坡灌丛、林缘",
-    "leafColor": "秋色黄橙"
+    "leafColor": "秋色黄/橙"
   },
   {
     "id": "anemone_hybrida",
@@ -7157,7 +7157,7 @@
     ],
     "tags": [],
     "habitat": "林下阴湿、岩壁",
-    "leafColor": "全年银白色条纹叶"
+    "leafColor": "全年银白纹"
   },
   {
     "id": "scutellaria_indica",
@@ -7242,7 +7242,7 @@
     ],
     "tags": [],
     "habitat": "林下、溪边阴湿",
-    "leafColor": "全年黄边花叶"
+    "leafColor": "全年黄边/花叶"
   },
   {
     "id": "disporopsis_aspersa",
@@ -7707,7 +7707,7 @@
     ],
     "tags": [],
     "habitat": "林下、阴湿山谷",
-    "leafColor": "全年黄斑花叶"
+    "leafColor": "全年黄斑/花叶"
   },
   {
     "id": "fatsia_japonica",
@@ -7737,7 +7737,7 @@
     ],
     "tags": [],
     "habitat": "阴湿林下、溪谷",
-    "leafColor": "全年白/黄斑花叶"
+    "leafColor": "全年白斑/黄斑"
   },
   {
     "id": "aspidistra_elatior",
@@ -7795,7 +7795,7 @@
     ],
     "tags": [],
     "habitat": "林下阴湿、溪边",
-    "leafColor": "全年黄绿/金边叶"
+    "leafColor": "全年金边"
   },
   {
     "id": "bletilla_striata",
@@ -7968,7 +7968,7 @@
     ],
     "tags": [],
     "habitat": "林下、沟边、湿草坡",
-    "leafColor": "全年紫红/古铜叶"
+    "leafColor": "全年紫红/古铜"
   },
   {
     "id": "carex_oshimensis",
@@ -8110,7 +8110,7 @@
     ],
     "tags": [],
     "habitat": "沼泽、低地湿润林地、溪边、河岸",
-    "leafColor": "秋色红橙"
+    "leafColor": "秋色红/橙"
   },
   {
     "id": "hypericum_densiflorum",

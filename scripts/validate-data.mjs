@@ -122,12 +122,42 @@ for (const p of plants) {
   if (bad.length) warnings.push(`${p.chineseName} 别名含品种名: ${bad.join(' / ')}`);
 }
 
-// 8.5) 政策:彩叶(leafColor)可选;若非空应为彩色/秋色描述,不应写「常绿/纯绿/绿叶」等非彩叶词
-const NON_COLOR_LEAF = ['常绿', '纯绿', '绿叶', '绿色复叶', '蓝绿色', '细线叶'];
+// 8.5) 政策:彩叶(leafColor)可选;若非空应统一为「季节前缀 + 标准色名(可 / 分隔)」。
+const LEAF_COLOR_PREFIX = ['秋色', '全年', '冬季', '常年', '春夏'];
+const LEAF_COLOR_TERMS = [
+  // 单色
+  '红', '橙', '黄', '紫', '橙红', '金黄', '橙黄', '砖红', '锈红', '火红', '紫红', '蓝灰',
+  '银灰', '银白', '古铜', '黄绿', '褐',
+  // 复合/形态
+  '金边', '黄边', '花叶', '黄斑', '白斑', '白纹', '银白纹', '黄绿斑', '红果', '红顶',
+];
+
+function leafColorIssues(text) {
+  const v = String(text || '').trim();
+  if (!v) return [];
+  const issues = [];
+  const prefix = LEAF_COLOR_PREFIX.find((p) => v.startsWith(p));
+  if (!prefix) issues.push('缺季节前缀(应用 秋色/全年/冬季 等开头)');
+  const body = prefix ? v.slice(prefix.length) : v;
+  // 末尾冗余「叶」:色名串不宜以「叶」结尾(花叶为词除外)
+  const lastPart = body.split('/').filter(Boolean).at(-1)?.trim();
+  if (lastPart !== '花叶' && lastPart && /叶$/.test(lastPart)) {
+    issues.push(`色名末尾带冗余「叶」(应为色名,如 古铜/金黄): "${v}"`);
+  }
+  // 每段色名须在标准词表;禁止混拼(如 红橙/黄橙/红紫)或「X色叶」写法
+  const parts = body.split('/').map((s) => s.trim()).filter(Boolean);
+  for (const s of parts) {
+    if (!LEAF_COLOR_TERMS.includes(s)) {
+      issues.push(`色名「${s}」非标准(应从 ${LEAF_COLOR_TERMS.join('/')})`);
+    }
+  }
+  return issues;
+}
+
 for (const p of plants) {
-  if (!p.leafColor) continue;
-  const hit = NON_COLOR_LEAF.find((w) => p.leafColor.includes(w));
-  if (hit) warnings.push(`${p.chineseName} 彩叶字段疑似非彩叶(含「${hit}」): "${p.leafColor}"`);
+  if (p.leafColor == null) continue;
+  const bad = leafColorIssues(p.leafColor);
+  if (bad.length) warnings.push(`${p.chineseName} 彩叶字段不规范: ${bad.join(' / ')} -> "${p.leafColor}"`);
 }
 
 // 9) 政策:生境只收生态型微生境,不含海拔/地区/国家/括号/栽植用词
