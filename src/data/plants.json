@@ -326,33 +326,6 @@
     ]
   },
   {
-    "id": "plant_14",
-    "chineseName": "西班牙薰衣草",
-    "latinName": "Lavandula stoechas",
-    "genus": "薰衣草属",
-    "family": "唇形科",
-    "aliases": "法国薰衣草·头状薰衣草",
-    "evergreen": "evergreen",
-    "height": "0.4-0.7",
-    "spread": "0.6-1",
-    "sun": "full sun",
-    "water": "dry",
-    "bloomSeason": "春-夏",
-    "flowerColor": "紫",
-    "seasonOfInterest": null,
-    "leafForm": "线形/披针形叶",
-    "persistence": null,
-    "hardinessZone": "7-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://plantdatabase.kpu.ca/Plant/laso",
-      "https://plantfinder.mobot.org/"
-    ]
-  },
-  {
     "id": "plant_15",
     "chineseName": "八宝景天",
     "latinName": "Hylotelephium spectabile",
@@ -5258,33 +5231,6 @@
     "category": "宿根草本",
     "sources": [
       "https://www.rhs.org.uk/plants/58857/stipa-tenuissima/details",
-      "https://plantfinder.mobot.org/"
-    ]
-  },
-  {
-    "id": "ensete",
-    "chineseName": "象腿蕉属",
-    "latinName": "Ensete",
-    "genus": "象腿蕉属",
-    "family": "芭蕉科",
-    "aliases": "象脚蕉",
-    "evergreen": "evergreen",
-    "height": "2.5-4",
-    "spread": "1.5-2.5",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "bloomSeason": null,
-    "flowerColor": "红",
-    "seasonOfInterest": null,
-    "leafForm": "大型桨状叶",
-    "persistence": null,
-    "hardinessZone": "9-11",
-    "missingName": false,
-    "genusOnly": true,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/6397/ensete-ventricosum/details",
       "https://plantfinder.mobot.org/"
     ]
   },
