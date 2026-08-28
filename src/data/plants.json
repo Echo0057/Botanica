@@ -349,35 +349,6 @@
     "habitat": "林下、灌木丛、溪边、草坡"
   },
   {
-    "id": "plant_17",
-    "chineseName": "蓍草",
-    "latinName": "Achillea millefolium",
-    "genus": "蓍属",
-    "family": "菊科",
-    "aliases": "蓍·欧蓍·千叶蓍·锯草·洋蓍草",
-    "evergreen": "deciduous",
-    "height": "0.6-0.9",
-    "spread": "0.6-0.9",
-    "sun": "full sun",
-    "water": "dry",
-    "bloomSeason": "夏",
-    "flowerColor": "白/粉/黄",
-    "seasonOfInterest": null,
-    "leafForm": "羽状细裂叶",
-    "persistence": null,
-    "hardinessZone": "3-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277129",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023010"
-    ],
-    "habitat": "草甸、路边、荒地、林缘"
-  },
-  {
     "id": "plant_18",
     "chineseName": "银旋花",
     "latinName": "Convolvulus cneorum",
@@ -3675,35 +3646,6 @@
       "https://www.balllandscape.com/products/plantinfo.aspx?phid=028106282006060"
     ],
     "habitat": "旱生草地、岩坡",
-    "leafColor": "全年银灰"
-  },
-  {
-    "id": "artemisia_schmidtiana",
-    "chineseName": "朝雾草",
-    "latinName": "Artemisia schmidtiana",
-    "genus": "蒿属",
-    "family": "菊科",
-    "aliases": "银叶艾·朝雾",
-    "evergreen": "evergreen",
-    "height": "0.2-0.3",
-    "spread": "0.3-0.6",
-    "sun": "full sun",
-    "water": "dry",
-    "bloomSeason": "夏",
-    "flowerColor": "黄",
-    "seasonOfInterest": null,
-    "leafForm": "银白细裂叶",
-    "persistence": null,
-    "hardinessZone": "4-10",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/97590/artemisia-schmidtiana/details",
-      "https://c3.provenwinners.com/plants/artemisia/silver-mound-wormwood-artemisia-schmidtiana-0"
-    ],
-    "habitat": "高山岩石缝、砾石坡地",
     "leafColor": "全年银灰"
   },
   {
