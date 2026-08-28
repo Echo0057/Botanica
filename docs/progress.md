@@ -41,6 +41,7 @@
 - **槭属适生种补录(华东/上海)**:新增 5 条槭属(落叶乔木):**红花槭**(Acer rubrum,上海引种最多秋色槭)、**元宝槭**(Acer truncatum)、**茶条槭**(Acer tataricum subsp. ginnala,别名 苦条槭/苦茶槭)、**秀丽槭**(Acer elegantulum)、**毛脉槭**(Acer pubinerve)。各条含微生境描述+权威来源(eFloras/POWO/iPlant/SIU/FSUS)。「复叶槭(花叶/金叶)」上海湿热长势不佳、易病虫害,建议不录。
 - **import 脚本校验顺序修复**:`import-plants.mjs` 把「按种去重」判断提前到生境校验之前。否则 additional-plants.json 里同种旧条目(白花千屈菜 Lythrum salicaria、石菖蒲 Acorus gramineus)因生境字段为空会报「生境为空」并**中止整个导入**,导致新增植物无法入库。
 - **新增「彩叶」(leafColor)字段**:详情页与概览表在 **花色·花期之后**新增「彩叶」行/列,搜索同时纳入 `leafColor`(可搜「秋色/银灰/紫叶/花叶」等)。数据侧为 **66 条**秋色叶 / 全年彩叶(银灰、紫红、花叶、黄边等)植物补填彩叶描述;非彩叶(常绿/纯绿/灰绿)不标。`import-plants.mjs` 支持写入 `leafColor`;`validate-data.mjs` 新增政策校验:彩叶字段非空时不应含「常绿/纯绿/绿叶/蓝绿色」等非彩叶词(warning,不阻断)。
+- **修复概览表文本穿入冻结表头**:`OverviewTable` 因表头 z-index(Z-10/Z-20)低于行悬停时的 `hover:z-40`,快速滚动时悬停行的文字会绘制到冻结表头之上。已将表头 z-index 提升至 **Z-30(普通列)/Z-40(首列)**,并移除行的 `hover:z-40`,使表头层级始终高于行,消除穿透。
   - 已移除:浏览卡片视图、收藏功能、「设计层」列、「特性」字段。
   - 浏览器标签页图标为 Botanica 叶子 favicon(`public/favicon.svg`)。
 - **Dock 启动器**:`~/Applications/Botanica.app`,点击可确保 Vite 在跑并打开浏览器;图标已换成 Botanica 叶子(`AppIcon.icns`,由 `assets/icon.svg` 生成),并移除会导致点击后 Dock 图标显示空白的 `CFBundleIconName` 资产目录引用。

@@ -72,7 +72,7 @@ export default function OverviewTable({ plants, onOpen }) {
               <th
                 key={c.key}
                 className={`sticky top-0 whitespace-nowrap border-b border-stone-200 bg-stone-50 px-3 py-2 font-medium shadow-[0_1px_0_0_rgba(0,0,0,0.05)] ${
-                  i === 0 ? 'left-0 z-20 border-r' : 'z-10'
+                  i === 0 ? 'left-0 z-40 border-r' : 'z-30'
                 }`}
               >
                 {c.label}
@@ -86,7 +86,7 @@ export default function OverviewTable({ plants, onOpen }) {
               <tr
                 key={p.id}
                 onClick={() => onOpen(p.id)}
-                className="group relative cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40 hover:z-40"
+                className="group relative cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40"
               >
                 {COLUMNS.map((c, i) => (
                   <td
