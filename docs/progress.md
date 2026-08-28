@@ -49,6 +49,8 @@
 
 - 新增植物 → 写 `scripts/additional-plants.json`(必填 `chineseName`+`category`)→ `npm run import:plants` 校验/去重/合并 → `git commit`。
 - 联网检索学名/别名 → 见 `plant-data-sop.md`(KEW POWO / RHS / 植物智 iPlant / 中国植物志 等)。
+- **数据校验(提交前必跑)**:`npm run validate`(`scripts/validate-data.mjs`)。检查:①同一拉丁属只对应一个中文属名;②同一中文属只对应一个科;③科/属名是否用变体(如 木樨科,应归一到 木犀科);④日照/水分/常绿/花期取值白名单;⑤耐寒区/高度/冠幅格式。任何一处不合规即报错退出。
+- **中文科/属名权威归一**:`src/data/taxonomy-cn.js`(以《中国植物志》标准写法为准);富集流水线 `apply-enrichment.mjs` 写入前会对科/属做 `canonical*` 归一,避免混入「木樨」这类变体。
 - Excel 导入已停用(2026-08-27)。
 
 ---

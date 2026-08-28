@@ -12,6 +12,7 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
 import { resolve, dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { canonicalFamily, canonicalGenus } from '../src/data/taxonomy-cn.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
@@ -104,6 +105,12 @@ for (const file of files) {
 if (missing.length) {
   console.warn('[warn] 以下条目未匹配到植物(跳过):');
   for (const m of missing) console.warn('  ', m);
+}
+
+// 写入前统一中文科/属名为标准写法(防变体漂移)
+for (const p of plants) {
+  if (p.family) p.family = canonicalFamily(p.family);
+  if (p.genus) p.genus = canonicalGenus(p.genus);
 }
 
 writeFileSync(PLANTS_PATH, JSON.stringify(plants, null, 2) + '\n');

@@ -9,7 +9,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "import:plants": "node scripts/import-plants.mjs",
-    "enrich": "node scripts/apply-enrichment.mjs"
+    "enrich": "node scripts/apply-enrichment.mjs",
+    "validate": "node scripts/validate-data.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",
