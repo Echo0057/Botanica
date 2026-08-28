@@ -99,7 +99,7 @@ export default function OverviewTable({ plants, onOpen }) {
               <tr
                 key={p.id}
                 onClick={() => onOpen(p.id)}
-                className="group cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40"
+                className="group relative cursor-pointer border-b border-stone-100 last:border-0 hover:bg-green-50/40 hover:z-40"
               >
                 {COLUMNS.map((c, i) => (
                   <td
