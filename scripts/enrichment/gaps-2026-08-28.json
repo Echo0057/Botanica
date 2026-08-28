@@ -1,0 +1,229 @@
+[
+  { "match": "Agastache", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫/粉" }, "sources": ["https://plantfinder.mobot.org/"] },
+  { "match": "Rudbeckia maxima", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏", "flowerColor": "黄" }, "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=293533"] },
+  { "match": "Baptisia australis", "fields": { "water": "medium", "hardinessZone": "3-9", "bloomSeason": "春-夏", "flowerColor": "蓝紫" }, "sources": ["https://kiefernursery.com/product/baptisia-australis-2/"] },
+  { "match": "Phlox paniculata", "fields": { "water": "medium", "hardinessZone": "4-8", "bloomSeason": "夏-秋", "flowerColor": "白/粉/紫/红" }, "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=f193"] },
+  { "match": "Crocosmia × crocosmiiflora", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "橙红" }, "sources": ["https://kiefernursery.com/product/crocosmia-x-crocosmiiflora-honey-angels/"] },
+  { "match": "Ajuga reptans", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "春", "flowerColor": "蓝紫" }, "sources": ["https://kiefernursery.com/product/ajuga-reptans-chocolate-chip/"] },
+  { "match": "Pennisetum alopecuroides", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "黄褐" }, "sources": ["https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&letter=P&taxonid=251868"] },
+  { "match": "Salvia", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫/粉" }, "sources": ["https://kiefernursery.com/product/salvia-officinalis/"] },
+  { "match": "Rudbeckia", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏-秋", "flowerColor": "黄" }, "sources": ["https://kiefernursery.com/product/rudbeckia-lacinata/"] },
+  { "match": "Coreopsis", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏-秋", "flowerColor": "黄" }, "sources": ["https://kiefernursery.com/product/coreopsis-verticillata-zagreb/"] },
+  { "match": "Erigeron karvinskianus", "fields": { "water": "dry", "hardinessZone": "7-10", "bloomSeason": "春-秋", "flowerColor": "白/粉" }, "sources": ["https://biogardens.org/encyclopedia/erigeron-karvinskianus"] },
+  { "match": "Hemerocallis", "fields": { "water": "medium", "hardinessZone": "3-9", "bloomSeason": "夏", "flowerColor": "多彩" }, "sources": ["https://kiefernursery.com/product/hemerocallis-hyperion/"] },
+  { "match": "Agapanthus", "fields": { "water": "medium", "hardinessZone": "6-10", "bloomSeason": "夏", "flowerColor": "蓝紫/白" }, "sources": ["https://kiefernursery.com/product/agapanthus-comptonii-headbourne-hybrids/"] },
+  { "match": "Crocosmia", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "橙红" }, "sources": ["https://kiefernursery.com/product/crocosmia-walberton-yellow/"] },
+  { "match": "Oenothera lindheimeri", "fields": { "water": "dry", "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "白/粉" }, "sources": ["https://api.provenwinners.com/plants/oenothera/stratosphere-white-butterfly-flower-oenothera-lindheimeri"] },
+  { "match": "Verbena", "fields": { "water": "medium", "hardinessZone": "7-9", "bloomSeason": "夏-秋", "flowerColor": "蓝紫/紫红/粉" }, "sources": ["https://cbmga.org/moss-verbena/"] },
+  { "match": "Veronicastrum virginicum", "fields": { "water": "medium", "hardinessZone": "3-8", "bloomSeason": "夏", "flowerColor": "白/淡紫" }, "sources": ["https://plantfinder.nativeplanttrust.org/plant/Veronicastrum-virginicum"] },
+  { "match": "Asclepias tuberosa", "fields": { "water": "dry", "hardinessZone": "3-9", "bloomSeason": "夏", "flowerColor": "橙" }, "sources": ["https://kiefernursery.com/product/asclepias-tuberosa/"] },
+  { "match": "Helianthus", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏-秋", "flowerColor": "黄" }, "sources": ["https://plantfinder.mobot.org/"] },
+  { "match": "Foeniculum", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏", "flowerColor": "黄" }, "sources": ["https://plantfinder.mobot.org/"] },
+  { "match": "Miscanthus sinensis", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "银白/黄褐" }, "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285333"] },
+  { "match": "Miscanthus", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏-秋", "flowerColor": "银白/黄褐" }, "sources": ["https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285333"] },
+  { "match": "Bistorta amplexicaulis", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏", "flowerColor": "粉/红" }, "sources": ["https://davesgarden.com/guides/pf/print/205785"] },
+  { "match": "Eupatorium cannabinum", "fields": { "water": "wet", "hardinessZone": "4-9", "bloomSeason": "夏", "flowerColor": "粉/紫" }, "sources": ["https://plantfinder.mobot.org/"] },
+  { "match": "Gazania rigens", "fields": { "water": "dry", "hardinessZone": "9-10", "bloomSeason": "夏-秋", "flowerColor": "黄/橙/粉/白" }, "sources": ["https://www.balllandscape.com/products/plantinfo.aspx?phid=028106282006060"] },
+  { "match": "Artemisia schmidtiana", "fields": { "water": "dry", "hardinessZone": "4-10", "bloomSeason": "夏", "flowerColor": "黄" }, "sources": ["https://c3.provenwinners.com/plants/artemisia/silver-mound-wormwood-artemisia-schmidtiana-0"] },
+  { "match": "Tagetes lemmonii", "fields": { "water": "dry", "hardinessZone": "8-10", "bloomSeason": "秋-冬", "flowerColor": "黄/橙" }, "sources": ["https://ftp.calflora.org/entry/plantchar.html?crn=14612"] },
+  { "match": "Callirhoe involucrata", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "春-夏", "flowerColor": "紫红" }, "sources": ["https://www.missouribotanicalgarden.org/plan-your-visit/family-of-attractions/butterfly-house/learn-discover-at-the-butterfly-house-/butterflies-and-plants/our-plant-collection/article/1525"] },
+  { "match": "Monarda", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏", "flowerColor": "红/粉/紫" }, "sources": ["https://kiefernursery.com/product/monarda-didyma-grand-marshall/"] },
+  { "match": "Aster", "fields": { "water": "medium", "hardinessZone": "4-8", "bloomSeason": "秋", "flowerColor": "蓝紫/粉/白" }, "sources": ["https://kiefernursery.com/product/aster-now-eurybia-divaricatus-eastern-star/"] },
+  { "match": "Phlox subulata", "fields": { "water": "dry", "hardinessZone": "3-9", "bloomSeason": "春", "flowerColor": "白/粉/紫" }, "sources": ["https://kiefernursery.com/product/phlox-subulata-pink-parasol/"] },
+  { "match": "Gomphrena globosa", "fields": { "water": "dry", "hardinessZone": "9-11", "bloomSeason": "夏-秋", "flowerColor": "红/粉/紫/白" }, "sources": ["https://plantfinder.mobot.org/"] },
+  { "match": "Dichondra argentea", "fields": { "water": "dry", "hardinessZone": "9-10", "bloomSeason": "夏", "flowerColor": "绿白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Kniphofia uvaria", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏", "flowerColor": "橙红" }, "sources": ["https://shuncy.com/plant-finder/plant/2473/red-hot-poker"] }
+  , { "match": "Silene fulgens", "fields": { "water": "medium", "hardinessZone": "5-9", "bloomSeason": "夏", "flowerColor": "红" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Sanguisorba officinalis", "fields": { "water": "medium", "hardinessZone": "3-9", "bloomSeason": "夏-秋", "flowerColor": "暗红" }, "sources": ["https://www.wildflower.org/plants/result.php?id_plant=SAOF3"] }
+  , { "match": "Tulbaghia violacea", "fields": { "water": "medium", "hardinessZone": "7-10", "bloomSeason": "夏-秋", "flowerColor": "淡紫" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Calamintha nepeta", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏-秋", "flowerColor": "白/淡紫" }, "sources": ["https://plants.jobsnursery.com/12170026/Plant/Print?id=2171"] }
+  , { "match": "Pennisetum setaceum", "fields": { "water": "medium", "hardinessZone": "9-10", "bloomSeason": "夏-秋", "flowerColor": "紫红" }, "sources": ["https://txmg.org/hendersonmg/plant-library/grass-purple-fountain/"] }
+  , { "match": "Monarda citriodora", "fields": { "water": "dry", "hardinessZone": "2-11", "bloomSeason": "夏", "flowerColor": "紫红/粉" }, "sources": ["https://txmg.org/hendersonmg/plant-library/beebalm-lemon-mint-purple/"] }
+  , { "match": "Pteris multifida", "fields": { "water": "medium", "hardinessZone": "7-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Liriope spicata (Thunb.) Lour.", "fields": { "water": "medium", "hardinessZone": "4-9", "bloomSeason": "夏-秋", "flowerColor": "淡紫", "evergreen": "evergreen" }, "sources": ["https://depts.washington.edu/hortlib/pal/liriope-lawn-in-the-pacific-northwest/"] }
+  , { "match": "Yucca filamentosa", "fields": { "water": "dry", "hardinessZone": "4-9", "bloomSeason": "夏", "flowerColor": "白", "evergreen": "evergreen" }, "sources": ["https://kiefernursery.com/product/yucca-filamentosa-color-guard/"] }
+  , { "match": "Phormium tenax", "fields": { "water": "medium", "hardinessZone": "8-10", "bloomSeason": "夏", "flowerColor": "橙红", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Anemone hupehensis", "fields": { "water": "medium", "hardinessZone": "4-8", "bloomSeason": "夏-秋", "flowerColor": "粉/白", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Juniperus chinensis", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Laurus", "fields": { "bloomSeason": "春", "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Olea", "fields": { "bloomSeason": "春", "flowerColor": "白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Citrus", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Eriobotrya japonica", "fields": { "water": "medium", "bloomSeason": "秋-冬", "flowerColor": "白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Magnolia grandiflora", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pinus thunbergii", "fields": { "water": "dry" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pinus parviflora", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Taxus wallichiana", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Osmanthus", "fields": { "bloomSeason": "秋", "flowerColor": "黄/橙" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Trachycarpus fortunei", "fields": { "water": "medium", "bloomSeason": "夏", "flowerColor": "黄" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ligustrum lucidum", "fields": { "water": "medium", "hardinessZone": "7-10" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Acer palmatum", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Acer japonicum", "fields": { "water": "medium", "flowerColor": "紫红" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Acer serrulatum", "fields": { "water": "medium", "bloomSeason": "春", "flowerColor": "紫红" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Acer pictum", "fields": { "water": "medium", "bloomSeason": "春", "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Amelanchier canadensis", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Prunus × yedoensis", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Prunus mume", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Malus pumila", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Metasequoia", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Taxodium", "fields": { "water": "wet" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ginkgo", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Zelkova schneideriana", "fields": { "water": "medium", "bloomSeason": "春", "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Crataegus", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Malus", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Quercus texana", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Sapindus", "fields": { "bloomSeason": "夏" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pistacia", "fields": { "flowerColor": "红" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Triadica", "fields": { "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Liquidambar styraciflua", "fields": { "water": "medium", "bloomSeason": "春", "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Liriodendron chinense × tulipifera", "fields": { "water": "medium", "flowerColor": "黄/橙" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Yulania × soulangeana", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Fraxinus bungeana", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Amelanchier laevis", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Cercis canadensis", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Acer buergerianum", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Cornus controversa", "fields": { "water": "medium", "hardinessZone": "5-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Rosa chinensis", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Cornus kousa", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Mahonia fortunei", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Mahonia japonica", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Daphne odora", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ilex", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ligustrum quihoui", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Euonymus japonicus", "fields": { "bloomSeason": "夏", "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Rhapis", "fields": { "bloomSeason": "夏", "flowerColor": "黄" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Chimonanthus", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ficus carica", "fields": { "water": "medium", "bloomSeason": "夏", "flowerColor": "绿白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Spiraea cantoniensis", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Spiraea alpina", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Spiraea × vanhouttei", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Chaenomeles speciosa", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Viburnum keteleeri", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Deutzia scabra", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Deutzia crenata", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Corylopsis", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Euonymus", "fields": { "water": "medium", "bloomSeason": "春-夏", "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Anisodontea capensis", "fields": { "water": "medium", "hardinessZone": "8-10" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Rhapis gracilis", "fields": { "bloomSeason": "夏", "flowerColor": "黄" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Camellia trichoclada", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Viburnum taitoense", "fields": { "water": "medium", "hardinessZone": "7-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Kerria japonica", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Rhododendron simsii", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Callicarpa dichotoma", "fields": { "water": "medium", "hardinessZone": "5-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Corylopsis sinensis", "fields": { "water": "medium", "hardinessZone": "5-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Spiraea japonica", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hydrangea quercifolia", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Philadelphus coronarius", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Enkianthus campanulatus", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Vaccinium corymbosum", "fields": { "water": "wet", "hardinessZone": "3-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Euonymus phellomanus", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Itea ilicifolia", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lonicera fragrantissima", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hamamelis mollis", "fields": { "water": "medium", "hardinessZone": "5-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Viburnum macrocephalum", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pavonia hastata", "fields": { "water": "medium", "hardinessZone": "8-10" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Melianthus major", "fields": { "water": "medium", "hardinessZone": "8-10" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ternstroemia gymnanthera", "fields": { "water": "medium", "hardinessZone": "7-9", "bloomSeason": "夏-秋", "flowerColor": "白/淡黄" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Aucuba japonica", "fields": { "water": "medium", "hardinessZone": "6-9", "bloomSeason": "春", "flowerColor": "紫红" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Fatsia japonica", "fields": { "water": "medium", "hardinessZone": "7-10", "bloomSeason": "秋-冬", "flowerColor": "白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Mahonia eurybracteata subsp. ganpinensis", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ageratina adenophora", "fields": { "water": "medium", "hardinessZone": "8-10", "bloomSeason": "夏-秋", "flowerColor": "白", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lavandula stoechas", "fields": { "water": "dry", "hardinessZone": "7-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hylotelephium spectabile", "fields": { "water": "dry", "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Phlomoides umbrosa", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Achillea millefolium", "fields": { "water": "dry", "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lotus berthelotii", "fields": { "water": "medium", "hardinessZone": "9-10" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hydrocotyle", "fields": { "hardinessZone": "5-9", "bloomSeason": "夏", "flowerColor": "白/绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pennisetum orientale", "fields": { "water": "medium", "hardinessZone": "6-9", "bloomSeason": "夏-秋", "flowerColor": "银白/粉" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Erigeron", "fields": { "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Aster piccolii", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Sanguisorba", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Betonica", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Achillea", "fields": { "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Allium giganteum", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Thalictrum ichangense", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Agave americana L.", "fields": { "hardinessZone": "8-10" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Verbena officinalis", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lysimachia", "fields": { "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Aloe arborescens", "fields": { "hardinessZone": "9-11" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Helleborus", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Bletilla", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Disporum", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ledebouria", "fields": { "water": "dry", "hardinessZone": "9-10" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Symphytum", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Polygonatum odoratum", "fields": { "water": "medium", "hardinessZone": "3-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hosta", "fields": { "water": "medium", "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Astilbe", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Epimedium", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lamprocapnos spectabilis", "fields": { "water": "medium", "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Dryopteris", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Cibotium", "fields": { "water": "medium", "hardinessZone": "9-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Cyrtomium", "fields": { "water": "medium", "hardinessZone": "6-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Osmunda", "fields": { "water": "wet", "hardinessZone": "3-9", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Arachniodes simplicior", "fields": { "water": "medium", "hardinessZone": "6-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pteris", "fields": { "water": "medium", "hardinessZone": "8-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lepisorus fortunei", "fields": { "water": "medium", "hardinessZone": "7-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Davallia", "fields": { "water": "medium", "hardinessZone": "9-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pleioblastus fortunei", "fields": { "water": "medium", "hardinessZone": "6-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Aspidistra", "fields": { "water": "medium", "hardinessZone": "7-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Farfugium japonicum", "fields": { "water": "medium", "hardinessZone": "7-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hakonechloa", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Carex", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Reineckea carnea", "fields": { "water": "medium", "hardinessZone": "7-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Liriope", "fields": { "water": "medium", "hardinessZone": "4-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Stipa tenuissima", "fields": { "water": "dry", "hardinessZone": "6-9", "bloomSeason": "夏", "flowerColor": "银白/黄褐", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ensete", "fields": { "water": "medium", "hardinessZone": "9-11", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Cortaderia selloana", "fields": { "water": "medium", "hardinessZone": "6-9", "evergreen": "evergreen", "bloomSeason": "秋", "flowerColor": "银白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Deschampsia", "fields": { "water": "medium", "hardinessZone": "4-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Calamagrostis acutiflora", "fields": { "water": "medium", "hardinessZone": "4-9", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Eragrostis", "fields": { "water": "dry", "hardinessZone": "5-9", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Leucojum", "fields": { "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lilium", "fields": { "water": "medium", "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Camassia leichtlinii", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Anemone hybrida", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Thalictrum delavayi", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Cyrtomium falcatum", "fields": { "water": "medium", "hardinessZone": "6-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Dryopteris erythrosora", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Macrothelypteris oligophlebia", "fields": { "water": "medium", "hardinessZone": "6-9", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Dryopteris tokyoensis", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Pteris nipponica", "fields": { "water": "medium", "hardinessZone": "7-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Scutellaria indica", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Fritillaria thunbergii", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Tricyrtis formosana", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Disporopsis aspersa", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Patrinia villosa", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Campanula punctata", "fields": { "water": "medium", "hardinessZone": "4-8" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Asarum splendens", "fields": { "water": "medium", "hardinessZone": "6-9", "bloomSeason": "春-夏", "flowerColor": "暗紫/褐" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Dianthus superbus", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lilium lancifolium", "fields": { "water": "medium", "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Narcissus", "fields": { "water": "medium", "hardinessZone": "3-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Aspidistra elatior", "fields": { "water": "medium", "hardinessZone": "7-10", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hakonechloa macra", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Bletilla striata", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Saxifraga stolonifera", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Helleborus thibetanus", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Epimedium sagittatum", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Disporum cantoniense", "fields": { "water": "medium", "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ajuga decumbens", "fields": { "water": "medium", "hardinessZone": "6-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Carex oshimensis", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Carex lingii", "fields": { "water": "medium", "hardinessZone": "5-9", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Muehlenbeckia complexa", "fields": { "water": "medium", "hardinessZone": "6-9", "bloomSeason": "夏", "flowerColor": "绿白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lonicera japonica", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Clematis", "fields": { "water": "medium", "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ficus pumila", "fields": { "bloomSeason": "夏", "flowerColor": "绿白" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Trachelospermum jasminoides", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Hedera helix", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Wisteria", "fields": { "water": "medium" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Acorus gramineus", "fields": { "bloomSeason": "夏", "flowerColor": "黄绿" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Juncus", "fields": { "flowerColor": "黄褐" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Saururus chinensis", "fields": { "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lythrum salicaria", "fields": { "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Iris sanguinea", "fields": { "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Lysimachia candida", "fields": { "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Vallisneria nana", "fields": { "bloomSeason": "夏", "flowerColor": "白", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Ceratophyllum demersum", "fields": { "bloomSeason": "夏", "flowerColor": "白/绿", "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Sagittaria sagittifolia", "fields": { "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Alisma plantago-aquatica", "fields": { "evergreen": "deciduous" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Iris ensata", "fields": { "hardinessZone": "5-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Typha minima", "fields": { "hardinessZone": "4-9" }, "sources": ["https://plantfinder.mobot.org/"] }
+  , { "match": "Persicaria capitata", "fields": { "evergreen": "evergreen" }, "sources": ["https://plantfinder.mobot.org/"] }
+] 

@@ -10,7 +10,7 @@
     "height": "2-6",
     "spread": "2-5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "红",
     "seasonOfInterest": null,
@@ -23,7 +23,8 @@
     "tags": [],
     "category": "落叶乔木",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280632&letter=A"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280632&letter=A",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -37,7 +38,7 @@
     "height": "1-1.8",
     "spread": "1-1.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉",
     "seasonOfInterest": null,
@@ -51,7 +52,8 @@
     "category": "灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/27603/China_Rose",
-      "https://pfaf.org/User/Plant.aspx?LatinName=Rosa+chinensis"
+      "https://pfaf.org/User/Plant.aspx?LatinName=Rosa+chinensis",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -61,11 +63,11 @@
     "genus": "紫茎泽兰属",
     "family": "菊科",
     "aliases": "破坏草·解放草·霸王草·臭草·腺泽兰",
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "1-2",
     "spread": "0.8-1.2",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -79,7 +81,8 @@
     "category": "宿根草本",
     "sources": [
       "https://weeds.brisbane.qld.gov.au/weeds/crofton-weed",
-      "https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Ageratina_adenophora_%28Crofton_Weed%29.htm"
+      "https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Ageratina_adenophora_%28Crofton_Weed%29.htm",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -345,20 +348,21 @@
     "height": "0.4-0.7",
     "spread": "0.6-1",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "春-夏",
     "flowerColor": "紫",
     "seasonOfInterest": null,
     "leafForm": "线形/披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantdatabase.kpu.ca/Plant/laso"
+      "https://plantdatabase.kpu.ca/Plant/laso",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -372,20 +376,21 @@
     "height": "0.3-0.6",
     "spread": "0.3-0.5",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉玫瑰红",
     "seasonOfInterest": null,
     "leafForm": "肉质卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/159311/hylotelephium-spectabile/details"
+      "https://www.rhs.org.uk/plants/159311/hylotelephium-spectabile/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -399,20 +404,21 @@
     "height": "0.5-1.5",
     "spread": "0.4-0.6",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉紫",
     "seasonOfInterest": null,
     "leafForm": "卵心形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.plantplus.cn/frps/pdf/29/232b.pdf"
+      "https://www.plantplus.cn/frps/pdf/29/232b.pdf",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -426,20 +432,21 @@
     "height": "0.6-0.9",
     "spread": "0.6-0.9",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏",
     "flowerColor": "白/粉/黄",
     "seasonOfInterest": null,
     "leafForm": "羽状细裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277129"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277129",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -481,20 +488,21 @@
     "height": "0.9-1.2",
     "spread": "0.6-0.9",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "橙红",
     "seasonOfInterest": null,
     "leafForm": "剑形/线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281892"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281892",
+      "https://shuncy.com/plant-finder/plant/2473/red-hot-poker"
     ]
   },
   {
@@ -508,20 +516,21 @@
     "height": "0.5-0.9",
     "spread": "0.3",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "红",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.iplant.cn/bk/8C4612D2DF7A975E"
+      "https://www.iplant.cn/bk/8C4612D2DF7A975E",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -535,20 +544,21 @@
     "height": "0.6-1",
     "spread": "0.5-0.8",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "暗红",
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://cornellbotanicgardens.org/plant/great-burnet"
+      "https://cornellbotanicgardens.org/plant/great-burnet",
+      "https://www.wildflower.org/plants/result.php?id_plant=SAOF3"
     ]
   },
   {
@@ -562,20 +572,21 @@
     "height": "0.6-1.2",
     "spread": "0.3-0.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "蓝紫/橙",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/33739/agastache-rugosa/details"
+      "https://www.rhs.org.uk/plants/33739/agastache-rugosa/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -617,7 +628,7 @@
     "height": "12-15",
     "spread": "4.5-6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
@@ -630,7 +641,8 @@
     "tags": [],
     "category": "常绿乔木",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279597"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279597",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -644,20 +656,21 @@
     "height": "0.3-0.6",
     "spread": "0.3",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "淡紫",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?chr=25&taxonid=282153"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?chr=25&taxonid=282153",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -699,20 +712,21 @@
     "height": "0.3-0.6",
     "spread": "0.5-0.8",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "白/淡紫",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/2605/calamintha-nepeta/details"
+      "https://www.rhs.org.uk/plants/2605/calamintha-nepeta/details",
+      "https://plants.jobsnursery.com/12170026/Plant/Print?id=2171"
     ]
   },
   {
@@ -754,20 +768,21 @@
     "height": "1.5-2",
     "spread": "0.9-1.2",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "长卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277464"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277464",
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=293533"
     ]
   },
   {
@@ -781,20 +796,21 @@
     "height": "0.9-1.2",
     "spread": "0.9-1.2",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "蓝紫",
     "seasonOfInterest": null,
     "leafForm": "三出复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280580"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=280580",
+      "https://kiefernursery.com/product/baptisia-australis-2/"
     ]
   },
   {
@@ -808,20 +824,21 @@
     "height": "0.1-0.15",
     "spread": "0.6",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "春",
     "flowerColor": "粉/白",
     "seasonOfInterest": null,
     "leafForm": "针状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285439"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285439",
+      "https://kiefernursery.com/product/phlox-subulata-pink-parasol/"
     ]
   },
   {
@@ -835,20 +852,21 @@
     "height": "0.1",
     "spread": "0.6-1.2",
     "sun": "full sun to part shade",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "dry",
+    "bloomSeason": "夏",
+    "flowerColor": "绿白",
     "seasonOfInterest": null,
     "leafForm": "心形银叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/219360/dichondra-argentea-silver-falls/details"
+      "https://www.rhs.org.uk/plants/219360/dichondra-argentea-silver-falls/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -862,13 +880,13 @@
     "height": "0.6-1.2",
     "spread": "0.6-0.9",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉/白/珊瑚",
     "seasonOfInterest": null,
     "leafForm": "卵/披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "images": [],
@@ -889,20 +907,21 @@
     "height": "0.3-0.6",
     "spread": "0.2-0.3",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏-秋",
     "flowerColor": "紫红/白",
     "seasonOfInterest": null,
     "leafForm": "椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275664"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275664",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -916,20 +935,21 @@
     "height": "0.15-0.5",
     "spread": "0.5-1",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "春-秋",
     "flowerColor": "白/粉",
     "seasonOfInterest": null,
     "leafForm": "狭叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/32487/erigeron-karvinskianus/details"
+      "https://www.rhs.org.uk/plants/32487/erigeron-karvinskianus/details",
+      "https://biogardens.org/encyclopedia/erigeron-karvinskianus"
     ]
   },
   {
@@ -943,20 +963,21 @@
     "height": "0.5-1",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "橙",
     "seasonOfInterest": null,
     "leafForm": "剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/92445/crocosmia-x-crocosmiiflora/details"
+      "https://www.rhs.org.uk/plants/92445/crocosmia-x-crocosmiiflora/details",
+      "https://kiefernursery.com/product/crocosmia-x-crocosmiiflora-honey-angels/"
     ]
   },
   {
@@ -970,20 +991,21 @@
     "height": "0.1-0.15",
     "spread": "0.3-0.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "深蓝",
     "seasonOfInterest": null,
     "leafForm": "匙形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/742/ajuga-reptans-bugle-brown-bugle/details"
+      "https://www.rhs.org.uk/plants/742/ajuga-reptans-bugle-brown-bugle/details",
+      "https://kiefernursery.com/product/ajuga-reptans-chocolate-chip/"
     ]
   },
   {
@@ -997,20 +1019,21 @@
     "height": "0.1-0.2",
     "spread": "0.6-0.9",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "橙红",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/10536/lotus-berthelotii/details"
+      "https://www.rhs.org.uk/plants/10536/lotus-berthelotii/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1053,19 +1076,20 @@
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
     "water": "wet",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "白/绿",
     "seasonOfInterest": null,
     "leafForm": "肾形/圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/8960/hydrocotyle-vulgaris/details"
+      "https://www.rhs.org.uk/plants/8960/hydrocotyle-vulgaris/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1079,20 +1103,21 @@
     "height": "0.9-1.5",
     "spread": "0.6-1",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "紫红",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285290"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285290",
+      "https://txmg.org/hendersonmg/plant-library/grass-purple-fountain/"
     ]
   },
   {
@@ -1106,20 +1131,21 @@
     "height": "0.6-1.2",
     "spread": "0.6-1.2",
     "sun": "full sun to part shade",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "黄褐",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=l510"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=l510",
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&letter=P&taxonid=251868"
     ]
   },
   {
@@ -1133,20 +1159,21 @@
     "height": "0.5-0.9",
     "spread": "0.5-0.8",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "银白/粉",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/70387/pennisetum-orientale/details"
+      "https://www.rhs.org.uk/plants/70387/pennisetum-orientale/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1160,20 +1187,21 @@
     "height": "1.5-2.5",
     "spread": "1.2-2",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
     "flowerColor": "银白",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=250977"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=250977",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285333"
     ]
   },
   {
@@ -1216,8 +1244,8 @@
     "spread": "1.5-2",
     "sun": "full sun",
     "water": "dry",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -1229,7 +1257,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/lano",
-      "https://selectree.calpoly.edu/tree-detail/laurus-nobilis"
+      "https://selectree.calpoly.edu/tree-detail/laurus-nobilis",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1244,8 +1273,8 @@
     "spread": "5-8",
     "sun": "full sun",
     "water": "dry",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "春",
+    "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "细长叶",
     "persistence": null,
@@ -1257,7 +1286,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://plants.ces.ncsu.edu/plants/olea-europaea/",
-      "https://plantdatabase.kpu.ca/Plant/oleu"
+      "https://plantdatabase.kpu.ca/Plant/oleu",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1271,7 +1301,7 @@
     "height": "3-6",
     "spread": "2-4",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -1285,7 +1315,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://www.waysidegardens.com/collections/trees/products/citrus-eureka-lemon-tree-36491",
-      "https://selectree.calpoly.edu/tree-detail/364"
+      "https://selectree.calpoly.edu/tree-detail/364",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1299,9 +1330,9 @@
     "height": "4.5-9",
     "spread": "4.5-9",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "秋-冬",
+    "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -1313,7 +1344,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://landscapeplants.oregonstate.edu/plants/eriobotrya-japonica",
-      "https://hort.ifas.ufl.edu/trees/ERIJAPC.pdf"
+      "https://hort.ifas.ufl.edu/trees/ERIJAPC.pdf",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1327,7 +1359,7 @@
     "height": "6-12",
     "spread": "5-8",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -1341,7 +1373,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=249453&isprofile=1&basic=Magnolia+grandiflora",
-      "https://plantdatabase.kpu.ca/Plant/magr"
+      "https://plantdatabase.kpu.ca/Plant/magr",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1369,7 +1402,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=b438",
-      "https://plantdatabase.kpu.ca/Plant/pith"
+      "https://plantdatabase.kpu.ca/Plant/pith",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1383,7 +1417,7 @@
     "height": "6-12",
     "spread": "6-10",
     "sun": "full sun",
-    "water": "dry",
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
@@ -1396,7 +1430,8 @@
     "tags": [],
     "category": "常绿乔木",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=284968&isprofile=0&hf=30&z=6"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=284968&isprofile=0&hf=30&z=6",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1410,7 +1445,7 @@
     "height": "8-14",
     "spread": "4-6",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
@@ -1424,7 +1459,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://worldplants.ca/display0.php?id=10179",
-      "https://en.wikipedia.org/wiki/Himalayan_Yew"
+      "https://en.wikipedia.org/wiki/Himalayan_Yew",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1440,7 +1476,7 @@
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "秋",
-    "flowerColor": null,
+    "flowerColor": "黄/橙",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -1452,7 +1488,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282983&isprofile=0&chr=16",
-      "https://midvalleytrees.com/product/sweet-olive/"
+      "https://midvalleytrees.com/product/sweet-olive/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1466,9 +1503,9 @@
     "height": "6-12",
     "spread": "2-3",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "夏",
+    "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "扇形叶",
     "persistence": null,
@@ -1480,7 +1517,8 @@
     "category": "常绿乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c973",
-      "https://plantdatabase.kpu.ca/Plant/trfo"
+      "https://plantdatabase.kpu.ca/Plant/trfo",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1522,7 +1560,7 @@
     "height": "3-5",
     "spread": "3-4",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -1536,7 +1574,8 @@
     "category": "灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/coks",
-      "https://web.extension.illinois.edu/hortanswers/PlantDetail.cfm?PlantID=199&PlantTypeID=7"
+      "https://web.extension.illinois.edu/hortanswers/PlantDetail.cfm?PlantID=199&PlantTypeID=7",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1774,7 +1813,7 @@
     "height": "1.2-1.8",
     "spread": "1-1.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋-冬",
     "flowerColor": "黄",
     "seasonOfInterest": null,
@@ -1788,7 +1827,8 @@
     "category": "灌木",
     "sources": [
       "https://www.monrovia.com/chinese-mahonia.html",
-      "https://www.onlineplantguide.com/Plant-Details/1633/"
+      "https://www.onlineplantguide.com/Plant-Details/1633/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1802,7 +1842,7 @@
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬-春",
     "flowerColor": "黄",
     "seasonOfInterest": null,
@@ -1816,7 +1856,8 @@
     "category": "灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/19586/",
-      "https://www.gardenia.net/plant/mahonia-japonica"
+      "https://www.gardenia.net/plant/mahonia-japonica",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1830,7 +1871,7 @@
     "height": "0.7-1.3",
     "spread": "0.7-1.2",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬-春",
     "flowerColor": "粉",
     "seasonOfInterest": null,
@@ -1844,7 +1885,8 @@
     "category": "灌木",
     "sources": [
       "https://www.greatplantpicks.org/plantlists/view/491",
-      "https://dplantdatabase.kpu.ca/Plant/daod"
+      "https://dplantdatabase.kpu.ca/Plant/daod",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1942,7 +1984,7 @@
     "height": "2-4",
     "spread": "2-4",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -1956,7 +1998,8 @@
     "category": "灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=276168",
-      "http://plants.pikenursery.com/12291001/Plant/11860/Chinese_Holly"
+      "http://plants.pikenursery.com/12291001/Plant/11860/Chinese_Holly",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1970,7 +2013,7 @@
     "height": "2.5-3.5",
     "spread": "2.5-3",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -1984,7 +2027,8 @@
     "category": "灌木",
     "sources": [
       "https://woodlanders.net/collections/woody-plants/products/ligustrum-quihoui",
-      "https://www.backyardgardener.com/plantname/ligustrum-quihoui-quihoui-privet/"
+      "https://www.backyardgardener.com/plantname/ligustrum-quihoui-quihoui-privet/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -1999,8 +2043,8 @@
     "spread": "1-2",
     "sun": "full sun",
     "water": "dry",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -2012,7 +2056,8 @@
     "category": "灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/11685/",
-      "https://garden.org/plants/view/779890/Japanese-Spindle-Euonymus-japonicus-Green-Rocket/"
+      "https://garden.org/plants/view/779890/Japanese-Spindle-Euonymus-japonicus-Green-Rocket/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2083,8 +2128,8 @@
     "spread": "1.3-2",
     "sun": "part shade",
     "water": "wet",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "扇形叶",
     "persistence": null,
@@ -2096,7 +2141,8 @@
     "category": "灌木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/rhex",
-      "http://plants.pikenursery.com/12291001/Plant/25630/"
+      "http://plants.pikenursery.com/12291001/Plant/25630/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2110,9 +2156,9 @@
     "height": "3-7",
     "spread": "3-6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
-    "flowerColor": null,
+    "flowerColor": "紫红",
     "seasonOfInterest": null,
     "leafForm": "掌状裂叶",
     "persistence": null,
@@ -2124,7 +2170,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275393",
-      "https://plantdatabase.uconn.edu/detail.php?pid=16"
+      "https://plantdatabase.uconn.edu/detail.php?pid=16",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2138,9 +2185,9 @@
     "height": "5-10",
     "spread": "3-6",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "紫红",
     "seasonOfInterest": null,
     "leafForm": "掌状裂叶",
     "persistence": null,
@@ -2152,7 +2199,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://nativetree.forest.gov.tw/tree/Info/d9b3af3a4cf040b2bdac1146a07f5ade",
-      "https://inature.app/species/acer-serrulatum-hayata/"
+      "https://inature.app/species/acer-serrulatum-hayata/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2166,9 +2214,9 @@
     "height": "8-12",
     "spread": "4-8",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "掌状裂叶",
     "persistence": null,
@@ -2180,7 +2228,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://www.rhs.org.uk/plants/87420/acer-pictum/details",
-      "https://landscapeplants.oregonstate.edu/plants/acer-pictum"
+      "https://landscapeplants.oregonstate.edu/plants/acer-pictum",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2194,7 +2243,7 @@
     "height": "5-8",
     "spread": "4-6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2208,7 +2257,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/amca",
-      "https://www.csu.org/water-wise-plants/shadblow-serviceberry"
+      "https://www.csu.org/water-wise-plants/shadblow-serviceberry",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2222,7 +2272,7 @@
     "height": "6-10",
     "spread": "6-8",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2236,7 +2286,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286608",
-      "https://plantdatabase.uconn.edu/detail.php?pid=364"
+      "https://plantdatabase.uconn.edu/detail.php?pid=364",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2250,7 +2301,7 @@
     "height": "3-6",
     "spread": "3-5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬-春",
     "flowerColor": "红",
     "seasonOfInterest": null,
@@ -2264,7 +2315,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://landscapeplants.oregonstate.edu/plants/prunus-mume",
-      "https://www.thespruce.com/prunus-mume-plum-blossom-care-guide-8426994"
+      "https://www.thespruce.com/prunus-mume-plum-blossom-care-guide-8426994",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2278,7 +2330,7 @@
     "height": "4-8",
     "spread": "4-8",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉",
     "seasonOfInterest": null,
@@ -2292,7 +2344,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264689",
-      "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila"
+      "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2306,7 +2359,7 @@
     "height": "20-30",
     "spread": "8-15",
     "sun": "full sun",
-    "water": "wet",
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
@@ -2320,7 +2373,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=270524",
-      "https://www.epicgardening.com/dawn-redwood-trees/"
+      "https://www.epicgardening.com/dawn-redwood-trees/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2348,7 +2402,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://u.osu.edu/plants/taxodium-distichum/",
-      "https://plantdatabase.kpu.ca/Plant/tadi"
+      "https://plantdatabase.kpu.ca/Plant/tadi",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2362,7 +2417,7 @@
     "height": "15-25",
     "spread": "8-12",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
@@ -2376,7 +2431,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280988",
-      "https://greatplainsnursery.com/product/ginkgo-ginkgo-biloba/"
+      "https://greatplainsnursery.com/product/ginkgo-ginkgo-biloba/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2418,9 +2474,9 @@
     "height": "8-15",
     "spread": "5-8",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -2432,7 +2488,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://www.vdberk.co.uk/index.php/trees/zelkova-schneideriana/",
-      "https://pfaf.org/User/Plant.aspx?LatinName=Zelkova+schneideriana"
+      "https://pfaf.org/User/Plant.aspx?LatinName=Zelkova+schneideriana",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2446,7 +2503,7 @@
     "height": "4-6",
     "spread": "4-6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2460,7 +2517,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286345",
-      "https://plantdatabase.kpu.ca/Plant/crla"
+      "https://plantdatabase.kpu.ca/Plant/crla",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2474,7 +2532,7 @@
     "height": "4-8",
     "spread": "4-8",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉",
     "seasonOfInterest": null,
@@ -2488,7 +2546,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264636",
-      "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila"
+      "https://pfaf.org/User/Plant.aspx?LatinName=Malus+pumila",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2502,7 +2561,7 @@
     "height": "15-25",
     "spread": "10-18",
     "sun": "full sun",
-    "water": "wet",
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
@@ -2516,7 +2575,8 @@
     "category": "落叶乔木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/17259/Nuttalls_Oak",
-      "http://web.unthsc.edu/download/downloads/id/792/texas_red_oak"
+      "http://web.unthsc.edu/download/downloads/id/792/texas_red_oak",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2531,7 +2591,7 @@
     "spread": "6-8",
     "sun": "full sun",
     "water": "dry",
-    "bloomSeason": null,
+    "bloomSeason": "夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "羽状叶",
@@ -2544,7 +2604,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://davesgarden.com/guides/pf/print/81906",
-      "https://shop.app/products/8023654662401/sapindus-mukorossi-seeds-indian-soapberry-tree"
+      "https://shop.app/products/8023654662401/sapindus-mukorossi-seeds-indian-soapberry-tree",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2588,7 +2649,7 @@
     "sun": "full sun",
     "water": "dry",
     "bloomSeason": "春",
-    "flowerColor": null,
+    "flowerColor": "红",
     "seasonOfInterest": null,
     "leafForm": "羽状叶",
     "persistence": null,
@@ -2600,7 +2661,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275957",
-      "https://midvalleytrees.com/product/chinese-pistache/"
+      "https://midvalleytrees.com/product/chinese-pistache/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2616,7 +2678,7 @@
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "秋",
-    "flowerColor": null,
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -2628,7 +2690,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?pt=14&taxonid=368407",
-      "https://www.csustan.edu/campus-tree-story-map/chinese-tallow-triadica-sebifera"
+      "https://www.csustan.edu/campus-tree-story-map/chinese-tallow-triadica-sebifera",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2642,9 +2705,9 @@
     "height": "15-22",
     "spread": "10-15",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "掌状裂叶",
     "persistence": null,
@@ -2656,7 +2719,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281024",
-      "https://plantdatabase.kpu.ca/Plant/list"
+      "https://plantdatabase.kpu.ca/Plant/list",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2670,9 +2734,9 @@
     "height": "10-15",
     "spread": "7-10",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
-    "flowerColor": null,
+    "flowerColor": "黄/橙",
     "seasonOfInterest": null,
     "leafForm": "马褂叶",
     "persistence": null,
@@ -2684,7 +2748,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://www.havlis.cz/catalogue/liriodendron-x-tulipifera-x-chinense-hybrid-tul",
-      "https://plantdatabase.kpu.ca/Plant/lich"
+      "https://plantdatabase.kpu.ca/Plant/lich",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2698,7 +2763,7 @@
     "height": "5-7",
     "spread": "4-6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉",
     "seasonOfInterest": null,
@@ -2712,7 +2777,8 @@
     "category": "落叶乔木",
     "sources": [
       "https://www.princetonnj.gov/1533/April-2024---Saucer-Magnolia",
-      "https://dplantdatabase.kpu.ca/Plant/maso"
+      "https://dplantdatabase.kpu.ca/Plant/maso",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2726,7 +2792,7 @@
     "height": "2-4",
     "spread": "1.5-3",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬",
     "flowerColor": "黄",
     "seasonOfInterest": null,
@@ -2740,7 +2806,8 @@
     "category": "灌木",
     "sources": [
       "http://plants.pikenursery.com/12291001/Plant/3412/",
-      "https://landscapeplants.oregonstate.edu/plants/chimonanthus-praecox"
+      "https://landscapeplants.oregonstate.edu/plants/chimonanthus-praecox",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2754,9 +2821,9 @@
     "height": "2-5",
     "spread": "2-5",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "夏",
+    "flowerColor": "绿白",
     "seasonOfInterest": null,
     "leafForm": "掌状裂叶",
     "persistence": null,
@@ -2768,7 +2835,8 @@
     "category": "灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=c944",
-      "https://mortonarb.org/plant-and-protect/trees-and-plants/common-fig/"
+      "https://mortonarb.org/plant-and-protect/trees-and-plants/common-fig/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2782,7 +2850,7 @@
     "height": "1.2-2.5",
     "spread": "1.2-2.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2796,7 +2864,8 @@
     "category": "灌木",
     "sources": [
       "https://hort.ifas.ufl.edu/database/documents/pdf/shrub_fact_sheets/spicana.pdf",
-      "http://www.onlineplantguide.com/Plant-Details/2570/"
+      "http://www.onlineplantguide.com/Plant-Details/2570/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2810,7 +2879,7 @@
     "height": "0.3-1",
     "spread": "0.5-1",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2823,7 +2892,8 @@
     "tags": [],
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/10907/spiraea-alpina/details"
+      "https://www.rhs.org.uk/plants/10907/spiraea-alpina/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2837,7 +2907,7 @@
     "height": "1.5-2.5",
     "spread": "2-3",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2851,7 +2921,8 @@
     "category": "灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/97141/spiraea-vanhouttei/details",
-      "https://plantdatabase.kpu.ca/Plant/spva"
+      "https://plantdatabase.kpu.ca/Plant/spva",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2865,7 +2936,7 @@
     "height": "1-2.5",
     "spread": "1-2.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "红",
     "seasonOfInterest": null,
@@ -2879,7 +2950,8 @@
     "category": "灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=244222",
-      "https://plantdatabase.kpu.ca/Plant/chsp"
+      "https://plantdatabase.kpu.ca/Plant/chsp",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2893,7 +2965,7 @@
     "height": "2-3",
     "spread": "2-3",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2906,7 +2978,8 @@
     "tags": [],
     "category": "灌木",
     "sources": [
-      "https://baike.baidu.com/item/绣球荚蒾/6987884"
+      "https://baike.baidu.com/item/绣球荚蒾/6987884",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2948,7 +3021,7 @@
     "height": "1.8-3",
     "spread": "1.2-2.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2962,7 +3035,8 @@
     "category": "灌木",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?isprofile=0&pt=4&taxonid=286870",
-      "https://plantdatabase.kpu.ca/Plant/desc"
+      "https://plantdatabase.kpu.ca/Plant/desc",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -2976,7 +3050,7 @@
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -2990,7 +3064,8 @@
     "category": "灌木",
     "sources": [
       "https://www.rhs.org.uk/plants/189318/deutzia-crenata-pride-of-rochester-d/details",
-      "https://en.paperblog.com/plant-of-the-week-deutzia-crenata-587848/"
+      "https://en.paperblog.com/plant-of-the-week-deutzia-crenata-587848/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -3200,7 +3275,7 @@
     "height": "1.5-3",
     "spread": "2-3",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "黄",
     "seasonOfInterest": null,
@@ -3214,7 +3289,8 @@
     "category": "灌木",
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/copa",
-      "https://www.greatplantpicks.org/plantlists/view/437"
+      "https://www.greatplantpicks.org/plantlists/view/437",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -3312,9 +3388,9 @@
     "height": "1.8-3",
     "spread": "1.8-3",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "春-夏",
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -3326,7 +3402,8 @@
     "category": "灌木",
     "sources": [
       "https://plantdatabase.uconn.edu/detail.php?pid=167",
-      "https://www.greatplantpicks.org/search/plant-details/608"
+      "https://www.greatplantpicks.org/search/plant-details/608",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -3396,20 +3473,21 @@
     "height": "0.5-1.5",
     "spread": "0.5-1",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "蓝紫/红",
     "seasonOfInterest": null,
     "leafForm": "卵/披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/salvia"
+      "https://www.rhs.org.uk/plants/salvia",
+      "https://kiefernursery.com/product/salvia-officinalis/"
     ]
   },
   {
@@ -3423,20 +3501,21 @@
     "height": "0.9-1.5",
     "spread": "0.9-1.2",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "红",
     "seasonOfInterest": null,
     "leafForm": "卵心形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285452"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285452",
+      "https://davesgarden.com/guides/pf/print/205785"
     ]
   },
   {
@@ -3450,20 +3529,21 @@
     "height": "1-1.5",
     "spread": "0.6-0.9",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "wet",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉紫",
     "seasonOfInterest": null,
     "leafForm": "掌状裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/7024/eupatorium-cannabinum/details"
+      "https://www.rhs.org.uk/plants/7024/eupatorium-cannabinum/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -3477,20 +3557,21 @@
     "height": "0.6-1.5",
     "spread": "0.6-1",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "披针形/卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plants.ces.ncsu.edu/plants/rudbeckia/"
+      "https://plants.ces.ncsu.edu/plants/rudbeckia/",
+      "https://kiefernursery.com/product/rudbeckia-lacinata/"
     ]
   },
   {
@@ -3504,20 +3585,21 @@
     "height": "0.3-0.9",
     "spread": "0.3-0.6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "披针形/细裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://mortonarb.org/plant-and-protect/trees-and-plants/hybrid-coreopsis/"
+      "https://mortonarb.org/plant-and-protect/trees-and-plants/hybrid-coreopsis/",
+      "https://kiefernursery.com/product/coreopsis-verticillata-zagreb/"
     ]
   },
   {
@@ -3537,14 +3619,15 @@
     "seasonOfInterest": null,
     "leafForm": "狭叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/158639/erigeron-canadensis/details"
+      "https://www.rhs.org.uk/plants/158639/erigeron-canadensis/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -3614,20 +3697,21 @@
     "height": "0.1-0.3",
     "spread": "0.3-0.6",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏-秋",
     "flowerColor": "橙/黄/粉",
     "seasonOfInterest": null,
     "leafForm": "线形/深裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/86144/gazania-rigens/details"
+      "https://www.rhs.org.uk/plants/86144/gazania-rigens/details",
+      "https://www.balllandscape.com/products/plantinfo.aspx?phid=028106282006060"
     ]
   },
   {
@@ -3641,20 +3725,21 @@
     "height": "0.2-0.3",
     "spread": "0.3-0.6",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "dry",
+    "bloomSeason": "夏",
+    "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "银白细裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/97590/artemisia-schmidtiana/details"
+      "https://www.rhs.org.uk/plants/97590/artemisia-schmidtiana/details",
+      "https://c3.provenwinners.com/plants/artemisia/silver-mound-wormwood-artemisia-schmidtiana-0"
     ]
   },
   {
@@ -3668,20 +3753,21 @@
     "height": "0.9-1.8",
     "spread": "1-1.8",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "冬-春",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.camarillogardening.com/eplant.php?plantnum=1652"
+      "https://www.camarillogardening.com/eplant.php?plantnum=1652",
+      "https://ftp.calflora.org/entry/plantchar.html?crn=14612"
     ]
   },
   {
@@ -3695,7 +3781,7 @@
     "height": "0.6-1",
     "spread": "0.5-0.9",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉",
     "seasonOfInterest": null,
@@ -3709,7 +3795,8 @@
     "category": "灌木",
     "sources": [
       "https://www.gardenia.net/plant/anisodontea-capensis",
-      "https://www.rhs.org.uk/plants/1298/i-anisodontea-capensis-i/details"
+      "https://www.rhs.org.uk/plants/1298/i-anisodontea-capensis-i/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -3723,20 +3810,21 @@
     "height": "0.15-0.3",
     "spread": "0.6-0.9",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-秋",
     "flowerColor": "紫红",
     "seasonOfInterest": null,
     "leafForm": "深裂圆叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282616"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282616",
+      "https://www.missouribotanicalgarden.org/plan-your-visit/family-of-attractions/butterfly-house/learn-discover-at-the-butterfly-house-/butterflies-and-plants/our-plant-collection/article/1525"
     ]
   },
   {
@@ -3778,20 +3866,21 @@
     "height": "0.6-1.2",
     "spread": "0.5-0.8",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "红/粉/紫",
     "seasonOfInterest": null,
     "leafForm": "卵/披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/monarda"
+      "https://www.rhs.org.uk/plants/monarda",
+      "https://kiefernursery.com/product/monarda-didyma-grand-marshall/"
     ]
   },
   {
@@ -3805,20 +3894,21 @@
     "height": "0.5-0.9",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏",
     "flowerColor": "紫/白/粉",
     "seasonOfInterest": null,
     "leafForm": "披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "2-11",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/67779/monarda-citriodora/details"
+      "https://www.rhs.org.uk/plants/67779/monarda-citriodora/details",
+      "https://txmg.org/hendersonmg/plant-library/beebalm-lemon-mint-purple/"
     ]
   },
   {
@@ -3832,20 +3922,21 @@
     "height": "0.6-1",
     "spread": "0.5-0.8",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
     "flowerColor": "紫/粉/白",
     "seasonOfInterest": null,
     "leafForm": "狭披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/aster/growing-guide"
+      "https://www.rhs.org.uk/plants/aster/growing-guide",
+      "https://kiefernursery.com/product/aster-now-eurybia-divaricatus-eastern-star/"
     ]
   },
   {
@@ -3859,20 +3950,21 @@
     "height": "0.6-1.2",
     "spread": "0.3-0.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "蓝紫",
     "seasonOfInterest": null,
     "leafForm": "倒披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242306244"
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242306244",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -3886,20 +3978,21 @@
     "height": "0.6-1",
     "spread": "0.5-1",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "橙/黄/红",
     "seasonOfInterest": null,
     "leafForm": "剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/8628/hemerocallis-x-luteola/details"
+      "https://www.rhs.org.uk/plants/8628/hemerocallis-x-luteola/details",
+      "https://kiefernursery.com/product/hemerocallis-hyperion/"
     ]
   },
   {
@@ -3913,20 +4006,21 @@
     "height": "0.6-1.5",
     "spread": "0.4-0.6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "蓝紫/白",
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-10",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/agapanthus"
+      "https://www.rhs.org.uk/plants/agapanthus",
+      "https://kiefernursery.com/product/agapanthus-comptonii-headbourne-hybrids/"
     ]
   },
   {
@@ -3940,20 +4034,21 @@
     "height": "0.5-1",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "橙/红",
     "seasonOfInterest": null,
     "leafForm": "剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/109118/crocosmia-debutante/details"
+      "https://www.rhs.org.uk/plants/109118/crocosmia-debutante/details",
+      "https://kiefernursery.com/product/crocosmia-walberton-yellow/"
     ]
   },
   {
@@ -3967,20 +4062,21 @@
     "height": "0.9-1.5",
     "spread": "0.4-0.6",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏-秋",
     "flowerColor": "白/粉",
     "seasonOfInterest": null,
     "leafForm": "披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/386413/oenothera-lindheimeri-g/details"
+      "https://www.rhs.org.uk/plants/386413/oenothera-lindheimeri-g/details",
+      "https://api.provenwinners.com/plants/oenothera/stratosphere-white-butterfly-flower-oenothera-lindheimeri"
     ]
   },
   {
@@ -3994,20 +4090,21 @@
     "height": "0.6-1.2",
     "spread": "0.4-0.6",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "红/粉/白",
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/16403/sanguisorba-officinalis/details"
+      "https://www.rhs.org.uk/plants/16403/sanguisorba-officinalis/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4021,20 +4118,21 @@
     "height": "0.3-1.5",
     "spread": "0.3-0.6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "紫/粉/白",
     "seasonOfInterest": null,
     "leafForm": "卵/披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/verbena"
+      "https://www.rhs.org.uk/plants/verbena",
+      "https://cbmga.org/moss-verbena/"
     ]
   },
   {
@@ -4048,20 +4146,21 @@
     "height": "0.4-0.6",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "粉紫",
     "seasonOfInterest": null,
     "leafForm": "卵形锯齿叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/124649/betonica-officinalis/details"
+      "https://www.rhs.org.uk/plants/124649/betonica-officinalis/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4075,20 +4174,21 @@
     "height": "1.2-2",
     "spread": "0.6-1",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "白/淡紫",
     "seasonOfInterest": null,
     "leafForm": "披针形轮生叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287000"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287000",
+      "https://plantfinder.nativeplanttrust.org/plant/Veronicastrum-virginicum"
     ]
   },
   {
@@ -4136,14 +4236,15 @@
     "seasonOfInterest": null,
     "leafForm": "羽状细裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/93547/achillea-appleblossom/details"
+      "https://www.rhs.org.uk/plants/93547/achillea-appleblossom/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4157,20 +4258,21 @@
     "height": "1-2.5",
     "spread": "0.5-0.9",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "卵形/心形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/501580/helianthus-sunfinity-yellow-dark-centre-heiz0001-pbr-sunfinity-series/details"
+      "https://www.rhs.org.uk/plants/501580/helianthus-sunfinity-yellow-dark-centre-heiz0001-pbr-sunfinity-series/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4184,20 +4286,21 @@
     "height": "1.2-1.8",
     "spread": "0.3-0.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "紫",
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/829/allium-giganteum/details"
+      "https://www.rhs.org.uk/plants/829/allium-giganteum/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4217,14 +4320,15 @@
     "seasonOfInterest": null,
     "leafForm": "狭披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/43609/asclepias-tuberosa/details"
+      "https://www.rhs.org.uk/plants/43609/asclepias-tuberosa/details",
+      "https://kiefernursery.com/product/asclepias-tuberosa/"
     ]
   },
   {
@@ -4238,20 +4342,21 @@
     "height": "1-1.8",
     "spread": "0.4-0.6",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "羽状细裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/24472/foeniculum-vulgare/details"
+      "https://www.rhs.org.uk/plants/24472/foeniculum-vulgare/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4265,20 +4370,21 @@
     "height": "0.1-0.3",
     "spread": "0.3",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "淡紫/白",
     "seasonOfInterest": null,
     "leafForm": "三出复叶(盾形)",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/76382/thalictrum-ichangense/details"
+      "https://www.rhs.org.uk/plants/76382/thalictrum-ichangense/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4293,8 +4399,8 @@
     "spread": "0.5-1",
     "sun": "shade",
     "water": "wet",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "扇形叶",
     "persistence": null,
@@ -4306,7 +4412,8 @@
     "category": "灌木",
     "sources": [
       "https://baike.baidu.com/item/细棕竹",
-      "https://www.tszwy.com.cn/m/product/html/?1056.html"
+      "https://www.tszwy.com.cn/m/product/html/?1056.html",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4320,20 +4427,21 @@
     "height": "0.2-0.45",
     "spread": "0.3-0.6",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "淡紫/白",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=a620"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=a620",
+      "https://depts.washington.edu/hortlib/pal/liriope-lawn-in-the-pacific-northwest/"
     ]
   },
   {
@@ -4347,20 +4455,21 @@
     "height": "0.9-1.8",
     "spread": "0.6-0.9",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282017"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282017",
+      "https://kiefernursery.com/product/yucca-filamentosa-color-guard/"
     ]
   },
   {
@@ -4374,20 +4483,21 @@
     "height": "1.5-2.5",
     "spread": "1-1.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "暗红",
     "seasonOfInterest": null,
     "leafForm": "剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/12791/phormium-tenax/details"
+      "https://www.rhs.org.uk/plants/12791/phormium-tenax/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4407,14 +4517,15 @@
     "seasonOfInterest": null,
     "leafForm": "肉质剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275719"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=275719",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4428,20 +4539,21 @@
     "height": "0.5-1",
     "spread": "0.3-0.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "淡紫",
     "seasonOfInterest": null,
     "leafForm": "羽状深裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/18816/verbena-officinalis/details"
+      "https://www.rhs.org.uk/plants/18816/verbena-officinalis/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4461,14 +4573,15 @@
     "seasonOfInterest": null,
     "leafForm": "圆形/肾形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/10632/lysimachia-nummularia/details"
+      "https://www.rhs.org.uk/plants/10632/lysimachia-nummularia/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4482,9 +4595,9 @@
     "height": "3-6",
     "spread": "1-2",
     "sun": "full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "夏",
+    "flowerColor": "绿白",
     "seasonOfInterest": null,
     "leafForm": "圆形小叶",
     "persistence": null,
@@ -4496,7 +4609,8 @@
     "category": "藤本",
     "sources": [
       "https://plantdatabase.kpu.ca/Plant/mucv",
-      "https://www.provenwinners.com/plants/muehlenbeckia/big-leaf-creeping-wire-vine-muehlenbeckia-complexa"
+      "https://www.provenwinners.com/plants/muehlenbeckia/big-leaf-creeping-wire-vine-muehlenbeckia-complexa",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4516,14 +4630,15 @@
     "seasonOfInterest": null,
     "leafForm": "肉质剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/923/aloe-arborescens/details"
+      "https://www.rhs.org.uk/plants/923/aloe-arborescens/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4537,20 +4652,21 @@
     "height": "0.8-1.2",
     "spread": "0.5-0.8",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉/白",
     "seasonOfInterest": null,
     "leafForm": "三裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.jungledragon.com/specie/13291/japanese_anemone"
+      "https://www.jungledragon.com/specie/13291/japanese_anemone",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4564,20 +4680,21 @@
     "height": "0.3-0.6",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬-春",
     "flowerColor": "白/粉/紫",
     "seasonOfInterest": null,
     "leafForm": "掌状分裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=271449"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=271449",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4591,20 +4708,21 @@
     "height": "0.3-0.6",
     "spread": "0.3-0.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉紫",
     "seasonOfInterest": null,
     "leafForm": "披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4618,20 +4736,21 @@
     "height": "0.6-1.5",
     "spread": "0.5-0.8",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白/绿/紫红",
     "seasonOfInterest": null,
     "leafForm": "披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plants.ces.ncsu.edu/plants/disporum/"
+      "https://plants.ces.ncsu.edu/plants/disporum/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4645,20 +4764,21 @@
     "height": "0.1-0.3",
     "spread": "0.15-0.3",
     "sun": "part shade",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "春-夏",
     "flowerColor": "淡紫/绿",
     "seasonOfInterest": null,
     "leafForm": "披针形银斑叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/75902/ledebouria-cooperi/details"
+      "https://www.rhs.org.uk/plants/75902/ledebouria-cooperi/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4672,20 +4792,21 @@
     "height": "0.5-1.3",
     "spread": "0.6-1",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "蓝紫/粉",
     "seasonOfInterest": null,
     "leafForm": "卵/披针形毛叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantdatabase.kpu.ca/PlantPrint/syof"
+      "https://plantdatabase.kpu.ca/PlantPrint/syof",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4699,20 +4820,21 @@
     "height": "0.5-1",
     "spread": "0.3-0.6",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/13415/polygonatum-odoratum/details"
+      "https://www.rhs.org.uk/plants/13415/polygonatum-odoratum/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4726,20 +4848,21 @@
     "height": "0.2-0.6",
     "spread": "0.3-0.8",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "白/淡紫",
     "seasonOfInterest": null,
     "leafForm": "卵形/心形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=262330"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=262330",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4753,20 +4876,21 @@
     "height": "0.3-1",
     "spread": "0.3-0.6",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "粉/红/白",
     "seasonOfInterest": null,
     "leafForm": "复叶细裂",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260361"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260361",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4780,20 +4904,21 @@
     "height": "0.2-0.4",
     "spread": "0.3-0.6",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白/黄/红",
     "seasonOfInterest": null,
     "leafForm": "卵形/心形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264472"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=264472",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4807,20 +4932,21 @@
     "height": "0.5-1",
     "spread": "0.4-0.6",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉/红",
     "seasonOfInterest": null,
     "leafForm": "羽状分裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/293049/lamprocapnos-spectabilis/details"
+      "https://www.rhs.org.uk/plants/293049/lamprocapnos-spectabilis/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4834,20 +4960,21 @@
     "height": "0.5-1",
     "spread": "0.5-0.8",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/dryopteris"
+      "https://www.rhs.org.uk/plants/dryopteris",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4861,20 +4988,21 @@
     "height": "1-2",
     "spread": "1.5-2",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "大型羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://en.wikipedia.org/wiki/Golden_chicken_fern"
+      "https://en.wikipedia.org/wiki/Golden_chicken_fern",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4888,20 +5016,21 @@
     "height": "0.3-0.6",
     "spread": "0.3-0.6",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4921,14 +5050,15 @@
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285736"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285736",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4942,20 +5072,21 @@
     "height": "0.3-0.6",
     "spread": "0.5-0.9",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/117923/arachniodes-simplicior/details"
+      "https://www.rhs.org.uk/plants/117923/arachniodes-simplicior/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4969,20 +5100,21 @@
     "height": "0.3-0.6",
     "spread": "0.4-0.8",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200003393"
+      "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200003393",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -4996,20 +5128,21 @@
     "height": "0.3-0.45",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.iplant.cn/z/frps/8140"
+      "https://www.iplant.cn/z/frps/8140",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5023,20 +5156,21 @@
     "height": "0.3-1",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "线状披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.iplant.cn/bk/894C86B6F3942783"
+      "https://www.iplant.cn/bk/894C86B6F3942783",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5050,20 +5184,21 @@
     "height": "0.2-0.5",
     "spread": "0.4-0.8",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状细裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-10",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/5360/davallia-fejeensis/details"
+      "https://www.rhs.org.uk/plants/5360/davallia-fejeensis/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5077,20 +5212,21 @@
     "height": "0.6-1.2",
     "spread": "0.6-1.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plants.ces.ncsu.edu/plants/pleioblastus-fortunei/"
+      "https://plants.ces.ncsu.edu/plants/pleioblastus-fortunei/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5104,20 +5240,21 @@
     "height": "0.5-1",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "长披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details"
+      "https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5131,20 +5268,21 @@
     "height": "0.3-0.6",
     "spread": "0.3-0.6",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "肾形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/113070/farfugium-japonicum/details"
+      "https://www.rhs.org.uk/plants/113070/farfugium-japonicum/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5158,20 +5296,21 @@
     "height": "0.3-0.5",
     "spread": "0.3-0.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "弧形线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details"
+      "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5185,20 +5324,21 @@
     "height": "0.3-0.6",
     "spread": "0.3-0.6",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": "红",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details"
+      "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5212,20 +5352,21 @@
     "height": "0.2-0.35",
     "spread": "0.3-0.6",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉",
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/55064/reineckea-carnea/details"
+      "https://www.rhs.org.uk/plants/55064/reineckea-carnea/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5240,8 +5381,8 @@
     "spread": "0.2-0.45",
     "sun": "part shade",
     "water": "wet",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
@@ -5253,7 +5394,8 @@
     "category": "水生植物",
     "sources": [
       "https://www.monrovia.com/dwarf-golden-sweet-flag.html",
-      "https://www.onlineplantguide.com/plant-details/68/"
+      "https://www.onlineplantguide.com/plant-details/68/",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5267,20 +5409,21 @@
     "height": "0.2-0.45",
     "spread": "0.3-0.6",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "淡紫/白",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-10",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=a620"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=a620",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5294,20 +5437,21 @@
     "height": "0.5-0.9",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "dry",
+    "bloomSeason": "夏",
+    "flowerColor": "银白/黄褐",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/58857/stipa-tenuissima/details"
+      "https://www.rhs.org.uk/plants/58857/stipa-tenuissima/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5321,20 +5465,21 @@
     "height": "2.5-4",
     "spread": "1.5-2.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": "红",
     "seasonOfInterest": null,
     "leafForm": "大型桨状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "9-11",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/6397/ensete-ventricosum/details"
+      "https://www.rhs.org.uk/plants/6397/ensete-ventricosum/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5348,20 +5493,21 @@
     "height": "2-3",
     "spread": "1.5-2.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
     "flowerColor": "银白",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/4431/cortaderia-selloana/details"
+      "https://www.rhs.org.uk/plants/4431/cortaderia-selloana/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5375,20 +5521,21 @@
     "height": "0.5-1",
     "spread": "0.5-0.8",
     "sun": "part shade to full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "黄褐",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/5638/tufted-hair-grass/details"
+      "https://www.rhs.org.uk/plants/5638/tufted-hair-grass/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5402,20 +5549,21 @@
     "height": "1.5-2",
     "spread": "1-1.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
     "flowerColor": "银白",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=250977"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=250977",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285333"
     ]
   },
   {
@@ -5429,20 +5577,21 @@
     "height": "1.2-1.8",
     "spread": "0.6-0.9",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "黄褐",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.slcgardenwise.com/eplant.php?plantnum=24206"
+      "https://www.slcgardenwise.com/eplant.php?plantnum=24206",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5458,7 +5607,7 @@
     "sun": "full sun",
     "water": "wet",
     "bloomSeason": "夏",
-    "flowerColor": null,
+    "flowerColor": "黄褐",
     "seasonOfInterest": null,
     "leafForm": "细长叶",
     "persistence": null,
@@ -5470,7 +5619,8 @@
     "category": "水生植物",
     "sources": [
       "https://www.terranovanurseries.com/product/juncus-blonde-ambition/",
-      "https://www.thompson-morgan.com/p/juncus-effusus-f-spiralis-marginal-aquatic/t78237TM"
+      "https://www.thompson-morgan.com/p/juncus-effusus-f-spiralis-marginal-aquatic/t78237TM",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5484,20 +5634,21 @@
     "height": "0.6-1.5",
     "spread": "0.6-1",
     "sun": "full sun",
-    "water": null,
+    "water": "dry",
     "bloomSeason": "夏-秋",
     "flowerColor": "红褐",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285200"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285200",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5517,14 +5668,15 @@
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/10003/leucojum-aestivum/details"
+      "https://www.rhs.org.uk/plants/10003/leucojum-aestivum/details",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5538,20 +5690,21 @@
     "height": "0.6-1.5",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "多彩",
     "seasonOfInterest": null,
     "leafForm": "披针叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": true,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://cornellbotanicgardens.org/plant/tiger-lily"
+      "https://cornellbotanicgardens.org/plant/tiger-lily",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5593,20 +5746,21 @@
     "height": "0.8-1.3",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "蓝紫/白",
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "images": [],
     "tags": [],
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282043"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282043",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5616,7 +5770,7 @@
     "genus": "蓼属",
     "family": "蓼科",
     "aliases": "太阳花",
-    "evergreen": null,
+    "evergreen": "evergreen",
     "height": "0.1-0.2",
     "spread": "0.3-0.8",
     "sun": "full sun",
@@ -5634,7 +5788,8 @@
     "category": "地被",
     "sources": [
       "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242100091",
-      "https://www.shootgardening.com/plants/persicaria-capitata"
+      "https://www.shootgardening.com/plants/persicaria-capitata",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5759,7 +5914,7 @@
     "height": "5-10",
     "spread": "3-4",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -5773,7 +5928,8 @@
     "category": "藤本",
     "sources": [
       "https://plantdatabase.uconn.edu/detail.php?pid=262",
-      "https://dplantdatabase.kpu.ca/Plant/loja"
+      "https://dplantdatabase.kpu.ca/Plant/loja",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5783,11 +5939,11 @@
     "genus": "铁线莲属",
     "family": "毛茛科",
     "aliases": "藤本皇后",
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "2-4",
     "spread": "1-2",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "蓝紫",
     "seasonOfInterest": null,
@@ -5800,7 +5956,8 @@
     "tags": [],
     "category": "藤本",
     "sources": [
-      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx"
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5815,8 +5972,8 @@
     "spread": "1-1.5",
     "sun": "part shade",
     "water": "wet",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "绿白",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
@@ -5828,7 +5985,8 @@
     "category": "藤本",
     "sources": [
       "https://dplantdatabase.kpu.ca/Plant/fipu",
-      "https://www.monrovia.com/shop/creeping-fig.html"
+      "https://www.monrovia.com/shop/creeping-fig.html",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5842,7 +6000,7 @@
     "height": "6-9",
     "spread": "1-2",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -5856,7 +6014,8 @@
     "category": "藤本",
     "sources": [
       "https://www.monrovia.com/star-jasmine.html",
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&letter=T"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&letter=T",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5870,7 +6029,7 @@
     "height": "5-15",
     "spread": "3-5",
     "sun": "shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋",
     "flowerColor": "白",
     "seasonOfInterest": null,
@@ -5884,7 +6043,8 @@
     "category": "藤本",
     "sources": [
       "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=260699&isprofile=0&letter=H",
-      "https://dplantdatabase.kpu.ca/Plant/hehe"
+      "https://dplantdatabase.kpu.ca/Plant/hehe",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5898,7 +6058,7 @@
     "height": "10-25",
     "spread": "4-8",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "蓝紫",
     "seasonOfInterest": null,
@@ -5911,7 +6071,8 @@
     "tags": [],
     "category": "藤本",
     "sources": [
-      "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=280632"
+      "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=280632",
+      "https://plantfinder.mobot.org/"
     ]
   },
   {
@@ -5921,7 +6082,7 @@
     "genus": "三白草属",
     "family": "三白草科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "0.3-0.9",
     "spread": "0.4-0.9",
     "sun": "part shade",
@@ -5937,7 +6098,8 @@
     "category": "水生植物",
     "sources": [
       "https://stage.gardenia.net/plant/saururus-chinensis",
-      "https://easyscape.com/species/Saururus-chinensis(Asian-Lizard%E2%80%99s-Tail)"
+      "https://easyscape.com/species/Saururus-chinensis(Asian-Lizard%E2%80%99s-Tail)",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -5949,7 +6111,7 @@
     "genus": "千屈菜属",
     "family": "千屈菜科",
     "aliases": "白花千屈菜",
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "0.6-1.2",
     "spread": "0.6-1.2",
     "sun": "full sun",
@@ -5965,7 +6127,8 @@
     "category": "水生植物",
     "sources": [
       "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282500",
-      "https://plantdatabase.kpu.ca/Plant/lysa"
+      "https://plantdatabase.kpu.ca/Plant/lysa",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -5977,7 +6140,7 @@
     "genus": "鸢尾属",
     "family": "鸢尾科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "0.3-0.9",
     "spread": "0.3-0.9",
     "sun": "full sun",
@@ -5993,7 +6156,8 @@
     "category": "水生植物",
     "sources": [
       "https://plantlust.com/plants/25999/iris-sanguinea/",
-      "https://pfaf.org/USER/Plant.aspx?LatinName=Iris+sanguinea"
+      "https://pfaf.org/USER/Plant.aspx?LatinName=Iris+sanguinea",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6005,7 +6169,7 @@
     "genus": "珍珠菜属",
     "family": "报春花科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "0.1-0.5",
     "spread": "0.2-0.4",
     "sun": "part shade",
@@ -6021,7 +6185,8 @@
     "category": "水生植物",
     "sources": [
       "http://www.iplant.cn/bk/Lysimachia%20candida",
-      "https://wapbaike.baidu.com/item/泽珍珠菜/2567621"
+      "https://wapbaike.baidu.com/item/泽珍珠菜/2567621",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6033,13 +6198,13 @@
     "genus": "苦草属",
     "family": "水鳖科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "evergreen",
     "height": "0.15-0.3",
     "spread": "0.1-0.2",
     "sun": "full sun",
     "water": "wet",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
@@ -6049,7 +6214,8 @@
     "category": "水生植物",
     "sources": [
       "https://gensou.sg/vallisneria-nana-care-guide/",
-      "https://pts.lifeasible.com/vallisneria-nana-gracilisnarrow-leaf-eelgrass-item-1020.html"
+      "https://pts.lifeasible.com/vallisneria-nana-gracilisnarrow-leaf-eelgrass-item-1020.html",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6061,13 +6227,13 @@
     "genus": "金鱼藻属",
     "family": "金鱼藻科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "evergreen",
     "height": "0.3-0.6",
     "spread": "0.5-2",
     "sun": "full sun",
     "water": "wet",
-    "bloomSeason": null,
-    "flowerColor": null,
+    "bloomSeason": "夏",
+    "flowerColor": "白/绿",
     "seasonOfInterest": null,
     "leafForm": "羽状细裂叶",
     "persistence": null,
@@ -6077,7 +6243,8 @@
     "category": "水生植物",
     "sources": [
       "https://www.nvknurseries.com/plant/Ceratophyllum-demersum",
-      "https://www.lilyblooms.com/hornwort-ceratophyllum-demersum-submerged-oxygenating-pond-plant/"
+      "https://www.lilyblooms.com/hornwort-ceratophyllum-demersum-submerged-oxygenating-pond-plant/",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6089,7 +6256,7 @@
     "genus": "慈姑属",
     "family": "泽泻科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "0.3-0.8",
     "spread": "0.4-1",
     "sun": "full sun",
@@ -6105,7 +6272,8 @@
     "category": "水生植物",
     "sources": [
       "https://www.rhs.org.uk/plants/16194/sagittaria-sagittifolia/details",
-      "https://www.thompson-morgan.com/p/sagittaria-sagittifolia-marginal-aquatic/wkh4754TM"
+      "https://www.thompson-morgan.com/p/sagittaria-sagittifolia-marginal-aquatic/wkh4754TM",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6117,7 +6285,7 @@
     "genus": "泽泻属",
     "family": "泽泻科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "0.5-1",
     "spread": "0.1-0.5",
     "sun": "full sun",
@@ -6133,7 +6301,8 @@
     "category": "水生植物",
     "sources": [
       "https://www.rhs.org.uk/plants/97910/alisma-plantago-aquatica/details",
-      "https://www.thompson-morgan.com/p/alisma-plantagoaquatica-marginal-aquatic/T78076TM"
+      "https://www.thompson-morgan.com/p/alisma-plantagoaquatica-marginal-aquatic/T78076TM",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6149,18 +6318,19 @@
     "height": "2-5",
     "spread": "2-4",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "落叶乔木",
     "sources": [
-      "https://en.paperblog.com/plant-of-the-week-fraxinus-bungeana-566629/"
+      "https://en.paperblog.com/plant-of-the-week-fraxinus-bungeana-566629/",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6176,18 +6346,19 @@
     "height": "1-2",
     "spread": "1-1.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "细小椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242310271"
+      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242310271",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6203,18 +6374,19 @@
     "height": "1-2",
     "spread": "1-1.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.worldfloraonline.org/taxon/wfo-0001291121"
+      "https://www.worldfloraonline.org/taxon/wfo-0001291121",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6230,18 +6402,19 @@
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://dawesarb.arboretumexplorer.org/taxon-18996.aspx"
+      "https://dawesarb.arboretumexplorer.org/taxon-18996.aspx",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6257,18 +6430,19 @@
     "height": "1-2",
     "spread": "1-2",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "红",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/15682/rhododendron-simsii-ea/details"
+      "https://www.rhs.org.uk/plants/15682/rhododendron-simsii-ea/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6284,18 +6458,19 @@
     "height": "0.6-1.2",
     "spread": "0.9-1.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "淡粉",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287487&isprofile=0&bt=7"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287487&isprofile=0&bt=7",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6311,18 +6486,19 @@
     "height": "2.5-4",
     "spread": "2.5-4",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬-春",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/92278/corylopsis-sinensis-var-sinensis/details"
+      "https://www.rhs.org.uk/plants/92278/corylopsis-sinensis-var-sinensis/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6338,18 +6514,19 @@
     "height": "1.2-1.8",
     "spread": "1.5-2",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "粉",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286473"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286473",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6365,18 +6542,19 @@
     "height": "1.8-3",
     "spread": "2.4-3",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "栎叶(深裂卵形)",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://plantfinder.nativeplanttrust.org/plant/Hydrangea-quercifolia"
+      "https://plantfinder.nativeplanttrust.org/plant/Hydrangea-quercifolia",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6392,18 +6570,19 @@
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/92563/philadelphus-coronarius/details"
+      "https://www.rhs.org.uk/plants/92563/philadelphus-coronarius/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6419,18 +6598,19 @@
     "height": "2-4",
     "spread": "2-3",
     "sun": "part shade to full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉/红脉",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=390"
+      "https://web.extension.illinois.edu/shrubselector/detail_plant.cfm?PlantID=390",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6446,18 +6626,19 @@
     "height": "1.5-3",
     "spread": "1.5-3",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "wet",
     "bloomSeason": "春",
     "flowerColor": "白/粉",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279992"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=279992",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6473,18 +6654,19 @@
     "height": "2.5-4",
     "spread": "1.5-2.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/7014/euonymus-phellomanus/details"
+      "https://www.rhs.org.uk/plants/7014/euonymus-phellomanus/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6500,18 +6682,19 @@
     "height": "3-5",
     "spread": "1.5-2",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "绿白",
     "seasonOfInterest": null,
     "leafForm": "刺状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/9420/itea-ilicifolia/details"
+      "https://www.rhs.org.uk/plants/9420/itea-ilicifolia/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6527,18 +6710,19 @@
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬-春",
     "flowerColor": "白/奶油",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/68665/lonicera-fragrantissima/details"
+      "https://www.rhs.org.uk/plants/68665/lonicera-fragrantissima/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6554,18 +6738,19 @@
     "height": "9-12",
     "spread": "7-9",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵/椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "category": "常绿乔木",
     "sources": [
-      "http://plants.pikenursery.com/12291001/Results/Index/133?Cattree=True&senderAll=Trees"
+      "http://plants.pikenursery.com/12291001/Results/Index/133?Cattree=True&senderAll=Trees",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6581,18 +6766,19 @@
     "height": "5-8",
     "spread": "4-6",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵/椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "落叶乔木",
     "sources": [
-      "http://plants.oaklandnursery.com/12130001/Results/Index/13?Cattrde=True&senderAll=Deciduous%2bTrees"
+      "http://plants.oaklandnursery.com/12130001/Results/Index/13?Cattrde=True&senderAll=Deciduous%2bTrees",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6608,18 +6794,19 @@
     "height": "2.5-4",
     "spread": "2.5-4",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "冬-春",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/8246/hamamelis-mollis/details"
+      "https://www.rhs.org.uk/plants/8246/hamamelis-mollis/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6635,18 +6822,19 @@
     "height": "0.8-1.2",
     "spread": "0.6-0.9",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "白/粉",
     "seasonOfInterest": null,
     "leafForm": "卵形浅裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=e135"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=e135",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6662,18 +6850,19 @@
     "height": "0.9-1.5",
     "spread": "0.5-0.6",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "紫红",
     "seasonOfInterest": null,
     "leafForm": "细裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286295"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=286295",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6689,18 +6878,19 @@
     "height": "0.3-0.6",
     "spread": "0.6-0.9",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=285815",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6716,18 +6906,19 @@
     "height": "0.5-1",
     "spread": "0.5-1",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/25899/dryopteris-erythrosora/details"
+      "https://www.rhs.org.uk/plants/25899/dryopteris-erythrosora/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6739,22 +6930,23 @@
     "genus": "针毛蕨属",
     "family": "金星蕨科",
     "aliases": null,
-    "evergreen": null,
+    "evergreen": "deciduous",
     "height": "0.6-1.5",
     "spread": "0.5-1",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200004030"
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200004030",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6770,18 +6962,19 @@
     "height": "0.6-1",
     "spread": "0.5-0.8",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/69247/dryopteris-tokyoensis/details"
+      "https://www.rhs.org.uk/plants/69247/dryopteris-tokyoensis/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6793,22 +6986,23 @@
     "genus": "凤尾蕨属",
     "family": "凤尾蕨科",
     "aliases": "日本凤尾蕨",
-    "evergreen": null,
+    "evergreen": "evergreen",
     "height": "0.3-0.5",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/240129/pteris-nipponica/details"
+      "https://www.rhs.org.uk/plants/240129/pteris-nipponica/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6824,18 +7018,19 @@
     "height": "0.1-0.3",
     "spread": "0.2-0.3",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "蓝紫",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200020320"
+      "http://efloras.org/florataxon.aspx?flora_id=3&taxon_id=200020320",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6851,18 +7046,19 @@
     "height": "0.5-0.6",
     "spread": "0.1-0.3",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "淡黄带紫斑",
     "seasonOfInterest": null,
     "leafForm": "披针叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/24174/fritillaria-thunbergii/details"
+      "https://www.rhs.org.uk/plants/24174/fritillaria-thunbergii/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6878,18 +7074,19 @@
     "height": "0.5-1",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "淡紫带紫斑",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/18350/tricyrtis-formosana/details"
+      "https://www.rhs.org.uk/plants/18350/tricyrtis-formosana/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6905,18 +7102,19 @@
     "height": "0.3-0.5",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵至披针形",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/219228/disporopsis-aspersa/details"
+      "https://www.rhs.org.uk/plants/219228/disporopsis-aspersa/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6938,12 +7136,13 @@
     "seasonOfInterest": null,
     "leafForm": "剑形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "水生植物",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281083"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=281083",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6959,18 +7158,19 @@
     "height": "0.6-1",
     "spread": "0.6-0.9",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "羽裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287439"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287439",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -6986,18 +7186,19 @@
     "height": "0.3-0.6",
     "spread": "0.3-0.45",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "白/粉带紫斑",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-8",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=278821"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=278821",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7013,18 +7214,19 @@
     "height": "0.1-0.3",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "春-夏",
+    "flowerColor": "暗紫/褐",
     "seasonOfInterest": null,
     "leafForm": "心/肾形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/107239/asarum-splendens/details"
+      "https://www.rhs.org.uk/plants/107239/asarum-splendens/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7040,18 +7242,19 @@
     "height": "0.3-0.8",
     "spread": "0.2-0.3",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "粉紫",
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://en.wikipedia.org/wiki/Dianthus_superbus"
+      "https://en.wikipedia.org/wiki/Dianthus_superbus",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7067,18 +7270,19 @@
     "height": "0.6-1.5",
     "spread": "0.3-0.5",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏",
     "flowerColor": "橙红带黑斑",
     "seasonOfInterest": null,
     "leafForm": "披针叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://cornellbotanicgardens.org/plant/tiger-lily"
+      "https://cornellbotanicgardens.org/plant/tiger-lily",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7094,18 +7298,19 @@
     "height": "1.8-3",
     "spread": "2-3",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=d583"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=d583",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7121,18 +7326,19 @@
     "height": "6-9",
     "spread": "6-8",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉紫",
     "seasonOfInterest": null,
     "leafForm": "心形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "category": "落叶乔木",
     "sources": [
-      "https://si.gardenexplorer.org/taxon-1242.aspx"
+      "https://si.gardenexplorer.org/taxon-1242.aspx",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7148,18 +7354,19 @@
     "height": "0.6-1.2",
     "spread": "0.6-0.9",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "夏-秋",
     "flowerColor": "粉",
     "seasonOfInterest": null,
     "leafForm": "戟形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://friendsofmercer.com/Pavonia-hastata--Spearleaf-Swamp-Mallow-P_p_5679.html"
+      "https://friendsofmercer.com/Pavonia-hastata--Spearleaf-Swamp-Mallow-P_p_5679.html",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7175,18 +7382,19 @@
     "height": "0.3-0.5",
     "spread": "0.1-0.3",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "黄/白/橙",
     "seasonOfInterest": null,
     "leafForm": "带状叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "3-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://fresnogardening.org/eplant.php?plantnum=1630"
+      "https://fresnogardening.org/eplant.php?plantnum=1630",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7202,18 +7410,19 @@
     "height": "1.5-2.5",
     "spread": "1.5-2.5",
     "sun": "full sun",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "红褐",
     "seasonOfInterest": null,
     "leafForm": "羽状裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "8-10",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/84304/melianthus-major/details"
+      "https://www.rhs.org.uk/plants/84304/melianthus-major/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7229,18 +7438,19 @@
     "height": "5-8",
     "spread": "5-7",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "黄绿",
     "seasonOfInterest": null,
     "leafForm": "三角状卵形",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "落叶乔木",
     "sources": [
-      "https://kiefernursery.com/product/acer-buergerianum/"
+      "https://kiefernursery.com/product/acer-buergerianum/",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7256,18 +7466,19 @@
     "height": "8-12",
     "spread": "6-8",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵/椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-8",
     "missingName": false,
     "genusOnly": false,
     "category": "落叶乔木",
     "sources": [
-      "https://plants.squakmtnursery.com/12230001/Plant/6195/Giant_Dogwood"
+      "https://plants.squakmtnursery.com/12230001/Plant/6195/Giant_Dogwood",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7283,18 +7494,19 @@
     "height": "2.5-4",
     "spread": "1.5-2.5",
     "sun": "part shade to full sun",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "白/淡黄",
     "seasonOfInterest": null,
     "leafForm": "椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://landscapeplants.oregonstate.edu/plants/ternstroemia-gymnanthera"
+      "https://landscapeplants.oregonstate.edu/plants/ternstroemia-gymnanthera",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7310,18 +7522,19 @@
     "height": "2.5-3",
     "spread": "2.5-3",
     "sun": "part shade to shade",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "春",
+    "flowerColor": "紫红",
     "seasonOfInterest": null,
     "leafForm": "椭圆形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/148757/aucuba-japonica/details"
+      "https://www.rhs.org.uk/plants/148757/aucuba-japonica/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7337,18 +7550,19 @@
     "height": "2.5-4",
     "spread": "2.5-4",
     "sun": "part shade to shade",
-    "water": null,
-    "bloomSeason": null,
-    "flowerColor": null,
+    "water": "medium",
+    "bloomSeason": "秋-冬",
+    "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "掌状裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.rhs.org.uk/plants/7147/fatsia-japonica/details"
+      "https://www.rhs.org.uk/plants/7147/fatsia-japonica/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7364,18 +7578,19 @@
     "height": "0.5-1",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "长披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "7-10",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details"
+      "https://www.rhs.org.uk/plants/1715/aspidistra-elatior/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7391,18 +7606,19 @@
     "height": "0.2-0.5",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "弧形线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details"
+      "https://www.rhs.org.uk/plants/33668/hakonechloa-macra/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7418,18 +7634,19 @@
     "height": "0.3-0.5",
     "spread": "0.3-0.5",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "粉紫",
     "seasonOfInterest": null,
     "leafForm": "披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860"
+      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=283860",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7445,18 +7662,19 @@
     "height": "0.1-0.4",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "心形圆叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/98506/saxifraga-stolonifera-5/details"
+      "https://www.rhs.org.uk/plants/98506/saxifraga-stolonifera-5/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7472,18 +7690,19 @@
     "height": "0.3-0.5",
     "spread": "0.3-0.5",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "淡粉",
     "seasonOfInterest": null,
     "leafForm": "掌状分裂叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/24575/helleborus-thibetanus/details"
+      "https://www.rhs.org.uk/plants/24575/helleborus-thibetanus/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7499,18 +7718,19 @@
     "height": "0.3-0.5",
     "spread": "0.3-0.6",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "白",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.onlineplantguide.com/plant-details/3780"
+      "https://www.onlineplantguide.com/plant-details/3780",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7526,18 +7746,19 @@
     "height": "0.6-1.2",
     "spread": "0.5-0.8",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春-夏",
     "flowerColor": "紫红/绿白",
     "seasonOfInterest": null,
     "leafForm": "披针形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/5982/disporum-cantoniense/details"
+      "https://www.rhs.org.uk/plants/5982/disporum-cantoniense/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7553,18 +7774,19 @@
     "height": "0.1-0.3",
     "spread": "0.2-0.4",
     "sun": "full sun to part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "春",
     "flowerColor": "紫/白",
     "seasonOfInterest": null,
     "leafForm": "卵形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://en.wikipedia.org/wiki/Ajuga_decumbens"
+      "https://en.wikipedia.org/wiki/Ajuga_decumbens",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7580,18 +7802,19 @@
     "height": "0.3-0.4",
     "spread": "0.3-0.4",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details"
+      "https://www.rhs.org.uk/plants/54557/carex-oshimensis/details",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7613,12 +7836,13 @@
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "4-9",
     "missingName": false,
     "genusOnly": false,
     "category": "水生植物",
     "sources": [
-      "https://stage.gardenia.net/plant/typha-minima"
+      "https://stage.gardenia.net/plant/typha-minima",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7634,18 +7858,19 @@
     "height": "1-1.5",
     "spread": "1",
     "sun": "part shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": "秋-冬",
     "flowerColor": "黄",
     "seasonOfInterest": null,
     "leafForm": "羽状复叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "6-9",
     "missingName": false,
     "genusOnly": false,
     "category": "灌木",
     "sources": [
-      "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250096504"
+      "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250096504",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
@@ -7661,18 +7886,19 @@
     "height": "0.15-0.4",
     "spread": "0.2",
     "sun": "part shade to shade",
-    "water": null,
+    "water": "medium",
     "bloomSeason": null,
     "flowerColor": null,
     "seasonOfInterest": null,
     "leafForm": "线形叶",
     "persistence": null,
-    "hardinessZone": null,
+    "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
     "category": "宿根草本",
     "sources": [
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250095526"
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=250095526",
+      "https://plantfinder.mobot.org/"
     ],
     "images": [],
     "tags": []
