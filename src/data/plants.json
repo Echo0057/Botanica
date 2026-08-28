@@ -4416,34 +4416,6 @@
     "leafColor": "全年蓝灰"
   },
   {
-    "id": "verbena_officinalis_l",
-    "chineseName": "马鞭草",
-    "latinName": "Verbena officinalis",
-    "genus": "马鞭草属",
-    "family": "马鞭草科",
-    "aliases": "铁马鞭·蜻蜓草·透骨草·马鞭子",
-    "evergreen": "deciduous",
-    "height": "0.5-1",
-    "spread": "0.3-0.5",
-    "sun": "full sun",
-    "water": "medium",
-    "bloomSeason": "夏-秋",
-    "flowerColor": "淡紫",
-    "seasonOfInterest": null,
-    "leafForm": "羽状深裂叶",
-    "persistence": null,
-    "hardinessZone": "6-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/18816/verbena-officinalis/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "habitat": "路边、荒地、草丛"
-  },
-  {
     "id": "lysimachia",
     "chineseName": "圆叶过路黄",
     "latinName": "Lysimachia",
@@ -7871,34 +7843,6 @@
     ],
     "tags": [],
     "habitat": "山坡、路旁草丛"
-  },
-  {
-    "id": "verbena_bonariensis",
-    "chineseName": "柳叶马鞭草",
-    "latinName": "Verbena bonariensis",
-    "genus": "马鞭草属",
-    "family": "马鞭草科",
-    "aliases": "紫顶龙芽花",
-    "evergreen": null,
-    "height": "0.8-1.2",
-    "spread": null,
-    "sun": "full sun",
-    "water": "medium",
-    "bloomSeason": "夏-秋",
-    "flowerColor": "紫",
-    "seasonOfInterest": null,
-    "leafForm": null,
-    "persistence": null,
-    "hardinessZone": null,
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "http://shidicn.isenlin.cn/sf_F7135F619AEC44E0B83CE70F52F2E096_151_66E3D680754.html",
-      "https://www.rhs.org.uk/plants/42079/verbena-bonariensis/details"
-    ],
-    "tags": [],
-    "habitat": "草地、河岸、老耕地、路边"
   },
   {
     "id": "rudbeckia_triloba",
