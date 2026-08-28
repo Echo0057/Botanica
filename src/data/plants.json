@@ -19,7 +19,26 @@
     "hardinessZone": "5-9",
     "missingName": false,
     "genusOnly": false,
-    "images": [],
+    "images": [
+      {
+        "type": "habit",
+        "src": "/images/acer-palmatum-habit.jpg",
+        "credit": "File:Plants in Showa Commemorative National Government Park, Japan; November 2018 (02).jpg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Plants_in_Showa_Commemorative_National_Government_Park%2C_Japan%3B_November_2018_%2802%29.jpg/1920px-Plants_in_Showa_Commemorative_National_Government_Park%2C_Japan%3B_November_2018_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "type": "leaf",
+        "src": "/images/acer-palmatum-leaf.jpg",
+        "credit": "File:Japanischer Ahorn -- 2023 -- 9280.jpg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Japanischer_Ahorn_--_2023_--_9280.jpg/1920px-Japanischer_Ahorn_--_2023_--_9280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "type": "detail",
+        "src": "/images/acer-palmatum-detail.jpg",
+        "credit": "File:Dülmen, Hausdülmen, Knospen eines Japanischen Ahorns -- 2021 -- 7491.jpg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Knospen_eines_Japanischen_Ahorns_--_2021_--_7491.jpg/1920px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Knospen_eines_Japanischen_Ahorns_--_2021_--_7491.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ],
     "tags": [],
     "category": "落叶乔木",
     "sources": [
