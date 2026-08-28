@@ -333,14 +333,6 @@
     "aliases": "玉蝉花·紫花鸢尾"
   },
   {
-    "chineseName": "白花败酱",
-    "latinName": "Patrinia villosa",
-    "genus": "败酱属",
-    "family": "忍冬科",
-    "category": "宿根草本",
-    "aliases": "攀倒甑"
-  },
-  {
     "chineseName": "紫斑风铃草",
     "latinName": "Campanula punctata",
     "genus": "风铃草属",
@@ -493,14 +485,6 @@
     "aliases": null
   },
   {
-    "chineseName": "万寿竹",
-    "latinName": "Disporum cantoniense",
-    "genus": "万寿竹属",
-    "family": "天门冬科",
-    "category": "宿根草本",
-    "aliases": null
-  },
-  {
     "chineseName": "筋骨草",
     "latinName": "Ajuga decumbens",
     "genus": "筋骨草属",
@@ -604,19 +588,6 @@
     "sources": [
       "http://www.isenlin.cn/sf_FBEFC4B25F1C430FA57CCF1B366F00CA_209_A952252C215.html"
     ]
-  },
-  {
-    "chineseName": "黄花败酱",
-    "latinName": "Patrinia scabiosifolia",
-    "genus": "败酱属",
-    "family": "忍冬科",
-    "category": "宿根草本",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "height": "0.5-1",
-    "bloomSeason": "夏-秋",
-    "flowerColor": "黄",
-    "aliases": null
   },
   {
     "chineseName": "柳枝稷",

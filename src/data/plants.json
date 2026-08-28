@@ -437,35 +437,6 @@
     "habitat": "山坡草地、灌丛"
   },
   {
-    "id": "plant_21",
-    "chineseName": "地榆",
-    "latinName": "Sanguisorba officinalis",
-    "genus": "地榆属",
-    "family": "蔷薇科",
-    "aliases": "黄瓜香·山地瓜·猪人参·血箭草·黄爪香·山枣子",
-    "evergreen": "deciduous",
-    "height": "0.6-1",
-    "spread": "0.5-0.8",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "bloomSeason": "夏",
-    "flowerColor": "暗红",
-    "seasonOfInterest": null,
-    "leafForm": "羽状复叶",
-    "persistence": null,
-    "hardinessZone": "3-9",
-    "missingName": false,
-    "genusOnly": false,
-    "tags": [],
-    "category": "宿根草本",
-    "sources": [
-      "https://cornellbotanicgardens.org/plant/great-burnet",
-      "https://www.wildflower.org/plants/result.php?id_plant=SAOF3",
-      "http://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200011628"
-    ],
-    "habitat": "疏林、灌丛、草甸、山坡草地、溪边"
-  },
-  {
     "id": "plant_22",
     "chineseName": "藿香属",
     "latinName": "Agastache",
@@ -6897,35 +6868,6 @@
     "habitat": "河岸湿地、湖泊水边"
   },
   {
-    "id": "patrinia_villosa",
-    "chineseName": "白花败酱",
-    "latinName": "Patrinia villosa",
-    "genus": "败酱属",
-    "family": "忍冬科",
-    "aliases": "攀倒甑",
-    "evergreen": "deciduous",
-    "height": "0.6-1",
-    "spread": "0.6-0.9",
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "bloomSeason": "夏-秋",
-    "flowerColor": "白",
-    "seasonOfInterest": null,
-    "leafForm": "羽裂叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=287439",
-      "https://plantfinder.mobot.org/",
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242336270"
-    ],
-    "tags": [],
-    "habitat": "林下、林缘、灌丛、草地"
-  },
-  {
     "id": "campanula_punctata",
     "chineseName": "紫斑风铃草",
     "latinName": "Campanula punctata",
@@ -7479,34 +7421,6 @@
     "habitat": "林下、山坡灌丛、溪边、岩石缝"
   },
   {
-    "id": "disporum_cantoniense",
-    "chineseName": "万寿竹",
-    "latinName": "Disporum cantoniense",
-    "genus": "万寿竹属",
-    "family": "秋水仙科",
-    "aliases": null,
-    "evergreen": "deciduous",
-    "height": "0.6-1.2",
-    "spread": "0.5-0.8",
-    "sun": "part shade",
-    "water": "medium",
-    "bloomSeason": "春-夏",
-    "flowerColor": "紫红/绿白",
-    "seasonOfInterest": null,
-    "leafForm": "披针形叶",
-    "persistence": null,
-    "hardinessZone": "5-9",
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "https://www.rhs.org.uk/plants/5982/disporum-cantoniense/details",
-      "https://plantfinder.mobot.org/"
-    ],
-    "tags": [],
-    "habitat": "林下、溪边阴湿"
-  },
-  {
     "id": "ajuga_decumbens",
     "chineseName": "筋骨草",
     "latinName": "Ajuga decumbens",
@@ -7761,33 +7675,6 @@
     ],
     "tags": [],
     "habitat": "草原、旱生砾质坡地、河岸"
-  },
-  {
-    "id": "patrinia_scabiosifolia",
-    "chineseName": "黄花败酱",
-    "latinName": "Patrinia scabiosifolia",
-    "genus": "败酱属",
-    "family": "忍冬科",
-    "aliases": null,
-    "evergreen": null,
-    "height": "0.5-1",
-    "spread": null,
-    "sun": "full sun to part shade",
-    "water": "medium",
-    "bloomSeason": "夏-秋",
-    "flowerColor": "黄",
-    "seasonOfInterest": null,
-    "leafForm": null,
-    "persistence": null,
-    "hardinessZone": null,
-    "missingName": false,
-    "genusOnly": false,
-    "category": "宿根草本",
-    "sources": [
-      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=242336261"
-    ],
-    "tags": [],
-    "habitat": "山坡草地、林缘、灌丛"
   },
   {
     "id": "panicum_virgatum",
@@ -8602,5 +8489,33 @@
       "https://www.iplant.cn/info/Nymphaea"
     ],
     "tags": []
+  },
+  {
+    "id": "patrinia",
+    "chineseName": "败酱属",
+    "latinName": "Patrinia",
+    "genus": "败酱属",
+    "family": "忍冬科",
+    "aliases": null,
+    "evergreen": "deciduous",
+    "height": "0.3-1.5",
+    "spread": null,
+    "sun": "full sun to part shade",
+    "water": "medium",
+    "bloomSeason": "夏-秋",
+    "flowerColor": "白/黄",
+    "seasonOfInterest": null,
+    "leafForm": null,
+    "persistence": null,
+    "hardinessZone": "5-9",
+    "missingName": false,
+    "genusOnly": true,
+    "category": "宿根草本",
+    "sources": [
+      "http://efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019950",
+      "https://www.rhs.org.uk/plants/patrinia"
+    ],
+    "tags": [],
+    "habitat": "山坡草地、林缘、溪边湿地"
   }
 ]
